@@ -6,6 +6,7 @@ If you'd like to discuss the game with fellow players, you can join the Obenseue
 
 ## How to report an issue?
 
+* Check that the issue doesn't exist on the tracker already to avoid duplicates
 * Take a screensot of the issue or location where the issue happens.
 * Describe the issue as accurately as possible, like where and when does it happen
 * Describe how to reproduce the issue
