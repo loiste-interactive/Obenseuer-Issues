@@ -16,6 +16,7 @@
 * Fixed mold overlay not appearing on items after loading a save.
 * Fixed liquids not showing after loading a save.
 * Fixed current soundscape saving
+* Fixed issues on ctrl+double click taking money from inventories (issue [#47](https://github.com/loiste-interactive/Obenseuer-Issues/issues/47))
 * Increased door close range
 * Several flashlight fixes and improvements (issue [#58](https://github.com/loiste-interactive/Obenseuer-Issues/issues/58))
 * Several small fixes
