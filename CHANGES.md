@@ -4,14 +4,17 @@
 
 * Added reload tutorial/hint
 * Added refresh rate setting
+* Changed Osrat to only work when it's in hand and visible (issue [#39](https://github.com/loiste-interactive/Obenseuer-Issues/issues/39))
 * Fixed resolution change bug
 * Fixed some dialogue problems
+* Fixed recipes loading bug
+* Fixed hand slots saving
 * Fixed toilet and chair save bug (issue [#32](https://github.com/loiste-interactive/Obenseuer-Issues/issues/32))
 * Fixed crafting fail chance (issue [#61](https://github.com/loiste-interactive/Obenseuer-Issues/issues/61))
-* Changed other side not having 
 * Increased door close range
 * Several flashlight fixes and improvements (issue [#58](https://github.com/loiste-interactive/Obenseuer-Issues/issues/58))
 * Several small fixes
+* Mushrooms no longer damage player when other side is enabled
 
 ## Console
 * Fixed console not being able to spawn large id number items
