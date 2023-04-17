@@ -4,7 +4,6 @@
 
 * Added reload tutorial/hint
 * Added refresh rate setting
-* Start package now gives some basic food items
 * Changed gold, silver and brass item prices.
 * Changed Osrat to only work when it's in hand and visible (issue [#39](https://github.com/loiste-interactive/Obenseuer-Issues/issues/39))
 * Fixed task items loading bug (issue [#42](https://github.com/loiste-interactive/Obenseuer-Issues/issues/42))
@@ -25,6 +24,9 @@
 
 ## Main Menu
 * Changed first and last name input field content types to 'name'
+
+## Interior Start
+* Start package now gives some basic food items
 
 ## Interior Tenement Deekula B
 * Changed some objects to be interactive (issue [#50](https://github.com/loiste-interactive/Obenseuer-Issues/issues/50))
