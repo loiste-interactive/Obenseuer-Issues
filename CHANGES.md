@@ -14,6 +14,7 @@
 * Fixed toilet and chair save bug (issue [#32](https://github.com/loiste-interactive/Obenseuer-Issues/issues/32))
 * Fixed crafting fail chance (issue [#61](https://github.com/loiste-interactive/Obenseuer-Issues/issues/61))
 * Fixed mold overlay not appearing on items after loading a save.
+* Fixed liquids not showing after loading a save.
 * Increased door close range
 * Several flashlight fixes and improvements (issue [#58](https://github.com/loiste-interactive/Obenseuer-Issues/issues/58))
 * Several small fixes
