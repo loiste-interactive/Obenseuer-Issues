@@ -37,6 +37,7 @@
 * Start package now gives some basic food items
 
 ## Interior Tenement Deekula B
+* Added some unpickable shrooms and other stuff to bathroom scene (issue [#64](https://github.com/loiste-interactive/Obenseuer-Issues/issues/64))
 * Changed some objects to be interactive (issue [#50](https://github.com/loiste-interactive/Obenseuer-Issues/issues/50))
 * Fixed bookcase door clipping with wall
 * Fixed B4 toilet
