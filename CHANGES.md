@@ -46,3 +46,4 @@
 * Fixed apartment B3 bathroom scene problems (issue [#45](https://github.com/loiste-interactive/Obenseuer-Issues/issues/45))
 * Fixed some occlusion issues (issue [#56](https://github.com/loiste-interactive/Obenseuer-Issues/issues/56))
 * Fixed apartment B7 bathroom door (issue [#60](https://github.com/loiste-interactive/Obenseuer-Issues/issues/60))
+* Fixed Max Masher not giving recipe (issue [#66](https://github.com/loiste-interactive/Obenseuer-Issues/issues/66))
