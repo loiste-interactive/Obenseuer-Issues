@@ -10,6 +10,7 @@
 * Fixed some dialogue problems
 * Fixed recipes loading bug
 * Fixed hand slots saving
+* Fixed too slow sitting animation (issue [#14](https://github.com/loiste-interactive/Obenseuer-Issues/issues/14))
 * Fixed toilet and chair save bug (issue [#32](https://github.com/loiste-interactive/Obenseuer-Issues/issues/32))
 * Fixed task items loading bug (issue [#42](https://github.com/loiste-interactive/Obenseuer-Issues/issues/42))
 * Fixed being able to choose the bottom dialogue option by accident when pressing continue (issue [#55](https://github.com/loiste-interactive/Obenseuer-Issues/issues/55))
