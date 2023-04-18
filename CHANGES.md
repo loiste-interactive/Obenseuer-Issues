@@ -6,13 +6,15 @@
 * Added refresh rate setting
 * Changed gold, silver and brass item prices.
 * Changed Osrat to only work when it's in hand and visible (issue [#39](https://github.com/loiste-interactive/Obenseuer-Issues/issues/39))
-* Fixed task items loading bug (issue [#42](https://github.com/loiste-interactive/Obenseuer-Issues/issues/42))
 * Fixed resolution change bug
 * Fixed some dialogue problems
 * Fixed recipes loading bug
 * Fixed hand slots saving
 * Fixed toilet and chair save bug (issue [#32](https://github.com/loiste-interactive/Obenseuer-Issues/issues/32))
+* Fixed task items loading bug (issue [#42](https://github.com/loiste-interactive/Obenseuer-Issues/issues/42))
+* Fixed being able to choose the bottom dialogue option by accident when pressing continue (issue [#55](https://github.com/loiste-interactive/Obenseuer-Issues/issues/55))
 * Fixed crafting fail chance (issue [#61](https://github.com/loiste-interactive/Obenseuer-Issues/issues/61))
+* Fixed being able to talk when being mid-air (issue [#67](https://github.com/loiste-interactive/Obenseuer-Issues/issues/67))
 * Fixed mold overlay not appearing on items after loading a save.
 * Fixed liquids not showing after loading a save.
 * Fixed current soundscape saving
@@ -30,6 +32,7 @@
 * Changed first and last name input field content types to 'name'
 
 ## Interior Start
+* Fixed interaction tutorial (issue [#54](https://github.com/loiste-interactive/Obenseuer-Issues/issues/54))
 * Start package now gives some basic food items
 
 ## Interior Tenement Deekula B
