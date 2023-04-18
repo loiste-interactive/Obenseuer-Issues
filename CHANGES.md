@@ -4,6 +4,7 @@
 
 * Added reload tutorial/hint
 * Added refresh rate setting
+* Added cooked minced meat
 * Changed gold, silver and brass item prices.
 * Changed Osrat to only work when it's in hand and visible (issue [#39](https://github.com/loiste-interactive/Obenseuer-Issues/issues/39))
 * Fixed resolution change bug
