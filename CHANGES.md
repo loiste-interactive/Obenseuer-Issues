@@ -33,6 +33,7 @@
 
 ## Main Menu
 * Changed first and last name input field content types to 'name'
+* Fixed loading menu not working correctly (issue [#23](https://github.com/loiste-interactive/Obenseuer-Issues/issues/23))
 
 ## Interior Start
 * Fixed interaction tutorial (issue [#54](https://github.com/loiste-interactive/Obenseuer-Issues/issues/54))
@@ -41,6 +42,7 @@
 ## Interior Tenement Deekula B
 * Added some unpickable shrooms and other stuff to bathroom scene (issue [#64](https://github.com/loiste-interactive/Obenseuer-Issues/issues/64))
 * Changed some objects to be interactive (issue [#50](https://github.com/loiste-interactive/Obenseuer-Issues/issues/50))
+* Fixed map not being visible
 * Fixed bookcase door clipping with wall
 * Fixed B4 toilet
 * Fixed apartment B3 bathroom scene problems (issue [#45](https://github.com/loiste-interactive/Obenseuer-Issues/issues/45))
