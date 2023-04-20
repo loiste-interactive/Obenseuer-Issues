@@ -1,7 +1,8 @@
 # Upcoming
 
-# Version 0.3.01
+# April 20th 2023 (Version 0.3.01)
 
+* Added new scene to testing
 * Added reload tutorial/hint
 * Added refresh rate setting
 * Added cooked minced meat
