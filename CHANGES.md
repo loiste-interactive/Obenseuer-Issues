@@ -1,6 +1,8 @@
 # Upcoming
 
--
+## Interior Tenement Deekula Mine Enterance
+
+* Fixed phone on the table not being interactable
 
 # April 20th 2023 (Version 0.3.01)
 
