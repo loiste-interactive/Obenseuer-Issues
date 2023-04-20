@@ -1,5 +1,7 @@
 # Upcoming
 
+-
+
 # April 20th 2023 (Version 0.3.01)
 
 * Added new scene to testing
@@ -9,6 +11,7 @@
 * Added indicator when dialogue has ended
 * Changed gold, silver and brass item prices.
 * Changed Osrat to only work when it's in hand and visible (issue [#39](https://github.com/loiste-interactive/Obenseuer-Issues/issues/39))
+* Fixed several saving issues
 * Fixed resolution change bug
 * Fixed some dialogue problems
 * Fixed recipes loading bug
