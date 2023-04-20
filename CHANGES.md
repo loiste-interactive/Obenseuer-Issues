@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed issues on taking money from containers (issue [#79](https://github.com/loiste-interactive/Obenseuer-Issues/issues/79))
+
 ## Interior Tenement Deekula Mine Enterance
 
 * Fixed phone on the table not being interactable
