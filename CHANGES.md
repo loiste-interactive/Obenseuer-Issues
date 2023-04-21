@@ -1,6 +1,12 @@
 # Upcoming
 
+* Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
 * Fixed issues on taking money from containers (issue [#79](https://github.com/loiste-interactive/Obenseuer-Issues/issues/79))
+* Fixed scene change doors red unlock text (issue [#83](https://github.com/loiste-interactive/Obenseuer-Issues/issues/83))
+
+## Interior Tenement Deekula B
+
+* Fixed missing geometry on 3rd floor (issue [#87](https://github.com/loiste-interactive/Obenseuer-Issues/issues/87))
 
 ## Interior Tenement Deekula Mine Enterance
 
