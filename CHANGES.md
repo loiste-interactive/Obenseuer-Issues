@@ -1,6 +1,7 @@
 # Upcoming
 
 * Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
+* Fixed hold interaction bug when pause menu is opened (Winch)
 * Fixed issues on taking money from containers (issue [#79](https://github.com/loiste-interactive/Obenseuer-Issues/issues/79))
 * Fixed going back to main menu remembering last save (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
 * Fixed scene change doors red unlock text (issue [#83](https://github.com/loiste-interactive/Obenseuer-Issues/issues/83))
