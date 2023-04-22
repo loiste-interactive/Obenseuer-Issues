@@ -10,6 +10,7 @@
 
 * Fixed missing geometry on 3rd floor (issue [#87](https://github.com/loiste-interactive/Obenseuer-Issues/issues/87))
 * Fixed windows missing collisions (issue [#101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/101))
+* Fixed save issues on rollup door (issue [#95](https://github.com/loiste-interactive/Obenseuer-Issues/issues/95))
 
 ## Interior Tenement Deekula Mine Enterance
 
