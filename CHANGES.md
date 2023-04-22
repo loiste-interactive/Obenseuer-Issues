@@ -9,6 +9,7 @@
 ## Interior Tenement Deekula B
 
 * Fixed missing geometry on 3rd floor (issue [#87](https://github.com/loiste-interactive/Obenseuer-Issues/issues/87))
+* Fixed windows missing collisions (issue [#101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/101))
 
 ## Interior Tenement Deekula Mine Enterance
 
