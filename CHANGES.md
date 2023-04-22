@@ -13,6 +13,7 @@
 * Fixed windows missing collisions (issue [#101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/101))
 * Fixed save issues on rollup door (issue [#95](https://github.com/loiste-interactive/Obenseuer-Issues/issues/95))
 * Fixed save issues on light switch (issue [#78](https://github.com/loiste-interactive/Obenseuer-Issues/issues/78))
+* Fixed toilet lid not closing (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
 
 ## Interior Tenement Deekula Mine Enterance
 
