@@ -9,6 +9,7 @@
 * Fixed loading of some adressables (task items) failing
 * Fixed trying to enter non-existing map causes game to freeze and autosaves to corrupt (issue [#73](https://github.com/loiste-interactive/Obenseuer-Issues/issues/73))
 * Fixed rightclicked inventory slots staying highlighted.
+* Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
 
 ## Interior Tenement Deekula B
 
