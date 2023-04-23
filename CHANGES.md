@@ -8,6 +8,7 @@
 * Fixed scene change doors red unlock text (issue [#83](https://github.com/loiste-interactive/Obenseuer-Issues/issues/83))
 * Fixed loading of some adressables (task items) failing
 * Fixed trying to enter non-existing map causes game to freeze and autosaves to corrupt (issue [#73](https://github.com/loiste-interactive/Obenseuer-Issues/issues/73))
+* Fixed rightclicked inventory slots staying highlighted.
 
 ## Interior Tenement Deekula B
 
