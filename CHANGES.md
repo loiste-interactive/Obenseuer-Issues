@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added comfort level text on beds.
 * Changed closing console with "esc" to not pause the game (issue [#81](https://github.com/loiste-interactive/Obenseuer-Issues/issues/81))
 * Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
 * Fixed hold interaction bug when pause menu is opened (Winch)
