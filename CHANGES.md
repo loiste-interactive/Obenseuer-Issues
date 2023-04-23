@@ -6,6 +6,7 @@
 * Fixed issues on taking money from containers (issue [#79](https://github.com/loiste-interactive/Obenseuer-Issues/issues/79))
 * Fixed going back to main menu remembering last save (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
 * Fixed scene change doors red unlock text (issue [#83](https://github.com/loiste-interactive/Obenseuer-Issues/issues/83))
+* Fixed loading of some adressables (task items) failing
 
 ## Interior Tenement Deekula B
 
@@ -14,10 +15,12 @@
 * Fixed save issues on rollup door (issue [#95](https://github.com/loiste-interactive/Obenseuer-Issues/issues/95))
 * Fixed save issues on light switch (issue [#78](https://github.com/loiste-interactive/Obenseuer-Issues/issues/78))
 * Fixed toilet lid not closing (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
+* Fixed missing map (issue [#92](https://github.com/loiste-interactive/Obenseuer-Issues/issues/92))
 
 ## Interior Tenement Deekula Mine Enterance
 
 * Fixed phone on the table not being interactable
+* Fixed missing map (issue [#92](https://github.com/loiste-interactive/Obenseuer-Issues/issues/92))
 
 # April 20th 2023 (Version 0.3.01)
 
