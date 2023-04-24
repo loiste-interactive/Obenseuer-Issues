@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added comfort level text on beds.
+* Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
 * Changed closing console with "esc" to not pause the game (issue [#81](https://github.com/loiste-interactive/Obenseuer-Issues/issues/81))
 * Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
 * Fixed hold interaction bug when pause menu is opened (Winch)
@@ -10,8 +11,8 @@
 * Fixed loading of some adressables (task items) failing
 * Fixed trying to enter non-existing map causes game to freeze and autosaves to corrupt (issue [#73](https://github.com/loiste-interactive/Obenseuer-Issues/issues/73))
 * Fixed rightclicked inventory slots staying highlighted
-* Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
 * Fixed pressing "R" multiple times on item stack causing inventory screen getting stuck
+* Fixed crash on quit game (issue [#27](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27))
 
 ## Interior Tenement Deekula B
 
