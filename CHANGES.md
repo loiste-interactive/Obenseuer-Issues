@@ -34,6 +34,7 @@
 
 ## Interior Tenement Deekula Mine Enterance
 
+* Added clipping (issue [#94](https://github.com/loiste-interactive/Obenseuer-Issues/issues/94))
 * Changed Anya dialogue (issue [#91](https://github.com/loiste-interactive/Obenseuer-Issues/issues/91))
 * Fixed phone on the table not being interactable
 * Fixed missing map (issue [#92](https://github.com/loiste-interactive/Obenseuer-Issues/issues/92))
