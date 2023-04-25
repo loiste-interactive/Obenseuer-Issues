@@ -18,6 +18,7 @@
 * Fixed pressing interact button at the end of a dialogue restarting it (issue [#84](https://github.com/loiste-interactive/Obenseuer-Issues/issues/84))
 * Fixed container inventory breaking (issue [#99](https://github.com/loiste-interactive/Obenseuer-Issues/issues/99))
 * Fixed recursive serialization issue.
+* Fixed dropping rats  (issue [#128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/128))
 
 ## Interior Tenement Deekula B
 
