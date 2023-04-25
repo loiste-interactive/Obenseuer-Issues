@@ -14,6 +14,7 @@
 * Fixed rightclicked inventory slots staying highlighted
 * Fixed pressing "R" multiple times on item stack causing inventory screen getting stuck
 * Fixed crash on quit game (issue [#27](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27))
+* Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
 
 ## Interior Tenement Deekula B
 
