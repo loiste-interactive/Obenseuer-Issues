@@ -14,9 +14,7 @@
 * Fixed rightclicked inventory slots staying highlighted
 * Fixed pressing "R" multiple times on item stack causing inventory screen getting stuck
 * Fixed crash on quit game (issue [#27](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27))
-* Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
 * Fixed pressing interact button at the end of a dialogue restarting it (issue [#84](https://github.com/loiste-interactive/Obenseuer-Issues/issues/84))
-* Fixed a typo, stool and item ownership in B11 (issue [#115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/115))
 
 ## Interior Tenement Deekula B
 
@@ -27,6 +25,8 @@
 * Fixed toilet lid not closing (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
 * Fixed missing map (issue [#92](https://github.com/loiste-interactive/Obenseuer-Issues/issues/92))
 * Fixed interaction with Adam (issue [#97](https://github.com/loiste-interactive/Obenseuer-Issues/issues/97))
+* Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
+* Fixed a typo, stool and item ownership in B11 (issue [#115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/115))
 
 ## Interior Tenement Deekula Mine Enterance
 
