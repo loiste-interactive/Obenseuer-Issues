@@ -2,6 +2,7 @@
 
 * Added some achievements.
 * Added comfort level text on beds.
+* Added visible current time for alarm clock item object.
 * Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
 * Changed closing console with "esc" to not pause the game (issue [#81](https://github.com/loiste-interactive/Obenseuer-Issues/issues/81))
 * Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
