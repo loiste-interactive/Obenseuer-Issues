@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added some achievements.
+* Added ability to craft lockpicks.
 * Added comfort level text on beds.
 * Added visible current time for alarm clock item object.
 * Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
