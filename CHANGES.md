@@ -16,6 +16,7 @@
 * Fixed crash on quit game (issue [#27](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27))
 * Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
 * Fixed pressing interact button at the end of a dialogue restarting it (issue [#84](https://github.com/loiste-interactive/Obenseuer-Issues/issues/84))
+* Fixed a typo, stool and item ownership in B11 (issue [#115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/115))
 
 ## Interior Tenement Deekula B
 
