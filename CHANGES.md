@@ -21,6 +21,7 @@
 * Fixed recursive serialization issue.
 * Fixed dropping rats  (issue [#128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/128))
 * Fixed lathe audio
+* Fixed fail chance calculation
 
 ## Interior Tenement Deekula B
 
