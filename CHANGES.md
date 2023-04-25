@@ -20,6 +20,7 @@
 * Fixed container inventory breaking (issue [#99](https://github.com/loiste-interactive/Obenseuer-Issues/issues/99))
 * Fixed recursive serialization issue.
 * Fixed dropping rats  (issue [#128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/128))
+* Fixed lathe audio
 
 ## Interior Tenement Deekula B
 
