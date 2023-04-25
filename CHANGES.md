@@ -28,9 +28,11 @@
 * Fixed interaction with Adam (issue [#97](https://github.com/loiste-interactive/Obenseuer-Issues/issues/97))
 * Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
 * Fixed a typo, stool and item ownership in B11 (issue [#115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/115))
+* Fixed being able to interact the shadows after the dialogue has ended (issue [#100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/100))
 
 ## Interior Tenement Deekula Mine Enterance
 
+* Changed Anya dialogue (issue [#91](https://github.com/loiste-interactive/Obenseuer-Issues/issues/91))
 * Fixed phone on the table not being interactable
 * Fixed missing map (issue [#92](https://github.com/loiste-interactive/Obenseuer-Issues/issues/92))
 
