@@ -22,6 +22,7 @@
 * Fixed dropping rats  (issue [#128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/128))
 * Fixed lathe audio
 * Fixed fail chance calculation
+* Fixed not always being able to drag items to inventories
 
 ## Interior Tenement Deekula B
 
