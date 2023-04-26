@@ -26,7 +26,7 @@
 * Fixed dropped items sometimes getting stuck on screen (issue [#134](https://github.com/loiste-interactive/Obenseuer-Issues/issues/134))
 * Fixed toilet lid animations
 * Fixed coal (not charcoal) being un-pickupable (issue [#139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/139))
-* Fixed light culling, this should improve performance
+* Fixed culling lights, this should improve performance
 * Improved lathe textures
 
 ## Console
