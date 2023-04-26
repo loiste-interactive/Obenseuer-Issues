@@ -28,6 +28,10 @@
 * Fixed coal (not charcoal) being un-pickupable (issue [#139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/139))
 * Improved lathe textures
 
+## Console
+
+* Unlock command now works on change level doors.
+
 ## Interior Tenement Deekula B
 
 * Fixed missing geometry on 3rd floor (issue [#87](https://github.com/loiste-interactive/Obenseuer-Issues/issues/87))
