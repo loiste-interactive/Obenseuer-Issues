@@ -24,6 +24,7 @@
 * Fixed fail chance calculation
 * Fixed not always being able to drag items to inventories
 * Fixed dropped items sometimes getting stuck on screen (issue [#134](https://github.com/loiste-interactive/Obenseuer-Issues/issues/134))
+* Fixed toilet lid animations
 
 ## Interior Tenement Deekula B
 
