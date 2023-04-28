@@ -33,6 +33,10 @@
 
 * Unlock command now works on change level doors.
 
+## Interior Start
+* Fixed hallucinations spell mistake (issue [#136](https://github.com/loiste-interactive/Obenseuer-Issues/issues/136))
+* Fixed interviewer screen animation (issue [#153](https://github.com/loiste-interactive/Obenseuer-Issues/issues/153))
+
 ## Interior Tenement Deekula B
 
 * Fixed missing geometry on 3rd floor (issue [#87](https://github.com/loiste-interactive/Obenseuer-Issues/issues/87))
