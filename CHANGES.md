@@ -7,6 +7,7 @@
 * Added eating sounds for macaroni casseroles (issue [#12](https://github.com/loiste-interactive/Obenseuer-Issues/issues/12))
 * Changed closing console with "esc" to not pause the game (issue [#81](https://github.com/loiste-interactive/Obenseuer-Issues/issues/81))
 * Changed scene change doors unlock behavior (issue [#77](https://github.com/loiste-interactive/Obenseuer-Issues/issues/77))
+* Changed shit to edible (issue [#132](https://github.com/loiste-interactive/Obenseuer-Issues/issues/132))
 * Fixed hold interaction bug when pause menu is opened (Winch)
 * Fixed issues on taking money from containers (issue [#79](https://github.com/loiste-interactive/Obenseuer-Issues/issues/79))
 * Fixed going back to main menu remembering last save (issue [#82](https://github.com/loiste-interactive/Obenseuer-Issues/issues/82))
