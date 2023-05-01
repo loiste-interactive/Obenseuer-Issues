@@ -29,6 +29,7 @@
 * Fixed toilet lid animations
 * Fixed coal (not charcoal) being un-pickupable (issue [#139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/139))
 * Fixed culling lights, this should improve performance
+* Fixed defecation on floor (issue [#152](https://github.com/loiste-interactive/Obenseuer-Issues/issues/152))
 * Improved lathe textures
 
 ## Console
