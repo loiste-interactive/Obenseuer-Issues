@@ -33,6 +33,7 @@
 * Fixed cursor vanishing after using some equipment (issue [#146](https://github.com/loiste-interactive/Obenseuer-Issues/issues/146))
 * Fixed filled wine bottles (issue [#145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/145))
 * Fixed dropped items not saving (issue [#135](https://github.com/loiste-interactive/Obenseuer-Issues/issues/135))
+* Fixed fish breeding (issue [#157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/157))
 * Improved lathe textures
 
 ## Console
