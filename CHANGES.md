@@ -34,6 +34,7 @@
 * Fixed filled wine bottles (issue [#145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/145))
 * Fixed dropped items not saving (issue [#135](https://github.com/loiste-interactive/Obenseuer-Issues/issues/135))
 * Fixed fish breeding (issue [#157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/157))
+* Fixed a typo (issue [#175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/175))
 * Improved lathe textures
 
 ## Console
