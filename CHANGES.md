@@ -37,6 +37,7 @@
 * Fixed a typo (issue [#175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/175))
 * Fixed logpile visual state not updating at start (issue [#170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/170))
 * Fixed shroom mash recipes not using mushrooms (issue [#140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/140))
+* Fixed negative addictions (issue [#133](https://github.com/loiste-interactive/Obenseuer-Issues/issues/133))
 * Improved lathe textures
 
 ## Console
