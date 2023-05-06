@@ -42,6 +42,10 @@
 
 * Unlock command now works on change level doors.
 
+## Tasks
+
+* Fixed being able to bypass objective in "Priest's debt" (issue [#141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/141))
+
 ## Interior Start
 * Fixed hallucinations spell mistake (issue [#136](https://github.com/loiste-interactive/Obenseuer-Issues/issues/136))
 * Fixed interviewer screen animation (issue [#153](https://github.com/loiste-interactive/Obenseuer-Issues/issues/153))
