@@ -41,7 +41,8 @@
 
 ## Console
 
-* Unlock command now works on change level doors.
+* Added console to remember previous commands.
+* Added unlock command to now work on change level doors.
 
 ## Tasks
 
