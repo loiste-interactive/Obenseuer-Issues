@@ -43,6 +43,7 @@
 
 ## Console
 
+* Added command to get player stats.
 * Added command to set health directly.
 * Added console to remember previous commands.
 * Added unlock command to now work on change level doors.
