@@ -43,6 +43,7 @@
 
 ## Console
 
+* Added item find command.
 * Added command to get player stats.
 * Added command to set health directly.
 * Added console to remember previous commands.
