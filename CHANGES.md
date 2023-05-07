@@ -43,6 +43,7 @@
 
 ## Console
 
+* Added command to set health directly.
 * Added console to remember previous commands.
 * Added unlock command to now work on change level doors.
 * Fixed Noclip and godmode behaviour on saves (issue [#65](https://github.com/loiste-interactive/Obenseuer-Issues/issues/65))
