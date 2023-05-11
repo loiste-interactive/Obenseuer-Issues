@@ -39,6 +39,7 @@
 * Fixed shroom mash recipes not using mushrooms (issue [#140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/140))
 * Fixed negative addictions (issue [#133](https://github.com/loiste-interactive/Obenseuer-Issues/issues/133))
 * Fixed item stacks not merging correctly (issue [#28](https://github.com/loiste-interactive/Obenseuer-Issues/issues/28))
+* Fixed chair look around not working correctly sometimes (issue [#129](https://github.com/loiste-interactive/Obenseuer-Issues/issues/129))
 * Improved lathe textures
 
 ## Console
@@ -69,6 +70,7 @@
 * Fixed interaction with Adam (issue [#97](https://github.com/loiste-interactive/Obenseuer-Issues/issues/97))
 * Fixed occlusion culling issues (issue [#122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/27)) and (issue [#116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/116))
 * Fixed a typo, stool and item ownership in B11 (issue [#115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/115))
+* Fixed Amanda dialogue typo (issue [#177](https://github.com/loiste-interactive/Obenseuer-Issues/issues/177))
 * Fixed being able to interact the shadows after the dialogue has ended (issue [#100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/100))
 * Fixed low FPS in hacker apartment (issue [#22](https://github.com/loiste-interactive/Obenseuer-Issues/issues/22))
 * Fixed Max's shroom farm to have correct modifiers 
