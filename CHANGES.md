@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added Interior Tenement General Store
 * Added Interior Tenement Deekula A
 * Added some achievements.
 * Added ability to craft lockpicks.
