@@ -9,6 +9,7 @@
 
 ## Console
 
+* Added command to modify player skill levels
 * Developer console history should now persist 
 
 ## Interior Tenement Deekula B
