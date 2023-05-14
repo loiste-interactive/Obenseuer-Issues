@@ -2,9 +2,13 @@
 
 * Changed depression behavior
 
-# Items
+## Items
 
 * Changed pure green mushrooms to act similar way as other mushrooms
+
+## Console
+
+* Developer console history should now persist 
 
 ## Interior Tenement Deekula B
 
