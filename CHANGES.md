@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added addiciton related achievements
 * Changed depression behavior
 
 ## Items
