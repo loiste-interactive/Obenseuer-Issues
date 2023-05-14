@@ -14,6 +14,10 @@
 * Developer console history should now persist 
 * Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
+## Interior Tenement Deekula A
+
+* Fixed being able to enter storage area without breaking boxes (issue [#212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/212))
+
 ## Interior Tenement Deekula B
 
 * Added emergency number poster to B3 (issue [#178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/178))
