@@ -8,6 +8,7 @@
 
 ## Interior Tenement Deekula B
 
+* Added emergency number poster to B3 (issue [#178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/178))
 * Fixed light culling on B3 and B4 set on wrong doors (issue [#198](https://github.com/loiste-interactive/Obenseuer-Issues/issues/198))
 
 # May 13th 2023 (Version 0.3.02)
