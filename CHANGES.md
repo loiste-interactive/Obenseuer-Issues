@@ -11,6 +11,7 @@
 
 * Added command to modify player skill levels
 * Developer console history should now persist 
+* Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
 ## Interior Tenement Deekula B
 
