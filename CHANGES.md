@@ -2,6 +2,10 @@
 
 * Changed depression behavior
 
+# Items
+
+* Changed pure green mushrooms to act similar way as other mushrooms
+
 # May 13th 2023 (Version 0.3.02)
 
 * Added Interior Tenement General Store
