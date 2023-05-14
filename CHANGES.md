@@ -6,6 +6,10 @@
 
 * Changed pure green mushrooms to act similar way as other mushrooms
 
+## Interior Tenement Deekula B
+
+* Fixed light culling on B3 and B4 set on wrong doors (issue [#198](https://github.com/loiste-interactive/Obenseuer-Issues/issues/198))
+
 # May 13th 2023 (Version 0.3.02)
 
 * Added Interior Tenement General Store
