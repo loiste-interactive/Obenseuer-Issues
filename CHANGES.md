@@ -1,6 +1,6 @@
 # Upcoming
 
--
+* Changed depression behavior
 
 # May 13th 2023 (Version 0.3.02)
 
