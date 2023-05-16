@@ -9,6 +9,7 @@
 
 ## Items
 
+* Added Osmo Lonkero
 * Added Stollandia Vodka
 * Added crafting recipes for axe and sledgehammer.
 * Added metal shavings item.
