@@ -8,6 +8,7 @@
 
 ## Items
 
+* Added Stollandia Vodka
 * Added crafting recipes for axe and sledgehammer.
 * Added metal shavings item.
 * Added metal slab item.
