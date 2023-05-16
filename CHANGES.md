@@ -16,6 +16,7 @@
 * Added metal slab item.
 * Added mechanical parts item.
 * Changed pure green mushrooms to act similar way as other mushrooms
+* Fixed chemical lab water purifying recipe
 
 ## Console
 
