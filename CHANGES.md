@@ -1,9 +1,5 @@
 # Upcoming
 
-* Added crafting recipes for axe and sledgehammer.
-* Added metal shavings item.
-* Added metal slab item.
-* Added mechanical parts item.
 * Added addiciton related achievements
 * Changed depression behavior
 * Fixed rats converting into coins when harvesting from cages (issue [#215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/215))
@@ -12,6 +8,10 @@
 
 ## Items
 
+* Added crafting recipes for axe and sledgehammer.
+* Added metal shavings item.
+* Added metal slab item.
+* Added mechanical parts item.
 * Changed pure green mushrooms to act similar way as other mushrooms
 
 ## Console
