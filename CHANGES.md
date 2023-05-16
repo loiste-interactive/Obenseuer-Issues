@@ -9,6 +9,7 @@
 
 ## Items
 
+* Added boiled rice
 * Added boiled macaroni
 * Added Osmo Lonkero
 * Added Stollandia Vodka
