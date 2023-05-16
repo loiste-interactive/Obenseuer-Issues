@@ -6,6 +6,7 @@
 * Fixed lock location of certain type of doors (issue [#193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/193))
 * Fixed lights sometimes incorreclty turning off (issue [#196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/196))
 * Fixed controls not working in current Main Menu character creation (issue [#1](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1))
+* Fixed controls: can't select character in Main Menu (issue [#2](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2))
 
 ## Items
 
