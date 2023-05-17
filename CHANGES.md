@@ -8,6 +8,7 @@
 * Fixed controls not working in current Main Menu character creation (issue [#1](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1))
 * Fixed controls: can't select character in Main Menu (issue [#2](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2))
 * Fixed breakables making sound on map load (issue [#231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/231))
+* Fixed possibility of having >100% depression (issue [#220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/220))
 
 ## Items
 
