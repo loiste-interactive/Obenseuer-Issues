@@ -36,6 +36,7 @@
 
 * Added emergency number poster to B3 (issue [#178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/178))
 * Fixed light culling on B3 and B4 set on wrong doors (issue [#198](https://github.com/loiste-interactive/Obenseuer-Issues/issues/198))
+* Fixed cupboards being drawers (issue [#234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/234))
 
 # May 13th 2023 (Version 0.3.02)
 
