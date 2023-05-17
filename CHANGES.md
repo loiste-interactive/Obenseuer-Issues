@@ -29,6 +29,7 @@
 
 ## Interior Tenement Deekula A
 
+* Fixed sauna not being functional
 * Fixed being able to enter storage area without breaking boxes (issue [#212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/212))
 * Fixed collision issue (issue [#211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/211))
 
