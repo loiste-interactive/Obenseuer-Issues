@@ -13,6 +13,7 @@
 * Fixed container slots becoming grey and unusable (issue [#203](https://github.com/loiste-interactive/Obenseuer-Issues/issues/203))
 * Fixed showers not turning off when uses (issue [#228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/228))
 * Fixed TVs and showers not saving their state (issue [#230](https://github.com/loiste-interactive/Obenseuer-Issues/issues/230))
+* Fixed pickable objects intantly respawning on save load (issue [#213](https://github.com/loiste-interactive/Obenseuer-Issues/issues/213))
 
 ## Items
 
