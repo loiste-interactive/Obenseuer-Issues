@@ -39,6 +39,7 @@
 * Fixed being able to enter storage area without breaking boxes (issue [#212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/212))
 * Fixed collision issue (issue [#211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/211))
 * Fixed rat not saving (issue [#214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/214))
+* Fixed Samuel not dropping coffee when inventory is full (issue [#218](https://github.com/loiste-interactive/Obenseuer-Issues/issues/218))
 
 ## Interior Tenement Deekula B
 
