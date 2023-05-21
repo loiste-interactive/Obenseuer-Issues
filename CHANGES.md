@@ -2,6 +2,7 @@
 
 * Added addiciton related achievements
 * Changed depression behavior
+* Changed threshold of drunk effect to be higher (issue [#247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/247))
 * Fixed rats converting into coins when harvesting from cages (issue [#215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/215))
 * Fixed lock location of certain type of doors (issue [#193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/193))
 * Fixed lights sometimes incorreclty turning off (issue [#196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/196))
