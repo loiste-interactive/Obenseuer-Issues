@@ -2,6 +2,7 @@
 
 * Added addiciton related achievements
 * Changed depression behavior
+* Changed Osrat walking animation (issue [#119](https://github.com/loiste-interactive/Obenseuer-Issues/issues/119))
 * Changed threshold of drunk effect to be higher (issue [#247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/247))
 * Fixed rats converting into coins when harvesting from cages (issue [#215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/215))
 * Fixed lock location of certain type of doors (issue [#193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/193))
