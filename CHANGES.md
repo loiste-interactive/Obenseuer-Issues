@@ -51,6 +51,7 @@
 * Fixed new objectives not appearing in Priest's debt task (issue [#199](https://github.com/loiste-interactive/Obenseuer-Issues/issues/199))
 * Fixed cupboards being drawers (issue [#234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/234))
 * Fixed missing collisions (issue [#241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/241))
+* Fixed Max's toilet rotation (issue [#254](https://github.com/loiste-interactive/Obenseuer-Issues/issues/254))
 
 # May 13th 2023 (Version 0.3.02)
 
