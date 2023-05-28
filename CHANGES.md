@@ -15,6 +15,7 @@
 * Fixed showers not turning off when uses (issue [#228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/228))
 * Fixed TVs and showers not saving their state (issue [#230](https://github.com/loiste-interactive/Obenseuer-Issues/issues/230))
 * Fixed pickable objects intantly respawning on save load (issue [#213](https://github.com/loiste-interactive/Obenseuer-Issues/issues/213))
+* Fixed locks not regocnizing key item after save load (issue [#190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/190))
 
 ## Items
 
