@@ -17,6 +17,7 @@
 * Fixed pickable objects intantly respawning on save load (issue [#213](https://github.com/loiste-interactive/Obenseuer-Issues/issues/213))
 * Fixed locks not regocnizing key item after save load (issue [#190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/190))
 * Fixed main menu issues [#165](https://github.com/loiste-interactive/Obenseuer-Issues/issues/165)
+* Fixed missing controls in payment machine [#8](https://github.com/loiste-interactive/Obenseuer-Issues/issues/8)
 
 ## Items
 
