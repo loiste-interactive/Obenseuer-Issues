@@ -4,6 +4,7 @@
 * Changed depression behavior
 * Changed Osrat walking animation (issue [#119](https://github.com/loiste-interactive/Obenseuer-Issues/issues/119))
 * Changed threshold of drunk effect to be higher (issue [#247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/247))
+* Changed reload tutorial behaviour [#238](https://github.com/loiste-interactive/Obenseuer-Issues/issues/238)
 * Fixed rats converting into coins when harvesting from cages (issue [#215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/215))
 * Fixed lock location of certain type of doors (issue [#193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/193))
 * Fixed lights sometimes incorreclty turning off (issue [#196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/196))
@@ -30,6 +31,7 @@
 * Added metal shavings item.
 * Added metal slab item.
 * Added mechanical parts item.
+* Added Osrat battery type to description [#238](https://github.com/loiste-interactive/Obenseuer-Issues/issues/238)
 * Changed pure green mushrooms to act similar way as other mushrooms
 * Fixed chemical lab water purifying recipe
 
