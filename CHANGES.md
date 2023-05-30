@@ -60,6 +60,10 @@
 * Fixed missing collisions (issue [#241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/241))
 * Fixed Max's toilet rotation (issue [#254](https://github.com/loiste-interactive/Obenseuer-Issues/issues/254))
 
+## Interior Tenement Deekula Mine Eneterance (issue [#256](https://github.com/loiste-interactive/Obenseuer-Issues/issues/256))
+
+* Fixed being able to get stuck between desk and wall
+
 # May 13th 2023 (Version 0.3.02)
 
 * Added Interior Tenement General Store
