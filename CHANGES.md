@@ -20,6 +20,7 @@
 * Fixed main menu issues [#165](https://github.com/loiste-interactive/Obenseuer-Issues/issues/165)
 * Fixed missing controls in payment machine [#8](https://github.com/loiste-interactive/Obenseuer-Issues/issues/8)
 * Fixed Osrat issues [#227](https://github.com/loiste-interactive/Obenseuer-Issues/issues/227)
+* Fixed recipes with multiple liquid outputs taking only one container [#225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/225)
 
 ## Items
 
