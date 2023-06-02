@@ -22,6 +22,7 @@
 * Fixed Osrat issues [#227](https://github.com/loiste-interactive/Obenseuer-Issues/issues/227)
 * Fixed recipes with multiple liquid outputs taking only one container [#225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/225)
 * Fixed controls: can select hidden clothes panel slots [#5](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5)
+* Fixed controls: can't select phone call or clear buttons [#6](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6)
 
 ## Items
 
