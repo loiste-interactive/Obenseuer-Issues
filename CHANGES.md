@@ -25,6 +25,7 @@
 * Fixed recipes with multiple liquid outputs taking only one container [#225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/225)
 * Fixed controls: can select hidden clothes panel slots [#5](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5)
 * Fixed controls: can't select phone call or clear buttons [#6](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6)
+* Fixed beaker texture rendering issue (issue [#261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/261))
 
 ## Items
 
