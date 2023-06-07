@@ -56,6 +56,7 @@
 * Fixed collision issue (issue [#211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/211))
 * Fixed rat not saving (issue [#214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/214))
 * Fixed Samuel not dropping coffee when inventory is full (issue [#218](https://github.com/loiste-interactive/Obenseuer-Issues/issues/218))
+* Fixed collisions.
 
 ## Interior Tenement Deekula B
 
@@ -65,6 +66,7 @@
 * Fixed cupboards being drawers (issue [#234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/234))
 * Fixed missing collisions (issue [#241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/241))
 * Fixed Max's toilet rotation (issue [#254](https://github.com/loiste-interactive/Obenseuer-Issues/issues/254))
+* Fixed incorrect ownership on some items.
 
 ## Interior Tenement Deekula Mine Enterance
 
