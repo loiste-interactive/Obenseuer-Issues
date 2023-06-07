@@ -68,6 +68,7 @@
 * Fixed missing collisions (issue [#241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/241))
 * Fixed Max's toilet rotation (issue [#254](https://github.com/loiste-interactive/Obenseuer-Issues/issues/254))
 * Fixed incorrect ownership on some items.
+* Fixed broken occlusion on door (issue [#264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/264))
 
 ## Interior Tenement Deekula Mine Enterance
 
