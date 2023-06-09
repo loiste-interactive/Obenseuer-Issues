@@ -51,8 +51,12 @@
 * Developer console history should now persist 
 * Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
+## Main Menu
+* Changed the character limit from 10 to 20 (issue [#98](https://github.com/loiste-interactive/Obenseuer-Issues/issues/98))
+
 ## Interior Start
 * Added task menu tutorial (issue [#237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/237))
+* Fixed load menu not working correctly (issue [#270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/270))
 
 ## Interior Tenement Deekula A
 
