@@ -72,6 +72,7 @@
 ## Interior Tenement Deekula B
 
 * Added emergency number poster to B3 (issue [#178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/178))
+* Changed priest's name to Tobias (issue [#201](https://github.com/loiste-interactive/Obenseuer-Issues/issues/201))
 * Fixed light culling on B3 and B4 set on wrong doors (issue [#198](https://github.com/loiste-interactive/Obenseuer-Issues/issues/198))
 * Fixed new objectives not appearing in Priest's debt task (issue [#199](https://github.com/loiste-interactive/Obenseuer-Issues/issues/199))
 * Fixed cupboards being drawers (issue [#234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/234))
