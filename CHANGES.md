@@ -52,7 +52,7 @@
 * Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
 ## Main Menu
-* Changed the character limit from 10 to 20 (issue [#98](https://github.com/loiste-interactive/Obenseuer-Issues/issues/98))
+* Changed the character limit from 10 to 15 (issue [#98](https://github.com/loiste-interactive/Obenseuer-Issues/issues/98))
 
 ## Interior Start
 * Added task menu tutorial (issue [#237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/237))
