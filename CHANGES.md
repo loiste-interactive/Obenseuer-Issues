@@ -29,6 +29,7 @@
 * Fixed controls: can't select phone call or clear buttons [#6](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6)
 * Fixed beaker texture rendering issue (issue [#261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/261))
 * Fixed plants not saving (issue [#279](https://github.com/loiste-interactive/Obenseuer-Issues/issues/279))
+* Fixed pressing interact button at the end of a dialogue restarting it (issue [#194](https://github.com/loiste-interactive/Obenseuer-Issues/issues/194))
 
 ## Items
 
