@@ -51,6 +51,9 @@
 * Developer console history should now persist 
 * Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
+## Interior Start
+* Added task menu tutorial (issue [#237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/237))
+
 ## Interior Tenement Deekula A
 
 * Fixed sauna not being functional
