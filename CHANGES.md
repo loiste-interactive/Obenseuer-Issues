@@ -34,6 +34,8 @@
 
 ## Items
 
+* Added fertile soil.
+* Added plastic filament.
 * Added gas bottle.
 * Added boiled rice
 * Added boiled macaroni
