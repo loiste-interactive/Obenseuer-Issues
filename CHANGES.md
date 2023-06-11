@@ -35,6 +35,7 @@
 
 ## Items
 
+* Added cradting recipe for can opener.
 * Added fertile soil.
 * Added plastic filament.
 * Added gas bottle.
