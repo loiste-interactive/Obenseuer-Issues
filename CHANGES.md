@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added 3D printing
 * Added smelting
 * Added addiciton related achievements
 * Added current item amount to the tenement upgrade UI (issue [#208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/208))
