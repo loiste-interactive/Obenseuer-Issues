@@ -35,7 +35,9 @@
 
 ## Items
 
-* Added cradting recipe for can opener.
+* Aded brass shavings item.
+* Added crafting recipe for OS coins.
+* Added crafting recipe for can opener.
 * Added fertile soil.
 * Added plastic filament.
 * Added gas bottle.
