@@ -37,6 +37,7 @@
 
 ## Items
 
+* Added junk wood item
 * Added crafting recipe for steel mechanical watch
 * Added crafting recipe for brass mechanical watch
 * Aded brass shavings item.
