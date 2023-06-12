@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added renewable sources for resources, what can be worked on tools such as axes to produce wood
 * Added 3D printing
 * Added smelting
 * Added addiciton related achievements
