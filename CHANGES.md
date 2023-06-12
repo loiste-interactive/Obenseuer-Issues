@@ -56,6 +56,7 @@
 * Added Osrat battery type to description [#238](https://github.com/loiste-interactive/Obenseuer-Issues/issues/238)
 * Changed pure green mushrooms to act similar way as other mushrooms
 * Fixed chemical lab water purifying recipe
+* Fixed glass shards being un-pickupable
 
 ## Console
 
