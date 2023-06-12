@@ -1,6 +1,6 @@
 # Upcoming
 
-* Rats can now be killed with axe (or other tool)
+* Rats can now be killed with axe and sledgehammer
 * Added renewable sources for resources, what can be worked on tools such as axes to produce wood
 * Added 3D printing
 * Added smelting
