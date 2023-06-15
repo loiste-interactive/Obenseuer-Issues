@@ -37,6 +37,7 @@
 
 ## Items
 
+* Added electronic waste item
 * Added junk wood item
 * Added crafting recipe for steel mechanical watch
 * Added crafting recipe for brass mechanical watch
