@@ -37,8 +37,12 @@
 
 ## Items
 
+* Aded gold shavings item.
+* Aded silver shavings item.
 * Added electronic waste item
 * Added junk wood item
+* Added crafting recipe for gold mechanical watch
+* Added crafting recipe for silver mechanical watch
 * Added crafting recipe for steel mechanical watch
 * Added crafting recipe for brass mechanical watch
 * Aded brass shavings item.
