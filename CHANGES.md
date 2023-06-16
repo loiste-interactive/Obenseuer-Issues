@@ -1,5 +1,6 @@
 # Upcoming
 
+* Some crafting stations and recipes now show items being crafted on worldspace.
 * Rats can now be killed with axe and sledgehammer
 * Added renewable sources for resources, what can be worked on tools such as axes to produce wood
 * Added 3D printing
