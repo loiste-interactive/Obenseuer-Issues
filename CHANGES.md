@@ -67,6 +67,7 @@
 * Changed pure green mushrooms to act similar way as other mushrooms
 * Fixed chemical lab water purifying recipe
 * Fixed glass shards being un-pickupable
+* Fixed missing eating sounds on baked foods
 
 ## Console
 
