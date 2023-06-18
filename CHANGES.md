@@ -1,5 +1,6 @@
 # Upcoming
 
+* Improved drill textures
 * Added animations to some crafting stations
 * Some crafting stations and recipes now show items being crafted on worldspace.
 * Rats can now be killed with axe and sledgehammer
