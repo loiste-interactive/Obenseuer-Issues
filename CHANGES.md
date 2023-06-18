@@ -1,5 +1,6 @@
 # Upcoming
 
+* Increased Axe, Slegehammer and Pickaxe durability
 * Improved drill textures
 * Added animations to some crafting stations
 * Some crafting stations and recipes now show items being crafted on worldspace.
