@@ -10,6 +10,7 @@
 * Added smelting
 * Added addiciton related achievements
 * Added current item amount to the tenement upgrade UI (issue [#208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/208))
+* Added the building schematics buttons to the tenement panel UI (issue [#208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/208))
 * Added crafted recipes saving to the crafting machine UI  (issue [#223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/223))
 * Changed depression behavior
 * Changed Osrat walking animation (issue [#119](https://github.com/loiste-interactive/Obenseuer-Issues/issues/119))
