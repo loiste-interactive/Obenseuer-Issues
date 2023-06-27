@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added Interior Player Tenement
+* Added Interior Tenement O Market
 * Increased Axe, Slegehammer and Pickaxe durability
 * Improved drill textures
 * Added animations to some crafting stations
@@ -82,9 +84,11 @@
 * Fixed closing console via "esc" opening pause menu (issue [#209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/209))
 
 ## Main Menu
+
 * Changed the character limit from 10 to 15 (issue [#98](https://github.com/loiste-interactive/Obenseuer-Issues/issues/98))
 
 ## Interior Start
+
 * Added task menu tutorial (issue [#237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/237))
 * Fixed load menu not working correctly (issue [#270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/270))
 * Fixed the interviewer screen animation (issue [#183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/183))
@@ -114,6 +118,10 @@
 ## Interior Tenement Deekula Mine Enterance
 
 * Fixed being able to get stuck between desk and wall (issue [#256](https://github.com/loiste-interactive/Obenseuer-Issues/issues/256))
+
+## Interior Tenement General Store
+
+* Fixed Mr. Bag's state save (issue [#207](https://github.com/loiste-interactive/Obenseuer-Issues/issues/207))
 
 # May 13th 2023 (Version 0.3.02)
 
