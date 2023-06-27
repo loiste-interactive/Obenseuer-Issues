@@ -94,6 +94,7 @@
 * Fixed collision issue (issue [#211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/211))
 * Fixed rat not saving (issue [#214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/214))
 * Fixed Samuel not dropping coffee when inventory is full (issue [#218](https://github.com/loiste-interactive/Obenseuer-Issues/issues/218))
+* Fixed the mine entrance transition door lock state saving (issue [#192](https://github.com/loiste-interactive/Obenseuer-Issues/issues/192))
 * Fixed collisions.
 
 ## Interior Tenement Deekula B
