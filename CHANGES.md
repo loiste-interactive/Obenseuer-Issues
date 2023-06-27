@@ -86,6 +86,7 @@
 ## Interior Start
 * Added task menu tutorial (issue [#237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/237))
 * Fixed load menu not working correctly (issue [#270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/270))
+* Fixed the interviewer screen animation (issue [#183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/183))
 
 ## Interior Tenement Deekula A
 
