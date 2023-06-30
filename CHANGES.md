@@ -1,6 +1,6 @@
 # Upcoming
 
-*
+* Fix to a crash caused by finalizer of playerdetector.
 
 # June 30th 2023 (Version 0.3.03)
 
