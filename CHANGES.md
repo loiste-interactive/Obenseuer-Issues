@@ -1,5 +1,9 @@
 # Upcoming
 
+*
+
+# June 30th 2023 (Version 0.3.03)
+
 * Added Interior Player Tenement
 * Added Interior Tenement O Market
 * Increased Axe, Slegehammer and Pickaxe durability
