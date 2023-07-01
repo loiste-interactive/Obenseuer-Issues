@@ -2,6 +2,10 @@
 
 * Fix to a crash caused by finalizer of playerdetector.
 
+## Items
+
+* Fixed mämmi being unpickupable (issue [#299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/299))
+
 ## Tenement System
 
 * Fixed player bed(s) marked as owned (issue [#293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/293))
