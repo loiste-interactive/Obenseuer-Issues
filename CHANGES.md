@@ -12,6 +12,9 @@
 * Fixed player bed(s) marked as owned (issue [#293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/293))
 * Fixed placeable crafting stations being marked as owned
 
+## Interior O-Market
+
+* O-Market now seels batteries and can openers
 
 # June 30th 2023 (Version 0.3.03)
 
