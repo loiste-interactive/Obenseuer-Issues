@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fix to a crash caused by finalizer of playerdetector.
+* Fixed bottle recycling machine giving back bottles (issue [#284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/284))
 
 ## Items
 
