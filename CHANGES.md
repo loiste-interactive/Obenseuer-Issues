@@ -18,6 +18,7 @@
 * O-Market now sells batteries and can openers
 * O-Market now sells buckets and empty jars
 * Fixed stacked item prices on checkout (issue [#305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/305))
+* Fixed lenkkis being free to take
 
 # June 30th 2023 (Version 0.3.03)
 
