@@ -17,6 +17,10 @@
 * Fixed deleting trash bag not deleting it's LOD (issue [#311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/311))
 * Fixed Drill furniture rotation (issue [#312](https://github.com/loiste-interactive/Obenseuer-Issues/issues/312))
 
+## Furniture
+
+* Added angle grinder furniture
+
 ## Interior O-Market
 
 * O-Market now sells batteries and can openers
