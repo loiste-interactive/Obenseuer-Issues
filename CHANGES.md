@@ -14,7 +14,8 @@
 
 ## Interior O-Market
 
-* O-Market now seels batteries and can openers
+* O-Market now sells batteries and can openers
+* Fixed stacked item prices on checkout (issue [#305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/305))
 
 # June 30th 2023 (Version 0.3.03)
 
