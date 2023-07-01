@@ -2,6 +2,10 @@
 
 * Fix to a crash caused by finalizer of playerdetector.
 
+## Tenement System
+
+* Fixed player bed(s) marked as owned (issue [#293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/293))
+
 # June 30th 2023 (Version 0.3.03)
 
 * Added Interior Player Tenement
