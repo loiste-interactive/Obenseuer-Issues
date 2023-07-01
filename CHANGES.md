@@ -19,6 +19,7 @@
 
 ## Furniture
 
+* Added sawbuck furniture
 * Added angle grinder furniture
 * Fixed drill being unplaceable
 
