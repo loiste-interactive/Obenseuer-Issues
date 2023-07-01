@@ -5,6 +5,7 @@
 ## Items
 
 * Fixed mämmi being unpickupable (issue [#299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/299))
+* Updated name of Plastic filament -> Plastic Filament
 
 ## Tenement System
 
