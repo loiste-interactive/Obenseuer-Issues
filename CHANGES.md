@@ -20,6 +20,7 @@
 ## Furniture
 
 * Added angle grinder furniture
+* Fixed drill being unplaceable
 
 ## Interior O-Market
 
