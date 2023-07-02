@@ -11,6 +11,7 @@
 
 * Fixed mämmi being unpickupable (issue [#299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/299))
 * Changed name of Plastic filament -> Plastic Filament
+* Fixed used sleeping pills giving metal cans (issue [#320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/320))
 
 ## Tenement System
 
