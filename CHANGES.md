@@ -2,10 +2,11 @@
 
 * Added crime amount achievements.
 * Added burglary achievements.
+* Changed unlock text to green (issue [#322](https://github.com/loiste-interactive/Obenseuer-Issues/issues/322))
 * Fix to a crash caused by finalizer of playerdetector.
 * Fixed bottle recycling machine giving back bottles (issue [#284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/284))
 * Fixed item crafting cost check if craft uses "ammo"
-* Fixed Drill working effect (issue [#307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2307))
+* Fixed Drill working effect (issue [#307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/307))
 
 ## Items
 
@@ -19,6 +20,7 @@
 * Fixed placeable crafting stations being marked as owned
 * Fixed deleting trash bag not deleting it's LOD (issue [#311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/311))
 * Fixed Drill furniture rotation (issue [#312](https://github.com/loiste-interactive/Obenseuer-Issues/issues/312))
+* Fixed the light is still being emitted after picking up shrooms (issue [#301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/301))
 
 ## Furniture
 
