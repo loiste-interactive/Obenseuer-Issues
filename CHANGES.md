@@ -22,6 +22,7 @@
 * Added sawbuck furniture
 * Added angle grinder furniture
 * Added brick furnace furniture
+* Added gas furnace furniture
 * Fixed drill being unplaceable
 
 ## Interior O-Market
