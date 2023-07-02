@@ -1,6 +1,8 @@
 # Upcoming
 
-*
+## Interior O-Market
+
+* Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 
 # July 2th 2023 (Version 0.3.04)
 
