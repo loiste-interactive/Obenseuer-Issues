@@ -1,5 +1,9 @@
 # Upcoming
 
+* Fixed stats loading skipping time (issue [#318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/318))
+
+# July 2th 2023 (Version 0.3.04)
+
 * Added get arrested achievement.
 * Added crime amount achievements.
 * Added burglary achievements.
@@ -8,7 +12,6 @@
 * Fixed bottle recycling machine giving back bottles (issue [#284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/284))
 * Fixed item crafting cost check if craft uses "ammo"
 * Fixed Drill working effect (issue [#307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/307))
-* Fixed stats loading skipping time (issue [#318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/318))
 
 ## Items
 
