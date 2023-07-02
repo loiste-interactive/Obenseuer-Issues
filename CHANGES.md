@@ -3,6 +3,7 @@
 ## Interior O-Market
 
 * Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
+* O-Market now sells Pekka Coffee
 
 # July 2th 2023 (Version 0.3.04)
 
