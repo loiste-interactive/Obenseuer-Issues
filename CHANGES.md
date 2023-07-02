@@ -4,11 +4,12 @@
 
 # July 2th 2023 (Version 0.3.04)
 
-* Added get arrested achievement.
-* Added crime amount achievements.
-* Added burglary achievements.
+* Added Interior Tenement Speakeasy
+* Added get arrested achievement
+* Added crime amount achievements
+* Added burglary achievements
 * Changed unlock text to green (issue [#322](https://github.com/loiste-interactive/Obenseuer-Issues/issues/322))
-* Fix to a crash caused by finalizer of playerdetector.
+* Fix to a crash caused by finalizer of playerdetector
 * Fixed bottle recycling machine giving back bottles (issue [#284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/284))
 * Fixed item crafting cost check if craft uses "ammo"
 * Fixed Drill working effect (issue [#307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/307))
@@ -35,6 +36,10 @@
 * Added gas furnace furniture
 * Added electric kiln furniture
 * Fixed drill being unplaceable
+
+## Interior Tenement Deekula B
+
+* Added Hank Möbelmann for testing
 
 ## Interior O-Market
 
