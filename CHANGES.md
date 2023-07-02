@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added get arrested achievement.
 * Added crime amount achievements.
 * Added burglary achievements.
 * Changed unlock text to green (issue [#322](https://github.com/loiste-interactive/Obenseuer-Issues/issues/322))
