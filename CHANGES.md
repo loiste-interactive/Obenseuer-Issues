@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added crime amount achievements.
 * Fix to a crash caused by finalizer of playerdetector.
 * Fixed bottle recycling machine giving back bottles (issue [#284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/284))
 * Fixed item crafting cost check if craft uses "ammo"
