@@ -23,6 +23,7 @@
 * Added angle grinder furniture
 * Added brick furnace furniture
 * Added gas furnace furniture
+* Added electric kiln furniture
 * Fixed drill being unplaceable
 
 ## Interior O-Market
