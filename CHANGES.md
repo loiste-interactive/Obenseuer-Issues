@@ -24,9 +24,10 @@
 * Added icons for furnace furnitures
 * Fixed floating brick furnace
 
-## Furniture
+## Items
 
 * Metal bars are now stackable
+* Addded red hot steel bar item (can be converted into sheetmetal by hitting it with sledgehammer)
 
 
 # July 2th 2023 (Version 0.3.04)
