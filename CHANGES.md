@@ -11,6 +11,10 @@
 
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
 
+## Furniture
+
+* Adjusted vegetable crate collisions (issue [#329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/329))
+
 # July 2th 2023 (Version 0.3.04)
 
 * Added Interior Tenement Speakeasy
