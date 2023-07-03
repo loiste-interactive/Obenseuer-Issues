@@ -7,6 +7,10 @@
 * Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 * O-Market now sells Pekka Coffee
 
+## Tenement System
+
+* Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
+
 # July 2th 2023 (Version 0.3.04)
 
 * Added Interior Tenement Speakeasy
