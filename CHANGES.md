@@ -24,6 +24,11 @@
 * Added icons for furnace furnitures
 * Fixed floating brick furnace
 
+## Furniture
+
+* Metal bars are now stackable
+
+
 # July 2th 2023 (Version 0.3.04)
 
 * Added Interior Tenement Speakeasy
