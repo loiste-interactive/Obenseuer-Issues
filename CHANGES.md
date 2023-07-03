@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed being able to drop money into player inventory as an item (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
+
 ## Interior O-Market
 
 * Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
