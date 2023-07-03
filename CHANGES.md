@@ -5,6 +5,7 @@
 * Fixed being able to open building menu  when console is open (issue [#334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/334))
 * Fixed time jumps on save loads.
 * Fixed time slept and time passed not being in sync (issue [#319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/319))
+* Fixed noclip  (issue [#308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/308))
 
 ## Interior O-Market
 
