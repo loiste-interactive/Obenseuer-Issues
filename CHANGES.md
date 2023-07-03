@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed being able to drop money into player inventory as an item (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
+* Fixed being unable to add fuel to fuel slots (issue [#336](https://github.com/loiste-interactive/Obenseuer-Issues/issues/336))
 
 ## Interior O-Market
 
