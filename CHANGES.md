@@ -10,6 +10,7 @@
 ## Tenement System
 
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
+* Adjusted furniture amounts on traders (issue [#328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/328))
 
 ## Furniture
 
