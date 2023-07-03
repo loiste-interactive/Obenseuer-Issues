@@ -29,6 +29,7 @@
 * Metal bars are now stackable
 * Addded red hot steel bar item (can be converted into sheetmetal by hitting it with sledgehammer)
 * Hitting wood log with axe (few times) now converts it into firewood
+* Hitting glass pane, glass bottle and pint with anything now converts it into glass shards
 
 
 # July 2th 2023 (Version 0.3.04)
