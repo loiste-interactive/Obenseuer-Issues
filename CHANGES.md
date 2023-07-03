@@ -16,6 +16,7 @@
 
 * Adjusted vegetable crate collisions (issue [#329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/329))
 * Added icons for furnace furnitures
+* Fixed floating brick furnace
 
 # July 2th 2023 (Version 0.3.04)
 
