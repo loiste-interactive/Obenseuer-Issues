@@ -4,6 +4,7 @@
 * Fixed being unable to add fuel to fuel slots (issue [#336](https://github.com/loiste-interactive/Obenseuer-Issues/issues/336))
 * Fixed being able to open building menu  when console is open (issue [#334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/334))
 * Fixed time jumps on save loads.
+* Fixed time slept and time passed not being in sync (issue [#319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/319))
 
 ## Interior O-Market
 
