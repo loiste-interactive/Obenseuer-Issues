@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added fake money
 * Metal bars are now stackable
 * Addded red hot steel bar item (can be converted into sheetmetal by hitting it with sledgehammer)
 * Hitting wood log with axe (few times) now converts it into firewood
