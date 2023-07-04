@@ -1,6 +1,6 @@
 # Upcoming
 
-* Added notifications for committed and detected crime
+* Added notifications for committed and detected crimes
 * NPCs now react to player commiting crimes
 * Added recipe for counterfeit money
 * Fixed being able to drop money into player inventory as an item (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
