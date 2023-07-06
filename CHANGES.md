@@ -40,6 +40,7 @@
 
 ## Items
 
+* Added charcoal
 * Added glue
 * Added fake money
 * Metal bars are now stackable
