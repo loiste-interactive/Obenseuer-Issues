@@ -19,6 +19,7 @@
 * O-Market now sells Glue
 * O-Market now sells Paper
 * O-Market now sells Envelopes
+* O-Market now sells Stamps
 
 ## Tenement System
 
