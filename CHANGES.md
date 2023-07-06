@@ -24,6 +24,9 @@
 
 ## Furniture
 
+* Added sawbuck blueprint.
+* Added saw
+* Added chainsaaw
 * Added brick furnace blueprint.
 * Adjusted furniture crafting costs.
 * Adjusted vegetable crate collisions (issue [#329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/329))
