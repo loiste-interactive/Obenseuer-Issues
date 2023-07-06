@@ -9,6 +9,7 @@
 * Fixed time jumps on save loads.
 * Fixed time slept and time passed not being in sync (issue [#319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/319))
 * Fixed noclip  (issue [#308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/308))
+* Fixed blueprints (and potentially other items) from instant respawning upon saveload  (issue [#300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/300))
 
 ## Interior O-Market
 
