@@ -20,6 +20,7 @@
 * O-Market now sells Paper
 * O-Market now sells Envelopes
 * O-Market now sells Stamps
+* O-Market now sells Charcoal
 
 ## Tenement System
 
