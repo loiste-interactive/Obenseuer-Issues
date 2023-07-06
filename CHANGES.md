@@ -34,6 +34,7 @@
 ## Furniture
 
 * Added terrarium
+* Added terrarium blueprint
 * Added bag of soil blueprint
 * Added flowerbox blueprint
 * Added aquarium blueprint
