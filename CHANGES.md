@@ -18,6 +18,7 @@
 * O-Market now sells Pekka Coffee
 * O-Market now sells Glue
 * O-Market now sells Paper
+* O-Market now sells Envelopes
 
 ## Tenement System
 
