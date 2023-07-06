@@ -16,6 +16,7 @@
 * Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 * Fixed bottle recycling (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 * O-Market now sells Pekka Coffee
+* O-Market now sells Glue
 
 ## Tenement System
 
