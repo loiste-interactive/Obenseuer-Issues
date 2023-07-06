@@ -29,6 +29,7 @@
 
 ## Furniture
 
+* Added aquarium blueprint
 * Addded sawbuck (chainsaw version) blueprint
 * Added sawbuck blueprint.
 * Added saw
