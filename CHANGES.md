@@ -29,6 +29,8 @@
 
 ## Furniture
 
+* Added bag of soil blueprint
+* Added flowerbox blueprint
 * Added aquarium blueprint
 * Addded sawbuck (chainsaw version) blueprint
 * Added sawbuck blueprint.
