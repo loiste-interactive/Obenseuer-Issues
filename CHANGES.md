@@ -17,6 +17,7 @@
 
 ## Interior O-Market
 
+* Mirjam now comments if player tries to leave without paying.
 * Fixed liquids spawning in discount basket (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 * Fixed bottle recycling (issue [#332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/332))
 * O-Market now sells Pekka Coffee
