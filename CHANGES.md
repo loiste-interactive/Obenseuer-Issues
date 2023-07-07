@@ -1,6 +1,6 @@
 # Upcoming
 
-* Player now receives random mail once a day
+* Player now receives random mail once a day (currently random recipes)
 * Added composting
 * Added notifications for committed and detected crimes
 * NPCs now react to player commiting crimes
