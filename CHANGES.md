@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added composting
 * Added notifications for committed and detected crimes
 * NPCs now react to player commiting crimes
 * Added recipe for counterfeit money
