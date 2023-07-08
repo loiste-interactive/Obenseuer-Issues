@@ -67,6 +67,7 @@
 
 ## Items
 
+* Added yarn
 * Added mesh
 * Added charcoal
 * Added glue
