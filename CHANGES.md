@@ -38,6 +38,7 @@
 
 ## Furniture
 
+* Added rat cage blueprints
 * Added rat cages
 * Added compost blueprint
 * Added compost
