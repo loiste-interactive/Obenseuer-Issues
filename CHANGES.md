@@ -62,6 +62,7 @@
 
 ## Items
 
+* Added mesh
 * Added charcoal
 * Added glue
 * Added fake money
