@@ -12,6 +12,7 @@
 * Fixed time slept and time passed not being in sync (issue [#319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/319))
 * Fixed noclip  (issue [#308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/308))
 * Fixed blueprints (and potentially other items) from instant respawning upon saveload  (issue [#300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/300))
+* Fixed being unable to buy more than one copy of furniture (issue [#346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/346))
 
 ## Interior Player Tenement
 
