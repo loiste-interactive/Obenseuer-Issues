@@ -53,6 +53,7 @@
 * Added icons for furnace furnitures
 * Fixed floating brick furnace
 * Fixed growing box modifiers not being lacation dependant (issue [#348](https://github.com/loiste-interactive/Obenseuer-Issues/issues/348))
+* Fixed wineracks not displaying bottles after load (issue [#356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/356))
 
 ## Items
 
