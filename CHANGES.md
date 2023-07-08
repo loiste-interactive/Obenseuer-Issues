@@ -13,6 +13,7 @@
 * Fixed noclip  (issue [#308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/308))
 * Fixed blueprints (and potentially other items) from instant respawning upon saveload  (issue [#300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/300))
 * Fixed being unable to buy more than one copy of furniture (issue [#346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/346))
+* Fixed item duplication exploit by placing items as furniture (issue [#359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/359))
 
 ## Interior Player Tenement
 
