@@ -38,6 +38,7 @@
 
 ## Furniture
 
+* Added Stolland clock
 * Added terrarium
 * Added terrarium blueprint
 * Added bag of soil blueprint
