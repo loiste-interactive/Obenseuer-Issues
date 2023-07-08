@@ -38,6 +38,8 @@
 
 ## Furniture
 
+* Added compost blueprint
+* Added compost
 * Added Stolland clock blueprint
 * Added Stolland clock
 * Added terrarium
