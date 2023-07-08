@@ -59,6 +59,7 @@
 * Fixed growing box modifiers not being lacation dependant (issue [#348](https://github.com/loiste-interactive/Obenseuer-Issues/issues/348))
 * Fixed wineracks not displaying bottles after load (issue [#356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/356))
 * Fixeed flowerbox ownership
+* Fixed inflatable pool ownership
 
 ## Items
 
