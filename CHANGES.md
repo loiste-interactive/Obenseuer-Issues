@@ -38,6 +38,7 @@
 
 ## Furniture
 
+* Added rusty barrel
 * Added flowerbox with supports (can grow vines)
 * Added rat cage blueprints
 * Added rat cages
