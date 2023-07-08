@@ -38,6 +38,7 @@
 
 ## Furniture
 
+* Added rat cages
 * Added compost blueprint
 * Added compost
 * Added Stolland clock blueprint
