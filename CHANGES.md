@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added banker's lamp
 * Added large flowerpot with support blueprint
 * Added large flowerpot with support
 * Added large flowerpot
