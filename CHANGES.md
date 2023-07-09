@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added barrel (growing)
 * Added tincan (growing) blueprint
 * Added tincan (growing)
 * Added flowerbox with lamp
