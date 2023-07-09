@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added fancy wooden desk
 * Added fancy leather chair
 * Added fancy large wooden cabinet
 * Added banker's lamp
