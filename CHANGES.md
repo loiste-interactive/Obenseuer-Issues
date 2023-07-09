@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added fancy leather chair
 * Added fancy large wooden cabinet
 * Added banker's lamp
 * Added large flowerpot with support blueprint
