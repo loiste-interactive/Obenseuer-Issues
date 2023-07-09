@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added metal desk
 * Added Metal Table With White Tablecloth
 * Added Metal Table With White Tablecloth blueprint
 * Added wooden table blueprint
