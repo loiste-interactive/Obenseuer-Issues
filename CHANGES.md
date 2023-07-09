@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added wooden table blueprint
 * Added fancy wooden square table
 * Added round coffee table
 * Added fancy wooden desk
