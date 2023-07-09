@@ -39,6 +39,7 @@
 
 ## Furniture
 
+* Added round coffee table
 * Added fancy wooden desk
 * Added fancy leather chair
 * Added fancy large wooden cabinet
