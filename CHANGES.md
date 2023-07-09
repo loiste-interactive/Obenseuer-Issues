@@ -39,6 +39,8 @@
 
 ## Furniture
 
+* Added Metal Table With White Tablecloth
+* Added Metal Table With White Tablecloth blueprint
 * Added wooden table blueprint
 * Added fancy wooden square table
 * Added round coffee table
