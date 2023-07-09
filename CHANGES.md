@@ -39,6 +39,9 @@
 
 ## Furniture
 
+* Added barrel with support (growing) blueprint
+* Added barrel (growing) blueprint
+* Added barrel with support (growing)
 * Added barrel (growing)
 * Added tincan (growing) blueprint
 * Added tincan (growing)
