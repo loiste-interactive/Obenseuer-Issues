@@ -39,6 +39,8 @@
 
 ## Furniture
 
+* Added large flowerpot with support blueprint
+* Added large flowerpot with support
 * Added large flowerpot
 * Added barrel with support (growing) blueprint
 * Added barrel (growing) blueprint
