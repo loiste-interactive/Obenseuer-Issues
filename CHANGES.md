@@ -32,6 +32,10 @@
 * O-Market now sells Charcoal
 * O-Market now sells Yarn
 
+## Interior Tenement Deekula A
+
+* Added blueprint spawnpoints
+
 ## Tenement System
 
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
