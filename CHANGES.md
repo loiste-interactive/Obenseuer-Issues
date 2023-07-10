@@ -43,6 +43,8 @@
 
 ## Furniture
 
+* Added cottage table
+* Added cottage bench
 * Added metal desk
 * Added Metal Table With White Tablecloth
 * Added Metal Table With White Tablecloth blueprint
