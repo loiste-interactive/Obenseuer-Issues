@@ -43,6 +43,7 @@
 
 ## Furniture
 
+* Added wooden desk blueprint
 * Added wooden desk
 * Added cottage table
 * Added cottage bench
