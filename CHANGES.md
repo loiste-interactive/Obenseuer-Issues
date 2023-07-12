@@ -43,6 +43,7 @@
 
 ## Furniture
 
+* Added wooden desk
 * Added cottage table
 * Added cottage bench
 * Added metal desk
