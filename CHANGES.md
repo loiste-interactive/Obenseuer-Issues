@@ -107,6 +107,7 @@
 * Addded red hot steel bar item (can be converted into sheetmetal by hitting it with sledgehammer)
 * Hitting wood log with axe (few times) now converts it into firewood
 * Hitting glass pane, glass bottle and pint with anything now converts it into glass shards
+* Fixed pills giving paper trash on each use, also the cans spawning is not a thing anymore (issue [#320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/320))
 
 
 # July 2th 2023 (Version 0.3.04)
