@@ -15,6 +15,7 @@
 * Fixed being unable to buy more than one copy of furniture (issue [#346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/346))
 * Fixed item duplication exploit by placing items as furniture (issue [#359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/359))
 * Fixed save/load issues on player placed growing boxes  (issue [#341](https://github.com/loiste-interactive/Obenseuer-Issues/issues/341))
+* Fixed lockpicking sometimes preventing from opening the pause menu (issue [#362](https://github.com/loiste-interactive/Obenseuer-Issues/issues/362))
 
 ## Interior Player Tenement
 
