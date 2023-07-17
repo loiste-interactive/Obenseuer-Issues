@@ -38,6 +38,10 @@
 
 * Added blueprint spawnpoints
 
+## Interior Tenement Deekula B
+
+* Added 3D printer to hacker's apartment
+
 ## Tenement System
 
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
