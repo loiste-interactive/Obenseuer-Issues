@@ -16,6 +16,7 @@
 * Fixed item duplication exploit by placing items as furniture (issue [#359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/359))
 * Fixed save/load issues on player placed growing boxes  (issue [#341](https://github.com/loiste-interactive/Obenseuer-Issues/issues/341))
 * Fixed lockpicking sometimes preventing from opening the pause menu (issue [#362](https://github.com/loiste-interactive/Obenseuer-Issues/issues/362))
+* Fixed NPCs missing body parts (issue [#21](https://github.com/loiste-interactive/Obenseuer-Issues/issues/21))
 
 ## Interior Player Tenement
 
