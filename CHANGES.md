@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added random events when sleeping in unsafe bed
 * Player now receives random mail once a day (currently random recipes)
 * Added composting
 * Added notifications for committed and detected crimes
