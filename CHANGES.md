@@ -48,6 +48,7 @@
 ## Tenement System
 
 * Added alphabetical furniture sorting (issue [#353](https://github.com/loiste-interactive/Obenseuer-Issues/issues353))
+* Changed building menu to remember the current category when the menu is closed (issue [#358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/358))
 * Fixed not being able to pay the final payments (issue [#363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/363))
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
 * Adjusted furniture amounts on traders (issue [#328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/328))
