@@ -150,6 +150,7 @@
 * Fixed deleting trash bag not deleting it's LOD (issue [#311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/311))
 * Fixed Drill furniture rotation (issue [#312](https://github.com/loiste-interactive/Obenseuer-Issues/issues/312))
 * Fixed the light is still being emitted after picking up shrooms (issue [#301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/301))
+* Fixed pre-placed storage furnitures resetting position after load (issue [#298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/298))
 
 ## Furniture
 
