@@ -147,6 +147,7 @@
 ## Tenement System
 
 * Added rotation modes (issue [#294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/294))
+* Fixed placed items being removed when loading game (issue [#313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/313))
 * Fixed player bed(s) marked as owned (issue [#293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/293))
 * Fixed placeable crafting stations being marked as owned
 * Fixed deleting trash bag not deleting it's LOD (issue [#311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/311))
