@@ -50,6 +50,7 @@
 ## Tenement System
 
 * Adjusted furniture amounts on traders (issue [#328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/328))
+* Added move button (issue [#316](https://github.com/loiste-interactive/Obenseuer-Issues/issues/316))
 * Added alphabetical furniture sorting (issue [#353](https://github.com/loiste-interactive/Obenseuer-Issues/issues353))
 * Added rotation modes (issue [#294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/294))
 * Fixed placed items being removed when loading game (issue [#313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/313))
