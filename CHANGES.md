@@ -146,12 +146,14 @@
 
 ## Tenement System
 
+* Added rotation modes (issue [#294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/294))
 * Fixed player bed(s) marked as owned (issue [#293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/293))
 * Fixed placeable crafting stations being marked as owned
 * Fixed deleting trash bag not deleting it's LOD (issue [#311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/311))
 * Fixed Drill furniture rotation (issue [#312](https://github.com/loiste-interactive/Obenseuer-Issues/issues/312))
 * Fixed the light is still being emitted after picking up shrooms (issue [#301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/301))
 * Fixed pre-placed storage furnitures resetting position after load (issue [#298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/298))
+* Fixed pressing TAB opening menu when closing building menu (issue [#294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/294))
 
 ## Furniture
 
