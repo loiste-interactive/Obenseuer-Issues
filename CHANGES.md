@@ -58,6 +58,7 @@
 * Fixed build menu legend (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
 * Fixed pre-placed storage furnitures resetting position after load (issue [#298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/298))
 * Fixed pressing TAB opening menu when closing building menu (issue [#294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/294))
+* Fixed disappearing storage items after saving (issue [#314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/314))
 
 ## Furniture
 
