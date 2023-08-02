@@ -1,5 +1,10 @@
 # Upcoming
 
+* Added Interior Tenement Greenhouse
+* Added Interior Tenement Greenhouse Storage
+* Added Interior Tenement House5
+* Added Interior Tenement Kurahaara Home
+* Added Interior Tenement Pharmacy
 * Added snapping points to some furniture. Snapping can be enabled with 'c' -key
 * Added random events when sleeping in unsafe bed
 * Player now receives random mail once a day (currently random recipes)
