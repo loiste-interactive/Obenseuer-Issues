@@ -25,6 +25,7 @@
 ## Interior Player Tenement
 
 * Added player mailbox
+* Fixed being unable to walk on smoothly without jumping on makeshift staircase ladders (issue [#364](https://github.com/loiste-interactive/Obenseuer-Issues/issues/364))
 
 ## Interior O-Market
 
