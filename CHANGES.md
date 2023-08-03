@@ -29,6 +29,7 @@
 * Fixed player trigger issues (issue [#286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/286))
 * Fixed television noise (issue [#287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/287))
 * Fixed notes not being transported between the maps (issue [#189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/189))
+* Fixed audios being disabled after dying in sleeping (issue [#150](https://github.com/loiste-interactive/Obenseuer-Issues/issues/150))
 
 ## Intro
 
