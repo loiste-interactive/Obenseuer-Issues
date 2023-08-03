@@ -1,5 +1,9 @@
 # Upcoming
 
+*
+
+# August 3th 2023 (Version 0.3.05)
+
 * Added Interior Tenement Greenhouse
 * Added Interior Tenement Greenhouse Storage
 * Added Interior Tenement House5
