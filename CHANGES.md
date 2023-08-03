@@ -30,6 +30,11 @@
 * Fixed television noise (issue [#287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/287))
 * Fixed notes not being transported between the maps (issue [#189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/189))
 
+## Intro
+
+* Fixed looping sentence (issue [#370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/370))
+* Fixed mushroom lights (issue [#370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/370))
+
 ## Interior Player Tenement
 
 * Added player mailbox
