@@ -10,6 +10,7 @@
 * Player now receives random mail once a day (currently random recipes)
 * Added composting
 * Added notifications for committed and detected crimes
+* Added sort button to player inventory and storages (issue [#104](https://github.com/loiste-interactive/Obenseuer-Issues/issues/104))
 * NPCs now react to player commiting crimes
 * Added recipe for counterfeit money
 * Fixed being able to drop money into player inventory as an item (issue [#337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/337))
