@@ -27,6 +27,7 @@
 * Fixed the furniture shop scroll position resetting after buying/selling something (issue [#354](https://github.com/loiste-interactive/Obenseuer-Issues/issues/354))
 * Fixed player trigger issues (issue [#286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/286))
 * Fixed television noise (issue [#287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/287))
+* Fixed notes not being transported between the maps (issue [#189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/189))
 
 ## Interior Player Tenement
 
