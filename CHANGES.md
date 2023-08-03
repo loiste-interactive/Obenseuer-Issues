@@ -26,6 +26,7 @@
 * Fixed NPCs missing body parts (issue [#21](https://github.com/loiste-interactive/Obenseuer-Issues/issues/21))
 * Fixed the furniture shop scroll position resetting after buying/selling something (issue [#354](https://github.com/loiste-interactive/Obenseuer-Issues/issues/354))
 * Fixed player trigger issues (issue [#286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/286))
+* Fixed television noise (issue [#287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/287))
 
 ## Interior Player Tenement
 
