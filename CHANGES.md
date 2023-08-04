@@ -9,6 +9,7 @@
 ## Items
 
 * Fixed RM coins glowing too much (issue [#380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/380))
+* Fixed sorting button not automatically combining items (issue [#396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/396))
 
 # August 3th 2023 (Version 0.3.05)
 
