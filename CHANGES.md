@@ -1,6 +1,8 @@
 # Upcoming
 
-*
+## Tenement System
+
+* Fixed placed items being removed when loading game (issue [#377](https://github.com/loiste-interactive/Obenseuer-Issues/issues/377))
 
 ## Items
 
