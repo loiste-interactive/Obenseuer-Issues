@@ -2,6 +2,10 @@
 
 *
 
+## Items
+
+* Fixed RM coins glowing too much (issue [#380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/380))
+
 # August 3th 2023 (Version 0.3.05)
 
 * Added Interior Tenement Greenhouse
