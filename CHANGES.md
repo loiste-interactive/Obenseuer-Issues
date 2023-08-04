@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed furniture selling (issue [#385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/385))
+
 ## Tenement System
 
 * Fixed placed items being removed when loading game (issue [#377](https://github.com/loiste-interactive/Obenseuer-Issues/issues/377))
