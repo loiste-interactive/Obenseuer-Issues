@@ -17,6 +17,11 @@
 
 * Fixed bag of soil ownership (issue [#408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/408))
 
+## Interior O-Market
+
+* Fixed O-market not restocking (issue [#412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/412))
+
+
 # August 3th 2023 (Version 0.3.05)
 
 * Added Interior Tenement Greenhouse
