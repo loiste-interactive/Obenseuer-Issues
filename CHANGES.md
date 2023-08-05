@@ -16,6 +16,7 @@
 
 ## Furniture
 
+* Added snap points for pallets
 * Added half pallet
 * Added half pallet blueprint
 * Changed name of barrel (growing) to be more clear that it is for growing plants
