@@ -16,6 +16,7 @@
 
 ## Furniture
 
+* Added plywood shelf
 * Added snap points for rat cages
 * Added snap point for beer crate
 * Added snap points for pallets
