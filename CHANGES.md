@@ -16,6 +16,7 @@
 
 ## Furniture
 
+* Added snap point for beer crate
 * Added snap points for pallets
 * Added half pallet
 * Added half pallet blueprint
