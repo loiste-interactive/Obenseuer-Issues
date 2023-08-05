@@ -16,6 +16,7 @@
 
 ## Furniture
 
+* Added half pallet
 * Changed name of barrel (growing) to be more clear that it is for growing plants
 * Fixed bag of soil ownership (issue [#408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/408))
 
