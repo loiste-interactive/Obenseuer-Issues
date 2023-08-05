@@ -2,7 +2,7 @@
 
 * Fixed furniture selling, crafting, dismantle (issue [#385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/385), issue [#384](https://github.com/loiste-interactive/Obenseuer-Issues/issues/384))
 * Fixed O-market price rounding  (issue [#413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/413))
-* Fixed spoilage of snakeplans (issue [#407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/407))
+* Fixed spoilage of snakeplants (issue [#407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/407))
 
 ## Tenement System
 
