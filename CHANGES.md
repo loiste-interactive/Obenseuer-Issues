@@ -33,6 +33,7 @@
 * Fixed bag of soil ownership (issue [#408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/408))
 * Fixed not being able to place a toilet paper holder to a wall (issue [#422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/422))
 * Fixed compost box having a placeable top (issue [#401](https://github.com/loiste-interactive/Obenseuer-Issues/issues/401))
+* Fixed not being able place ashtray stand on a bare ground (issue [#421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/421))
 
 ## Interior Player Tenement
 
