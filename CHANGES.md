@@ -10,6 +10,7 @@
 * Fixed disappearing trade slots every second use (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
 * Fixed beer mash recipe (issue [#405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/405))
 * Fixed mail receiving (issue [#409](https://github.com/loiste-interactive/Obenseuer-Issues/issues/409))
+* Fixed max depression not drinking random alcohol from inventory
 
 ## Items
 
