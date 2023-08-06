@@ -18,6 +18,10 @@
 * Fixed RM coins glowing too much (issue [#380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/380))
 * Fixed sorting button not automatically combining items (issue [#396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/396))
 
+## Tenement System
+
+* Fixed move button not working correctly when certain category is selected (issue [#424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/424))
+
 ## Furniture
 
 * Added plywood shelf
