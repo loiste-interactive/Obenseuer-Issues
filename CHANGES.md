@@ -36,6 +36,11 @@
 * Fixed compost box having a placeable top (issue [#401](https://github.com/loiste-interactive/Obenseuer-Issues/issues/401))
 * Fixed not being able place ashtray stand on a bare ground (issue [#421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/421))
 
+  
+## Console
+
+* fixed tyiredness command (issue [#443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/443))
+
 ## Interior Player Tenement
 
 * Fixed tenement basement texture glitch at stairwell entrance (issue [#435](https://github.com/loiste-interactive/Obenseuer-Issues/issues/435))
