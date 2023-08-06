@@ -2,6 +2,7 @@
 
 * Added auto sort to traders
 * Added out of space message to traders (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
+* Changed storages to select items to spawn in advance (issue [#398](https://github.com/loiste-interactive/Obenseuer-Issues/issues/398))
 * Fixed furniture selling, crafting, dismantle (issue [#385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/385), issue [#384](https://github.com/loiste-interactive/Obenseuer-Issues/issues/384))
 * Fixed O-market price rounding  (issue [#413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/413))
 * Fixed spoilage of snakeplants (issue [#407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/407))
