@@ -33,10 +33,14 @@
 * Fixed not being able to place a toilet paper holder to a wall (issue [#422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/422))
 * Fixed compost box having a placeable top (issue [#401](https://github.com/loiste-interactive/Obenseuer-Issues/issues/401))
 
+## Interior Player Tenement
+
+* Fixed tenement basement texture glitch at stairwell entrance (issue [#435](https://github.com/loiste-interactive/Obenseuer-Issues/issues/435))
+* Fixed tenement's shabby stairwell collision problem between 3rd and 4th floor (issue [#437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/437))
+
 ## Interior O-Market
 
 * Fixed O-market not restocking (issue [#412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/412))
-
 
 # August 3th 2023 (Version 0.3.05)
 
