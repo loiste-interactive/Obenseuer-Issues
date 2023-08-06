@@ -8,6 +8,7 @@
 * Fixed spoilage of snakeplants (issue [#407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/407))
 * Fixed noclip not working correctly (issue [#415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/415))
 * Fixed disappearing trade slots every second use (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
+* Fixed beer mash recipe (issue [#405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/405))
 
 ## Items
 
