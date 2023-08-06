@@ -45,6 +45,7 @@
 
 * Fixed tenement basement texture glitch at stairwell entrance (issue [#435](https://github.com/loiste-interactive/Obenseuer-Issues/issues/435))
 * Fixed tenement's shabby stairwell collision problem between 3rd and 4th floor (issue [#437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/437))
+* Removed floating items from basement (issue [#432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/432))
 
 ## Interior O-Market
 
