@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added auto sort to traders
 * Added out of space message to traders (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
 * Fixed furniture selling, crafting, dismantle (issue [#385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/385), issue [#384](https://github.com/loiste-interactive/Obenseuer-Issues/issues/384))
 * Fixed O-market price rounding  (issue [#413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/413))
