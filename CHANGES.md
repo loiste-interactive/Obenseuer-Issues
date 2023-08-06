@@ -8,10 +8,6 @@
 * Fixed noclip not working correctly (issue [#415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/415))
 * Fixed disappearing trade slots every second use (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
 
-## Tenement System
-
-* Fixed placed items being removed when loading game (issue [#377](https://github.com/loiste-interactive/Obenseuer-Issues/issues/377))
-
 ## Items
 
 * Changed sorting button to sort by categories (issue [#396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/396))
@@ -20,6 +16,7 @@
 
 ## Tenement System
 
+* Fixed placed items being removed when loading game (issue [#377](https://github.com/loiste-interactive/Obenseuer-Issues/issues/377))
 * Fixed move button not working correctly when certain category is selected (issue [#424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/424))
 
 ## Furniture
