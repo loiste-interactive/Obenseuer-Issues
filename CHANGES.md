@@ -30,6 +30,7 @@
 * Added snap points for pallets
 * Added half pallet
 * Added half pallet blueprint
+* Sittable objects now detect if there's stuff placed on them (issue [#428](https://github.com/loiste-interactive/Obenseuer-Issues/issues/428))
 * Changed name of barrel (growing) to be more clear that it is for growing plants
 * Fixed bag of soil ownership (issue [#408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/408))
 * Fixed not being able to place a toilet paper holder to a wall (issue [#422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/422))
