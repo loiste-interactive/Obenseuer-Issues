@@ -11,6 +11,7 @@
 * Fixed beer mash recipe (issue [#405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/405))
 * Fixed mail receiving (issue [#409](https://github.com/loiste-interactive/Obenseuer-Issues/issues/409))
 * Fixed max depression not drinking random alcohol from inventory
+* Fixed premature triggering of achievements on save load caused by pre-initialized achievement manager (issue [#391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/391))
 
 ## Items
 
