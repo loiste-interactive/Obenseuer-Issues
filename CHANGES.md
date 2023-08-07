@@ -21,6 +21,11 @@
 * Fixed RM coins glowing too much (issue [#380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/380))
 * Fixed sorting button not automatically combining items (issue [#396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/396))
 
+## Tasks
+
+* Changed kurahaara farm dialogue (issue [#414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/414))
+* Fixed taking Kurahaara's greenhouse plants considered as a crime (issue [#414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/414))
+
 ## Tenement System
 
 * Changed mushroom farm upgrades to require previous versions (issue [#438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/438))
