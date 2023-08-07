@@ -2,6 +2,7 @@
 
 * Added auto sort to traders
 * Added out of space message to traders (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
+* Added hide hud key to the key bindings menu (issue [#426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/426))
 * Changed storages to select items to spawn in advance (issue [#398](https://github.com/loiste-interactive/Obenseuer-Issues/issues/398))
 * Fixed furniture selling, crafting, dismantle (issue [#385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/385), issue [#384](https://github.com/loiste-interactive/Obenseuer-Issues/issues/384))
 * Fixed O-market price rounding  (issue [#413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/413))
@@ -12,6 +13,7 @@
 * Fixed mail receiving (issue [#409](https://github.com/loiste-interactive/Obenseuer-Issues/issues/409))
 * Fixed max depression not drinking random alcohol from inventory
 * Fixed premature triggering of achievements on save load caused by pre-initialized achievement manager (issue [#391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/391))
+* Fixed key bindings not showing correctly (issue [#340](https://github.com/loiste-interactive/Obenseuer-Issues/issues/340))
 
 ## Items
 
@@ -42,7 +44,6 @@
 * Fixed not being able to place a toilet paper holder to a wall (issue [#422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/422))
 * Fixed compost box having a placeable top (issue [#401](https://github.com/loiste-interactive/Obenseuer-Issues/issues/401))
 * Fixed not being able place ashtray stand on a bare ground (issue [#421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/421))
-
   
 ## Console
 
