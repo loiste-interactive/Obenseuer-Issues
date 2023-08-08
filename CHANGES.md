@@ -37,6 +37,7 @@
 
 ## Furniture
 
+* Added modular shelves
 * Added katana stand
 * Added plywood shelf
 * Added snap points for rat cages
