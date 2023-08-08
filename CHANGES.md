@@ -37,6 +37,7 @@
 
 ## Furniture
 
+* Added katana stand
 * Added plywood shelf
 * Added snap points for rat cages
 * Added snap point for beer crate
