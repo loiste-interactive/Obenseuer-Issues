@@ -62,6 +62,7 @@
 * Fixed decent greenhouse blocking the entrance (issue [#451](https://github.com/loiste-interactive/Obenseuer-Issues/issues/451))
 * Fixed stairway fine windows (issue [#449](https://github.com/loiste-interactive/Obenseuer-Issues/issues/449))
 * Fixed storages and items being owned (issue [#446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/446))
+* Fixed shroom room spawning shower particles in sauna (issue [#436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/436))
 * Removed floating items from basement (issue [#432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/432))
 
 ## Interior O-Market
