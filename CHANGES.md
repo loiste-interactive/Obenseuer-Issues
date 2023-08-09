@@ -1,5 +1,9 @@
 # Upcoming
 
+*
+
+# August 9th 2023 (Version 0.3.06)
+
 * Added auto sort to traders
 * Added out of space message to traders (issue [#404](https://github.com/loiste-interactive/Obenseuer-Issues/issues/404))
 * Added hide hud key to the key bindings menu (issue [#426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/426))
