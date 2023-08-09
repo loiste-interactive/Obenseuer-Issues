@@ -35,6 +35,7 @@
 * Fixed stairwell access entrance being solid (issue [#433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/433))
 * Fixed tenement's greenhouse building mode area [#450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/450))
 * Fixed tenement upgrades getting stuck at final payment phase [#416](https://github.com/loiste-interactive/Obenseuer-Issues/issues/416))
+* Fixed upgrade button message when it's upgraded to max [#442](https://github.com/loiste-interactive/Obenseuer-Issues/issues/442))
 
 ## Furniture
 
