@@ -7,6 +7,7 @@
 ## Furniture
 
 * Fixed ownership of kitchen tools (issue [#466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/466))
+* Fixed rat cage collisions (issue [#478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/478))
 
 ## Interior O-Market
 
