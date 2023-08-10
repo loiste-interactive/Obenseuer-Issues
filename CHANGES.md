@@ -4,6 +4,10 @@
 
 * Removed glow from RM coins (issue [#460](https://github.com/loiste-interactive/Obenseuer-Issues/issues/460))
 
+## Furniture
+
+* Fixed ownership of kitchen tools (issue [#466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/466))
+
 # August 9th 2023 (Version 0.3.06)
 
 * Added auto sort to traders
