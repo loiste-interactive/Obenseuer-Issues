@@ -11,6 +11,7 @@
 ## Interior O-Market
 
 * Fixed restocking issues.
+* Fixed storage visual states.
 
 # August 9th 2023 (Version 0.3.06)
 
