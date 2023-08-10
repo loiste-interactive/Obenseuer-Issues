@@ -8,6 +8,7 @@
 
 * Fixed ownership of kitchen tools (issue [#466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/466))
 * Fixed rat cage collisions (issue [#478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/478))
+* Fixed beer crate snap point  (issue [#471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/471))
 
 ## Interior O-Market
 
