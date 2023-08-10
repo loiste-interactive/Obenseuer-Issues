@@ -1,6 +1,8 @@
 # Upcoming
 
-*
+## Items
+
+* Removed glow from RM coins (issue [#460](https://github.com/loiste-interactive/Obenseuer-Issues/issues/460))
 
 # August 9th 2023 (Version 0.3.06)
 
