@@ -13,6 +13,10 @@
 * Fixed restocking issues.
 * Fixed storage visual states.
 
+## Interior General Store
+
+* Enabled respawning of stock
+
 # August 9th 2023 (Version 0.3.06)
 
 * Added auto sort to traders
