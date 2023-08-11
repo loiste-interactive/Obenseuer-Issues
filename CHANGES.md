@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed blueprint and recipe spawners (issue [#381](https://github.com/loiste-interactive/Obenseuer-Issues/issues/381))
+
 ## Items
 
 * Removed glow from RM coins (issue [#460](https://github.com/loiste-interactive/Obenseuer-Issues/issues/460))
