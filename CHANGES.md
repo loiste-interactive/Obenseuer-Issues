@@ -2,6 +2,7 @@
 
 * Fixed blueprint and recipe spawners (issue [#381](https://github.com/loiste-interactive/Obenseuer-Issues/issues/381))
 * Fixed rats and plants not growing when the player is in another map (issue [#394](https://github.com/loiste-interactive/Obenseuer-Issues/issues/394))
+* Fixed trigger delays not working correctly when loading save (issue [#480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/480))
 
 ## Items
 
