@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed blueprint and recipe spawners (issue [#381](https://github.com/loiste-interactive/Obenseuer-Issues/issues/381))
+* Fixed rats and plants not growing when the player is in another map (issue [#394](https://github.com/loiste-interactive/Obenseuer-Issues/issues/394))
 
 ## Items
 
