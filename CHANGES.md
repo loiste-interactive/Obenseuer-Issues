@@ -6,7 +6,7 @@
 * Fixed trigger delays not working correctly when loading save (issue [#480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/480))
 * Fixed keybinding save issues (issue [#486](https://github.com/loiste-interactive/Obenseuer-Issues/issues/486))
 * Fixed saved settings reseting every time game is updated
-* Fixed Hanss' Hideout Keys (issue [#485](https://github.com/loiste-interactive/Obenseuer-Issues/issues/485))
+* Fixed transition doors state saving (issue [#288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/288))
 
 ## Items
 
@@ -17,6 +17,10 @@
 * Fixed ownership of kitchen tools (issue [#466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/466))
 * Fixed rat cage collisions (issue [#478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/478))
 * Fixed beer crate snap point  (issue [#471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/471))
+
+## Interior Tenement Deekula Mine Enterance
+
+* Fixed Hanss' Hideout Keys (issue [#485](https://github.com/loiste-interactive/Obenseuer-Issues/issues/485))
 
 ## Interior O-Market
 
