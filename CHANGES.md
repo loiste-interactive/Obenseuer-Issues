@@ -6,6 +6,7 @@
 * Fixed trigger delays not working correctly when loading save (issue [#480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/480))
 * Fixed keybinding save issues (issue [#486](https://github.com/loiste-interactive/Obenseuer-Issues/issues/486))
 * Fixed saved settings reseting every time game is updated
+* Fixed Hanss' Hideout Keys (issue [#485](https://github.com/loiste-interactive/Obenseuer-Issues/issues/485))
 
 ## Items
 
