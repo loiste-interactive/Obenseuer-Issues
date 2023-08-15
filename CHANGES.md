@@ -8,6 +8,7 @@
 * Fixed saved settings reseting every time game is updated
 * Fixed transition doors state saving (issue [#288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/288))
 * Fixed manufacturing process saving (issue [#468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/468))
+* Fixed recipes not showing ingredients sometimes (issue [#467](https://github.com/loiste-interactive/Obenseuer-Issues/issues/467))
 
 ## Items
 
