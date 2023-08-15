@@ -7,6 +7,7 @@
 * Fixed keybinding save issues (issue [#486](https://github.com/loiste-interactive/Obenseuer-Issues/issues/486))
 * Fixed saved settings reseting every time game is updated
 * Fixed transition doors state saving (issue [#288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/288))
+* Fixed manufacturing process saving (issue [#468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/468))
 
 ## Items
 
