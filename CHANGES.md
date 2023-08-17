@@ -9,6 +9,7 @@
 * Fixed transition doors state saving (issue [#288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/288))
 * Fixed manufacturing process saving (issue [#468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/468))
 * Fixed recipes not showing ingredients sometimes (issue [#467](https://github.com/loiste-interactive/Obenseuer-Issues/issues/467))
+* Fixed duplicating tasks (issue [#204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/204))
 
 ## Items
 
@@ -19,6 +20,10 @@
 * Fixed ownership of kitchen tools (issue [#466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/466))
 * Fixed rat cage collisions (issue [#478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/478))
 * Fixed beer crate snap point  (issue [#471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/471))
+
+## Interior Tenement Deekula B
+
+* Fixed basement door showing always ??? (issue [#229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/229))
 
 ## Interior Tenement Deekula Mine Enterance
 
