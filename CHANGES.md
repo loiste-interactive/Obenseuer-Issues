@@ -2,6 +2,10 @@
 
 * Fixed RM not saving (issue [#494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/494))
 
+## Items
+
+* Fixed ruined mash price
+
 ## Furniture
 
 * Fixed Sawbuck price
