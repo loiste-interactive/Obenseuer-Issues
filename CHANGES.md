@@ -25,6 +25,10 @@
 * Fixed rat cage collisions (issue [#478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/478))
 * Fixed beer crate snap point  (issue [#471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/471))
 
+## Interior Player Tenement
+
+* Removed the bucket toilet from player's apartment makeshift bathroom upgrade (issue [#483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/483))
+
 ## Interior Tenement Deekula B
 
 * Fixed basement door showing always ??? (issue [#229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/229))
