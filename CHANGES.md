@@ -11,6 +11,7 @@
 * Fixed recipes not showing ingredients sometimes (issue [#467](https://github.com/loiste-interactive/Obenseuer-Issues/issues/467))
 * Fixed duplicating tasks (issue [#204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/204))
 * Fixed bleeding effect going over a 100% (issue [#488](https://github.com/loiste-interactive/Obenseuer-Issues/issues/488))
+* Fixed fuel not burning when outside the map (issue [#472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/472))
 
 ## Items
 
