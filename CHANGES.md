@@ -12,6 +12,8 @@
 * Fixed duplicating tasks (issue [#204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/204))
 * Fixed bleeding effect going over a 100% (issue [#488](https://github.com/loiste-interactive/Obenseuer-Issues/issues/488))
 * Fixed fuel not burning when outside the map (issue [#472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/472))
+* Fixed crafting not counting time spent outside the map
+* Fixed perishable items not counting time spent outside the map
 
 ## Items
 
