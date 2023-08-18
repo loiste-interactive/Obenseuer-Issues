@@ -6,11 +6,11 @@
 
 ## Items
 
-* Fixed ruined mash price
+* Changed ruined mash price
 
 ## Furniture
 
-* Fixed Sawbuck price
+* Changed Sawbuck price
 
 # August 18th 2023 (Version 0.3.07)
 
