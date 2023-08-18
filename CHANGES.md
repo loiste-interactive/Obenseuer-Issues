@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed RM not saving (issue [#494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/494))
+* Fixed process crafting (mashing) time being multipiled by amount you're making
 
 ## Items
 
