@@ -15,6 +15,10 @@
 * Fixed crafting not counting time spent outside the map
 * Fixed perishable items not counting time spent outside the map
 
+## Tasks
+
+* Mr. Duck's blue duck rescue task is not being present on the list of tasks (issue [#390](https://github.com/loiste-interactive/Obenseuer-Issues/issues/390))
+
 ## Items
 
 * Removed glow from RM coins (issue [#460](https://github.com/loiste-interactive/Obenseuer-Issues/issues/460))
