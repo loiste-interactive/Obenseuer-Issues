@@ -2,6 +2,10 @@
 
 * Fixed RM not saving (issue [#494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/494))
 
+## Furniture
+
+* Fixed Sawbuck price
+
 # August 18th 2023 (Version 0.3.07)
 
 * Added cents to RM
