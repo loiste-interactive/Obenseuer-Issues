@@ -1,5 +1,7 @@
 # Upcoming
 
+# August 18th 2023 (Version 0.3.07)
+
 * Added cents to RM
 * Fixed blueprint and recipe spawners (issue [#381](https://github.com/loiste-interactive/Obenseuer-Issues/issues/381))
 * Fixed rats and plants not growing when the player is in another map (issue [#394](https://github.com/loiste-interactive/Obenseuer-Issues/issues/394))
