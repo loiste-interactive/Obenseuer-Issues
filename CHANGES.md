@@ -11,6 +11,7 @@
 * Added sugar shroom mash
 * Added apple mash
 * Added apple shroom mash
+* Added brewing recipes
 * Changed mashes to not need sugar
 * Changed shroom mashes to not need yeast
 * Balanced mash prices
