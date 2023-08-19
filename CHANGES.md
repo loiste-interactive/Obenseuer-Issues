@@ -18,6 +18,8 @@
 
 ## Items
 
+* Added cider
+* Added mushroom cider
 * Added sugar mash
 * Added sugar shroom mash
 * Added apple shroom mash
