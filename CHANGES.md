@@ -24,6 +24,7 @@
 ## Furniture
 
 * Changed Sawbuck price
+* Reduced medium moonshine still collision area (issue [#498](https://github.com/loiste-interactive/Obenseuer-Issues/issues/498))
 
 # August 18th 2023 (Version 0.3.07)
 
