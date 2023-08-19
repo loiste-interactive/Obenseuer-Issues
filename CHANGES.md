@@ -4,6 +4,12 @@
 * Fixed process crafting (mashing) time being multipiled by amount you're making
 * Fixed mashing ignoring player skill
 
+## Recpies
+
+* Added sugar mash
+* Changed mashes to not need sugar
+* Changed shroom mashes to not needyeast
+
 ## Items
 
 * Changed ruined mash price
