@@ -7,11 +7,17 @@
 ## Recpies
 
 * Added sugar mash
+* Added sugar shroom mash
+* Added apple mash
+* Added apple shroom mash
 * Changed mashes to not need sugar
 * Changed shroom mashes to not needyeast
 
 ## Items
 
+* Added sugar mash
+* Added sugar shroom mash
+* Added apple shroom mash
 * Changed ruined mash price
 
 ## Furniture
