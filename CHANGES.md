@@ -11,7 +11,7 @@
 * Added apple mash
 * Added apple shroom mash
 * Changed mashes to not need sugar
-* Changed shroom mashes to not needyeast
+* Changed shroom mashes to not need yeast
 
 ## Items
 
