@@ -27,6 +27,7 @@
 
 ## Items
 
+* Adjusted alcoholic beverage stats and prices
 * Added bottoms (distillation residue)
 * Added moonshines
 * Added cider
