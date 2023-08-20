@@ -12,6 +12,7 @@
 * Fixed item UI not showing correct alcohol & shroom amount
 * Fixed consuming items ignoring item quality and other factors
 * Fixed lightcullcontrollers spamming exceptions on console (issue [#499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/499))
+* Fixed save/load preventing storages from respawning (affects also O-Market and General Store)
 
 ## Recpies
 
