@@ -27,6 +27,7 @@
 
 ## Items
 
+* Added bottoms (distillation residue)
 * Added moonshines
 * Added cider
 * Added mushroom cider
