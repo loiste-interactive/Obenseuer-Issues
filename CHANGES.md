@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added modifier icons to manufacturing tools
 * Added efficiency icon & tooltip to manufacturing tools
 * Added loading screen tips about machine and item quality
 * Fixed sorting occasionally dropping a ton of empty items
