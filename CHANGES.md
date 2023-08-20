@@ -1,6 +1,6 @@
 # Upcoming
 
-* Added Loading screen tips about machine and item quality
+* Added loading screen tips about machine and item quality
 * Fixed RM not saving (issue [#494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/494))
 * Fixed process crafting (mashing) time being multipiled by amount you're making
 * Fixed mashing ignoring player skill
