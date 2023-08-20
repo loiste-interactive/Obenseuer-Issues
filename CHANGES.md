@@ -15,6 +15,7 @@
 
 ## Recpies
 
+* Added moonshine recipes (distillery)
 * Added sugar mash
 * Added sugar shroom mash
 * Added apple mash
