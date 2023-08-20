@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added moonshines
 * Added cider
 * Added mushroom cider
 * Added sugar mash
