@@ -37,6 +37,7 @@
 * Added sugar shroom mash
 * Added apple shroom mash
 * Changed ruined mash price
+* Fixed Septi Low price (issue [#502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/502))
 
 ## Furniture
 
