@@ -7,6 +7,7 @@
 * Fixed mashing ignoring player skill
 * Fixed liquid filling containers to full even if there is less than that amount to fill (issue [#474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/474))
 * Fixed sorting ignoring liquids in container (issue [#458](https://github.com/loiste-interactive/Obenseuer-Issues/issues/458))
+* Fixed item UI not showing correct alcohol amount
 
 ## Recpies
 
