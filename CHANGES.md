@@ -6,6 +6,7 @@
 * Fixed process crafting (mashing) time being multipiled by amount you're making
 * Fixed mashing ignoring player skill
 * Fixed liquid filling containers to full even if there is less than that amount to fill (issue [#474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/474))
+* Fixed sorting ignoring liquids in container (issue [#458](https://github.com/loiste-interactive/Obenseuer-Issues/issues/458))
 
 ## Recpies
 
