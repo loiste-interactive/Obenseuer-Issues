@@ -18,6 +18,8 @@
 
 ## Recipes
 
+* Added composting recipe for ruined mash
+* Added composting recipe for bottoms
 * Added moonshine recipes (distillery)
 * Added sugar mash
 * Added sugar shroom mash
