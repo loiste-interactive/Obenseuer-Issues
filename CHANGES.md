@@ -30,6 +30,8 @@
 
 ## Items
 
+* Added meatballs
+* Added smashed potatoes
 * Adjusted alcoholic beverage stats and prices
 * Added bottoms (distillation residue)
 * Added moonshines
