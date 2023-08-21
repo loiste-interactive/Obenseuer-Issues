@@ -14,7 +14,7 @@
 * Fixed lightcullcontrollers spamming exceptions on console (issue [#499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/499))
 * Fixed save/load preventing storages from respawning (affects also O-Market and General Store)
 
-## Recpies
+## Recipes
 
 * Added moonshine recipes (distillery)
 * Added sugar mash
@@ -43,6 +43,10 @@
 
 * Changed Sawbuck price
 * Reduced medium moonshine still collision area (issue [#498](https://github.com/loiste-interactive/Obenseuer-Issues/issues/498))
+
+## Interior Player Tenement
+
+* Fixed missing wardrobe collider (issue [#496](https://github.com/loiste-interactive/Obenseuer-Issues/issues/496))
 
 # August 18th 2023 (Version 0.3.07)
 
