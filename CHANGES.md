@@ -13,6 +13,7 @@
 * Fixed consuming items ignoring item quality and other factors
 * Fixed lightcullcontrollers spamming exceptions on console (issue [#499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/499))
 * Fixed save/load preventing storages from respawning (affects also O-Market and General Store)
+* Fixed wieldable items not working correctly after loading (issue [#392](https://github.com/loiste-interactive/Obenseuer-Issues/issues/392), issue [#491](https://github.com/loiste-interactive/Obenseuer-Issues/issues/491))
 
 ## Recipes
 
