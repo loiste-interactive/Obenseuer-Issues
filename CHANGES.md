@@ -55,6 +55,7 @@
 
 ## Furniture
 
+* Added flowerpot blueprint
 * Changed Sawbuck price
 * Reduced medium moonshine still collision area (issue [#498](https://github.com/loiste-interactive/Obenseuer-Issues/issues/498))
 
