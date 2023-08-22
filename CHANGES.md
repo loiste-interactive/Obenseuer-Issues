@@ -42,6 +42,7 @@
 
 ## Items
 
+* Added quality to meats
 * Addded empty flowerpot
 * Added meatballs
 * Added smashed potatoes
