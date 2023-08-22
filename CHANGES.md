@@ -25,6 +25,7 @@
 
 ## Recipes
 
+* Added flour recipes
 * Added composting recipe for ruined mash
 * Added composting recipe for bottoms
 * Added moonshine recipes (distillery)
