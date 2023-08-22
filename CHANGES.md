@@ -18,6 +18,10 @@
 * Fixed liquid quality to not affect container price
 * Fixed RM counter
 
+## Tasks
+
+* Added more objectives to Getting Started task (issue [#403](https://github.com/loiste-interactive/Obenseuer-Issues/issues/403))
+
 ## Recipes
 
 * Added composting recipe for ruined mash
