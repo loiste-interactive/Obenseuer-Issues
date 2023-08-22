@@ -25,6 +25,8 @@
 
 ## Recipes
 
+* Added hot dog weiner recipe
+* Added glowing hot dog weiner recipe
 * Added flour recipes
 * Added composting recipe for ruined mash
 * Added composting recipe for bottoms
