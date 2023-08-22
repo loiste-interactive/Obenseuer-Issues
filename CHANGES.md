@@ -39,6 +39,7 @@
 
 ## Items
 
+* Addded empty flowerpot
 * Added meatballs
 * Added smashed potatoes
 * Adjusted alcoholic beverage stats and prices
