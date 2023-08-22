@@ -45,6 +45,7 @@
 * Addded empty flowerpot
 * Added meatballs
 * Added smashed potatoes
+* Adjusted canned vegetables prices to include the jar price
 * Adjusted alcoholic beverage stats and prices
 * Adjusted plant prices
 * Added bottoms (distillation residue)
