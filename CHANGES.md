@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added sounds to moonshine distillery
 * Added modifier icons to manufacturing tools
 * Added efficiency icon & tooltip to manufacturing tools
 * Added loading screen tips about machine and item quality
