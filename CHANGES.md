@@ -43,6 +43,7 @@
 * Added meatballs
 * Added smashed potatoes
 * Adjusted alcoholic beverage stats and prices
+* Adjusted plant prices
 * Added bottoms (distillation residue)
 * Added moonshines
 * Added cider
