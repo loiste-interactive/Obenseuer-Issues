@@ -17,6 +17,7 @@
 * Fixed save/load preventing storages from respawning (affects also O-Market and General Store)
 * Fixed wieldable items not working correctly after loading (issue [#392](https://github.com/loiste-interactive/Obenseuer-Issues/issues/392), issue [#491](https://github.com/loiste-interactive/Obenseuer-Issues/issues/491))
 * Fixed wieldable items making flashlight noises when flashlight is equipped (issue [#149](https://github.com/loiste-interactive/Obenseuer-Issues/issues/149))
+* Fixed toilet saving not saving player position correctly (issue [#504](https://github.com/loiste-interactive/Obenseuer-Issues/issues/504))
 * Fixed liquid quality to not affect container price
 * Fixed RM counter
 
