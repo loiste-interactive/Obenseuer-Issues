@@ -44,6 +44,7 @@
 
 ## Items
 
+* Added model to fish eggs
 * Added quality to meats
 * Addded empty flowerpot
 * Added meatballs
