@@ -27,6 +27,7 @@
 
 ## Recipes
 
+* Added sahti mash recipe
 * Added ale recipe
 * Added ale mash recipe
 * Added hot dog weiner recipe
