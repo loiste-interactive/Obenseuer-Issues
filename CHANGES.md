@@ -48,6 +48,7 @@
 
 ## Items
 
+* Added väkisahti
 * Added sahti
 * Added ale
 * Added ale mash
