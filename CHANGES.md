@@ -44,6 +44,7 @@
 
 ## Items
 
+* Added Sahti Mash
 * Added juniper branches
 * Added juniper berries
 * Added model to fish eggs
