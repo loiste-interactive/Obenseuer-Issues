@@ -46,6 +46,7 @@
 
 ## Items
 
+* Added sahti
 * Added ale
 * Added ale mash
 * Added sahti Mash
