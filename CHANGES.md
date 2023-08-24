@@ -27,6 +27,7 @@
 
 ## Recipes
 
+* Added ale mash recipe
 * Added hot dog weiner recipe
 * Added glowing hot dog weiner recipe
 * Added flour recipes
