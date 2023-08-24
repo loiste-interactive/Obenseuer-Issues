@@ -44,6 +44,7 @@
 
 ## Items
 
+* Added juniper branches
 * Added juniper berries
 * Added model to fish eggs
 * Added quality to meats
