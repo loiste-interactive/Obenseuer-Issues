@@ -27,6 +27,7 @@
 
 ## Recipes
 
+* Added väkisahti recipe
 * Added sahti recipe
 * Added sahti mash recipe
 * Added ale recipe
