@@ -44,6 +44,7 @@
 
 ## Items
 
+* Added ale
 * Added ale mash
 * Added sahti Mash
 * Added juniper branches
