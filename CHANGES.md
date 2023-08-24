@@ -73,6 +73,8 @@
 * Added apple shroom mash
 * Changed ruined mash price
 * Fixed Septi Low price (issue [#502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/502))
+* Fixed some soups not giving bowl back
+* Fixed disposable bowl soups decaying into bowl of mold
 
 ## Furniture
 
