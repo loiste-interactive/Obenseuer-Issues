@@ -6,6 +6,7 @@
 * Added efficiency icon & tooltip to manufacturing tools
 * Added loading screen tips about machine and item quality
 * Pentti now sells canisters at a discount
+* Fixed Duck achievement triggering when loading saves (issue [#489](https://github.com/loiste-interactive/Obenseuer-Issues/issues/489))
 * Fixed sorting occasionally dropping a ton of empty items
 * Fixed RM not saving (issue [#494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/494))
 * Fixed process crafting (mashing) time being multipiled by amount you're making
