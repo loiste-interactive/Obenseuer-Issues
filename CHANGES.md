@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added Interior Tenement B
 * Added sounds to moonshine distillery
 * Added modifier icons to manufacturing tools
 * Added efficiency icon & tooltip to manufacturing tools
