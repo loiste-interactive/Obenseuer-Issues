@@ -23,6 +23,7 @@
 * Fixed liquid quality to not affect container price
 * Fixed RM counter
 * Fixed lockpicking skill rewards
+* Fixed sauna stove UI (issue [#445](https://github.com/loiste-interactive/Obenseuer-Issues/issues/445))
 
 ## Tasks
 
