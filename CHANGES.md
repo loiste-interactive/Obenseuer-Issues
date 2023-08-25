@@ -21,6 +21,7 @@
 * Fixed toilet saving not saving player position correctly (issue [#504](https://github.com/loiste-interactive/Obenseuer-Issues/issues/504))
 * Fixed liquid quality to not affect container price
 * Fixed RM counter
+* Fixed lockpicking skill rewards
 
 ## Tasks
 
