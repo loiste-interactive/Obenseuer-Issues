@@ -24,6 +24,7 @@
 * Fixed RM counter
 * Fixed lockpicking skill rewards
 * Fixed sauna stove UI (issue [#445](https://github.com/loiste-interactive/Obenseuer-Issues/issues/445))
+* Fixed items vanishing when merging stacks (issue [#444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/444))
 
 ## Tasks
 
