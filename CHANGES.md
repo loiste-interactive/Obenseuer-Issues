@@ -1,6 +1,6 @@
 # Upcoming
 
-* Player no longer produce 0-quality items.
+* Player no longer produces 0-quality items.
 
 # August 28th 2023 (Version 0.3.08)
 
