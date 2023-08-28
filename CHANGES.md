@@ -2,6 +2,10 @@
 
 * Player no longer produces 0-quality items.
 
+## Items
+
+* Fixed player burning all cigarettes from a pack at once
+
 # August 28th 2023 (Version 0.3.08)
 
 * Added Interior Tenement B
