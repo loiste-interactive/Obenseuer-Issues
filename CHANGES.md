@@ -1,5 +1,7 @@
 # Upcoming
 
+# August 28th 2023 (Version 0.3.08)
+
 * Added Interior Tenement B
 * Added sounds to moonshine distillery
 * Added modifier icons to manufacturing tools
