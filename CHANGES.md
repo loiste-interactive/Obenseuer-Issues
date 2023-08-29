@@ -17,6 +17,10 @@
 
 * Added apartment size texts
 
+## Interior Tenement B
+
+* Fixed crouching in the corner near the Passmore doors causing the scene to getting darker (issue [#516](https://github.com/loiste-interactive/Obenseuer-Issues/issues/516))
+
 # August 28th 2023 (Version 0.3.08)
 
 * Added Interior Tenement B
