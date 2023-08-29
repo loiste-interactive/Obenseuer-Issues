@@ -11,6 +11,10 @@
 
 * Jomppe Kurahaara now mentions about greenhouse stove and about the effect of temperature on plants
 
+## Tenement System 
+
+* Added apartment size texts
+
 # August 28th 2023 (Version 0.3.08)
 
 * Added Interior Tenement B
