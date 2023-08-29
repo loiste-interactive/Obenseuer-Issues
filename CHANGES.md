@@ -14,6 +14,7 @@
 ## Tasks
 
 * Jomppe Kurahaara now mentions about greenhouse stove and about the effect of temperature on plants
+* Fixed not being able to give back a blue duck to Mr. Duck (issue [#520](https://github.com/loiste-interactive/Obenseuer-Issues/issues/520))
 
 ## Tenement System 
 
