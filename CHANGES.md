@@ -1,6 +1,7 @@
 # Upcoming
 
 * Player no longer produces 0-quality items
+* Halved addiction reduction rate (again)
 * Fixed glowing things not working in some maps
 * Fixed ambient color not always working in some maps (issue [#510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/510))
 
