@@ -7,6 +7,10 @@
 
 * Fixed player burning all cigarettes from a pack at once
 
+## Tasks
+
+* Jomppe Kurahaara now mentions about greenhouse stove and about the effect of temperature on plants
+
 # August 28th 2023 (Version 0.3.08)
 
 * Added Interior Tenement B
