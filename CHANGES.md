@@ -1,5 +1,6 @@
 # Upcoming
 
+* Using toilet no-longer autosaves
 * Player no longer produces 0-quality items
 * Halved addiction reduction rate (again)
 * Fixed glowing things not working in some maps
