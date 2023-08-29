@@ -1,6 +1,7 @@
 # Upcoming
 
-* Player no longer produces 0-quality items.
+* Player no longer produces 0-quality items
+* Fixed glowing things not working in some maps
 
 ## Items
 
