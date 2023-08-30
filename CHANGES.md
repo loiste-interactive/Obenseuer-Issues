@@ -1,6 +1,6 @@
 # Upcoming
 
-* Adjusted skillgain from farming
+* Adjusted farming skill gain
 * Adjusted lockpicking skill gain
 * Using toilet no-longer autosaves
 * Player no longer produces 0-quality items
