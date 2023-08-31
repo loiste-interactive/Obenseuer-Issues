@@ -29,6 +29,7 @@
 * Added a tooltip to explain the daily income
 * Fixed redident RM income showing OC amount
 * Fixed Aleksi Kivi having wrong prefab when spawning to rented apartment
+* Fixed upgrade buttons not updating correctly
 
 ## Interior Tenement B
 
