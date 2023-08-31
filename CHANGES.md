@@ -10,6 +10,7 @@
 * Fixed glowing things not working in some maps
 * Fixed ambient color not always working in some maps (issue [#510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/510))
 * Fixed alcohol need turning to negative when alcohol addiction is 0 (issue [#515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/515))
+* Fixed money exchange income
 
 ## Items
 
@@ -25,6 +26,7 @@
 ## Tenement System 
 
 * Added apartment size texts
+* Added a tooltip to explain the daily income
 * Fixed redident RM income showing OC amount
 
 ## Interior Tenement B
