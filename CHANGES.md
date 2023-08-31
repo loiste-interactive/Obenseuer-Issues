@@ -40,6 +40,10 @@
 * Fixed crouching in the corner near the Passmore doors causing the scene to getting darker (issue [#516](https://github.com/loiste-interactive/Obenseuer-Issues/issues/516))
 * Fixed various elements saving states (issue [#523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/523))
 
+## Interior Player Tenement
+
+* Fixed apartments not being marked examined (issue [#508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/508))
+
 # August 28th 2023 (Version 0.3.08)
 
 * Added Interior Tenement B
