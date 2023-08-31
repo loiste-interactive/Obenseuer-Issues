@@ -34,6 +34,7 @@
 * Fixed npcs not disappearing after rent
 * Fixed storages with items being duplicated (issue [#513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/513))
 * Fixed storages not showing items first time when re-placed (issue [#469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/469))
+* Fixed some machines showing containing items when there are none (issue [#465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/465))
 
 ## Interior Tenement B
 
