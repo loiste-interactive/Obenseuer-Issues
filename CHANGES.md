@@ -25,6 +25,7 @@
 ## Tenement System 
 
 * Added apartment size texts
+* Fixed redident RM income showing OC amount
 
 ## Interior Tenement B
 
