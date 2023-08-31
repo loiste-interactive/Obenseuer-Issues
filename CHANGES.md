@@ -30,6 +30,7 @@
 * Fixed redident RM income showing OC amount
 * Fixed Aleksi Kivi having wrong prefab when spawning to rented apartment
 * Fixed upgrade buttons not updating correctly
+* Fixed npcs not disappearing after rent
 
 ## Interior Tenement B
 
