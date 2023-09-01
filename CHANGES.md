@@ -38,6 +38,11 @@
 * Fixed storages not showing items first time when re-placed (issue [#469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/469))
 * Fixed some machines showing containing items when there are none (issue [#465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/465))
 
+
+## Interior Tenement O-market
+
+* O-Market now sells hops
+
 ## Interior Tenement Pharmacy
 
 * Adjusted restocking
