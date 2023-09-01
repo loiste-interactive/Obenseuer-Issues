@@ -12,6 +12,7 @@
 * Fixed ambient color not always working in some maps (issue [#510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/510))
 * Fixed alcohol need turning to negative when alcohol addiction is 0 (issue [#515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/515))
 * Fixed being able to put any item to hand slots (issue [#511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/511))
+* Fixed super flashlight clipping through walls (issue [#530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/530))
 * Fixed money exchange income
 
 ## Items
