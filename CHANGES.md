@@ -18,9 +18,16 @@
 
 ## Items
 
+* Added french fries
+* Added frozen french fries
 * Added tablesalt
 * Fixed player burning all cigarettes from a pack at once
 * Fish eggs are now edible
+
+## Recipes
+
+* Added fish 'n chips recipe
+* Added steak with fries
 
 ## Tasks
 
