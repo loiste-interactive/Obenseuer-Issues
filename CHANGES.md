@@ -14,6 +14,7 @@
 * Fixed being able to put any item to hand slots (issue [#511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/511))
 * Fixed super flashlight clipping through walls (issue [#530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/530))
 * Fixed money exchange income
+* Fixed storage visible items spoiling corrupting the storage (issue [#5170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/517))
 
 ## Items
 
