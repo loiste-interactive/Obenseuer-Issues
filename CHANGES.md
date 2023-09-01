@@ -26,6 +26,7 @@
 
 ## Recipes
 
+* Added french fries recipe
 * Added fish 'n chips recipe
 * Added steak with fries
 
