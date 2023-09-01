@@ -44,6 +44,8 @@
 
 ## Interior Tenement O-market
 
+* O-Market now sells meatballs
+* O-Market now sells mashed potatoes
 * O-Market now sells salt
 * O-Market now sells hops
 * Fixed cheese not restocking
