@@ -44,6 +44,7 @@
 
 ## Interior Tenement O-market
 
+* O-Market now sells salt
 * O-Market now sells hops
 * Fixed cheese not restocking
 * Fixed not being able to put cheese in the cheese refigerator
