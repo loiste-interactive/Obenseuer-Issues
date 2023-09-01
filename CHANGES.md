@@ -18,6 +18,7 @@
 ## Items
 
 * Fixed player burning all cigarettes from a pack at once
+* Fish eggs are now edible
 
 ## Tasks
 
