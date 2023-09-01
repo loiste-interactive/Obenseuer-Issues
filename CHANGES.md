@@ -42,6 +42,7 @@
 ## Interior Tenement O-market
 
 * O-Market now sells hops
+* Fixed cheese not restocking
 
 ## Interior Tenement Pharmacy
 
