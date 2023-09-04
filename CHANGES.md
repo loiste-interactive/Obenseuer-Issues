@@ -37,6 +37,10 @@
 * Fixed Getting Started not counting completed renovations (issue [#526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/526))
 * Fixed final payment objectives being checked off after load (issue [#524](https://github.com/loiste-interactive/Obenseuer-Issues/issues/524))
 
+## Furniture
+
+* Fixed rat cages being off-centered (issue [#479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/479))
+
 ## Tenement System 
 
 * Added apartment size texts
