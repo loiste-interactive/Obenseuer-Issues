@@ -16,6 +16,7 @@
 * Fixed money exchange income
 * Fixed storage visible items spoiling corrupting the storage (issue [#517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/517))
 * Fixed brick furnace save issues (issue [#531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/531))
+* Fixed mashing ignoring multiples of certain items (issue [#533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/533))
 
 ## Items
 
