@@ -5,6 +5,7 @@
 * Using toilet no-longer autosaves
 * Player no longer produces 0-quality items
 * Halved addiction reduction rate (again)
+* Compost and metal furnaces can now take mixed input
 * Added brightness slider (issue [#278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/278))
 * Changed flashlight movement (issue [#519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/519))
 * Changed uproot to the bottom of the plant (issue [#521](https://github.com/loiste-interactive/Obenseuer-Issues/issues/521))
