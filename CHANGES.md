@@ -21,6 +21,8 @@
 
 ## Items
 
+* Added bag of mold
+* Added plate of mold
 * Added french fries
 * Added frozen french fries
 * Added tablesalt
