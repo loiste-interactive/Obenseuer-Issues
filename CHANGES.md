@@ -18,6 +18,7 @@
 * Fixed storage visible items spoiling corrupting the storage (issue [#517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/517))
 * Fixed brick furnace save issues (issue [#531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/531))
 * Fixed mashing ignoring multiples of certain items (issue [#533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/533))
+* Fixed machines not outputting more than 1 type of liquid (issue [#252](https://github.com/loiste-interactive/Obenseuer-Issues/issues/252))
 
 ## Items
 
