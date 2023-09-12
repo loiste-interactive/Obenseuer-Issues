@@ -28,6 +28,7 @@
 * Added frozen french fries
 * Added tablesalt
 * Fixed player burning all cigarettes from a pack at once
+* Fixed Carl Fatler chocolate (issue [#537](https://github.com/loiste-interactive/Obenseuer-Issues/issues/537))
 * Fish eggs are now edible
 
 ## Recipes
