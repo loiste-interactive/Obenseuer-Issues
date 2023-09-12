@@ -1,5 +1,6 @@
 # Upcoming
 
+* Optimized lighting
 * Adjusted farming skill gain
 * Adjusted lockpicking skill gain
 * Using toilet no-longer autosaves
