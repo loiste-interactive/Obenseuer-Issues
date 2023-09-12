@@ -46,6 +46,10 @@
 
 ## Furniture
 
+* Added vitrine
+* Added nightstand
+* Added gaming chair
+* Added tuffet
 * Added simple plank furniture set
 * Fixed rat cages being off-centered (issue [#479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/479))
 
