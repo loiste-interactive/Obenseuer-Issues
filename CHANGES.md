@@ -46,6 +46,7 @@
 
 ## Furniture
 
+* Added simple plank furniture set
 * Fixed rat cages being off-centered (issue [#479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/479))
 
 ## Tenement System 
