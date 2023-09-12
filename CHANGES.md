@@ -88,6 +88,7 @@
 
 ## Interior Player Tenement
 
+* Added some starting blueprints
 * Fixed apartments not being marked examined (issue [#508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/508))
 
 # August 28th 2023 (Version 0.3.08)
