@@ -23,6 +23,7 @@
 
 ## Items
 
+* Added plywood
 * Added bag of mold
 * Added plate of mold
 * Added french fries
@@ -34,6 +35,7 @@
 
 ## Recipes
 
+* Added plywood recipe
 * Added french fries recipe
 * Added fish 'n chips recipe
 * Added steak with fries
