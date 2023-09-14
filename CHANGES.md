@@ -49,6 +49,7 @@
 
 ## Furniture
 
+* Added coat racks
 * Added wall lamp
 * Added wall flags
 * Added vitrine
