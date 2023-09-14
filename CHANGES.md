@@ -49,6 +49,7 @@
 
 ## Furniture
 
+* Added wall lamp
 * Added wall flags
 * Added vitrine
 * Added nightstand
