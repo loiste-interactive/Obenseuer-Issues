@@ -49,6 +49,7 @@
 
 ## Furniture
 
+* Added wall flags
 * Added vitrine
 * Added nightstand
 * Added gaming chair
