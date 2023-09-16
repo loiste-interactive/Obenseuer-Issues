@@ -35,6 +35,7 @@
 
 ## Recipes
 
+* Added collectable recipes for meals
 * Added plywood recipe
 * Added french fries recipe
 * Added fish 'n chips recipe
