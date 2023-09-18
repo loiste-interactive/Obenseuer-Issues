@@ -23,6 +23,7 @@
 
 ## Items
 
+* Added eggs
 * Added plywood
 * Added bag of mold
 * Added plate of mold
