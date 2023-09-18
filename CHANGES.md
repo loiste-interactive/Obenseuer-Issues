@@ -77,6 +77,7 @@
 
 ## Interior Tenement O-market
 
+* O-market now sells eggs
 * O-Market now sells meatballs
 * O-Market now sells mashed potatoes
 * O-Market now sells salt
