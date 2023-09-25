@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added manufacturing UI icons (issue [#7](https://github.com/loiste-interactive/Obenseuer-Issues/issues/7))
+* Showers now cool overheat
 * Optimized lighting
 * Adjusted farming skill gain
 * Adjusted lockpicking skill gain
