@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added effect to evil bear bag.
 * Added eggs
 * Added plywood
 * Added bag of mold
