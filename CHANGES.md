@@ -49,6 +49,7 @@
 * Added french fries recipe
 * Added fish 'n chips recipe
 * Added steak with fries
+* Boiling vegetables don't need water modifer anymore
 
 ## Tasks
 
