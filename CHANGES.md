@@ -71,6 +71,7 @@
 
 ## Tenement System 
 
+* Added stairs to the swimmign pools
 * Added apartment size texts
 * Added a tooltip to explain the daily income
 * Fixed redident RM income showing OC amount
