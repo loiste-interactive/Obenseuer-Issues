@@ -1,5 +1,6 @@
 # Upcoming
 
+* Implemented more achievements
 * Added manufacturing UI icons (issue [#7](https://github.com/loiste-interactive/Obenseuer-Issues/issues/7))
 * Boosted sauna depression reduction
 * Showers now cool overheat
