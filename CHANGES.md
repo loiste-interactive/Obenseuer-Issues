@@ -26,6 +26,7 @@
 * Fixed mashing ignoring multiples of certain items (issue [#533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/533))
 * Fixed machines not outputting more than 1 type of liquid (issue [#252](https://github.com/loiste-interactive/Obenseuer-Issues/issues/252))
 * Fixed wheat not giving harvest (issue [#541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/541))
+* Fixed being able to clip trhough walls by doing jump-uncrouch (issue [#85](https://github.com/loiste-interactive/Obenseuer-Issues/issues/85))
 
 ## Items
 
