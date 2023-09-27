@@ -50,6 +50,7 @@
 * Added fish 'n chips recipe
 * Added steak with fries
 * Boiling vegetables don't need water modifer anymore
+* Fixed failed bowl-meals not returning bowl (issue [#548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/548))
 
 ## Tasks
 
