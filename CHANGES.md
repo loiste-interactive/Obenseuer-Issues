@@ -16,6 +16,7 @@
 * Added brightness slider (issue [#278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/278))
 * Changed flashlight movement (issue [#519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/519))
 * Changed uproot to the bottom of the plant (issue [#521](https://github.com/loiste-interactive/Obenseuer-Issues/issues/521))
+* Fixed fog height not working in build (issue [#72](https://github.com/loiste-interactive/Obenseuer-Issues/issues/72))
 * Fixed glowing things not working in some maps
 * Fixed ambient color not always working in some maps (issue [#510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/510))
 * Fixed alcohol need turning to negative when alcohol addiction is 0 (issue [#515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/515))
