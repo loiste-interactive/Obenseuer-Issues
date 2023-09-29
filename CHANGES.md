@@ -1,6 +1,10 @@
 # Upcoming
 
-*
+## Interior Tenement Gatehouse
+
+* Fixed orange mushrooms grow states not saving when picking them up
+* Fixed rat states not saving when picking them up
+* Fixed the cave entrypoint being on the wrong side when coming from Tenement B
 
 # September 28th 2023 (Version 0.3.09)
 
