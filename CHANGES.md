@@ -1,6 +1,6 @@
 # Upcoming
 
-Fixed failed sort removing all items from inventory (issue [#555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/555))
+* Fixed failed sort removing all items from inventory (issue [#555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/555))
 
 ## Interior Tenement Gatehouse
 
