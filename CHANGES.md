@@ -6,6 +6,10 @@
 * Fixed rat states not saving when picking them up
 * Fixed the cave entrypoint being on the wrong side when coming from Tenement B
 
+## Interior Player Gatehouse
+
+* Fixed freezer texture issue (issue [#550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/550))
+
 # September 28th 2023 (Version 0.3.09)
 
 * Added Interior Tenement Gatehouse
