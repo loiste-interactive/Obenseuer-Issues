@@ -1,5 +1,7 @@
 # Upcoming
 
+Fixed failed sort removing all items from inventory (issue [#555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/555))
+
 ## Interior Tenement Gatehouse
 
 * Fixed orange mushrooms grow states not saving when picking them up
