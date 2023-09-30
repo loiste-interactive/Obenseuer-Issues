@@ -16,6 +16,10 @@
 
 * Fixed being unable to buy meatballs, fixed being unable to put yeast back in to the refigerator (issue [#549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/549))
 
+## Furniture
+
+* Fixed wall flag display mode (issue [#564](https://github.com/loiste-interactive/Obenseuer-Issues/issues/564))
+
 # September 28th 2023 (Version 0.3.09)
 
 * Added Interior Tenement Gatehouse
