@@ -23,6 +23,10 @@
 
 * Fixed wall flag display mode (issue [#564](https://github.com/loiste-interactive/Obenseuer-Issues/issues/564))
 
+## Items
+
+* Added a roll of tarp
+
 # September 28th 2023 (Version 0.3.09)
 
 * Added Interior Tenement Gatehouse
