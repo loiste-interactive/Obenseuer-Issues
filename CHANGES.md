@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added prison escape/released achievements
 * Fixed failed sort removing all items from inventory (issue [#555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/555))
 * Fixed crimes repeating by moving stolen goods in inventory (issue [#556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/556))
 * Fixed eating stuff straight from owned containers not counting as a crime (issue [#545](https://github.com/loiste-interactive/Obenseuer-Issues/issues/545))
