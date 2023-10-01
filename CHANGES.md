@@ -16,9 +16,13 @@
 
 * Fixed freezer texture issue (issue [#550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/550))
 
-## Interior O-Markete
+## Interior O-Market
 
 * Fixed being unable to buy meatballs, fixed being unable to put yeast back in to the refigerator (issue [#549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/549))
+
+## Interior Pharmacy
+
+* harassing Mona now gives crime
 
 ## Furniture
 
