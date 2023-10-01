@@ -34,6 +34,10 @@
 * Added a roll of tarp
 * Fixed winstead cigarettes giving alcohol addiction instead of shrooma addiction
 
+## Recipes
+
+* Fixed milk coffee recipe
+
 # September 28th 2023 (Version 0.3.09)
 
 * Added Interior Tenement Gatehouse
