@@ -14,6 +14,7 @@
 * Fixed the cave entrypoint being on the wrong side when coming from Tenement B
 * Fixed standing up in tight place causing clipping into ceiling (issue [#573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/573))
 * Fixed prison locks (issue [#562](https://github.com/loiste-interactive/Obenseuer-Issues/issues/562))
+* Fixed guard throwing player back to prison (issue [#560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/560))
 
 ## Interior Player Tenement
 
