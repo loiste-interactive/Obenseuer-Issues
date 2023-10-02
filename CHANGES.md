@@ -12,8 +12,9 @@
 * Fixed rat states not saving when picking them up
 * Fixed the cave entrypoint being on the wrong side when coming from Tenement B
 * Fixed standing up in tight place causing clipping into ceiling (issue [#573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/573))
+* Fixed prison locks (issue [#562](https://github.com/loiste-interactive/Obenseuer-Issues/issues/562))
 
-## Interior Player Gatehouse
+## Interior Player Tenement
 
 * Fixed freezer texture issue (issue [#550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/550))
 
