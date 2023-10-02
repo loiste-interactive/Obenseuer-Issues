@@ -5,6 +5,7 @@
 * Fixed crimes repeating by moving stolen goods in inventory (issue [#556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/556))
 * Fixed eating stuff straight from owned containers not counting as a crime (issue [#545](https://github.com/loiste-interactive/Obenseuer-Issues/issues/545))
 * Fixed getting prespiction medicine being a crime
+* Fixed pause menu brightness slider (issue [#551](https://github.com/loiste-interactive/Obenseuer-Issues/issues/551))
 
 ## Interior Tenement Gatehouse
 
