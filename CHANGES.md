@@ -45,6 +45,7 @@
 ## Recipes
 
 * Fixed milk coffee recipe
+* Changed pies to use milk cartns
 
 # September 28th 2023 (Version 0.3.09)
 
