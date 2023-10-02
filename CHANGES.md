@@ -11,6 +11,7 @@
 * Fixed orange mushrooms grow states not saving when picking them up
 * Fixed rat states not saving when picking them up
 * Fixed the cave entrypoint being on the wrong side when coming from Tenement B
+* Fixed standing up in tight place causing clipping into ceiling (issue [#573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/573))
 
 ## Interior Player Gatehouse
 
@@ -22,7 +23,11 @@
 
 ## Interior Pharmacy
 
-* harassing Mona now gives crime
+* Harassing Mona now gives crime
+
+## Interior Tenement Speakeasy
+
+* Fixed Simppa being called Jomppe in dialog (issue [#571](https://github.com/loiste-interactive/Obenseuer-Issues/issues/571))
 
 ## Furniture
 
