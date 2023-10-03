@@ -42,6 +42,7 @@
 * Added a roll of tarp
 * Fixed winstead cigarettes giving alcohol addiction instead of shrooma addiction
 * Fixed distilled alcohols not giving back bottle
+* Fixed bread stats
 
 ## Recipes
 
