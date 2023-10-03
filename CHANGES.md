@@ -16,6 +16,10 @@
 * Fixed prison locks (issue [#562](https://github.com/loiste-interactive/Obenseuer-Issues/issues/562))
 * Fixed guard throwing player back to prison (issue [#560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/560))
 
+## Interior TenementDeekula B
+
+* Harassing Jim now adds crime.
+
 ## Interior Player Tenement
 
 * Fixed freezer texture issue (issue [#550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/550))
