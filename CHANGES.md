@@ -55,7 +55,7 @@
 * Fixed crafting button sometimes being grayed out after crafting
 * Fixed crafting not removing items that has empty ammo data
 * Fixed items with empty ammo data being counted as one item
-* Recipes are now visible in the recipe list even if required container is missing
+* Recipes are now visible in the recipe list even if required container or water is missing
 
 # September 28th 2023 (Version 0.3.09)
 
