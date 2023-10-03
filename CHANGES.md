@@ -54,6 +54,7 @@
 * Fixed crafting liquids overriding the liquid amount in containers (issue [#226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/226))
 * Fixed crafting button sometimes being grayed out after crafting
 * Fixed crafting not removing items that has empty ammo data
+* Recipes are now visible in the recipe list even if required container is missing
 
 # September 28th 2023 (Version 0.3.09)
 
