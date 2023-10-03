@@ -51,6 +51,7 @@
 * Changed pies to use milk cartns
 * Fixed recipes with liquids not working (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed learned recipes not working sometimes (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
+* Fixed crafting liquids overriding the liquid amount in containers (issue [#226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/226))
 
 # September 28th 2023 (Version 0.3.09)
 
