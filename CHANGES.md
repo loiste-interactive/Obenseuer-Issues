@@ -52,7 +52,8 @@
 
 * Added red color to indicate missing ingredients (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed milk coffee recipe
-* Changed pies to use milk cartns
+* Changed pies to use milk cartons
+* Changed recipes to accept dirty water
 * Fixed recipes with liquids not working (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed learned recipes not working sometimes (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed crafting liquids overriding the liquid amount in containers (issue [#226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/226))
