@@ -7,6 +7,8 @@
 * Fixed getting prespiction medicine being a crime
 * Fixed pause menu brightness slider (issue [#551](https://github.com/loiste-interactive/Obenseuer-Issues/issues/551))
 * Fixed auto farming planting new plants after load (issue [#574](https://github.com/loiste-interactive/Obenseuer-Issues/issues/574))
+* Fixed vine plants uproot collision
+* Fixed vine plants spawning seed items to ground if amount is 0 (issue [#569](https://github.com/loiste-interactive/Obenseuer-Issues/issues/569))
 
 ## Interior Tenement Gatehouse
 
