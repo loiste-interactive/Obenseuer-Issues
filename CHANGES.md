@@ -10,6 +10,10 @@
 * Fixed vine plants uproot collision
 * Fixed vine plants spawning seed items to ground if amount is 0 (issue [#569](https://github.com/loiste-interactive/Obenseuer-Issues/issues/569))
 
+## Tenement System
+Fixed original furnitures giving duplicated child furnitures
+Fixed original furnitures respawning (issue [#558](https://github.com/loiste-interactive/Obenseuer-Issues/issues/558))
+
 ## Interior Tenement Gatehouse
 
 * Fixed orange mushrooms grow states not saving when picking them up
