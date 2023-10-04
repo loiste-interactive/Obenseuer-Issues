@@ -9,6 +9,7 @@
 * Fixed auto farming planting new plants after load (issue [#574](https://github.com/loiste-interactive/Obenseuer-Issues/issues/574))
 * Fixed vine plants uproot collision
 * Fixed vine plants spawning seed items to ground if amount is 0 (issue [#569](https://github.com/loiste-interactive/Obenseuer-Issues/issues/569))
+* Fixed saving causing issues in start level (issue [#580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/580))
 
 ## Tenement System
 Fixed original furnitures giving duplicated child furnitures
