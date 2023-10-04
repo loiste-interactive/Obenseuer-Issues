@@ -6,6 +6,7 @@
 * Fixed eating stuff straight from owned containers not counting as a crime (issue [#545](https://github.com/loiste-interactive/Obenseuer-Issues/issues/545))
 * Fixed getting prespiction medicine being a crime
 * Fixed pause menu brightness slider (issue [#551](https://github.com/loiste-interactive/Obenseuer-Issues/issues/551))
+* Fixed auto farming planting new plants after load (issue [#574](https://github.com/loiste-interactive/Obenseuer-Issues/issues/574))
 
 ## Interior Tenement Gatehouse
 
