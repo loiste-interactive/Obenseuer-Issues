@@ -17,6 +17,8 @@ Fixed original furnitures respawning (issue [#558](https://github.com/loiste-int
 
 ## Interior Tenement Gatehouse
 
+* Changed cell lockers to clear items only when you have left the prison (issue [#584](https://github.com/loiste-interactive/Obenseuer-Issues/issues/584))
+* Changed it clearer where the confiscate items are (issue [#584](https://github.com/loiste-interactive/Obenseuer-Issues/issues/584))
 * Fixed orange mushrooms grow states not saving when picking them up
 * Fixed rat states not saving when picking them up
 * Fixed the cave entrypoint being on the wrong side when coming from Tenement B
