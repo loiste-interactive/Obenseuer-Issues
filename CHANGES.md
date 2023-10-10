@@ -38,11 +38,15 @@
 
 ## Interior O-Market
 
-* Fixed being unable to buy meatballs, fixed being unable to put yeast back in to the refigerator (issue [#549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/549))
+* Fixed being unable to buy meatballs, fixed being unable to put yeast back in to the refigerator (issue [#587](https://github.com/loiste-interactive/Obenseuer-Issues/issues/549))
 
 ## Interior Pharmacy
 
 * Harassing Mona now gives crime
+
+## Interior Tenement Deekula Mine Interance
+
+* Fixed key crate state not saving (issue [#549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/587))
 
 ## Interior Tenement Speakeasy
 
