@@ -69,6 +69,7 @@
 * Fixed winstead cigarettes giving alcohol addiction instead of shrooma addiction
 * Fixed distilled alcohols not giving back bottle
 * Fixed bread stats
+* Fixed stacked pills consumption (issue [#590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/590))
 
 ## Recipes
 
