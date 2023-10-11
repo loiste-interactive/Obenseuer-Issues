@@ -56,6 +56,8 @@
 
 * Added chest freezer
 * Added refigerator
+* Added round cafeteria table
+* Added gray fancy wooden chair
 * Fixed wall flag display mode (issue [#564](https://github.com/loiste-interactive/Obenseuer-Issues/issues/564))
 * Fixed missing furniture asset paths (issue [#557](https://github.com/loiste-interactive/Obenseuer-Issues/issues/557))
 * Fixed pricing on plastic barrels (issue [#588](https://github.com/loiste-interactive/Obenseuer-Issues/issues/588))
