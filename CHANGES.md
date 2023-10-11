@@ -10,6 +10,7 @@
 * Fixed vine plants uproot collision
 * Fixed vine plants spawning seed items to ground if amount is 0 (issue [#569](https://github.com/loiste-interactive/Obenseuer-Issues/issues/569))
 * Fixed saving causing issues in start level (issue [#580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/580))
+* Fixed player camera start direction not working on map change
 
 ## Tenement System
 
