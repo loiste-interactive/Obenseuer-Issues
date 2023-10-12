@@ -74,6 +74,7 @@
 ## Recipes
 
 * Added red color to indicate missing ingredients (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
+* Added smashed potatoes recipe (issue [#591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/591))
 * Fixed milk coffee recipe
 * Changed pies to use milk cartons
 * Changed recipes to accept dirty water
