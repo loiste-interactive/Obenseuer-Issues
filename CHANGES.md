@@ -57,6 +57,7 @@
 
 ## Furniture
 
+* Added decorative flags
 * Added chest freezer
 * Added refigerator
 * Added round cafeteria table
