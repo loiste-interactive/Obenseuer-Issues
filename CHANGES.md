@@ -76,6 +76,7 @@
 
 ## Recipes
 
+* Added pierogi recipe
 * Added red color to indicate missing ingredients (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Added smashed potatoes recipe (issue [#591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/591))
 * Fixed milk coffee recipe
