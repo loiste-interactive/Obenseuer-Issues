@@ -16,6 +16,7 @@
 
 ## Tenement System
 
+* Cleaning mushroom growth and graffitis now require chemicals
 * Fixed original furnitures giving duplicated child furnitures
 * Fixed original furnitures respawning (issue [#558](https://github.com/loiste-interactive/Obenseuer-Issues/issues/558))
 * Adjusted radio sounds radius and volume (issue [#583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/583))
