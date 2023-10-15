@@ -69,15 +69,20 @@
 
 ## Items
 
+* Added mushroom extract
+* Added poisoned wine
 * Added pierogi
 * Added a roll of tarp
 * Fixed winstead cigarettes giving alcohol addiction instead of shrooma addiction
 * Fixed distilled alcohols not giving back bottle
 * Fixed bread stats
 * Fixed stacked pills consumption (issue [#590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/590))
+* Fixed not being able to pick up syringes
 
 ## Recipes
 
+* Added mushroom extract
+* Added poisoned wine
 * Added pierogi recipe
 * Added red color to indicate missing ingredients (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Added smashed potatoes recipe (issue [#591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/591))
