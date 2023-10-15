@@ -82,6 +82,7 @@
 
 ## Recipes
 
+* Added pure green mushrooms recipe
 * Added mushroom extract
 * Added poisoned wine
 * Added pierogi recipe
