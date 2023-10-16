@@ -95,7 +95,7 @@
 * Fixed recipes with liquids not working (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed learned recipes not working sometimes (issue [#575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/575))
 * Fixed crafting liquids overriding the liquid amount in containers (issue [#226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/226))
-* Fixed crafting button sometimes being grayed out after crafting
+* Fixed crafting button sometimes being grayed out after crafting (issue [#457](https://github.com/loiste-interactive/Obenseuer-Issues/issues/457))
 * Fixed crafting not removing items that has empty ammo data
 * Fixed items with empty ammo data being counted as one item
 * Recipes are now visible in the recipe list even if required container or water is missing
