@@ -1,6 +1,5 @@
 # Upcoming
 
-* Added a task for Ville Sköldganster
 * Added prison escape/released achievements
 * Added pickaxe animations (issue [#13](https://github.com/loiste-interactive/Obenseuer-Issues/issues/13))
 * Mr. Bag's goods are now refigerated
@@ -17,6 +16,9 @@
 * Fixed saving causing issues in start level (issue [#580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/580))
 * Fixed player camera start direction not working on map change
 * Fixed crafting liquids not giving correct amounts
+
+## Tasks
+* Added a task for Ville Sköldganster
 
 ## Tenement System
 
