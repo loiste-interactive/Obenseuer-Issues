@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added a task for Ville Sköldganster
 * Added prison escape/released achievements
 * Added pickaxe animations (issue [#13](https://github.com/loiste-interactive/Obenseuer-Issues/issues/13))
 * Mr. Bag's goods are now refigerated
