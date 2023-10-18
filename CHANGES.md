@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added opening animations (more than just the latch) for map change doors.
+* Added door closing sound when player enters the map via door.
 * Added prison escape/released achievements
 * Added pickaxe animations (issue [#13](https://github.com/loiste-interactive/Obenseuer-Issues/issues/13))
 * Mr. Bag's goods are now refigerated
