@@ -6,6 +6,10 @@
 * Fixed Kurahaara stall not opening
 * Fixed getting stuck on player canal toilet
 
+## Interior Tenement Caravan
+
+* Fixed player spawning inside the wall
+
 ## Items
 
 * Adjusted backpack price
