@@ -3,6 +3,7 @@
 ## Open Sewer Tenement
 
 * Fixed One stop shop not opening
+* Fixed Kurahaara stall not opening
 
 ## Items
 
