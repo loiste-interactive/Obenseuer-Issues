@@ -1,5 +1,9 @@
 # Upcoming
 
+## Open Sewer Tenement
+
+* Fixed One stop shop not opening
+
 ## Items
 
 * Adjusted backpack price
