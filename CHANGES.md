@@ -77,6 +77,7 @@
 
 ## Items
 
+* Added backpack
 * Added mushroom extract
 * Added poisoned wine
 * Added pierogi
