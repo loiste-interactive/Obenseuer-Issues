@@ -1,5 +1,16 @@
 # Upcoming
 
+# October 19th 2023 (Version 0.3.10)
+
+* Added Open Sewer Tenement
+* Added Interior Tenement Bus
+* Added Interior Tenement Caravan
+* Added Interior Tenement House3
+* Added Interior Tenement LotShack1
+* Added Interior Tenement LotShack2
+* Added Interior Tenement LotShack3
+* Added Interior Tenement Player Canal Saunas
+* Added Interior Tenement Redemption Militia
 * Added opening animations (more than just the latch) for map change doors.
 * Added door closing sound when player enters the map via door.
 * Added prison escape/released achievements
