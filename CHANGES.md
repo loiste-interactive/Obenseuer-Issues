@@ -30,6 +30,7 @@
 ## Tenement System
 
 * Cleaning biohazard bags doesn't consume full bottle of disinfectant
+* Cleaning graffiti and dirt doesn't consume full bottle of cleaning spray
 * Fixed small apartments missing walls
 
 ## Recipes
