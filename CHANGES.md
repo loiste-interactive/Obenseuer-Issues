@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed crafting station sounds playing after saveload, even when the device itself is off.
+
 ## Open Sewer Tenement
 
 * Fixed One stop shop not opening
