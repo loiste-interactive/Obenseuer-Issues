@@ -18,6 +18,7 @@
 
 * Adjusted backpack price
 * Disinfectant now has multiple uses
+* Cleaning spray now has multiple uses
 
 ## Furniture
 
