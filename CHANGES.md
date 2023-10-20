@@ -23,7 +23,7 @@
 
 ## Tenement System
 
-* Cleaning trash is now cheaper
+* Cleaning biohazard bags doesn't consume full bottle of disinfectant
 
 # October 19th 2023 (Version 0.3.10)
 
