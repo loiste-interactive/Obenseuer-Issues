@@ -1,5 +1,6 @@
 # Upcoming
 
+* Increased start addiction values
 * Fixed crafting station sounds playing after saveload, even when the device itself is off.
 * General trader now sells more goods.
 
