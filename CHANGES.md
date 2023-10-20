@@ -30,6 +30,10 @@
 * Cleaning biohazard bags doesn't consume full bottle of disinfectant
 * Fixed small apartments missing walls
 
+## Recipes
+
+* Increased lockpic recipes fail change
+
 # October 19th 2023 (Version 0.3.10)
 
 * Added Open Sewer Tenement
