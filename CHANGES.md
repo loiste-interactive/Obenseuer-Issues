@@ -15,7 +15,7 @@
 ## Items
 
 * Adjusted backpack price
-* Disinfectant now has uses
+* Disinfectant now has multiple uses
 
 ## Furniture
 
