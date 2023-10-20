@@ -11,6 +11,7 @@
 
 * Added Tatyana to give bottle recycling and pea soup quest at the beginning
 * Added Redemption Militia to give pea soup every day
+* Some traders now have more stock
 * Changed Deekula B to be closed at start
 * Fixed clouds being too fast (issue [#600](https://github.com/loiste-interactive/Obenseuer-Issues/issues/600))
 * Fixed One stop shop not opening
