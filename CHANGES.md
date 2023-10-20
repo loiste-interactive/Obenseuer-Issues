@@ -17,6 +17,10 @@
 
 * Fixed player spawning inside the wall
 
+## Interior Tenement O-Market
+
+* O-Market now sells matches
+
 ## Items
 
 * Adjusted backpack price
