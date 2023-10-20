@@ -24,6 +24,7 @@
 ## Interior Tenement O-Market
 
 * O-Market now sells matches
+* Fixed conveyor belt breaking upon save loads (issue [#529](https://github.com/loiste-interactive/Obenseuer-Issues/issues/529))
 
 ## Items
 
