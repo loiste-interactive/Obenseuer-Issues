@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed crafting station sounds playing after saveload, even when the device itself is off.
+* General trader now sells more goods.
 
 ## Open Sewer Tenement
 
