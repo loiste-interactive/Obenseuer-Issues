@@ -6,6 +6,7 @@
 
 ## Open Sewer Tenement
 
+* Changed Deekula B to be closed at start
 * Fixed One stop shop not opening
 * Fixed Kurahaara stall not opening
 * Fixed getting stuck on player canal toilet
