@@ -8,6 +8,8 @@
 
 ## Open Sewer Tenement
 
+* Added Tatyana to give bottle recycling and pea soup quest at the beginning
+* Added Redemption Militia to give pea soup every day
 * Changed Deekula B to be closed at start
 * Fixed One stop shop not opening
 * Fixed Kurahaara stall not opening
