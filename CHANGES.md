@@ -4,6 +4,7 @@
 * Fixed crafting station sounds playing after saveload, even when the device itself is off.
 * General trader now sells more goods.
 * Reduced lockpicking skill gain.
+* Fixed mapchange doors not unlocking after successful lockpick (issue [#596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/596))
 
 ## Open Sewer Tenement
 
