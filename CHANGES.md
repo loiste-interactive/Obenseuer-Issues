@@ -24,6 +24,7 @@
 ## Tenement System
 
 * Cleaning biohazard bags doesn't consume full bottle of disinfectant
+* Fixed small apartments missing walls
 
 # October 19th 2023 (Version 0.3.10)
 
