@@ -16,6 +16,10 @@
 
 * Adjusted backpack price
 
+## Furniture
+
+* Fixed flags not being in addressable lists.
+
 # October 19th 2023 (Version 0.3.10)
 
 * Added Open Sewer Tenement
