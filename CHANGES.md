@@ -32,6 +32,7 @@
 * Adjusted backpack price
 * Disinfectant now has multiple uses
 * Cleaning spray now has multiple uses
+* Fixed item missing datavalues (issue [#605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/605))
 
 ## Furniture
 
