@@ -6,6 +6,7 @@
 * Reduced lockpicking skill gain.
 * Fixed mapchange doors not unlocking after successful lockpick (issue [#596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/596))
 * Fixed mail skipping days
+* Fixed stalls and shops with opening times opening and closing erratically (issue [#606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/606))
 
 ## Open Sewer Tenement
 
