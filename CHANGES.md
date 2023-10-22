@@ -38,6 +38,7 @@
 ## Furniture
 
 * Fixed flags not being in addressable lists.
+* Fixed plank furniture not being in addresable lists.
 
 ## Tenement System
 
