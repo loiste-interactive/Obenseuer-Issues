@@ -47,6 +47,7 @@
 * Cleaning graffiti and dirt doesn't consume full bottle of cleaning spray
 * Fixed small apartments missing walls
 * Reduced time required for early bathroom upgrades
+* Moved chest blueprint to more easily accessable location
 
 ## Recipes
 
