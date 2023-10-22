@@ -8,6 +8,7 @@
 * Fixed mail skipping days
 * Fixed stalls and shops with opening times opening and closing erratically (issue [#606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/606))
 * Reduced backpack storage capacity (issue [#607](https://github.com/loiste-interactive/Obenseuer-Issues/issues/607))
+* Fixed ingredients with charges consuming item instead of charge (issue [#617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/617))
 
 ## Open Sewer Tenement
 
