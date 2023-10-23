@@ -43,8 +43,9 @@
 
 ## Furniture
 
-* Fixed flags not being in addressable lists.
-* Fixed plank furniture not being in addresable lists.
+* Fixed flags not being in addressable lists
+* Fixed plank furniture not being in addresable lists
+* Changed the large cuppoard slots amount (issue [#604](https://github.com/loiste-interactive/Obenseuer-Issues/issues/604))
 
 ## Tenement System
 
