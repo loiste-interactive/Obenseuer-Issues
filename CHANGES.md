@@ -13,6 +13,7 @@
 * Fixed stalls and shops with opening times opening and closing erratically (issue [#606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/606))
 * Fixed ingredients with charges consuming item instead of charge (issue [#617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/617))
 * Fixed moving items between backpack and the inventory considered as buying and selling when trade is open (issue [#615](https://github.com/loiste-interactive/Obenseuer-Issues/issues/615))
+* Fixed dialogue variables not saving globally
 
 ## Open Sewer Tenement
 
@@ -25,6 +26,7 @@
 * Fixed One stop shop not opening
 * Fixed Kurahaara stall not opening
 * Fixed getting stuck on player canal toilet
+* Fixed not being able to get inside speakeasy when malone gives the objektive
 
 ## Interior Tenement Redemption Militia
 
