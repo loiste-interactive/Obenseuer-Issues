@@ -20,6 +20,7 @@
 * Added Redemption Militia to give pea soup every day
 * Some traders now have more stock
 * Changed Deekula B to be closed at start
+* Changed to use list panel instead of dialogue (issue [#598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/598))
 * Fixed clouds being too fast (issue [#600](https://github.com/loiste-interactive/Obenseuer-Issues/issues/600))
 * Fixed One stop shop not opening
 * Fixed Kurahaara stall not opening
