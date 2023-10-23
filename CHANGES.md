@@ -26,6 +26,11 @@
 * Fixed Kurahaara stall not opening
 * Fixed getting stuck on player canal toilet
 
+## Interior Tenement Redemption Militia
+
+* Added dialogue
+* Fixed Npcs appearance
+
 ## Interior Tenement Caravan
 
 * Fixed player spawning inside the wall
@@ -41,6 +46,7 @@
 * Disinfectant now has multiple uses
 * Cleaning spray now has multiple uses
 * Fixed item missing datavalues (issue [#605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/605))
+* Fixed coin items collisions
 
 ## Furniture
 
