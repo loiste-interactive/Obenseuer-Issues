@@ -5,6 +5,7 @@
 * Updated the backpack icon to match the new model
 * Increased start addiction values
 * General trader now sells more goods
+* Increased likelyhood of hardware stall having nails and gas bottles
 * Reduced lockpicking skill gain
 * Reduced backpack storage capacity (issue [#607](https://github.com/loiste-interactive/Obenseuer-Issues/issues/607))
 * Fixed crafting station sounds playing after saveload, even when the device itself is off
@@ -49,6 +50,7 @@
 * Cleaning spray now has multiple uses
 * Fixed item missing datavalues (issue [#605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/605))
 * Fixed coin items collisions
+* Fixed wrong effects on shroomed foods (issue [#616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/616))
 
 ## Furniture
 
