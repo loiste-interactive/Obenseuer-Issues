@@ -1,15 +1,18 @@
 # Upcoming
 
 * Added task given by ATM
+* Added backpack model
+* Updated the backpack icon to match the new model
 * Increased start addiction values
-* Fixed crafting station sounds playing after saveload, even when the device itself is off.
-* General trader now sells more goods.
-* Reduced lockpicking skill gain.
-* Fixed mapchange doors not unlocking after successful lockpick (issue [#596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/596))
-* Fixed mail skipping days
-* Fixed stalls and shops with opening times opening and closing erratically (issue [#606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/606))
+* General trader now sells more goods
+* Reduced lockpicking skill gain
 * Reduced backpack storage capacity (issue [#607](https://github.com/loiste-interactive/Obenseuer-Issues/issues/607))
+* Fixed crafting station sounds playing after saveload, even when the device itself is off
+* Fixed mail skipping days
+* Fixed mapchange doors not unlocking after successful lockpick (issue [#596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/596))
+* Fixed stalls and shops with opening times opening and closing erratically (issue [#606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/606))
 * Fixed ingredients with charges consuming item instead of charge (issue [#617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/617))
+* Fixed moving items between backpack and the inventory considered as buying and selling when trade is open (issue [#615](https://github.com/loiste-interactive/Obenseuer-Issues/issues/615))
 
 ## Open Sewer Tenement
 
