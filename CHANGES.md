@@ -45,6 +45,10 @@
 * O-Market now sells matches
 * Fixed conveyor belt breaking upon save loads (issue [#529](https://github.com/loiste-interactive/Obenseuer-Issues/issues/529))
 
+## Interior Tenement Deekula A
+
+* Removed forgotten test door
+
 ## Items
 
 * Adjusted backpack price
