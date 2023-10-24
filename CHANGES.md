@@ -8,6 +8,7 @@
 * Increased likelyhood of hardware stall having nails and gas bottles
 * Reduced lockpicking skill gain
 * Reduced backpack storage capacity (issue [#607](https://github.com/loiste-interactive/Obenseuer-Issues/issues/607))
+* Some lockpicked doors lock after time with increased difficulty
 * Fixed crafting station sounds playing after saveload, even when the device itself is off
 * Fixed mail skipping days
 * Fixed mapchange doors not unlocking after successful lockpick (issue [#596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/596))
