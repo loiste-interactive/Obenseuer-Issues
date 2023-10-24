@@ -31,6 +31,10 @@
 * Fixed getting stuck on player canal toilet
 * Fixed not being able to get inside speakeasy when malone gives the objektive
 
+## Interior Tenement LotShack3
+
+* Fixed toilet
+
 ## Interior Tenement Redemption Militia
 
 * Added dialogue
