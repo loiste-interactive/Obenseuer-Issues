@@ -52,6 +52,7 @@
 ## Interior Tenement Deekula A
 
 * Removed forgotten test door
+* Fixed Samuel being overly bright
 
 ## Items
 
