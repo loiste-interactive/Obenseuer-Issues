@@ -24,6 +24,7 @@
 
 * Added Tatyana to give bottle recycling and pea soup quest at the beginning
 * Added Redemption Militia to give pea soup every day
+* Improved occlusion ( = better fps)
 * Some traders now have more stock
 * Changed Deekula B to be closed at start
 * Changed to use list panel instead of dialogue (issue [#598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/598))
