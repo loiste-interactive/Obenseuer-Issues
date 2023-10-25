@@ -18,6 +18,7 @@
 * Fixed dialogue variables not saving globally
 * Fixed some doors 'vanishing' when opening (issue [#594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/594))
 * Fixed drills working effect on save loads
+* Fixed loading screen typo
 
 ## Open Sewer Tenement
 
