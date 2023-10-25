@@ -17,6 +17,7 @@
 * Fixed moving items between backpack and the inventory considered as buying and selling when trade is open (issue [#615](https://github.com/loiste-interactive/Obenseuer-Issues/issues/615))
 * Fixed dialogue variables not saving globally
 * Fixed some doors 'vanishing' when opening (issue [#594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/594))
+* Fixed drills working effect on save loads
 
 ## Open Sewer Tenement
 
