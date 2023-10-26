@@ -16,6 +16,7 @@
 * Added Interior Tenement Kolhola
 * Added task given by ATM
 * Added backpack model
+* Implemented tenement achievements
 * Updated the backpack icon to match the new model
 * Increased start addiction values
 * General trader now sells more goods
