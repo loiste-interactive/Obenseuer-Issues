@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added Interior Tenement Deekula C
+* Added Interior Tenement Kolhola
 * Added task given by ATM
 * Added backpack model
 * Updated the backpack icon to match the new model
