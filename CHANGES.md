@@ -1,6 +1,13 @@
 # Upcoming
 
-*
+* Fixed some matials missing emission
+* Fixed some materials not rendering fog correctly
+
+## Open Sewer Tenement
+
+* Fixed multiple locations where player can get stuck
+* Fixed invisible box near Kurahaara farm
+* Fixed "black boxes"
 
 # October 26th 2023 (Version 0.3.11)
 
