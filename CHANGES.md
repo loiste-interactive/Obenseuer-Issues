@@ -4,6 +4,7 @@
 * Fixed some materials missing emission
 * Fixed some materials not rendering fog correctly
 * Fixed resolution and refresh rate not saving
+* Fixed some start settings having wrong values (issue [#579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/579))
 
 ## Open Sewer Tenement
 
