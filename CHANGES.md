@@ -14,6 +14,10 @@
 * Fixed "black boxes"
 * Fixed Jesper Kumpula animation (issue [#632](https://github.com/loiste-interactive/Obenseuer-Issues/issues/632))
 
+## Interior Tenement Deekula A
+
+* Fixed doctor having blank page at physical health measurement (issue [#614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/614))
+
 ## Interior Tenement Deekula C
 
 * Fixed David Lund dialogue (issue [#645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/645))
