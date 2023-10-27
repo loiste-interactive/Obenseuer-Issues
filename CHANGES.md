@@ -9,6 +9,7 @@
 
 ## Open Sewer Tenement
 
+* Changed Kurahaara stall to sell seeds
 * Fixed multiple locations where player can get stuck
 * Fixed invisible box near Kurahaara farm
 * Fixed "black boxes"
