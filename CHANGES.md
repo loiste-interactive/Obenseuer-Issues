@@ -5,12 +5,17 @@
 * Fixed some materials not rendering fog correctly
 * Fixed resolution and refresh rate not saving
 * Fixed some start settings having wrong values (issue [#579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/579))
+* Fixed not setting gender value correctly (issue [#642](https://github.com/loiste-interactive/Obenseuer-Issues/issues/642))
 
 ## Open Sewer Tenement
 
 * Fixed multiple locations where player can get stuck
 * Fixed invisible box near Kurahaara farm
 * Fixed "black boxes"
+
+## Interior Tenement Deekula C
+
+* Fixed David Lund dialogue (issue [#645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/645))
 
 # October 26th 2023 (Version 0.3.11)
 
