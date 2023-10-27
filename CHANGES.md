@@ -17,6 +17,7 @@
 ## Interior Tenement Deekula A
 
 * Fixed doctor having blank page at physical health measurement (issue [#614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/614))
+* Fixed not opening the task panel before talking to Jonasson breaking sometimes the dialogue (issue [#651](https://github.com/loiste-interactive/Obenseuer-Issues/issues/651))
 
 ## Interior Tenement Deekula C
 
