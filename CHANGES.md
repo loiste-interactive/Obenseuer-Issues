@@ -8,7 +8,7 @@
 * Fixed not setting gender value correctly (issue [#642](https://github.com/loiste-interactive/Obenseuer-Issues/issues/642))
 * Fixed '0-crimes' when stealing low value items (issue [#649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/649))
 * Fixed Pharmacy not restocking daily (issue [#650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/650))
-* Fixed Debit Card acgievement being unobtainable
+* Fixed Debit Card achievement being unobtainable
 
 # Tasks
 
