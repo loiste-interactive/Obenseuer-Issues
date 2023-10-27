@@ -24,6 +24,7 @@
 ## Interior Tenement Deekula C
 
 * Fixed David Lund dialogue (issue [#645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/645))
+* Fixed not being able to pickup blueprints (issue [#652](https://github.com/loiste-interactive/Obenseuer-Issues/issues/652))
 
 # October 26th 2023 (Version 0.3.11)
 
