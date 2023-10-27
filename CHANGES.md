@@ -7,6 +7,7 @@
 * Fixed some start settings having wrong values (issue [#579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/579))
 * Fixed not setting gender value correctly (issue [#642](https://github.com/loiste-interactive/Obenseuer-Issues/issues/642))
 * Fixed '0-crimes' when stealing low value items (issue [#649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/649))
+* Fixed Jesper's Soup turning into mold
 
 ## Open Sewer Tenement
 
