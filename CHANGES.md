@@ -7,7 +7,7 @@
 * Fixed some start settings having wrong values (issue [#579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/579))
 * Fixed not setting gender value correctly (issue [#642](https://github.com/loiste-interactive/Obenseuer-Issues/issues/642))
 * Fixed '0-crimes' when stealing low value items (issue [#649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/649))
-* Fixed Jesper's Soup turning into mold
+* Fixed Pharmacy not restocking daily
 
 ## Open Sewer Tenement
 
@@ -16,6 +16,7 @@
 * Fixed invisible box near Kurahaara farm
 * Fixed "black boxes"
 * Fixed Jesper Kumpula animation (issue [#632](https://github.com/loiste-interactive/Obenseuer-Issues/issues/632))
+* Fixed Jesper's Soup turning into mold
 
 ## Interior Tenement Deekula A
 
