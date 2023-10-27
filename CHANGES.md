@@ -17,6 +17,7 @@
 * Fixed "black boxes"
 * Fixed Jesper Kumpula animation (issue [#632](https://github.com/loiste-interactive/Obenseuer-Issues/issues/632))
 * Fixed Jesper's Soup turning into mold
+* Fixed fence missing collision
 
 ## Interior Tenement Deekula A
 
