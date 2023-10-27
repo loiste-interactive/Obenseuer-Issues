@@ -3,6 +3,7 @@
 * Improved performance in Deekulas, Kolhola, Tenement B, Player Tenement and Gatehouse
 * Fixed some materials missing emission
 * Fixed some materials not rendering fog correctly
+* Fixed resolution and refresh rate not saving
 
 ## Open Sewer Tenement
 
