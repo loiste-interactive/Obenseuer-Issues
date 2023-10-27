@@ -12,6 +12,7 @@
 * Fixed multiple locations where player can get stuck
 * Fixed invisible box near Kurahaara farm
 * Fixed "black boxes"
+* Fixed Jesper Kumpula animation (issue [#632](https://github.com/loiste-interactive/Obenseuer-Issues/issues/632))
 
 ## Interior Tenement Deekula C
 
