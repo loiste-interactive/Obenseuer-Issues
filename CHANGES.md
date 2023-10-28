@@ -26,6 +26,7 @@
 * Fixed Jesper's Soup turning into mold
 * Fixed fence missing collision
 * Fixed police not policing
+* Fixed collision issue on main street
 
 ## Interior Tenement Deekula A
 
