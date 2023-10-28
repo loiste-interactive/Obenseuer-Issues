@@ -23,6 +23,7 @@
 * Fixed Jesper Kumpula animation (issue [#632](https://github.com/loiste-interactive/Obenseuer-Issues/issues/632))
 * Fixed Jesper's Soup turning into mold
 * Fixed fence missing collision
+* Fixed police not policing
 
 ## Interior Tenement Deekula A
 
