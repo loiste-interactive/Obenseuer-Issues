@@ -12,6 +12,7 @@
 * Fixed prison not working (issue [#639](https://github.com/loiste-interactive/Obenseuer-Issues/issues/639))
 * Fixed talking with NPCs softlocking the game
 * Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6363))
+* Reduced start addictions
 
 # Tasks
 
