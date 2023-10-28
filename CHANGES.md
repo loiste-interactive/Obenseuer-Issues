@@ -14,6 +14,11 @@
 * Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6363))
 * Reduced start addictions
 
+
+# Items
+
+* Changed Osmo-Olut stats
+
 # Tasks
 
 * Fixed missing title on debit card quest objective
