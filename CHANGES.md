@@ -10,6 +10,7 @@
 * Fixed Pharmacy not restocking daily (issue [#650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/650))
 * Fixed Debit Card achievement being unobtainable
 * Fixed prison not working (issue [#639](https://github.com/loiste-interactive/Obenseuer-Issues/issues/639))
+* Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6363))
 
 # Tasks
 
