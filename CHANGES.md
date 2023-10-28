@@ -31,6 +31,10 @@
 * Fixed collision issue on main street
 * Fixed lights flickering
 
+## Interior Tenement Kolhola
+
+* Fixed elevator breaking on save/scene load (issue [#664](https://github.com/loiste-interactive/Obenseuer-Issues/issues/664))
+
 ## Interior Tenement Deekula A
 
 * Changed doctor's number ticket being valid until you leave the room (issue [#251](https://github.com/loiste-interactive/Obenseuer-Issues/issues/251))
