@@ -28,6 +28,7 @@
 * Fixed fence missing collision
 * Fixed police not policing
 * Fixed collision issue on main street
+* Fixed lights flickering
 
 ## Interior Tenement Deekula A
 
