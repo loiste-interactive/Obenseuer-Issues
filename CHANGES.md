@@ -9,6 +9,7 @@
 * Fixed '0-crimes' when stealing low value items (issue [#649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/649))
 * Fixed Pharmacy not restocking daily (issue [#650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/650))
 * Fixed Debit Card achievement being unobtainable
+* Fixed prison not working (issue [#639](https://github.com/loiste-interactive/Obenseuer-Issues/issues/639))
 
 # Tasks
 
