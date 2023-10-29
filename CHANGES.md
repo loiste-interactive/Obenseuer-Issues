@@ -47,6 +47,7 @@
 * Fixed elevator breaking on save/scene load (issue [#664](https://github.com/loiste-interactive/Obenseuer-Issues/issues/664))
 * Fixed main door not having sounds
 * Fixed A9 balcony door
+* Fixed typo on pod 23
 
 ## Interior Tenement Deekula A
 
