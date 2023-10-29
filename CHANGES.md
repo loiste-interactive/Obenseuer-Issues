@@ -1,5 +1,6 @@
 # Upcoming
 
+* Alcoholism now reduce hunger rate
 * Being on mushrooms now give boost to crafting results
 * Improved performance in Deekulas, Kolhola, Tenement B, Player Tenement and Gatehouse
 * Fixed some materials missing emission
