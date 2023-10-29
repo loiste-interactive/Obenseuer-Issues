@@ -11,7 +11,7 @@
 * Fixed Debit Card achievement being unobtainable
 * Fixed prison not working (issue [#639](https://github.com/loiste-interactive/Obenseuer-Issues/issues/639))
 * Fixed talking with NPCs softlocking the game
-* Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6363))
+* Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/663))
 * Reduced start addictions
 
 
@@ -22,6 +22,7 @@
 # Tasks
 
 * Fixed missing title on debit card quest objective
+* Fixed returning bottles not marking objective as complete (issue [#654](https://github.com/loiste-interactive/Obenseuer-Issues/issues/654))
 
 ## Open Sewer Tenement
 
