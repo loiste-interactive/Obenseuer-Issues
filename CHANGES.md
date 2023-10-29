@@ -1,5 +1,6 @@
 # Upcoming
 
+* Stealing and getting caught doesn't generate new notification for each item stack stolen now
 * Alcoholism now reduce hunger rate
 * Being on mushrooms now give boost to crafting results
 * Improved performance in Deekulas, Kolhola, Tenement B, Player Tenement and Gatehouse
