@@ -42,6 +42,7 @@
 * Fixed police not policing
 * Fixed collision issue on main street
 * Fixed lights flickering
+* Fixed route to out of bounds
 
 ## Interior Tenement Kolhola
 
