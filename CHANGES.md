@@ -14,6 +14,7 @@
 * Fixed prison not working (issue [#639](https://github.com/loiste-interactive/Obenseuer-Issues/issues/639))
 * Fixed talking with NPCs softlocking the game
 * Fixed load menu not showing the current character first if character name has '-'letter (issue [#648](https://github.com/loiste-interactive/Obenseuer-Issues/issues/648))
+* Fixed weather not saving (issue [#666](https://github.com/loiste-interactive/Obenseuer-Issues/issues/666))
 * Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/663))
 * Reduced start addictions
 
