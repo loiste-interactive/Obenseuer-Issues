@@ -17,6 +17,7 @@
 * Fixed load menu not showing the current character first if character name has '-'letter (issue [#648](https://github.com/loiste-interactive/Obenseuer-Issues/issues/648))
 * Fixed weather not saving (issue [#666](https://github.com/loiste-interactive/Obenseuer-Issues/issues/666))
 * Fixed fire icon on stoves showing as on when loading if the stove is turned off and has fuel.
+* Fixed saving of items and machines inside tenement upgrades (issue [#683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/683))
 * Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/663))
 * Reduced start addictions
 
