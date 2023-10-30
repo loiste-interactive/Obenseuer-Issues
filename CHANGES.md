@@ -25,6 +25,7 @@
 
 # Items
 
+* Added shroom water
 * Changed Osmo-Olut stats
 
 # Tasks
