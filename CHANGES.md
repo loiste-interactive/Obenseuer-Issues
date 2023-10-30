@@ -63,6 +63,10 @@
 * Fixed doctor having blank page at physical health measurement (issue [#614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/614))
 * Fixed not opening the task panel before talking to Jonasson breaking sometimes the dialogue (issue [#651](https://github.com/loiste-interactive/Obenseuer-Issues/issues/651))
 
+## Interior Tenement Deekula B
+
+* Fixed several issues in the Radio signal task (issue [#90](https://github.com/loiste-interactive/Obenseuer-Issues/issues/90))
+
 ## Interior Tenement Deekula C
 
 * Fixed David Lund dialogue (issue [#645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/645))
