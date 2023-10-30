@@ -65,6 +65,7 @@
 * Fixed main door not having sounds
 * Fixed A9 balcony door
 * Fixed typo on pod 23
+* Fixed pod rent status not loading properly (issue [#692](https://github.com/loiste-interactive/Obenseuer-Issues/issues/692))
 
 ## Interior Tenement Deekula A
 
