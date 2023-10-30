@@ -50,6 +50,10 @@
 
 * Fixed some typos in dialogue
 
+## Interior O-Market
+
+* Fixed the bottle recycling machine not saving money value (issue [#661](https://github.com/loiste-interactive/Obenseuer-Issues/issues/661))
+
 ## Interior Tenement Kolhola
 
 * Fixed elevator breaking on save/scene load (issue [#664](https://github.com/loiste-interactive/Obenseuer-Issues/issues/664))
