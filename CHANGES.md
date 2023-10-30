@@ -57,6 +57,7 @@
 ## Interior O-Market
 
 * Fixed the bottle recycling machine not saving money value (issue [#661](https://github.com/loiste-interactive/Obenseuer-Issues/issues/661))
+* Fixed not being able to put candy backs back into the self (issue [#689](https://github.com/loiste-interactive/Obenseuer-Issues/issues/689))
 
 ## Interior Tenement Kolhola
 
