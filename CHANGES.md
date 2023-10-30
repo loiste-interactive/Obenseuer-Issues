@@ -4,6 +4,7 @@
 * Alcoholism now reduce hunger rate
 * Being on mushrooms now give boost to crafting results
 * Improved performance in Deekulas, Kolhola, Tenement B, Player Tenement and Gatehouse
+* Changed SMV progression food damage/health gain to be more smoother.
 * Fixed some materials missing emission
 * Fixed some materials not rendering fog correctly
 * Fixed resolution and refresh rate not saving
