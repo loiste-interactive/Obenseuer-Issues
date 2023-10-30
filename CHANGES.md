@@ -44,6 +44,10 @@
 * Fixed lights flickering
 * Fixed route to out of bounds
 
+## Interior Start
+
+* Fixed some typos in dialogue
+
 ## Interior Tenement Kolhola
 
 * Fixed elevator breaking on save/scene load (issue [#664](https://github.com/loiste-interactive/Obenseuer-Issues/issues/664))
