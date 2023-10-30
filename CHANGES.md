@@ -45,6 +45,7 @@
 * Fixed lights flickering
 * Fixed route to out of bounds
 * Fixed the player tenement occlusions and being inaccessible (issue [#662](https://github.com/loiste-interactive/Obenseuer-Issues/issues/662))
+* Fixed collision issues near player tenement
 
 ## Interior Start
 
