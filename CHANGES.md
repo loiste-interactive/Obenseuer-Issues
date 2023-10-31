@@ -5,6 +5,7 @@
 * Being on mushrooms now give boost to crafting results
 * Improved performance in Deekulas, Kolhola, Tenement B, Player Tenement and Gatehouse
 * Changed SMV progression food damage/health gain to scale better.
+* Changed the game to not run in the background (issue [#205](https://github.com/loiste-interactive/Obenseuer-Issues/issues/205))
 * Fixed some materials missing emission
 * Fixed some materials not rendering fog correctly
 * Fixed resolution and refresh rate not saving
