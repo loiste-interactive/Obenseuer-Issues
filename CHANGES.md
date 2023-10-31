@@ -1,7 +1,7 @@
 # Upcoming
 
 * Reduced base hunger and thirst gain
-* 
+  
 # Upcoming hotfix
 
 * Fixed duck addiction being present from start
