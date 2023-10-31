@@ -1,7 +1,10 @@
 # Upcoming
 
-* Fixed duck addiction being present from start
 * Reduced base hunger and thirst gain
+* 
+# Upcoming hotfix
+
+* Fixed duck addiction being present from start
 
 ## Tenement System
 
