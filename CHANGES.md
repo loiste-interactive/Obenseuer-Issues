@@ -1,6 +1,7 @@
 # Upcoming
 
 * Reduced base hunger and thirst gain
+* Added maximum value for current duck need.
   
 # October 31th 2023 (Version 0.3.13) - hotfix
 
