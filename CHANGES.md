@@ -51,6 +51,7 @@
 * Fixed route to out of bounds
 * Fixed the player tenement occlusions and being inaccessible (issue [#662](https://github.com/loiste-interactive/Obenseuer-Issues/issues/662))
 * Fixed collision issues near player tenement
+* Fixed having to crouch to enter shroom outhouse (issue [#675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/675))
 * Player yard toilet is now usable
 
 ## Interior Start
