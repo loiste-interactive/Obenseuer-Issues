@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed duck addiction being present from start
+* Reduced base hunger and thrist gain
 
 ## Tenement System
 
