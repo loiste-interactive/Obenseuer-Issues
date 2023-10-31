@@ -2,6 +2,10 @@
 
 * Fixed duck addiction being present from start
 
+## Tenement System
+
+* Fixed being unable to remove mushroom stain (issue [#699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/699))
+
 # October 31th 2023 (Version 0.3.12)
 
 * Stealing and getting caught doesn't generate new notification for each item stack stolen now
