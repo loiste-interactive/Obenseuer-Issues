@@ -2,7 +2,7 @@
 
 * Reduced base hunger and thirst gain
   
-# Upcoming hotfix
+# October 31th 2023 (Version 0.3.13) - hotfix
 
 * Fixed duck addiction being present from start
 
