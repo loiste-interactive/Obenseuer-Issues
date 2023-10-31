@@ -21,6 +21,7 @@
 * Fixed fire icon on stoves showing as on when loading if the stove is turned off and has fuel.
 * Fixed saving of items and machines inside tenement upgrades (issue [#683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/683))
 * Fixed crafting result texts showing color code (issue [#677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/677))
+* Fixed antialiasing setting (issue [#4](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4))
 * Fixed tarp door saving
 * Rediced addiction gain (issue [#663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/663))
 * Reduced start addictions
