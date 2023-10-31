@@ -71,6 +71,7 @@
 
 ## Interior Tenement Deekula A
 
+* Added dialogue where you can ask Samuel what you should renovate first and where to get the materials
 * Changed doctor's number ticket being valid until you leave the room (issue [#251](https://github.com/loiste-interactive/Obenseuer-Issues/issues/251))
 * Fixed doctor having blank page at physical health measurement (issue [#614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/614))
 * Fixed not opening the task panel before talking to Jonasson breaking sometimes the dialogue (issue [#651](https://github.com/loiste-interactive/Obenseuer-Issues/issues/651))
