@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 31th 2023 (Version 0.3.12)
+
 * Stealing and getting caught doesn't generate new notification for each item stack stolen now
 * Alcoholism now reduce hunger rate
 * Being on mushrooms now give boost to crafting results
