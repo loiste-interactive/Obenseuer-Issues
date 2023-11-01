@@ -1,7 +1,8 @@
 # Upcoming
 
 * Reduced base hunger and thirst gain
-* Added maximum value for current duck need.
+* Added maximum value for current duck need
+* Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
   
 # October 31th 2023 (Version 0.3.13) - hotfix
 
