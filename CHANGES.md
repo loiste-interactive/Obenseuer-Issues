@@ -5,6 +5,7 @@
 * Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
 * Fixed windowed mode (issue [#706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/706))
 * Fixed weather not being saved correctly (issue [#701](https://github.com/loiste-interactive/Obenseuer-Issues/issues/701))
+* Fixed item spawners not working correctly (issue [#717](https://github.com/loiste-interactive/Obenseuer-Issues/issues/717))
   
 # October 31th 2023 (Version 0.3.13) - hotfix
 
