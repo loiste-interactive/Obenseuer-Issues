@@ -12,6 +12,10 @@
 ## Open Sewer Tenement
 
 * Fixed sprinting past Tatyana allowing to avoid conversation (issue [#709](https://github.com/loiste-interactive/Obenseuer-Issues/issues/709))
+
+## Interior O-Market
+
+* Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
   
 # October 31th 2023 (Version 0.3.13) - hotfix
 
