@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added expectation level what modifies depressiveness of things.
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
 * Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
