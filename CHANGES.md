@@ -23,6 +23,11 @@
 ## Interior O-Market
 
 * Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
+
+## Interior O-Market
+
+* Fixed puddles not rendering correctly
+
   
 # October 31th 2023 (Version 0.3.13) - hotfix
 
