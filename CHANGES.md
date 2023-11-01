@@ -7,6 +7,7 @@
 * Fixed weather not being saved correctly (issue [#701](https://github.com/loiste-interactive/Obenseuer-Issues/issues/701))
 * Fixed item spawners not working correctly (issue [#717](https://github.com/loiste-interactive/Obenseuer-Issues/issues/717))
 * Fixed elevator positions not saving (issue [#703](https://github.com/loiste-interactive/Obenseuer-Issues/issues/703))
+* Fixed claw trap state not saving properly (issue [#695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/695))
 
 ## Open Sewer Tenement
 
