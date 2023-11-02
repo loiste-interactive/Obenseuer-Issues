@@ -6,6 +6,8 @@
 * Reduced lag caused by rain
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
+* Added descriptions to stats tooltips (issue [#708](https://github.com/loiste-interactive/Obenseuer-Issues/issues/708))
+* Added the name of the stat to be displayed when the stat is visible first time (issue [#708](https://github.com/loiste-interactive/Obenseuer-Issues/issues/708))
 * Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
 * Fixed windowed mode (issue [#706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/706))
 * Fixed weather not being saved correctly (issue [#701](https://github.com/loiste-interactive/Obenseuer-Issues/issues/701))
