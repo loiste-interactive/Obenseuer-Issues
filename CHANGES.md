@@ -40,6 +40,10 @@
 
 * Fixed start furnishing task
 
+## Interior Tenement Greenhouse
+
+* Fixed Jomppe taking held items (issue [#713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/713))
+
 ## Interior Tenement O-Market
 
 * Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
