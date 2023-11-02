@@ -20,6 +20,10 @@
 
 * Makeshift upgrades are now cheaper
 
+## Furniture
+
+* Fixed some furniture blueprints missing icon
+
 ## Open Sewer Tenement
 
 * Reduced fog intensity
