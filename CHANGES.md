@@ -29,6 +29,10 @@
 
 * Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
 
+## Interior Tenement B
+
+* Fixed lights being off from start
+
 ## Interior Tenement Kolhola
 
 * Fixed puddles not rendering correctly
