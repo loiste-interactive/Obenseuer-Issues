@@ -13,6 +13,7 @@
 * Fixed adding too much money at once crashing or freezing the game (issue [#734](https://github.com/loiste-interactive/Obenseuer-Issues/issues/734))
 * Fixed vines not producing fruits
 * Fixed some items saving their state globally and thus affecting other items (issue [#727](https://github.com/loiste-interactive/Obenseuer-Issues/issues/727))
+* Fixed breakable doorways scrap colliding with player (issue [#736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/736))
   
 ## Tenement System
 
