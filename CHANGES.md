@@ -11,6 +11,7 @@
 * Fixed elevator positions not saving (issue [#703](https://github.com/loiste-interactive/Obenseuer-Issues/issues/703))
 * Fixed claw trap state not saving properly (issue [#695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/695))
 * Fixed adding too much money at once crashing or freezing the game (issue [#734](https://github.com/loiste-interactive/Obenseuer-Issues/issues/734))
+* Fixed vines not producing fruits
   
 ## Tenement System
 
