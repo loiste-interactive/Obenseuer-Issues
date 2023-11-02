@@ -32,6 +32,7 @@
 ## Interior Tenement B
 
 * Fixed lights being off from start
+* Fixed main door plywood not moving with the door
 
 ## Interior Tenement Kolhola
 
