@@ -12,6 +12,7 @@
 * Fixed claw trap state not saving properly (issue [#695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/695))
 * Fixed adding too much money at once crashing or freezing the game (issue [#734](https://github.com/loiste-interactive/Obenseuer-Issues/issues/734))
 * Fixed vines not producing fruits
+* Fixed some items saving their state globally and thus affecting other items (issue [#727](https://github.com/loiste-interactive/Obenseuer-Issues/issues/727))
   
 ## Tenement System
 
