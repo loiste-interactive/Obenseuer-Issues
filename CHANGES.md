@@ -25,6 +25,10 @@
 * Fixed sprinting past Tatyana allowing to avoid conversation (issue [#709](https://github.com/loiste-interactive/Obenseuer-Issues/issues/709))
 * Fixed backdoor of the yellow shack (issue [#737](https://github.com/loiste-interactive/Obenseuer-Issues/issues/737))
 
+## Interior Player Tenement
+
+* Fixed start furnishing task
+
 ## Interior Tenement O-Market
 
 * Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
