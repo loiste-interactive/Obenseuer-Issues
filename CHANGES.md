@@ -52,6 +52,7 @@
 ## Interior Tenement Kolhola
 
 * Fixed puddles not rendering correctly
+* Fixed Kirka Kääbus renting not working (issue [#723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/723))
 
 ## Interior Tenement Deekula C
 
