@@ -3,6 +3,7 @@
 * Added loading screen tip about sauna
 * Added arrows to indicate stat changes
 * Added expectation level what modifies depressiveness of things
+* General Store now rarely sells fish eggs
 * Reduced lag caused by rain
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
