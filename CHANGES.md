@@ -23,6 +23,7 @@
 * Fixed switching between backpack/recycler closing bottle recycler menu (issue [#724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/724))
 * Fixed flashlight sometimes draining battery when turned off after reloading batteries (issue [#732](https://github.com/loiste-interactive/Obenseuer-Issues/issues/732))
 * Fixed buying liquids sometimes giving empty bottles (issue [#693](https://github.com/loiste-interactive/Obenseuer-Issues/issues/693))
+* Fixed being able to sell and buy items without actually getting/losing the item.
   
 ## Tenement System
 
