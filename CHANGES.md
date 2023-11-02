@@ -25,6 +25,7 @@
 ## Tenement System
 
 * Makeshift upgrades are now cheaper
+* Fixed the player apartment fine extension upgrades not updating connection prefabs correctly
 
 ## Furniture
 
@@ -63,7 +64,6 @@
 
 * Fixed storage C8 door not accepting keys (issue [#707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/707))
 
-  
 # October 31th 2023 (Version 0.3.13) - hotfix
 
 * Fixed duck addiction being present from start
