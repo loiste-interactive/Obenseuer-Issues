@@ -2,6 +2,7 @@
 
 * Added loading screen tip about sauna.
 * Added expectation level what modifies depressiveness of things.
+* Reduced lag caused by rain
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
 * Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
