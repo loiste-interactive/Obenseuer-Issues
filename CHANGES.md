@@ -28,6 +28,7 @@
 * Fixed the player apartment fine extension upgrades not updating connection prefabs correctly
 * Fixed missing collisions in tenement yard lvl4
 * Fixed tenement yard lvl4 garbage shed door
+* Fixed missing tenement facade lvl2-4 floor 1 windows
 
 ## Furniture
 
