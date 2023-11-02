@@ -63,7 +63,12 @@
 * Fixed puddles not rendering correctly
 * Fixed Kirka Kääbus renting not working (issue [#723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/723))
 
+## Interior Tenement Deekula A
+
+* Fixed lighting near Dr. Pena's
+
 ## Interior Tenement Deekula C
+
 
 * Fixed storage C8 door not accepting keys (issue [#707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/707))
 
