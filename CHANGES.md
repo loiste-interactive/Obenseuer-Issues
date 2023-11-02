@@ -22,13 +22,17 @@
 * Tatyana now mentions about hazards of sleeping on streets and points you to the hostel
 * Fixed sprinting past Tatyana allowing to avoid conversation (issue [#709](https://github.com/loiste-interactive/Obenseuer-Issues/issues/709))
 
-## Interior O-Market
+## Interior Tenement O-Market
 
 * Fixed not being able to put some items back to shelf (issue [#721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/721))
 
-## Interior O-Market
+## Interior Tenement Kolhola
 
 * Fixed puddles not rendering correctly
+
+## Interior Tenement Deekula C
+
+* Fixed storage C8 door not accepting keys (issue [#707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/707))
 
   
 # October 31th 2023 (Version 0.3.13) - hotfix
