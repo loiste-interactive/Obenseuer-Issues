@@ -22,6 +22,7 @@
 
 * Tatyana now mentions about hazards of sleeping on streets and points you to the hostel
 * Fixed sprinting past Tatyana allowing to avoid conversation (issue [#709](https://github.com/loiste-interactive/Obenseuer-Issues/issues/709))
+* Fixed backdoor of the yellow shack (issue [#737](https://github.com/loiste-interactive/Obenseuer-Issues/issues/737))
 
 ## Interior Tenement O-Market
 
