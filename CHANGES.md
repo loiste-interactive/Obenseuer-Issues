@@ -1,7 +1,8 @@
 # Upcoming
 
-* Added loading screen tip about sauna.
-* Added expectation level what modifies depressiveness of things.
+* Added loading screen tip about sauna
+* Added arrows to indicate stat changes
+* Added expectation level what modifies depressiveness of things
 * Reduced lag caused by rain
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
