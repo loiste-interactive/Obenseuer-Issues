@@ -18,6 +18,7 @@
 * Fixed vines not producing fruits
 * Fixed some items saving their state globally and thus affecting other items (issue [#727](https://github.com/loiste-interactive/Obenseuer-Issues/issues/727))
 * Fixed breakable doorways scrap colliding with player (issue [#736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/736))
+* Fixed some items listed as perishable when they shouldn't be (issue [#733](https://github.com/loiste-interactive/Obenseuer-Issues/issues/733))
   
 ## Tenement System
 
