@@ -2,7 +2,7 @@
 
 * Increased spawn changes of tarp
 
-# November 3th 2023 (Version 0.3.14) - Playtest
+# November 3th 2023 (Version 0.3.14) - Playtesting branch
 
 * Added loading screen tip about sauna
 * Added arrows to indicate stat changes
