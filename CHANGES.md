@@ -2,6 +2,7 @@
 
 * Increased spawn changes of tarp
 * Beds now tell you if they're unsafe to sleep
+* Removed multiplicating items
 
 ## Open Sewer Tenement
 
