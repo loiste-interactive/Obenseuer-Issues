@@ -70,8 +70,11 @@
 
 * Fixed lighting near Dr. Pena's
 
-## Interior Tenement Deekula C
+## Interior Tenement Deekula B
 
+* Fixed not being able to tell the correct password at the basement door
+
+## Interior Tenement Deekula C
 
 * Fixed storage C8 door not accepting keys (issue [#707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/707))
 
