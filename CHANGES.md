@@ -24,6 +24,10 @@
 * Fixed flashlight sometimes draining battery when turned off after reloading batteries (issue [#732](https://github.com/loiste-interactive/Obenseuer-Issues/issues/732))
 * Fixed buying liquids sometimes giving empty bottles (issue [#693](https://github.com/loiste-interactive/Obenseuer-Issues/issues/693))
 * Fixed being able to sell and buy items without actually getting/losing the item.
+
+## Items
+
+* Fixed item description typos (issue [#755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/755))
   
 ## Tenement System
 
@@ -73,6 +77,7 @@
 ## Interior Tenement Deekula B
 
 * Fixed not being able to tell the correct password at the basement door
+* Fixed OSRAT instructions typo (issue [#754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/754))
 
 ## Interior Tenement Deekula C
 
