@@ -37,6 +37,7 @@
 * Fixed tenement yard lvl4 garbage shed door
 * Fixed missing tenement facade lvl2-4 floor 1 windows
 * Fixed multiple bugs with facades (issue [#748](https://github.com/loiste-interactive/Obenseuer-Issues/issues/748))
+* Fixed guitar & cash box placement (issue [#747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/747))
 
 ## Furniture
 
