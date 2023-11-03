@@ -7,6 +7,7 @@
 * Reduced lag caused by rain
 * Reduced base hunger and thirst gain
 * Added maximum value for current duck need
+* Increased spawn changes of tarp
 * Added descriptions to stats tooltips (issue [#708](https://github.com/loiste-interactive/Obenseuer-Issues/issues/708))
 * Added the name of the stat to be displayed when the stat is visible first time (issue [#708](https://github.com/loiste-interactive/Obenseuer-Issues/issues/708))
 * Fixed VSync not saving (issue [#702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/702))
