@@ -53,6 +53,7 @@
 ## Interior Player Tenement
 
 * Fixed start furnishing task
+* Removed the sound of the non-existent rat
 
 ## Interior Tenement Greenhouse
 
