@@ -25,6 +25,10 @@
 * Fixed buying liquids sometimes giving empty bottles (issue [#693](https://github.com/loiste-interactive/Obenseuer-Issues/issues/693))
 * Fixed being able to sell and buy items without actually getting/losing the item.
 
+## Furniture
+
+* Added meat grinder
+
 ## Items
 
 * Fixed item description typos (issue [#755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/755))
