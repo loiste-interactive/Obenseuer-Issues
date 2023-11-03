@@ -53,6 +53,7 @@
 
 ## Interior Player Tenement
 
+* Added Malone to mention about locked Deekula B
 * Fixed start furnishing task
 * Removed the sound of the non-existent rat
 
