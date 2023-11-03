@@ -1,6 +1,7 @@
 # Upcoming
 
 * Increased spawn changes of tarp
+* Beds now tell you if they're unsafe to sleep
 
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
