@@ -7,6 +7,7 @@
 * Fixed beer crates spawning items into world (issue [#729](https://github.com/loiste-interactive/Obenseuer-Issues/issues/729))
 * Fixed water footstep sound sometimes staying on after leaving water (issue [#447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/447))
 * Fixed dropping items from equipment slots getting stuck on HUD (issue [#738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/738))
+* Fixed growing turnips being uneconomical (issue [#782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/782))
 
 ## Items
 
