@@ -16,6 +16,10 @@
 
 * Added photocopier to hostel
 
+## Interior Tenement O Market
+
+* Fixed prepared foods having wrong owner (issue [#778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/778))
+
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
 * Added loading screen tip about sauna
