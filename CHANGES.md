@@ -30,6 +30,7 @@
 ## Open Sewer Tenement
 
 * Fixed oclusion culling
+* Fixed being able to lockpick a door to a house not yet in game(issue [#808](https://github.com/loiste-interactive/Obenseuer-Issues/issues/808))
 
 ## Interior Tenement Kolhola
 
