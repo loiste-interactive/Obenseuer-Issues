@@ -11,6 +11,7 @@
 * Fixed growing sugar beets being uneconomical
 * Fixed grains not spoiling (issue [#780](https://github.com/loiste-interactive/Obenseuer-Issues/issues/780))
 * Fixed grains not fitting in growing box
+* Fixed mashing, fermenting and distilleries not working (issue [#784](https://github.com/loiste-interactive/Obenseuer-Issues/issues/784))
 
 ## Items
 
