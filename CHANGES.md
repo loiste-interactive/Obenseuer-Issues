@@ -4,6 +4,7 @@
 * Beds now tell you if they're unsafe to sleep
 * Removed multiplicating items
 * Fixed moving stolen items around in player inventory generating more crime: (issue [#767](https://github.com/loiste-interactive/Obenseuer-Issues/issues/767))
+* Fixed beer crates spawning items into world (issue [#729](https://github.com/loiste-interactive/Obenseuer-Issues/issues/729))
 
 ## Open Sewer Tenement
 
