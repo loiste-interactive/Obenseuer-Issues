@@ -8,6 +8,11 @@
 * Fixed water footstep sound sometimes staying on after leaving water (issue [#447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/447))
 * Fixed dropping items from equipment slots getting stuck on HUD (issue [#738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/738))
 
+## Items
+
+* Made rye breads more durable
+* Fixed multigrain breads not spoiling (issue [#738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/738))
+
 ## Open Sewer Tenement
 
 * Fixed oclusion culling
@@ -18,7 +23,7 @@
 
 ## Interior Tenement O Market
 
-* Fixed prepared foods having wrong owner (issue [#778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/778))
+* Fixed prepared foods having wrong owner (issue [#781](https://github.com/loiste-interactive/Obenseuer-Issues/issues/781))
 
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
