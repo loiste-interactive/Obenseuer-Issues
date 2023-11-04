@@ -28,6 +28,7 @@
 ## Interior Tenement Kolhola
 
 * Added photocopier to hostel
+* Fixed missing collisions on cabinets
 
 ## Interior Tenement O Market
 
