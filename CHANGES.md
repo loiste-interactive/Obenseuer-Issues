@@ -18,6 +18,10 @@
 * Fixed mashing machines and alike giving infinite mash/product
 * Fixed cleaning your tenement opening inventory first for it to work
 
+## Furniture
+
+* Fixed chest freezer giving random junk on first placement
+
 ## Items
 
 * Made rye breads more durable
