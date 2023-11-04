@@ -10,6 +10,7 @@
 * Fixed growing turnips being uneconomical (issue [#782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/782))
 * Fixed growing sugar beets being uneconomical
 * Fixed grains not spoiling (issue [#780](https://github.com/loiste-interactive/Obenseuer-Issues/issues/780))
+* Fixed grains not fitting in growing box
 
 ## Items
 
