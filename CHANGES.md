@@ -30,6 +30,7 @@
 ## Open Sewer Tenement
 
 * Fixed oclusion culling
+* Fixed Kurahaara stall collisions (issue [#807](https://github.com/loiste-interactive/Obenseuer-Issues/issues/807))
 * Fixed being able to lockpick a door to a house not yet in game (issue [#808](https://github.com/loiste-interactive/Obenseuer-Issues/issues/808))
 * Fixed hardware stall not being open on sundays (issue [#809](https://github.com/loiste-interactive/Obenseuer-Issues/issues/809))
 
