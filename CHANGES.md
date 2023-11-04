@@ -12,6 +12,10 @@
 
 * Fixed oclusion culling
 
+## Interior Tenement Kolhola
+
+* Added photocopier to hostel
+
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
 * Added loading screen tip about sauna
