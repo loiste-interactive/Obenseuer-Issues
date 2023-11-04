@@ -22,6 +22,7 @@
 ## Furniture
 
 * Fixed chest freezer giving random junk on first placement
+* Fixed storages emptying themselves and spawning random junk afterwards
 
 ## Items
 
