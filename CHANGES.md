@@ -14,7 +14,7 @@
 * Fixed mashing, fermenting and distilleries not working (issue [#784](https://github.com/loiste-interactive/Obenseuer-Issues/issues/784))
 * Fixed some recipes loading data of other recipes (also fixes potential spawning issues)
 * Fixed some keys and task items loading data of other keys and taskitems (also fixes potential spawning issues)
-* Fixed mashing machines giving infinite mash
+* Fixed mashing machines and alike giving infinite mash/product
 
 ## Items
 
