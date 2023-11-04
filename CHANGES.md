@@ -9,6 +9,7 @@
 * Fixed dropping items from equipment slots getting stuck on HUD (issue [#738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/738))
 * Fixed growing turnips being uneconomical (issue [#782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/782))
 * Fixed growing sugar beets being uneconomical
+* Fixed grains not spoiling (issue [#780](https://github.com/loiste-interactive/Obenseuer-Issues/issues/780))
 
 ## Items
 
