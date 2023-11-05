@@ -56,6 +56,10 @@
 
 * Fixed prepared foods having wrong owner (issue [#781](https://github.com/loiste-interactive/Obenseuer-Issues/issues/781))
 
+## Interior Tenement Deekula A (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
+
+* Fixed Jonasson's furniture UI being unlit 
+
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
 * Added loading screen tip about sauna
