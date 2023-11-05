@@ -23,6 +23,7 @@
 * Fixed furniture shop not updating money amount (issue [#803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/803))
 * Fixed overfilled manufacturing tools dropping stuff at player location (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
 * Fixed Möbelmann telling that passmore resides in tenement A
+* Fixed finished tenement upgrades sometimes breaking stats, sleep and time in general.
 
 ## Tenement System
 
