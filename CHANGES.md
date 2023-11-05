@@ -49,6 +49,7 @@
 * Added photocopier to hostel
 * Fixed missing collisions on cabinets
 * Made pods unlockpickable (theres nothing iside anyway) (issue [#828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/828))
+* Fixed Meri Haka
 
 ## Interior Tenement O Market
 
