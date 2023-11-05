@@ -4,6 +4,7 @@
 * Beds now tell you if they're unsafe to sleep
 * Removed multiplicating items
 * Opening console now temporarily disables achievements
+* Tenement upgrade should now wait until player has woken up to actually finish (issue [#774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/774))
 * Fixed moving stolen items around in player inventory generating more crime: (issue [#767](https://github.com/loiste-interactive/Obenseuer-Issues/issues/767))
 * Fixed beer crates spawning items into world (issue [#729](https://github.com/loiste-interactive/Obenseuer-Issues/issues/729))
 * Fixed water footstep sound sometimes staying on after leaving water (issue [#447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/447))
