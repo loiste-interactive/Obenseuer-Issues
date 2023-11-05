@@ -22,6 +22,10 @@
 * Fixed furniture shop not updating money amount (issue [#803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/803))
 * Fixed overfilled manufacturing tools dropping stuff at player location (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
 
+## Tenement System
+
+* Fixed collisions of courtyard and sauna upgrades
+
 ## Furniture
 
 * Fixed chest freezer giving random junk on first placement
