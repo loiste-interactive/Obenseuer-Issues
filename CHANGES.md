@@ -46,6 +46,10 @@
 * Fixed being able to lockpick a door to a house not yet in game (issue [#808](https://github.com/loiste-interactive/Obenseuer-Issues/issues/808))
 * Fixed hardware stall not being open on sundays (issue [#809](https://github.com/loiste-interactive/Obenseuer-Issues/issues/809))
 
+## Interior Tenement Gatehouse
+
+* Fixed prison lockers spawning random loot (and removing player stuff)
+
 ## Interior Tenement Kolhola
 
 * Added photocopier to hostel
