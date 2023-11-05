@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added edit objective console command
 * Adjusted rest rate
 * Increased spawn changes of tarp
 * Beds now tell you if they're unsafe to sleep
