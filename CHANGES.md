@@ -19,6 +19,7 @@
 * Fixed mashing machines and alike giving infinite mash/product
 * Fixed cleaning your tenement opening inventory first for it to work
 * Fixed furniture shop not updating money amount (issue [#803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/803))
+* Fixed overfilled manufacturing tools dropping stuff at player location (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
 
 ## Furniture
 
