@@ -37,6 +37,7 @@
 
 * Fixed collisions of courtyard and sauna upgrades
 * Fixed heating icon showing wrong status when renting (issue [#814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/814))
+* Fixed sauna collisions
 
 ## Furniture
 
