@@ -45,6 +45,7 @@
 
 * Made rye breads more durable
 * Fixed multigrain breads not spoiling (issue [#738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/738))
+* Fixed loose cigarettes not being stackable (issue [#837](https://github.com/loiste-interactive/Obenseuer-Issues/issues/837))
 
 ## Open Sewer Tenement
 
