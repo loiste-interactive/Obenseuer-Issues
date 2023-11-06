@@ -31,6 +31,7 @@
 * Fixed Start editing the apartment task not working (issue [#793](https://github.com/loiste-interactive/Obenseuer-Issues/issues/793))
 * Fixed not being able tell Pentti you will make mash yourself (issue [#789](https://github.com/loiste-interactive/Obenseuer-Issues/issues/789))
 * Fixed Max Masher's model is not aligned with collision when kicking in his door (issue [#825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/825))
+* Fixed visiting Speakeasy optional objective not being checked off (issue [#796](https://github.com/loiste-interactive/Obenseuer-Issues/issues/796))
 
 ## Tenement System
 
