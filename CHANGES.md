@@ -25,6 +25,11 @@
 * Fixed Möbelmann telling that passmore resides in tenement A
 * Fixed finished tenement upgrades sometimes breaking stats, sleep and time in general.
 
+## Tasks
+
+* Fixed not being able tell Pentti you will make mash yourself (issue [#789](https://github.com/loiste-interactive/Obenseuer-Issues/issues/789))
+* Fixed Max Masher's model is not aligned with collision when kicking in his door (issue [#825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/825))
+
 ## Tenement System
 
 * Fixed collisions of courtyard and sauna upgrades
