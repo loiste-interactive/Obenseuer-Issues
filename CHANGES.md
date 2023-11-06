@@ -25,6 +25,7 @@
 * Fixed Möbelmann telling that passmore resides in tenement A
 * Fixed finished tenement upgrades sometimes breaking stats, sleep and time in general
 * Fixed some typos in dialog and tasks (issue [#790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/790))
+* Fixed being able to call bank and order a new debit card without the quest
 
 ## Tasks
 
