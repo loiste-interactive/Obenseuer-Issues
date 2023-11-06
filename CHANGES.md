@@ -60,6 +60,10 @@
 
 * Fixed prison lockers spawning random loot (and removing player stuff)
 
+## Interior Tenement Greenhouse
+
+* Fixed not being able to uproot plants in barrel planter (issue [#844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/844))
+
 ## Interior Tenement Kolhola
 
 * Added photocopier to hostel
