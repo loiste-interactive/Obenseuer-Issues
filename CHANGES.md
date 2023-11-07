@@ -43,6 +43,7 @@
 * Fixed collisions of courtyard and sauna upgrades
 * Fixed heating icon showing wrong status when renting (issue [#814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/814))
 * Fixed sauna collisions
+* Fixed rented NPCs reappearing in their original location after a reload (issue [#842](https://github.com/loiste-interactive/Obenseuer-Issues/issues/842))
 
 ## Furniture
 
