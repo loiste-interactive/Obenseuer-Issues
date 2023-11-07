@@ -7,6 +7,7 @@
 * Removed multiplicating items
 * Opening console now temporarily disables achievements
 * Tenement upgrade should now wait until player has woken up to actually finish (issue [#774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/774))
+* Changed stat arrows colors and directions (issue [#794](https://github.com/loiste-interactive/Obenseuer-Issues/issues/794))
 * Changed status descriptions (issue [#818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/818))
 * Reduced axe and sledgehammer durability: (issue [#853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/853))
 * Reduced sledgehammer swing range (issue [#850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/850))
