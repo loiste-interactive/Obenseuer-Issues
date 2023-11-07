@@ -36,6 +36,7 @@
 * Fixed Max Masher's model is not aligned with collision when kicking in his door (issue [#825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/825))
 * Fixed visiting Speakeasy optional objective not being checked off (issue [#796](https://github.com/loiste-interactive/Obenseuer-Issues/issues/796))
 * Fixed Ville's quest not being able to complete  (issue [#705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/785))
+* Fixed Priest Debt task getting reactivated (issue [#847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/847))
 
 ## Tenement System
 
