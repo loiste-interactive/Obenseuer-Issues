@@ -4,6 +4,10 @@
 
 * Fixed one wall section in Deekula missing collisions
 
+## Recipes
+
+* Steel/Brass/Silver/Gold items (vases and alike) can now be recycled into bars
+
 # November 8th 2023 (Version 0.3.15) - Playtesting branch
 
 * Added console command to destroy all items
