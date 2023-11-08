@@ -65,6 +65,10 @@
 * Fixed loose cigarettes not being stackable (issue [#837](https://github.com/loiste-interactive/Obenseuer-Issues/issues/837))
 * Fixed perishable food items not perishing
 
+## Open Sewer Intro
+
+* Fixed intro
+
 ## Open Sewer Tenement
 
 * Fixed oclusion culling
