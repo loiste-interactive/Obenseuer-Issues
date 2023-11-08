@@ -3,6 +3,7 @@
 ## Open Sewer Tenement
 
 * Fixed one wall section in Deekula missing collisions
+* Fixet outhouses not working
 
 ## Recipes
 
