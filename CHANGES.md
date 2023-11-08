@@ -2,7 +2,7 @@
 
 ## Open Sewer Tenement
 
-* Mixed one wall section in Deekula missing collisions
+* Fixed one wall section in Deekula missing collisions
 
 # November 8th 2023 (Version 0.3.15) - Playtesting branch
 
