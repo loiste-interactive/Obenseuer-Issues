@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed player not always receiving mail.
+* Fixed debit card quest objective triggering instantly when you send mail
 
 ## Open Sewer Tenement
 
