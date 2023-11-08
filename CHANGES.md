@@ -32,6 +32,7 @@
 * Fixed some typos in dialog and tasks (issue [#790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/790))
 * Fixed being able to call bank and order a new debit card without the quest
 * Fixed virtual keyboard opening in "press any key" menu (issue [#731](https://github.com/loiste-interactive/Obenseuer-Issues/issues/731))
+* Fixed grey slots on Eija's grill.
 
 ## Tasks
 
