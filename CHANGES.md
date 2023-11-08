@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 8th 2023 (Version 0.3.15) - Playtesting branch
+
 * Added console command to destroy all items
 * Added edit objective console command
 * Adjusted rest rate
