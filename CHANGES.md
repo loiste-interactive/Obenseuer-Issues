@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added console command to destroy all items
 * Added edit objective console command
 * Adjusted rest rate
 * Increased spawn changes of tarp
