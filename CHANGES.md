@@ -5,6 +5,10 @@
 * Fixed one wall section in Deekula missing collisions
 * Fixet outhouses not working
 
+## Tenement System
+
+* Fixed light position in shit tier electricity
+
 ## Recipes
 
 * Steel/Brass/Silver/Gold items (vases and alike) can now be recycled into bars
