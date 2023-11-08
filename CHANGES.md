@@ -2,6 +2,7 @@
 
 * Fixed player not always receiving mail.
 * Fixed debit card quest objective triggering instantly when you send mail
+* Fixed saveload reseting the amount of incoming mail
 
 ## Open Sewer Tenement
 
