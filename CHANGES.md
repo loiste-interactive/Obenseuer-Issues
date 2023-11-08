@@ -1,7 +1,7 @@
 # Upcoming
 
 * Fixed player not always receiving mail.
-* Fixed debit card quest objective triggering instantly when you send mail
+* Fixed debit card quest objective to trigger instantly when you send mail
 * Fixed saveload reseting the amount of incoming mail
 * Fixed bleeding not killing player (issue [#887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/887))
 
