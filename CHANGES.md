@@ -31,6 +31,7 @@
 * Fixed finished tenement upgrades sometimes breaking stats, sleep and time in general
 * Fixed some typos in dialog and tasks (issue [#790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/790))
 * Fixed being able to call bank and order a new debit card without the quest
+* Fixed virtual keyboard opening in "press any key" menu (issue [#731](https://github.com/loiste-interactive/Obenseuer-Issues/issues/731))
 
 ## Tasks
 
