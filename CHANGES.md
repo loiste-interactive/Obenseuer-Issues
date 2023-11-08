@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed player not always receiving mail.
+
 ## Open Sewer Tenement
 
 * Fixed one wall section in Deekula missing collisions
