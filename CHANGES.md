@@ -17,6 +17,7 @@
 ## Tenement System
 
 * Makeshift apartment now gives 60% safety
+* Bare apartment now gives 30% safety
 * Fixed light position in shit tier electricity
 
 ## Recipes
