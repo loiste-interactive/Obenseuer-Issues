@@ -4,6 +4,7 @@
 * Fixed debit card quest objective to trigger instantly when you send mail
 * Fixed saveload reseting the amount of incoming mail
 * Fixed bleeding not killing player (issue [#887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/887))
+* Fixed beds not being marked as safe when they infact are safe
 
 ## Open Sewer Tenement
 
