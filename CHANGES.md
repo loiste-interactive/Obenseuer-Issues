@@ -6,6 +6,7 @@
 * Fixed bleeding not killing player (issue [#887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/887))
 * Fixed beds not being marked as safe when they infact are safe
 * Fixed unsafe beds not actually being unsafe
+* Fixed safety satus not saving
 
 ## Open Sewer Tenement
 
@@ -15,6 +16,7 @@
 
 ## Tenement System
 
+* Makeshift apartment now gives 60% safety
 * Fixed light position in shit tier electricity
 
 ## Recipes
