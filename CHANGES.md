@@ -7,6 +7,7 @@
 * Fixed beds not being marked as safe when they infact are safe
 * Fixed unsafe beds not actually being unsafe
 * Fixed safety satus not saving
+* Fixed tools not breaking (issue [#925](https://github.com/loiste-interactive/Obenseuer-Issues/issues/925))
 
 ## Open Sewer Tenement
 
