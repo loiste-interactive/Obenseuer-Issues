@@ -34,6 +34,7 @@
 ## Recipes
 
 * Steel/Brass/Silver/Gold items (vases and alike) can now be recycled into bars
+* Sheet metal can now be scrapped into scrap metal
 
 # November 8th 2023 (Version 0.3.15) - Playtesting branch
 
