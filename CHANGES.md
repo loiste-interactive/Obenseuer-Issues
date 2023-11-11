@@ -16,6 +16,7 @@
 * Fixed one wall section in Deekula missing collisions
 * Fixed outhouses not working
 * Fixed vending machine in the alley not selling shrooms (issue [#885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/885))
+* Fixed dumpsters and trashcans not respawning stuff
 
 
 ## Interior Tebement Kolhola
