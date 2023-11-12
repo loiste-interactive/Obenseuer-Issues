@@ -9,6 +9,7 @@
 * Fixed safety satus not saving
 * Fixed tools not breaking (issue [#925](https://github.com/loiste-interactive/Obenseuer-Issues/issues/925))
 * Fixed relock timers not saving (issue [#916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/916))
+* Fixed mashing/fermenting/distilleries and alike not giving failed result upon failure (issue [#965](https://github.com/loiste-interactive/Obenseuer-Issues/issues/965))
 
 ## Open Sewer Tenement
 
