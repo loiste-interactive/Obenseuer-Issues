@@ -36,6 +36,7 @@
 ## Furniture
 
 * Changed sawbuck with chainsaw price
+* Added 1/4 pallet
 
 ## Recipes
 
