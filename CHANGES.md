@@ -33,6 +33,10 @@
 * Fixed shabby yard collisions
 * Fixed containers spawning items to world in tenement upgrades (issue [#878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/878))
 
+## Furniture
+
+* Changed sawbuck with chainsaw price
+
 ## Recipes
 
 * Steel/Brass/Silver/Gold items (vases and alike) can now be recycled into bars
