@@ -38,6 +38,10 @@
 * Changed sawbuck with chainsaw price
 * Added 1/4 pallet
 
+## Items
+
+* Fixed coffee not returning cup
+
 ## Recipes
 
 * Steel/Brass/Silver/Gold items (vases and alike) can now be recycled into bars
