@@ -13,6 +13,7 @@
 * Fixed mashing/fermenting/distilleries and alike process getting stuck if save/loaded power being off (issue [#973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/973))
 * Fixed dropping single items/half stacks destroying leftover stack in inventory (issue [#864](https://github.com/loiste-interactive/Obenseuer-Issues/issues/864))
 * Fixed police breaking a lot of stuff when chasing player and player moves to another map (issue [#950](https://github.com/loiste-interactive/Obenseuer-Issues/issues/950))
+* Fixed backpack allowing remote acces to shops (issue [#940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/940))
 
 ## Open Sewer Tenement
 
