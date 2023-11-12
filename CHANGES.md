@@ -19,6 +19,9 @@
 * Fixed vending machine in the alley not selling shrooms (issue [#885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/885))
 * Fixed dumpsters and trashcans not respawning stuff
 
+## Interior Tebement B
+
+* Fixed tunnel flood door closing on load (issue [#855](https://github.com/loiste-interactive/Obenseuer-Issues/issues/855))
 
 ## Interior Tebement Kolhola
 
