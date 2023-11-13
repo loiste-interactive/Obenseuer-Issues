@@ -16,6 +16,7 @@
 * Fixed police breaking a lot of stuff when chasing player and player moves to another map (issue [#950](https://github.com/loiste-interactive/Obenseuer-Issues/issues/950))
 * Fixed backpack allowing remote acces to shops (issue [#940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/940))
 * Fixed mold and other residual items duplicating (issue [#951](https://github.com/loiste-interactive/Obenseuer-Issues/issues/951))
+* Fixed stealing money not counting as a crime (issue [#970](https://github.com/loiste-interactive/Obenseuer-Issues/issues/970))
 
 ## Open Sewer Tenement
 
