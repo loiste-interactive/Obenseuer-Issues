@@ -48,6 +48,7 @@
 
 ## Items
 
+* Can opener now has durability
 * Fixed coffee not returning cup
 
 ## Recipes
