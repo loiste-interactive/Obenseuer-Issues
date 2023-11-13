@@ -1,6 +1,6 @@
 # Upcoming
 
-* Start package now contains can opener and matches
+* Start package now contains can opener, matches and band-aids
 * Changed debit card quest objective to trigger instantly when you send mail.
 * Fixed player not always receiving mail.
 * Fixed saveload reseting the amount of incoming mail
