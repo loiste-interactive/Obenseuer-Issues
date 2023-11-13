@@ -20,6 +20,7 @@
 * Fixed stealing money not counting as a crime (issue [#970](https://github.com/loiste-interactive/Obenseuer-Issues/issues/970))
 * Fixed furniture crafring not using item charges (issue [#957](https://github.com/loiste-interactive/Obenseuer-Issues/issues/957))
 * Fixed liquid container swap not working properly (issue [#966](https://github.com/loiste-interactive/Obenseuer-Issues/issues/966))
+* Fixed rightclick dragging overriding (thus destroying) items.
 
 ## Open Sewer Tenement
 
