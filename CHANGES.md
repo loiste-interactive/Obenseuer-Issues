@@ -50,6 +50,7 @@
 * Fixed RM rent being paid in OC (issue [#942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/942))
 * Fixed shabby yard collisions
 * Fixed containers spawning items to world in tenement upgrades (issue [#878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/878))
+* Fixed residents not being evicted properly (issue [#998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/998))
 
 ## Furniture
 
