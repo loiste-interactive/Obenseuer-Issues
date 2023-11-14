@@ -21,6 +21,7 @@
 * Fixed furniture crafring not using item charges (issue [#957](https://github.com/loiste-interactive/Obenseuer-Issues/issues/957))
 * Fixed liquid container swap not working properly (issue [#966](https://github.com/loiste-interactive/Obenseuer-Issues/issues/966))
 * Fixed rightclick dragging overriding (thus destroying) items.
+* Fixed rereading notes opening wrong note (issue [#901](https://github.com/loiste-interactive/Obenseuer-Issues/issues/901))
 
 ## Open Sewer Tenement
 
