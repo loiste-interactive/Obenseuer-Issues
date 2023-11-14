@@ -22,6 +22,7 @@
 * Fixed liquid container swap not working properly (issue [#966](https://github.com/loiste-interactive/Obenseuer-Issues/issues/966))
 * Fixed rightclick dragging overriding (thus destroying) items.
 * Fixed rereading notes opening wrong note (issue [#901](https://github.com/loiste-interactive/Obenseuer-Issues/issues/901))
+* Fixed being able to avoid police by jumping just when police tries to talk with you
 
 ## Open Sewer Tenement
 
