@@ -24,6 +24,7 @@
 * Fixed rereading notes opening wrong note (issue [#901](https://github.com/loiste-interactive/Obenseuer-Issues/issues/901))
 * Fixed being able to avoid police by jumping just when police tries to talk with you
 * Fixed police not arresting player if player stands still after selecting "(Run)"
+* Fixed jittering police (issue [#833](https://github.com/loiste-interactive/Obenseuer-Issues/issues/833))
 
 ## Open Sewer Tenement
 
