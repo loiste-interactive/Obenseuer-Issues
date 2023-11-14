@@ -52,6 +52,7 @@
 
 * Changed sawbuck with chainsaw price
 * Added 1/4 pallet
+* Fixed furniture duplicaiton (issue [#987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/987))
 
 ## Items
 
