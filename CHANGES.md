@@ -2,6 +2,10 @@
 
 * Fixed player getting 10pts extra for every addiction at start
 
+## Open Sewer Tenement
+
+* Fixed occlusion issues caused by bushes and trees
+
 # November 15th 2023 (Version 0.3.16) - Playtesting branch
 
 * Reduced addiction need baserate a little, reduced addiction reduction rate a little.
