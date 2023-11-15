@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 15th 2023 (Version 0.3.16) - Playtesting branch
+
 * Reduced addiction need baserate a little, reduced addiction reduction rate a little.
 * Start package now contains can opener, matches and band-aids
 * Changed debit card quest objective to trigger instantly when you send mail.
