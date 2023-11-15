@@ -3,6 +3,7 @@
 * Reduced addiction need baserate a little, reduced addiction reduction rate a little.
 * Start package now contains can opener, matches and band-aids
 * Changed debit card quest objective to trigger instantly when you send mail.
+* Changed amount sliders default value to max value (issue [#983](https://github.com/loiste-interactive/Obenseuer-Issues/issues/983))
 * Fixed player not always receiving mail.
 * Fixed saveload reseting the amount of incoming mail
 * Fixed bleeding not killing player (issue [#887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/887))
