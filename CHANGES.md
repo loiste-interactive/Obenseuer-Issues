@@ -75,6 +75,7 @@
 * Fixed not being able to tell to Passmore about the bank route (issue [#926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/926))
 * Fixed remove obstacle objective not triggering (issue [#926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/926))
 * Fixed Survive in Obenseuer not being completed after completing both objectives (issue [#997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/997))
+* Fixed objectives changing order in the objectives list (issue [#997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/997))
 
 # November 8th 2023 (Version 0.3.15) - Playtesting branch
 
