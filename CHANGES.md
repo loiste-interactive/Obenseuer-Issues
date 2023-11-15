@@ -1,5 +1,6 @@
 # Upcoming
 
+* Reduced farming skill gain
 * Fixed player getting 10pts extra for every addiction at start
 * Fixed potatoes rotting in potatosack breaking its inventory
 
