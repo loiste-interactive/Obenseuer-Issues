@@ -8,6 +8,10 @@
 * Adjusted shabby and makeshift upgrade costs
 * Fixed occlusion issues caused by bushes and trees
 
+## Interior Tenement Kolhola
+
+* Fixed Rauha Taisto being called Fenella Hunt
+
 # November 15th 2023 (Version 0.3.16) - Playtesting branch
 
 * Reduced addiction need baserate a little, reduced addiction reduction rate a little.
