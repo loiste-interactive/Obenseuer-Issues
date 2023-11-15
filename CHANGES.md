@@ -1,6 +1,6 @@
 # Upcoming
 
-* Reduced farming skill gain
+* Reduced farming skill gain on large fields
 * Fixed player getting 10pts extra for every addiction at start
 * Fixed potatoes rotting in potatosack breaking its inventory
 * Fixed farming skill not affecting quality of produced goods
