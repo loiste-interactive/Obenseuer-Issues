@@ -26,7 +26,7 @@
 * Fixed being able to avoid police by jumping just when police tries to talk with you
 * Fixed police not arresting player if player stands still after selecting "(Run)"
 * Fixed jittering police (issue [#833](https://github.com/loiste-interactive/Obenseuer-Issues/issues/833))
-* Fixed multiple issues related to jail
+* Fixed multiple issues related to jail (issue [#1004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1004))
 
 ## Open Sewer Tenement
 
