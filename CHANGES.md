@@ -52,6 +52,7 @@
 * Fixed shabby yard collisions
 * Fixed containers spawning items to world in tenement upgrades (issue [#878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/878))
 * Fixed residents not being evicted properly (issue [#998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/998))
+* Fixed not being able to use player apartment kitchen sinks
 
 ## Furniture
 
