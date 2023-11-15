@@ -4,6 +4,7 @@
 
 ## Open Sewer Tenement
 
+* Adjusted shabby and makeshift upgrade costs
 * Fixed occlusion issues caused by bushes and trees
 
 # November 15th 2023 (Version 0.3.16) - Playtesting branch
