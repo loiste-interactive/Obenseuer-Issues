@@ -6,6 +6,11 @@
 * Fixed potatoes rotting in potatosack breaking its inventory
 * Fixed farming skill not affecting quality of produced goods
 
+## Items
+
+* Fixed low potency shrooms missing effects
+* Fixed shrooms missign eating sounds
+
 ## Open Sewer Tenement
 
 * Adjusted shabby and makeshift upgrade costs
