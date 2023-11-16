@@ -6,6 +6,7 @@
 * Fixed potatoes rotting in potatosack breaking its inventory
 * Fixed farming skill not affecting quality of produced goods
 * Fixed hoses not excluding recipes by modifiers (issue [#1062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1062))
+* Fixed payphone not displaying yellow pages (issue [#1064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1064))
 
 ## Items
 
