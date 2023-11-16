@@ -19,6 +19,7 @@
 ## Interior Tenement Kolhola
 
 * Fixed Rauha Taisto being called Fenella Hunt
+* Fixed hostel keeper being naked (issue [#1015](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1015))
 
 # November 15th 2023 (Version 0.3.16) - Playtesting branch
 
