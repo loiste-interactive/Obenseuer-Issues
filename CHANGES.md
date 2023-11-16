@@ -21,6 +21,7 @@
 * Fixed Locate the gang objective getting checked off when touching the gang entrance door (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 * Fixed not being able to buy the passport when talking to David Lund about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 * Fixed not being able to ask about the passport seller when talking to Hank Möbelmann about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
+* Fixed being able to ask where passmore lives when player already knows it (issue [#1048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1048))
 
 ## Open Sewer Tenement
 
