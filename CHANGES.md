@@ -22,9 +22,10 @@
 * Fixed Locate the gang objective getting checked off when touching the gang entrance door (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 * Fixed not being able to buy the passport when talking to David Lund about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 * Fixed not being able to ask about the passport seller when talking to Hank Möbelmann about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
-* Fixed being able to ask where passmore lives when player already knows it (issue [#1048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1048))
-* Fixed Radio Signal quest activating again when finding the woman in the bed (issue [#1054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1054))
-* Fixed deciding not telling about the body to the police not activating new objective (issue [#1055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1055))
+* Fixed being able to ask where passmore lives from Eliana when player already knows it (issue [#1048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1048))
+* Fixed Radio Signal task activating again when finding the woman in the bed (issue [#1054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1054))
+* Fixed Radio Signal task deciding not telling about the body to the police not activating new objective (issue [#1055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1055))
+* Fixed Radio Signal task not being able to tell body's name (issue [#1056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1056))
 
 ## Open Sewer Tenement
 
