@@ -26,6 +26,7 @@
 * Fixed Radio Signal task activating again when finding the woman in the bed (issue [#1054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1054))
 * Fixed Radio Signal task deciding not telling about the body to the police not activating new objective (issue [#1055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1055))
 * Fixed Radio Signal task not being able to tell body's name (issue [#1056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1056))
+* Fixed Priest's Debt task activating again when doing optional task after task is complete (issue [#1050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1050))
 
 ## Open Sewer Tenement
 
