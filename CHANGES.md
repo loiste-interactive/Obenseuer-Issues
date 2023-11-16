@@ -21,6 +21,7 @@
 
 * Added new objective to "Who lives in the basement" task (issue [#1061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1061))
 * Added Getting a Passport task description mentioning where Eliana lives (issue [#1046](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1046))
+* Added dialogue for Axel Norberg for reporting a body (issue [#1058](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1058))
 * Changed to be able to tell Passmores password to the Deekula B basement door (issue [#1057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1057))
 * Changed Deekula B basement door dialogue to affect Getting a Passport task (issue [#1045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1045))
 * Fixed not being able to give turnip moonshine to Pate (issue [#1066](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1066))
