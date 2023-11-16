@@ -7,6 +7,7 @@
 * Fixed farming skill not affecting quality of produced goods
 * Fixed hoses not excluding recipes by modifiers (issue [#1062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1062))
 * Fixed payphone not displaying yellow pages (issue [#1064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1064))
+* Fixed interest breaking player bank account (issue [#1078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1078))
 
 ## Items
 
