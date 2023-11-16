@@ -1,5 +1,6 @@
 # Upcoming
 
+* Increased the initial duck need amount from 0.1 to 0.5
 * Reduced farming skill gain on large fields
 * Reduced skill gain on field kitchen
 * Fixed player getting 10pts extra for every addiction at start
