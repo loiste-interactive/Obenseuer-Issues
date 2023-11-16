@@ -51,6 +51,10 @@
 * Fixed Rauha Taisto being called Fenella Hunt
 * Fixed hostel keeper being naked (issue [#1015](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1015))
 
+## Interior Tenement B
+
+* Fixed dead Mike not having items
+
 # November 15th 2023 (Version 0.3.16) - Playtesting branch
 
 * Reduced addiction need baserate a little, reduced addiction reduction rate a little.
