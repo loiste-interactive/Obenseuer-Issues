@@ -17,6 +17,7 @@
 
 ## Tasks
 
+* Added Getting a Passport task description mentioning where Eliana lives (issue [#1046](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1046))
 * Changed to be able to tell Passmores password to the Deekula B basement door (issue [#1057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1057))
 * Fixed task descriptions appearing in wrong order (issue [#1037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1037))
 * Fixed Locate the gang objective getting checked off when touching the gang entrance door (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
