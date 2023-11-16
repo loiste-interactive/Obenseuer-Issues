@@ -20,6 +20,10 @@
 * Adjusted shabby and makeshift upgrade costs
 * Fixed occlusion issues caused by bushes and trees
 
+## Interior Player Tenement
+
+* Fixed apartment 4 not having default furniture (issue [#1029](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1029))
+
 ## Interior Tenement Kolhola
 
 * Fixed Rauha Taisto being called Fenella Hunt
