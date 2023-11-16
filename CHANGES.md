@@ -33,6 +33,7 @@
 * Fixed Radio Signal task deciding not telling about the body to the police not activating new objective (issue [#1055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1055))
 * Fixed Radio Signal task not being able to tell body's name (issue [#1056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1056))
 * Fixed Priest's Debt task activating again when doing optional task after task is complete (issue [#1050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1050))
+* Fixed Me Mash! task dialogue choices after "I could if I knew how to mash" closing dialogue window with Pentti (issue [#1069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1069))
 
 ## Open Sewer Tenement
 
