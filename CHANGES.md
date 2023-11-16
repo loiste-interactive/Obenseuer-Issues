@@ -5,6 +5,7 @@
 * Fixed player getting 10pts extra for every addiction at start
 * Fixed potatoes rotting in potatosack breaking its inventory
 * Fixed farming skill not affecting quality of produced goods
+* Fixed hoses not excluding recipes by modifiers (issue [#1062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1062))
 
 ## Items
 
