@@ -19,6 +19,8 @@
 
 * Fixed task descriptions appearing in wrong order (issue [#1037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1037))
 * Fixed Locate the gang objective getting checked off when touching the gang entrance door (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
+* Fixed not being able to buy the passport when talking to David Lund about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
+* Fixed not being able to ask about the passport seller when talking to Hank Möbelmann about it a second time (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 
 ## Open Sewer Tenement
 
