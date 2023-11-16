@@ -11,6 +11,10 @@
 * Fixed low potency shrooms missing effects
 * Fixed shrooms missign eating sounds
 
+## Tasks
+
+* Fixed task descriptions appearing in wrong order (issue [#1037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1037))
+
 ## Open Sewer Tenement
 
 * Adjusted shabby and makeshift upgrade costs
