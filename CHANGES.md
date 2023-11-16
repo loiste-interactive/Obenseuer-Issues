@@ -9,6 +9,7 @@
 * Fixed payphone not displaying yellow pages (issue [#1064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1064))
 * Fixed interest breaking player bank account (issue [#1078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1078))
 * Fixed furnaces draining gas bottles even when they're off (issue [#1088](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1088))
+* Fixed slots graying out on fueled but not currently processing mashing tuns (issue [#1087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1087))
 
 ## Items
 
