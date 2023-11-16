@@ -18,6 +18,7 @@
 ## Tasks
 
 * Fixed task descriptions appearing in wrong order (issue [#1037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1037))
+* Fixed Locate the gang objective getting checked off when touching the gang entrance door (issue [#1026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1026))
 
 ## Open Sewer Tenement
 
@@ -71,7 +72,7 @@
 * Fixed vending machine in the alley not selling shrooms (issue [#885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/885))
 * Fixed dumpsters and trashcans not respawning stuff
 
-## Interior Tebement B
+## Interior Tenement B
 
 * Fixed tunnel flood door closing on load (issue [#855](https://github.com/loiste-interactive/Obenseuer-Issues/issues/855))
 
@@ -211,9 +212,9 @@
 
 * Fixed prepared foods having wrong owner (issue [#781](https://github.com/loiste-interactive/Obenseuer-Issues/issues/781))
 
-## Interior Tenement Deekula A (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
+## Interior Tenement Deekula A
 
-* Fixed Jonasson's furniture UI being unlit 
+* Fixed Jonasson's furniture UI being unlit (issue [#802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/802))
 
 # November 3th 2023 (Version 0.3.14) - Playtesting branch
 
