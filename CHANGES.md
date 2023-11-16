@@ -11,6 +11,10 @@
 * Fixed low potency shrooms missing effects
 * Fixed shrooms missign eating sounds
 
+## Recipes
+
+* Fixed crafting sometimes starts to craft wrong recipe (issue [#982](https://github.com/loiste-interactive/Obenseuer-Issues/issues/982))
+
 ## Tasks
 
 * Fixed task descriptions appearing in wrong order (issue [#1037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1037))
