@@ -1,5 +1,9 @@
 # Upcoming
 
+## Open Sewer Tenement
+
+* Improved outdoor environment lighting
+
 # November 17th 2023 (Version 0.3.17)
 
 * Increased the initial duck need amount from 0.1 to 0.5
