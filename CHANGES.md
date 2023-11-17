@@ -15,6 +15,7 @@
 * Fixed Osrat culling issues (issue [#1086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1086))
 * Fixed NPC heads sometimes jiggling
 * Fixed not being able to see notifications while sleeping (issue [#1074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1074))
+* Fixed re-lock timers not working
 
 ## Items
 
