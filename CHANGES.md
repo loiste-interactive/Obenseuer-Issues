@@ -13,6 +13,7 @@
 * Fixed slots graying out on fueled but not currently processing mashing tuns (issue [#1087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1087))
 * Fixed Osrat culling issues (issue [#1086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1086))
 * Fixed NPC heads sometimes jiggling
+* Fixed not being able to see notifications while sleeping (issue [#1074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1074))
 
 ## Items
 
