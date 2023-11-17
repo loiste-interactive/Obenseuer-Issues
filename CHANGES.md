@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 17th 2023 (Version 0.3.17) - Playtesting branch
+
 * Increased the initial duck need amount from 0.1 to 0.5
 * Reduced farming skill gain on large fields
 * Reduced skill gain on field kitchen
