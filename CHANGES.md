@@ -40,6 +40,7 @@
 * Fixed Radio Signal task not being able to tell body's name (issue [#1056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1056))
 * Fixed Priest's Debt task activating again when doing optional task after task is complete (issue [#1050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1050))
 * Fixed Me Mash! task dialogue choices after "I could if I knew how to mash" closing dialogue window with Pentti (issue [#1069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1069))
+* Fixed Buying the Toll Bridge task issues (issue [#1085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1085))
 * Fixed Lost And Found activating again when using payphone
 
 ## Open Sewer Tenement
