@@ -44,6 +44,7 @@
 * Fixed Me Mash! task dialogue choices after "I could if I knew how to mash" closing dialogue window with Pentti (issue [#1069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1069))
 * Fixed Buying the Toll Bridge task issues (issue [#1085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1085))
 * Fixed being able to trigger Letter for Emilie Palmer task two times (issue [#1080](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1080))
+* Fixed Tunnel B2 task not completing (issue [#1094](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1094))
 * Fixed Lost And Found activating again when using payphone
 
 ## Open Sewer Tenement
