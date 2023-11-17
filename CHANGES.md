@@ -16,6 +16,7 @@
 * Fixed NPC heads sometimes jiggling
 * Fixed not being able to see notifications while sleeping (issue [#1074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1074))
 * Fixed re-lock timers not working
+* Fixed inventory not updating when changing to inventory tab from other tab (issue [#935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/935))
 
 ## Items
 
