@@ -3,6 +3,10 @@
 * Fixed being unable to start crafting on mashing tuns/fermenters/distilleries (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
 * Fixed some doors being locked automatically, when they shouldn't (issue [#1125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1125))
 
+## Furniture
+
+* Fixed sink furniture being 'owned' (issue [#1105](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1105))
+
 ## Open Sewer Tenement
 
 * Improved outdoor environment lighting
