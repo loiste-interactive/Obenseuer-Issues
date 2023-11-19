@@ -11,6 +11,7 @@
 ## Open Sewer Tenement
 
 * Improved outdoor environment lighting
+* Fixed hardware stall being open on fridays despire sign stating otherwise (issue [#1115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1115))
 
 # November 17th 2023 (Version 0.3.17)
 
