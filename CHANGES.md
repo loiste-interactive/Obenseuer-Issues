@@ -1,7 +1,5 @@
 # Upcoming
 
-* Fixed an issue where JSON parsing fails depending on language settings.
-
 ## Open Sewer Tenement
 
 * Improved outdoor environment lighting
