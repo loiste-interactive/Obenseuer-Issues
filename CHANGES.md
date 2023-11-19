@@ -2,6 +2,7 @@
 
 * Fixed being unable to start crafting on mashing tuns/fermenters/distilleries (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
 * Fixed some doors being locked automatically, when they shouldn't (issue [#1125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1125))
+* Fixed an issue where sometimes going to prison leaves timescale to 150
 
 ## Furniture
 
