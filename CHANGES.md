@@ -12,6 +12,7 @@
 
 * Improved outdoor environment lighting
 * Fixed hardware stall being open on fridays despire sign stating otherwise (issue [#1115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1115))
+* Removed debit card accidentally left over from tests (issue [#1139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1139))
 
 # November 17th 2023 (Version 0.3.17)
 
