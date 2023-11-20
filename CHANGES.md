@@ -35,6 +35,7 @@
 * Fixed apartment fine balcony textures clipping (issue [#1143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1143))
 * Fixed makeshift balcony gap at outside (issue [1141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1141))
 * Fixed residents not spawning to right positions (issue [#1142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1142))
+* Fixed resident rent ignoring tenement upgrades (issue [#1135](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1135))
 
 ## Furniture
 
