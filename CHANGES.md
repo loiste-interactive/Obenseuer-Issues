@@ -8,6 +8,7 @@
 * Fixed some doors being locked automatically, when they shouldn't (issue [#1125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1125))
 * Fixed an issue where sometimes going to prison leaves timescale to 150
 * Fixed camera breaking (mostly in Kolhola) (issue [#1128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1128))
+* Fixed Mr.Bag not being fixed (issue [#1108](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1108))
 * Fixed low health from preventing player from sleeping.
 * Fixed green mushrooms causing lag
 * Fixed player's receiving alcohol addiction cured achievement at start
