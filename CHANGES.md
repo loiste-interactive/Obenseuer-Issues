@@ -13,6 +13,10 @@
 * Fixed player's receiving alcohol addiction cured achievement at start
 * Reduced start depression target
 
+## Tasks
+
+* Fixed not being able to talk to the toll bridge owner about buying the bridge (issue [#1107](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1107))
+
 ## Building System
 
 * Player apartment now starts with a sawbuck.
