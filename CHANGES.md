@@ -1,5 +1,11 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed building system playing a sound when looking at an object that requires an item
+
+# November 20th 2023 (Version 0.3.18)
+
 * Increased player lockpicking skill gain
 * Player can now ask Samuel about furniture crafting.
 * Player can now ask Malone about chopping and selling wood.
