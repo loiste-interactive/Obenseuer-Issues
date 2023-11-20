@@ -1,5 +1,6 @@
 # Upcoming
 
+* Increased player lockpicking skill gain
 * Player can now ask Samuel about furniture crafting.
 * Player can now ask Malone about chopping and selling wood.
 * Sleep now gives small mental health recovery.
