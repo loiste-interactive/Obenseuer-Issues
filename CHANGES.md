@@ -10,6 +10,7 @@
 * Fixed camera breaking (mostly in Kolhola) (issue [#1128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1128))
 * Fixed low health from preventing player from sleeping.
 * Fixed green mushrooms causing lag
+* Fixed player's receiving alcohol addiction cured achievement at start
 * Reduced start depression target
 
 ## Building System
