@@ -36,6 +36,7 @@
 * Fixed makeshift balcony gap at outside (issue [1141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1141))
 * Fixed residents not spawning to right positions (issue [#1142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1142))
 * Fixed resident rent ignoring tenement upgrades (issue [#1135](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1135))
+* Fixed invisible obstacle in the makeshift yard (issue [#1147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1147))
 
 ## Furniture
 
