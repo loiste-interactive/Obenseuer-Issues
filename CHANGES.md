@@ -28,6 +28,10 @@
 * Fixed hardware stall being open on fridays despire sign stating otherwise (issue [#1115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1115))
 * Removed debit card accidentally left over from tests (issue [#1139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1139))
 
+## Interior Player Tenement
+
+* Fixed apartment fine balcony textures clipping (issue [#1143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1143))
+
 # November 17th 2023 (Version 0.3.17)
 
 * Increased the initial duck need amount from 0.1 to 0.5
