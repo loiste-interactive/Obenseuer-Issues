@@ -63,6 +63,7 @@
 
 ## Items
 
+* Fixed double clicking to move items not working sometimes
 * Fixed low potency shrooms missing effects
 * Fixed shrooms missign eating sounds
 
