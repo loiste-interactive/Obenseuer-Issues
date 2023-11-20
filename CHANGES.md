@@ -18,6 +18,11 @@
 * Player apartment now starts with a sawbuck.
 * Fixed item duplication exploit when placing items as furniture and taking them (issue [#1110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1110))
 
+## Tenement System
+
+* Fixed apartment fine balcony textures clipping (issue [#1143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1143))
+* Fixed makeshift balcony gap at outside (issue [1141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1141))
+
 ## Furniture
 
 * Fixed sink furniture being 'owned' (issue [#1105](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1105))
@@ -27,10 +32,6 @@
 * Improved outdoor environment lighting
 * Fixed hardware stall being open on fridays despire sign stating otherwise (issue [#1115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1115))
 * Removed debit card accidentally left over from tests (issue [#1139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1139))
-
-## Interior Player Tenement
-
-* Fixed apartment fine balcony textures clipping (issue [#1143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1143))
 
 # November 17th 2023 (Version 0.3.17)
 
