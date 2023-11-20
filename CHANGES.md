@@ -19,6 +19,11 @@
 
 * Fixed not being able to talk to the toll bridge owner about buying the bridge (issue [#1107](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1107))
 
+## Items
+
+* Fixed double clicking to move items not working sometimes
+* Fixed the amount slider not being at the maximum value at start
+
 ## Building System
 
 * Player apartment now starts with a sawbuck.
@@ -63,7 +68,6 @@
 
 ## Items
 
-* Fixed double clicking to move items not working sometimes
 * Fixed low potency shrooms missing effects
 * Fixed shrooms missign eating sounds
 
