@@ -32,6 +32,7 @@
 
 ## Tenement System
 
+* Changed the apartment to show if the size requirement is met or not
 * Fixed apartment fine balcony textures clipping (issue [#1143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1143))
 * Fixed makeshift balcony gap at outside (issue [1141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1141))
 * Fixed residents not spawning to right positions (issue [#1142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1142))
