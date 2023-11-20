@@ -23,6 +23,7 @@
 
 * Player apartment now starts with a sawbuck.
 * Fixed item duplication exploit when placing items as furniture and taking them (issue [#1110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1110))
+* Fixed two calendars having wrong image
 
 ## Tenement System
 
