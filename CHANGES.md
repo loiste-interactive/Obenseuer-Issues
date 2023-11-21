@@ -3,6 +3,7 @@
 * Changed Hank Möbelmann to sell rugs
 * Changed Mental Health percentage to show in reverse in the stat tooltip (issue [#1176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1176))
 * Fixed missing power slot icons
+* Fixed mashing getting stuck at 100% (issue [#1170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1170))
 
 ## Tenement System
 
