@@ -8,6 +8,7 @@
 
 * Fixed (again) not being able to talk to the toll bridge owner about buying the bridge (issue [#1171](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1171))
 * Fixed being able to give blue duck twice (issue [#1172](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1172))
+* Fixed Jomppe Kurahaara accepting seeds as returnable vegetables(issue [#1169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1169))
 
 # November 20th 2023 (Version 0.3.18)
 
