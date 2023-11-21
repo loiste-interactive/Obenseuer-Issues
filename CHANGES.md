@@ -5,6 +5,7 @@
 * Fixed missing power slot icons
 * Fixed prosess manufacturing getting stuck at 100% (issue [#1170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1170))
 * Fixed process manufacturing not updating process when the fuel has run out when the player has been in another scene
+* Fixed Martta Lapinjoki having Ville and Mirjam part of the family (issue [#1180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1180))
 
 ## Tenement System
 
