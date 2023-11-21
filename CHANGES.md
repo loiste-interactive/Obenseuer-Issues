@@ -4,6 +4,10 @@
 
 * Fixed building system playing a sound when looking at an object that requires an item
 
+## Tasks
+
+* Fixed (again) not being able to talk to the toll bridge owner about buying the bridge (issue [#1171](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1171))
+
 # November 20th 2023 (Version 0.3.18)
 
 * Increased player lockpicking skill gain
