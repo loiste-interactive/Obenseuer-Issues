@@ -1,5 +1,6 @@
 # Upcoming
 
+* Changed Hank Möbelmann to sell rugs
 * Changed Mental Health percentage to show in reverse in the stat tooltip (issue [#1176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1176))
 
 ## Tenement System
