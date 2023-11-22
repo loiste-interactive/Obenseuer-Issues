@@ -32,6 +32,10 @@
 * Fixed flower pot marked as owned (issue [#1202](https://github.com/loiste-interactive/Obenseuer-Issues/issues1202))
 * Fixed tiny cage graphical/animation issues (issue [#1177](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1177))
 
+## O-Market
+
+* Fixed items not showing the market price (issue [#1101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1101))
+
 # November 20th 2023 (Version 0.3.18)
 
 * Increased player lockpicking skill gain
