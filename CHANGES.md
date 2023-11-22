@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 22th 2023 (Version 0.3.19)
+
 * Failed lockpicking attempts now also increase skill level (issue [#1158](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1158))
 * Changed Hank Möbelmann to sell rugs
 * Changed Mental Health percentage to show in reverse in the stat tooltip (issue [#1176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1176))
