@@ -36,6 +36,10 @@
 
 * Fixed items not showing the market price (issue [#1101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1101))
 
+## Skeida Pharmacy
+
+* Fixed being able to bypass keycard doors (issue [#1185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1185))
+
 # November 20th 2023 (Version 0.3.18)
 
 * Increased player lockpicking skill gain
