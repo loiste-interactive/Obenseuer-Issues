@@ -10,6 +10,7 @@
 * Fixed process manufacturing not updating process when the fuel has run out when the player has been in another scene
 * Fixed Martta Lapinjoki having Ville and Mirjam part of the family (issue [#1180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1180))
 * Fixed sentence count down ignoring the 100h cap (issue [#1167](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1167))
+* Fixed Lönkkä Kurahaara being at three different places at the same time (issue [#1178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1178))
 
 ## Tenement System
 
