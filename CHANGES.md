@@ -13,6 +13,7 @@
 * Fixed dropped items vanishing randomly (issue [#1163](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1163))
 * Fixed residents staying on the streets when rented (issue [#1175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1175))
 * Fixed (Clone) written after the residents' name
+* Fixed that no other residents are spawned if there are several residents in the same apartment
 * Fixed building system playing a sound when looking at an object that requires an item
 * Fixed not being able to drop items to the player's apartment when the player doesn't have the tenement blueprint
 
