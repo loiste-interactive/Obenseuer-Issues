@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed available process and grow slots not being being shown properly (issue [#1206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1206))
+
 # November 22th 2023 (Version 0.3.19)
 
 * Failed lockpicking attempts now also increase skill level (issue [#1158](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1158))
