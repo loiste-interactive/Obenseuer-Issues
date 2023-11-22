@@ -2,6 +2,7 @@
 
 * Changed Hank Möbelmann to sell rugs
 * Changed Mental Health percentage to show in reverse in the stat tooltip (issue [#1176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1176))
+* Fixed moldy waste never disappearing from scenes
 * Fixed missing power slot icons
 * Fixed prosess manufacturing getting stuck at 100% (issue [#1170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1170))
 * Fixed process manufacturing not updating process when the fuel has run out when the player has been in another scene
