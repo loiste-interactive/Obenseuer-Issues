@@ -19,6 +19,7 @@
 * Fixed that no other residents are spawned if there are several residents in the same apartment
 * Fixed building system playing a sound when looking at an object that requires an item
 * Fixed not being able to drop items to the player's apartment when the player doesn't have the tenement blueprint
+* Fixed Shabby Facade entrance hole
 
 ## Tasks
 
