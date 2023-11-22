@@ -2,6 +2,7 @@
 
 * Changed Hank Möbelmann to sell rugs
 * Changed Mental Health percentage to show in reverse in the stat tooltip (issue [#1176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1176))
+* Fixed the police arresting the player when the police is not chasing the player (issue [#1189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1189))
 * Fixed moldy waste never disappearing from scenes
 * Fixed new moldy waste spawning everytime the game is saved/loaded
 * Fixed missing power slot icons
