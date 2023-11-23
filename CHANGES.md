@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 23th 2023 (Version 0.3.20)
+
 * Fixed mushrooms causing laggy mold infestation in Kolhola (issue [#1221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1221))
 * Fixed not being able to pickup those laggy mushroom
 * Fixed freezing in main menu (issue [#1222](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1222))
