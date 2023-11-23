@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed mental health tooltip showing wrong value (issue [#1208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1208))
+* Fixed Hank Möbelmann not paying his electricity bill (issue [#1209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1209))
 * Fixed available process and grow slots not being being shown properly (issue [#1206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1206))
 
 # November 22th 2023 (Version 0.3.19)
