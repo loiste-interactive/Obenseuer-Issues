@@ -11,6 +11,7 @@
 * Fixed item duplication while in shop interface (issue [#1223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1223))
 * Fixed bird looking like a cat in a bird calendar (issue [#1212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1212))
 * Fixed Johan Wider changing appearance (issue [#1219](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1219))
+* Fixed clipping through stairs to the basement door (issue [#1225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1225))
 
 # November 22th 2023 (Version 0.3.19)
 
