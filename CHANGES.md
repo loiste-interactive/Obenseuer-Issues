@@ -6,6 +6,7 @@
 * Fixed Hank Möbelmann not paying his electricity bill (issue [#1209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1209))
 * Fixed available process and grow slots not being being shown properly (issue [#1206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1206))
 * Fixed some residents breaking tenement upgrades in scene (issue [#1210](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1210))
+* Fixed item info displaying wrong item sometimes in the inventory (issue [#1211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1211))
 * Fixed bird looking like a cat in a bird calendar (issue [#1212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1212))
 * Fixed Johan Wider changing appearance (issue [#1219](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1219))
 
