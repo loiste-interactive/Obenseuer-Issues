@@ -2,6 +2,7 @@
 
 ## Tenement System
 
+* Fixed disappearing items (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 * Fixed item duplication bug (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 
 # November 23th 2023 (Version 0.3.20)
