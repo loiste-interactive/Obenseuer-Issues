@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed item duplication bug (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
+
 # November 23th 2023 (Version 0.3.20)
 
 * Fixed mushrooms causing laggy mold infestation in Kolhola (issue [#1221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1221))
