@@ -4,6 +4,7 @@
 
 * Fixed disappearing items (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 * Fixed item duplication bug (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
+* Fixed some items not getting removed when taking the item below them (issue [#1089](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1089))
 
 ## Tasks
 
