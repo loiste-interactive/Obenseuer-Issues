@@ -2,6 +2,7 @@
 
 ## Tenement System
 
+* Doctor now offers fungicide
 * Facade upgrades (mid tier) now needs asbestos
 * High tier facade upgrade now needs insulation wool 
 * Increased stack merging margin for perishables and quality values
