@@ -2,6 +2,7 @@
 
 * Added rewards when reaching skill level 10
 * Doctor now offers fungicide
+* Fixed skill not affecting meat grinder output
 
 ## Tenement System
 
