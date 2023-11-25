@@ -30,6 +30,7 @@
 ## Skeida Pharmacy
 
 * Pharmacy now sells fungicide
+* Pharmacy now sells syringes
 
 # November 23th 2023 (Version 0.3.20)
 
