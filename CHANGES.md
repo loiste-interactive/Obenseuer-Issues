@@ -9,7 +9,9 @@
 
 ## Items
 
-* Fixed Dracaena plant seeds giving snakeplant seeds
+* Fixed picking up dracaena plant seeds giving snakeplant seeds
+* Fixed picking up soleirolia plant seeds giving aralia seeds
+* Fixed picking up aralia plant seeds giving heraclium seeds
 
 ## Tasks
 
