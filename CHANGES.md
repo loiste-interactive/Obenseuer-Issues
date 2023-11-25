@@ -14,6 +14,7 @@
 
 * Added Insulation wool
 * Added asbestos
+* Fixed gold and silver mechanical watches missing quality data
 * Fixed picking up dracaena plant seeds giving snakeplant seeds
 * Fixed picking up soleirolia plant seeds giving aralia seeds
 * Fixed picking up aralia plant seeds giving heraclium seeds
