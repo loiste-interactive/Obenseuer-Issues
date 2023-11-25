@@ -12,7 +12,8 @@
 
 ## Items
 
-* Added Insulation wool
+* Added fungicide
+* Added insulation wool
 * Added asbestos
 * Fixed gold and silver mechanical watches missing quality data
 * Fixed picking up dracaena plant seeds giving snakeplant seeds
