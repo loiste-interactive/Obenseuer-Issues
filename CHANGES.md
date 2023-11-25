@@ -1,8 +1,9 @@
 # Upcoming
 
+* Doctor now offers fungicide
+
 ## Tenement System
 
-* Doctor now offers fungicide
 * Facade upgrades (mid tier) now needs asbestos
 * High tier facade upgrade now needs insulation wool 
 * Increased stack merging margin for perishables and quality values
@@ -25,6 +26,10 @@
 ## Tasks
 
 * Changed the Poison bottle objective to mention leaving the place
+
+## Skeida Pharmacy
+
+* Pharmacy now sells fungicide
 
 # November 23th 2023 (Version 0.3.20)
 
