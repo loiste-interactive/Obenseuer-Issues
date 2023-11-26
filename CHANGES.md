@@ -42,6 +42,10 @@
 
 * Changed the Poison bottle objective to mention leaving the place
 
+## Open Sewer Tenement
+
+* Fixed Eija's refigerator only accepting bottles (issue [#1270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1270))
+
 ## Skeida Pharmacy
 
 * Pharmacy now sells fungicide
