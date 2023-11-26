@@ -49,6 +49,7 @@
 
 * Fixed pod 8 being unsafe
 * Fixed pod door opening directions
+* Fixed some items having pharmacy as owner
 
 # November 23th 2023 (Version 0.3.20)
 
