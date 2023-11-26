@@ -46,6 +46,10 @@
 
 * Fixed Eija's refigerator only accepting bottles (issue [#1270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1270))
 
+## O-Market
+
+* Fixed bread spoiling and breaking bread shelf (issue [#1269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1269))
+
 ## Skeida Pharmacy
 
 * Pharmacy now sells fungicide
