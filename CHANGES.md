@@ -5,6 +5,7 @@
 * Added rewards when reaching skill level 10
 * Doctor now offers fungicide
 * Fixed skill not affecting meat grinder output
+* Fixed overloaded ash slots, dropping ash on player location issue [#1234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1234))
 
 ## Tenement System
 
