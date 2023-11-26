@@ -9,6 +9,7 @@
 * Fixed attempting to use owned items complain about missing can opener issue [#1121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1121))
 * Fixed stealing coins, recipes and blueprints not counting as a crime [#1134](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1134))
 * Fixed ball grills having furnace recipes instead of stove recipes
+* Fixed being able to transfer liquids from stolen containers. (issue [#1263](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1263))
 
 ## Tenement System
 
