@@ -10,6 +10,7 @@
 * Fixed stealing coins, recipes and blueprints not counting as a crime [#1134](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1134))
 * Fixed ball grills having furnace recipes instead of stove recipes
 * Fixed being able to transfer liquids from stolen containers. (issue [#1263](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1263))
+* Fixed fruit growh states not saving (issue [#1265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1265))
 
 ## Tenement System
 
