@@ -32,6 +32,10 @@
 * Fixed picking up aralia plant seeds giving heraclium seeds
 * Fixed septi low and weiners not being stackable
 
+## Recipes
+
+* Fixed pizza recipes not returning jars (issue [#1226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1226))
+
 ## Tasks
 
 * Changed the Poison bottle objective to mention leaving the place
