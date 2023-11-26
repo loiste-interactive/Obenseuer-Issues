@@ -40,6 +40,11 @@
 * Pharmacy now sells fungicide
 * Pharmacy now sells syringes
 
+## Interior tenement kolhola
+
+* Fixed pod 8 being unsafe
+* Fixed pod door opening directions
+
 # November 23th 2023 (Version 0.3.20)
 
 * Fixed mushrooms causing laggy mold infestation in Kolhola (issue [#1221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1221))
