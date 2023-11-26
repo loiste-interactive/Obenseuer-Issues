@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added chemistry skill achievement
+* Added bribery skill achievement
 * Added rewards when reaching skill level 10
 * Doctor now offers fungicide
 * Fixed skill not affecting meat grinder output
