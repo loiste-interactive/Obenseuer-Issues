@@ -6,7 +6,8 @@
 * Doctor now offers fungicide
 * Fixed skill not affecting meat grinder output
 * Fixed overloaded ash slots, dropping ash on player location issue [#1234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1234))
-* Fixed attempting to use owned items complain about missing canopener [#1121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1121))
+* Fixed attempting to use owned items complain about missing can opener issue [#1121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1121))
+* Fixed stealing coins, recipes and blueprints not counting as a crime [#1134](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1134))
 
 ## Tenement System
 
