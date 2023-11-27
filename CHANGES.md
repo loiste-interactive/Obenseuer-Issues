@@ -24,6 +24,7 @@
 * Fixed item duplication bug (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 * Fixed some items not getting removed when taking the item below them (issue [#1089](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1089))
 * Fixed decent walls having balcony door (issue [#1257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1257))
+* Fixed some visual bugs in the player apartment (issue [#1245](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1245))
 * Fixed (Contains Items!) text duplicating
 
 ## Furniture
