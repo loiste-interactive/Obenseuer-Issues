@@ -12,6 +12,7 @@
 * Fixed being able to transfer liquids from stolen containers. (issue [#1263](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1263))
 * Fixed fruit growh states not saving (issue [#1265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1265))
 * Fixed wardrobe having small space (issue [#1241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1241))
+* Fixed just planted grains missing any visible indicator (issue [#1117](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1117))
 
 ## Tenement System
 
