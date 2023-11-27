@@ -18,7 +18,7 @@
 * Facade upgrades (mid tier) now needs asbestos
 * High tier facade upgrade now needs insulation wool 
 * Increased stack merging margin for perishables and quality values
-* Changed UI to show much more or less apartment income would be when renting
+* Changed apartment income to show much more or less apartment income would be when renting
 * Changed the surgery damage to be proportional of player health
 * Fixed disappearing items (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 * Fixed tenement upgrade storages not saving items (issue [#1271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1271))
