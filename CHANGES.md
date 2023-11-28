@@ -1,5 +1,7 @@
 # Upcoming
 
+* Increased Passmore's budget
+
 ## Recipes
 
 * Pipes can now be crafted in furnace
