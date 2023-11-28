@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added malting
 * Added chemistry skill achievement
 * Added bribery skill achievement
 * Added rewards when reaching skill level 10
