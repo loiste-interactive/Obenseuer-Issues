@@ -4,6 +4,11 @@
 
 ## Recipes
 
+* Added negative effects for fungicides
+* Fixed yarn not being burnable
+
+## Recipes
+
 * Pipes can now be crafted in furnace
 
 ## Furniture
