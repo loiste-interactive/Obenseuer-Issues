@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Pipes can now be crafted in furnace
+
 # November 28th 2023 (Version 0.3.21) - Playtesting branch
 
 * Added malting
