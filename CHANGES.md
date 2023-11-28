@@ -4,6 +4,10 @@
 
 * Pipes can now be crafted in furnace
 
+## Furniture
+
+* Fixed previewing barrel planters colliding with player
+
 # November 28th 2023 (Version 0.3.21) - Playtesting branch
 
 * Added malting
