@@ -39,6 +39,7 @@
 ## Furniture
 
 * Added trade union flags
+* Added plastic storage chest
 
 ## Items
 
