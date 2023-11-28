@@ -15,6 +15,7 @@
 * Fixed wardrobe having small space (issue [#1241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1241))
 * Fixed just planted grains missing any visible indicator (issue [#1117](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1117))
 * Fixed bank exchange value calculation (issue [#1131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1131))
+* Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
 * Fixed decorative plants giving OC coins on harvest
 
 ## Tenement System
