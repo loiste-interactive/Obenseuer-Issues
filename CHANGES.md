@@ -32,6 +32,7 @@
 * Fixed decent walls having balcony door (issue [#1257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1257))
 * Fixed some visual bugs in the player apartment (issue [#1245](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1245))
 * Fixed moving container with items moving wrong container (issue [#1231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1231))
+* Fixed black lines around apartment doors with decent stairwell (issue [#1288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1288))
 * Fixed (Contains Items!) text duplicating
 * Fixed Electric I and II upgrades having flipped prices
 * Reduced apartment electricity installation cost
