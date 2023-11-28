@@ -42,6 +42,7 @@
 
 ## Items
 
+* Added stainless steel
 * Added fungicide
 * Added insulation wool
 * Added asbestos
