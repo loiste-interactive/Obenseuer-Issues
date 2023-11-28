@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 28th 2023 (Version 0.3.21) - Playtesting branch
+
 * Added malting
 * Added chemistry skill achievement
 * Added bribery skill achievement
@@ -28,7 +30,6 @@
 * Fixed disappearing items (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
 * Fixed tenement upgrade storages not saving items (issue [#1271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1271))
 * Fixed item duplication bug (issue [#1228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1228))
-* Fixed some items not getting removed when taking the item below them (issue [#1089](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1089))
 * Fixed moving furniture placed by upgarade causing the furniture to vanish on save load (issue [#1255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1255))
 * Fixed decent walls having balcony door (issue [#1257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1257))
 * Fixed some visual bugs in the player apartment (issue [#1245](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1245))
