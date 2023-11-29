@@ -1,6 +1,9 @@
 # Upcoming
 
 * Increased Passmore's budget
+* Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
+* Fixed sounds remaining muted after loading save in underwater (issue [#1301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1301))
+* Added double clicking save slot to load save (issue [#110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/110))
 
 ## Recipes
 
