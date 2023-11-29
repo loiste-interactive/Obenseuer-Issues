@@ -15,6 +15,10 @@
 
 * Fixed previewing barrel planters colliding with player
 
+## Tenement System
+
+* Fixed old television collision
+
 ## O-Market
 
 * Fixed not being able to talk to Mirjam Freighter
