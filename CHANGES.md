@@ -6,6 +6,10 @@
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
 * Fixed fermenting barrel being capped to 10L (should be 100L).
 
+## Tenement System
+
+* Fixed not being able to farm in shabby extensions (issue [#1315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1315))
+
 # November 29th 2023 (Version 0.3.21)
 
 * Added malting
