@@ -1,6 +1,6 @@
 # Upcoming
 
-# November 29th 2023 (Version 0.3.21) - Playtesting branch
+# November 29th 2023 (Version 0.3.21)
 
 * Added malting
 * Added chemistry skill achievement
