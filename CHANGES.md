@@ -10,6 +10,10 @@
 
 * Fixed not being able to farm in shabby extensions (issue [#1315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1315))
 
+## Interior O-Market
+
+* Fixed vegetable shelf items spoiling and breaking the storage
+
 # November 29th 2023 (Version 0.3.21)
 
 * Added malting
