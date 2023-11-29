@@ -6,15 +6,13 @@
 * Fixed sounds remaining muted after loading save in underwater (issue [#1301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1301))
 * Fixed the "Yellow Pages" not showing up when using the payphone (issue [#1284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1284))
 * Fixed the toll bridge doors not always closing (issue [#1243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1243))
+* Fixed process manufacturing UI bug with long names (issue [#1267](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1267))
 * Fixed doors not being closed when they're relocked
 
 ## Recipes
 
 * Added negative effects for fungicides
 * Fixed yarn not being burnable
-
-## Recipes
-
 * Pipes can now be crafted in furnace
 
 ## Furniture
