@@ -15,6 +15,10 @@
 
 * Fixed previewing barrel planters colliding with player
 
+## O-Market
+
+* Fixed not being able to talk to Mirjam Freighter
+
 # November 28th 2023 (Version 0.3.21) - Playtesting branch
 
 * Added malting
