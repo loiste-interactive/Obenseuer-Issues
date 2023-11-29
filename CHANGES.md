@@ -1,42 +1,14 @@
 # Upcoming
 
-* Increased Passmore's budget
-* Added double clicking save slot to load save (issue [#110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/110))
-* Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
-* Fixed sounds remaining muted after loading save in underwater (issue [#1301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1301))
-* Fixed the "Yellow Pages" not showing up when using the payphone (issue [#1284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1284))
-* Fixed the toll bridge doors not always closing (issue [#1243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1243))
-* Fixed process manufacturing UI bug with long names (issue [#1267](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1267))
-* Fixed doors not being closed when they're relocked
-
-## Recipes
-
-* Added negative effects for fungicides
-* Fixed yarn not being burnable
-* Pipes can now be crafted in furnace
-
-## Furniture
-
-* Fixed previewing barrel planters colliding with player
-* Reduced wooden chest price and updated blueprint
-
-## Tenement System
-
-* Fixed old television collision
-* Fixed chairs still being occupied after renting apartment to NPC (issue [#1214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1214))
-* Fixed Leon Borg acting as he was living on the street when he has an apartment (issue [#1204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1204))
-
-## O-Market
-
-* Fixed not being able to talk to Mirjam Freighter
-
-# November 28th 2023 (Version 0.3.21) - Playtesting branch
+# November 29th 2023 (Version 0.3.21) - Playtesting branch
 
 * Added malting
 * Added chemistry skill achievement
 * Added bribery skill achievement
 * Added rewards when reaching skill level 10
+* Added double clicking save slot to load save (issue [#110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/110))
 * Doctor now offers fungicide
+* Increased Passmore's budget
 * Fixed skill not affecting meat grinder output
 * Fixed overloaded ash slots, dropping ash on player location issue [#1234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1234))
 * Fixed attempting to use owned items complain about missing can opener issue [#1121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1121))
@@ -49,6 +21,12 @@
 * Fixed bank exchange value calculation (issue [#1131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1131))
 * Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
 * Fixed decorative plants giving OC coins on harvest
+* Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
+* Fixed sounds remaining muted after loading save in underwater (issue [#1301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1301))
+* Fixed the "Yellow Pages" not showing up when using the payphone (issue [#1284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1284))
+* Fixed the toll bridge doors not always closing (issue [#1243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1243))
+* Fixed process manufacturing UI bug with long names (issue [#1267](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1267))
+* Fixed doors not being closed when they're relocked
 
 ## Tenement System
 
@@ -65,6 +43,9 @@
 * Fixed some visual bugs in the player apartment (issue [#1245](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1245))
 * Fixed moving container with items moving wrong container (issue [#1231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1231))
 * Fixed black lines around apartment doors with decent stairwell (issue [#1288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1288))
+* Fixed old television collision
+* Fixed chairs still being occupied after renting apartment to NPC (issue [#1214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1214))
+* Fixed Leon Borg acting as he was living on the street when he has an apartment (issue [#1204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1204))
 * Fixed (Contains Items!) text duplicating
 * Fixed Electric I and II upgrades having flipped prices
 * Reduced apartment electricity installation cost
@@ -74,6 +55,8 @@
 
 * Added trade union flags
 * Added plastic storage chest
+* Fixed previewing barrel planters colliding with player
+* Reduced wooden chest price and updated blueprint
 
 ## Items
 
@@ -90,6 +73,9 @@
 
 ## Recipes
 
+* Added negative effects for fungicides
+* Fixed yarn not being burnable
+* Pipes can now be crafted in furnace
 * Fixed pizza recipes not returning jars (issue [#1226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1226))
 
 ## Tasks
@@ -103,6 +89,7 @@
 ## O-Market
 
 * Fixed bread spoiling and breaking bread shelf (issue [#1269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1269))
+* Fixed not being able to talk to Mirjam Freighter
 
 ## Skeida Pharmacy
 
