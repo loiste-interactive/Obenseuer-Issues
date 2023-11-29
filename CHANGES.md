@@ -24,6 +24,7 @@
 
 * Fixed old television collision
 * Fixed chairs still being occupied after renting apartment to NPC (issue [#1214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1214))
+* Fixed Leon Borg acting as he was living on the street when he has an apartment (issue [#1204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1204))
 
 ## O-Market
 
