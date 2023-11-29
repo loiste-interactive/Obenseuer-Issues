@@ -23,6 +23,7 @@
 ## Tenement System
 
 * Fixed old television collision
+* Fixed chairs still being occupied after renting apartment to NPC (issue [#1214](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1214))
 
 ## O-Market
 
