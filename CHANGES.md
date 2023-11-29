@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
+
 # November 29th 2023 (Version 0.3.21)
 
 * Added malting
