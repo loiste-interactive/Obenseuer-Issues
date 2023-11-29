@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added sprint and crouch toggle setting to controls menu (issue [#1181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1181))
 * Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
 
