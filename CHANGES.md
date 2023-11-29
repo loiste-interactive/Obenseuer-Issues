@@ -5,6 +5,8 @@
 * Fixed Passmore restocking RM balance every reload (issue [#1290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1290))
 * Fixed sounds remaining muted after loading save in underwater (issue [#1301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1301))
 * Fixed the "Yellow Pages" not showing up when using the payphone (issue [#1284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1284))
+* Fixed the toll bridge doors not always closing (issue [#1243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1243))
+* Fixed doors not being closed when they're relocked
 
 ## Recipes
 
@@ -18,6 +20,7 @@
 ## Furniture
 
 * Fixed previewing barrel planters colliding with player
+* Reduced wooden chest price and updated blueprint
 
 ## Tenement System
 
