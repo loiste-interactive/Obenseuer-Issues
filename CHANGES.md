@@ -15,6 +15,7 @@
 ## Tenement System
 
 * Fixed not being able to farm in shabby extensions (issue [#1315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1315))
+* Fixed basement bullet time (issue [#1321](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1321))
 
 ## Interior O-Market
 
