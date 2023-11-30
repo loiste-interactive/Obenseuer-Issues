@@ -6,6 +6,7 @@
 * Fixed fermenting barrel being capped to 10L (should be 100L).
 * Fixed not being able to offer fungicide prescription for Mona Hall
 * Fixed not being able to pick up fully grown fruits
+* Fixed plant sizes changing when loading game
 
 ## Options Menu
 
