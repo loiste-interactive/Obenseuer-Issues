@@ -1,6 +1,5 @@
 # Upcoming
 
-* Changed to be able to re-assign movement keys (AZERTY) (issue [#1006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1006))
 * Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
 * Fixed fermenting barrel being capped to 10L (should be 100L).
@@ -11,6 +10,7 @@
 * Added sprint and crouch toggle setting to controls menu (issue [#1181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1181))
 * Added bordeless windowed setting to display menu
 * Added run in background setting to display menu
+* Changed to be able to re-assign movement keys (AZERTY) (issue [#1006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1006))
 
 ## Tenement System
 
