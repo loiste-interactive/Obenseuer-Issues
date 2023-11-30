@@ -5,6 +5,7 @@
 * Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
 * Fixed fermenting barrel being capped to 10L (should be 100L).
+* Fixed not being able to offer fungicide prescription for Mona Hall
 
 ## Tenement System
 
