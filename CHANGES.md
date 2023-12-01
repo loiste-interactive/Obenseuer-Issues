@@ -31,6 +31,7 @@
 * Added electric mashing kettle
 * Added fermenting bucket
 * Added fermenting container
+* Added malter
 
 # November 29th 2023 (Version 0.3.21)
 
