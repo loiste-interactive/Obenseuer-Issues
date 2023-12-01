@@ -24,9 +24,13 @@
 * Fixed not being able to farm in shabby extensions (issue [#1315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1315))
 * Fixed basement bullet time (issue [#1321](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1321))
 
-## Interior O-Market
+## O-Market
 
 * Fixed vegetable shelf items spoiling and breaking the storage
+
+## Kolhola
+
+* Changed blue duck to normal duck
 
 ## Furniture
 
