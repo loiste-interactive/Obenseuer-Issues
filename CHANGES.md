@@ -25,6 +25,10 @@
 
 * Fixed vegetable shelf items spoiling and breaking the storage
 
+## Furniture
+
+* Added kitchen set
+
 # November 29th 2023 (Version 0.3.21)
 
 * Added malting
