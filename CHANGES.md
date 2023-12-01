@@ -28,6 +28,7 @@
 ## Furniture
 
 * Added kitchen set
+* Added electric mashing kettle
 
 # November 29th 2023 (Version 0.3.21)
 
