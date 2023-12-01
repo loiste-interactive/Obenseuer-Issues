@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added plants to show growing/spoiling status when looking at them outside the UI
+* Added hold to press to uproot plants (issue [#1179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1179))
 * Fixed loading save the second time would sometimes cause errors requiring a restart
 * Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
