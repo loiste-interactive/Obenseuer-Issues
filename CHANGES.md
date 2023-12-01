@@ -32,6 +32,7 @@
 * Added fermenting bucket
 * Added fermenting container
 * Added malter
+* Added malter blueprint
 
 # November 29th 2023 (Version 0.3.21)
 
