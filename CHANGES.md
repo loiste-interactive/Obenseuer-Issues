@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 1st 2023 (Version 0.3.22) - Playtesting branch
+
 * Added plants to show growing/spoiling status when looking at them outside the UI
 * Added hold to press to uproot plants (issue [#1179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1179))
 * Fixed loading save the second time would sometimes cause errors requiring a restart
