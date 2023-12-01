@@ -10,6 +10,7 @@
 * Fixed not being able to pick up fully grown fruits
 * Fixed plant sizes changing when loading game
 * Fixed plants giving coins sometimes
+* Fixed cucumbers disappearing after load
 * Fixed some sounds not respecting volume setting (issue [#1323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1323))
 * Fixed furnace being too loud (issue [#1332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1332))
 
