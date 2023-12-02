@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
+
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
 * Added plants to show growing/spoiling status when looking at them outside the UI
