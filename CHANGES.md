@@ -6,6 +6,10 @@
 
 * Added plant matter
 
+## Recipes
+
+* Added composting recipe what also uses ash
+
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
 * Added plants to show growing/spoiling status when looking at them outside the UI
