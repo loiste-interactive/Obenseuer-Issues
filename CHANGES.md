@@ -22,6 +22,10 @@
 
 * Fixed dead Mike's mushrooms causing player getting stuck to the other side
 
+## Furniture
+
+* Added biogas reactor
+
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
 * Added plants to show growing/spoiling status when looking at them outside the UI
