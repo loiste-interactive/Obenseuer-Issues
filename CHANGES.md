@@ -13,6 +13,7 @@
 
 * Added composting recipe what also uses ash
 * Added yeast extraction recipe for chemical lab
+* Fixed pasta showing empty tin can and returning can opener (issue [#1363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1363))
 
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
