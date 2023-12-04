@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added biogas reactor
+* Fixed achievements triggering when starting a new game
 
 ## Furniture
 
