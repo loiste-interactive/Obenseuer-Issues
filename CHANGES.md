@@ -4,6 +4,7 @@
 * Adjusted brewing skill gain
 * Tooltip now shows item owner (if not generic owner)
 * Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
+* Fixed not being able to use Osrat (issue [#1365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1365))
 
 ## Items
 
@@ -15,6 +16,10 @@
 * Added composting recipe what also uses ash
 * Added yeast extraction recipe for chemical lab
 * Fixed pasta showing empty tin can and returning can opener (issue [#1363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1363))
+
+## Tenement B
+
+* Fixed dead Mike's mushrooms causing player getting stuck to the other side
 
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
