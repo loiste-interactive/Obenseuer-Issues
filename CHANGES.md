@@ -6,7 +6,7 @@
 
 * Added biogas reactor
 
-# December 1st 2023 (Version 0.3.22) - Playtesting branch
+# December 4th 2023 (Version 0.3.22) - Playtesting branch
 
 * Adjusted brewing skill gain
 * Tooltip now shows item owner (if not generic owner)
