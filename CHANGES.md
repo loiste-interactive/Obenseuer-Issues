@@ -7,6 +7,7 @@
 ## Items
 
 * Added plant matter
+* Fixed some items in enviroment not geting added to inventory when picked up (issue [#1357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1357))
 
 ## Recipes
 
