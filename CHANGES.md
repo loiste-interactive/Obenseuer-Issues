@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added biogas reactor
 * Adjusted brewing skill gain
 * Tooltip now shows item owner (if not generic owner)
 * Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
