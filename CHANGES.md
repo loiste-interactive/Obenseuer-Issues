@@ -5,6 +5,7 @@
 * Tooltip now shows item owner (if not generic owner)
 * Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
 * Fixed not being able to use Osrat (issue [#1365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1365))
+* Fixed some dialogue getting stuck when using keyboard (issue [#1368](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1368))
 
 ## Items
 
