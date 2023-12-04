@@ -1,26 +1,6 @@
 # Upcoming
 
 * Added biogas reactor
-* Adjusted brewing skill gain
-* Tooltip now shows item owner (if not generic owner)
-* Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
-* Fixed not being able to use Osrat (issue [#1365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1365))
-* Fixed some dialogue getting stuck when using keyboard (issue [#1368](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1368))
-
-## Items
-
-* Added plant matter
-* Fixed some items in enviroment not geting added to inventory when picked up (issue [#1357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1357))
-
-## Recipes
-
-* Added composting recipe what also uses ash
-* Added yeast extraction recipe for chemical lab
-* Fixed pasta showing empty tin can and returning can opener (issue [#1363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1363))
-
-## Tenement B
-
-* Fixed dead Mike's mushrooms causing player getting stuck to the other side
 
 ## Furniture
 
@@ -28,6 +8,8 @@
 
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
+* Adjusted brewing skill gain
+* Tooltip now shows item owner (if not generic owner)
 * Added plants to show growing/spoiling status when looking at them outside the UI
 * Added hold to press to uproot plants (issue [#1179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1179))
 * Fixed loading save the second time would sometimes cause errors requiring a restart
@@ -41,6 +23,9 @@
 * Fixed cucumbers disappearing after load
 * Fixed some sounds not respecting volume setting (issue [#1323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1323))
 * Fixed furnace being too loud (issue [#1332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1332))
+* Fixed SMV rate calculation (fungicide increasing SMV rate, not reducing it)
+* Fixed not being able to use Osrat (issue [#1365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1365))
+* Fixed some dialogue getting stuck when using keyboard (issue [#1368](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1368))
 
 ## Options Menu
 
@@ -55,13 +40,16 @@
 * Fixed not being able to farm in shabby extensions (issue [#1315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1315))
 * Fixed basement bullet time (issue [#1321](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1321))
 
-## O-Market
+## Recipes
 
-* Fixed vegetable shelf items spoiling and breaking the storage
+* Added composting recipe what also uses ash
+* Added yeast extraction recipe for chemical lab
+* Fixed pasta showing empty tin can and returning can opener (issue [#1363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1363))
 
-## Kolhola
+## Items
 
-* Changed blue duck to normal duck
+* Added plant matter
+* Fixed some items in enviroment not geting added to inventory when picked up (issue [#1357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1357))
 
 ## Furniture
 
@@ -72,6 +60,18 @@
 * Added malter
 * Added malter blueprint
 * Added helm clock
+
+## Tenement B
+
+* Fixed dead Mike's mushrooms causing player getting stuck to the other side
+
+## O-Market
+
+* Fixed vegetable shelf items spoiling and breaking the storage
+
+## Kolhola
+
+* Changed blue duck to normal duck
 
 # November 29th 2023 (Version 0.3.21)
 
