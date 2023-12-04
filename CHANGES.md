@@ -11,6 +11,7 @@
 ## Recipes
 
 * Added composting recipe what also uses ash
+* Added yeast extraction recipe for chemical lab
 
 # December 1st 2023 (Version 0.3.22) - Playtesting branch
 
