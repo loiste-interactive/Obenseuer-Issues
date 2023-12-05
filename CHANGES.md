@@ -1,6 +1,7 @@
 # Upcoming
 
 * Changed items to move to the nearest slot when dragged into a gap between slots instead of returning to the slot it was moved from
+* Changed movement keys to affect menu navigation keys
 
 ## Tenement System
 
