@@ -4,6 +4,7 @@
 
 * Fixed some manufacturing tools showing containing items when a recipe is selected (issue [#1083](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1083))
 * Fixed doors not loading states correctly after load (issue [#1350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1350))
+* Fixed spawning two items in the same spot in the apartments
 
 # December 5th 2023 (Version 0.3.22)
 
