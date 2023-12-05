@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added biogas reactor
+* Added hint that tells what key to press when using lockpick
 * Fixed achievements triggering when starting a new game
 * Fixed player passing through geometry
 * Fixed recipes telling about missing item if recipe requires item with ammo
