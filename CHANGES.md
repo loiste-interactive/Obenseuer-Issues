@@ -1,3 +1,9 @@
+# Upcoming
+
+## Tenement System
+
+* Fixed some manufacturing tools showing containing items when a recipe is selected (issue [#1083](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1083))
+
 # December 5th 2023 (Version 0.3.22)
 
 * Added biogas reactor
