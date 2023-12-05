@@ -3,6 +3,7 @@
 * Added biogas reactor
 * Fixed achievements triggering when starting a new game
 * Fixed player passing through geometry
+* Fixed recipes telling about missing item if recipe requires item with ammo
 
 ## Furniture
 
