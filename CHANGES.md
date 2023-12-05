@@ -1,5 +1,7 @@
 # Upcoming
 
+* Changed items to move to the nearest slot when dragged into a gap between slots instead of returning to the slot it was moved from
+
 ## Tenement System
 
 * Fixed some manufacturing tools showing containing items when a recipe is selected (issue [#1083](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1083))
