@@ -1,21 +1,14 @@
-# Upcoming
+# December 5th 2023 (Version 0.3.22)
 
 * Added biogas reactor
+* Adjusted brewing skill gain
+* Tooltip now shows item owner (if not generic owner)
 * Added hint that tells what key to press when using lockpick
+* Added plants to show growing/spoiling status when looking at them outside the UI
+* Added hold to press to uproot plants (issue [#1179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1179))
 * Fixed achievements triggering when starting a new game
 * Fixed player passing through geometry
 * Fixed recipes telling about missing item if recipe requires item with ammo
-
-## Furniture
-
-* Added biogas reactor
-
-# December 4th 2023 (Version 0.3.22) - Playtesting branch
-
-* Adjusted brewing skill gain
-* Tooltip now shows item owner (if not generic owner)
-* Added plants to show growing/spoiling status when looking at them outside the UI
-* Added hold to press to uproot plants (issue [#1179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1179))
 * Fixed loading save the second time would sometimes cause errors requiring a restart
 * Fixed furniture preview icons not loading inside inventory (issue [#1299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1299))
 * Fixed Deekula B unlocking only when player gets "Me Mash!" task (issue [#1259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1259))
@@ -57,6 +50,7 @@
 
 ## Furniture
 
+* Added biogas reactor
 * Added kitchen set
 * Added electric mashing kettle
 * Added fermenting bucket
