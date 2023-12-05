@@ -6,6 +6,10 @@
 * Fixed doors not loading states correctly after load (issue [#1350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1350))
 * Fixed spawning two items in the same spot in the apartments
 
+## Gatehouse
+
+* Added authorized personnel only sign to the door and also sign to warn about the camera (issue [#1372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1372))
+
 # December 5th 2023 (Version 0.3.22)
 
 * Added biogas reactor
