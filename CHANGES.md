@@ -5,6 +5,7 @@
 * Fixed not being able to enter hotel reservation menu, order drink from Pentti, buy cigarettes from Mirjam.
 * Fixed filling multiple containers at once from fermenters and alike multiplying liquid amount (issue [#1359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1359))
 * Fixed player being able to smuggle contraband to prison (issue [#1278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1278))
+* Fixed sauna temperature meters breaking on saveloads (issue [#1247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1247))
 
 ## Tenement System
 
