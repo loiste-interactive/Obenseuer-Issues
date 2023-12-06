@@ -4,6 +4,7 @@
 * Changed movement keys to affect menu navigation keys
 * Fixed not being able to enter hotel reservation menu, order drink from Pentti, buy cigarettes from Mirjam.
 * Fixed filling multiple containers at once from fermenters and alike multiplying liquid amount (issue [#1359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1359))
+* Fixed player being able to smuggle contraband to prison (issue [#1278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1278))
 
 ## Tenement System
 
