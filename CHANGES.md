@@ -8,6 +8,7 @@
 * Fixed sauna temperature meters breaking on saveloads (issue [#1247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1247))
 * Fixed bank account being re-initialized (thus being empty) every safeload (issue [#1283](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1283))
 * Fixed wonky drillhead (issue [#1340](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1340))
+* Fixed furnace not loading state properly (issue [#1303](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1303))
 
 ## Tenement System
 
