@@ -15,6 +15,10 @@
 
 * Added authorized personnel only sign to the door and also sign to warn about the camera (issue [#1372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1372))
 
+## Items
+
+* Fixed slaughtering rats missing sound
+
 # December 5th 2023 (Version 0.3.22)
 
 * Added biogas reactor
