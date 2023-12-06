@@ -19,6 +19,10 @@
 
 * Fixed slaughtering rats missing sound
 
+## Interior Speakeasy
+
+* Fixed Pentti selling mash back to player (issue [#1300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1300))
+
 # December 5th 2023 (Version 0.3.22)
 
 * Added biogas reactor
