@@ -9,6 +9,7 @@
 * Fixed some manufacturing tools showing containing items when a recipe is selected (issue [#1083](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1083))
 * Fixed doors not loading states correctly after load (issue [#1350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1350))
 * Fixed spawning two items in the same spot in the apartments
+* Fixed makeshift kitchen cutting board being owned
 
 ## Gatehouse
 
