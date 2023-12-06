@@ -3,6 +3,7 @@
 * Changed items to move to the nearest slot when dragged into a gap between slots instead of returning to the slot it was moved from
 * Changed movement keys to affect menu navigation keys
 * Fixed not being able to enter hotel reservation menu, order drink from Pentti, buy cigarettes from Mirjam.
+* Fixed filling multiple containers at once from fermenters and alike multiplying liquid amount (issue [#1359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1359))
 
 ## Tenement System
 
