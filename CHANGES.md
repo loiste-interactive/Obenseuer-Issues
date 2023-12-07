@@ -17,15 +17,20 @@
 * Fixed spawning two items in the same spot in the apartments
 * Fixed kitchen cutting boards being owned
 
-## Gatehouse
+## Furniture
 
-* Added authorized personnel only sign to the door and also sign to warn about the camera (issue [#1372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1372))
+* Added microscope to vendors furniture list
+* Increased how many different furnitures vendors have on sale
 
 ## Items
 
 * Fixed slaughtering rats missing sound
 
-## Interior Speakeasy
+## Gatehouse
+
+* Added authorized personnel only sign to the door and also sign to warn about the camera (issue [#1372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1372))
+
+## Speakeasy
 
 * Fixed Pentti selling mash back to player (issue [#1300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1300))
 
