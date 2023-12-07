@@ -17,6 +17,7 @@
 * Fixed doors not loading states correctly after load (issue [#1350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1350))
 * Fixed spawning two items in the same spot in the apartments
 * Fixed kitchen cutting boards being owned
+* Fixed disappearing bucket toilet bucket
 
 ## Furniture
 
