@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 7th 2023 (Version 0.3.23) - Playtest branch
+
 * Added O-Market and pharmacy to map
 * Changed items to move to the nearest slot when dragged into a gap between slots instead of returning to the slot it was moved from
 * Changed movement keys to affect menu navigation keys
