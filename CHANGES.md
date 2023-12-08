@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Canal Sauna, Kolhola, Redemption Militia and Deekula C not having a map (issue [#936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/936))
+
 # December 7th 2023 (Version 0.3.23)
 
 * Added O-Market and pharmacy to map
