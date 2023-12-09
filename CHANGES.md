@@ -2,6 +2,7 @@
 
 * Fixed Canal Sauna, Kolhola, Redemption Militia and Deekula C not having a map (issue [#936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/936))
 * Fixed coffee causing imsomnia (issue [#1395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1395))
+* Fixed guitar (issue [#1264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1264))
 
 # December 7th 2023 (Version 0.3.23)
 
