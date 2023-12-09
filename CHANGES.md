@@ -4,6 +4,10 @@
 * Fixed coffee causing imsomnia (issue [#1395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1395))
 * Fixed guitar (issue [#1264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1264))
 
+## Open Sewer Tenement
+
+* Fixed wall near Kolhola doors missing collision
+
 # December 7th 2023 (Version 0.3.23)
 
 * Added O-Market and pharmacy to map
