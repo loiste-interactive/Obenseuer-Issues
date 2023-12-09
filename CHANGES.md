@@ -8,6 +8,10 @@
 
 * Fixed wall near Kolhola doors missing collision
 
+## O-Market
+
+* O-Market now sells flasshlights
+
 # December 7th 2023 (Version 0.3.23)
 
 * Added O-Market and pharmacy to map
