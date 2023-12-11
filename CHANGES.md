@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added map markers
 * Added 3 new achievements
 * Player can now work for the Telemarketing company in Kolhola
 * Fixed Canal Sauna, Kolhola, Redemption Militia and Deekula C not having a map (issue [#936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/936))
