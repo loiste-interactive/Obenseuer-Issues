@@ -15,6 +15,10 @@
 
 * Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
 
+## Tenement System
+
+* Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
+
 ## Open Sewer Tenement
 
 * Fixed wall near Kolhola doors missing collision
