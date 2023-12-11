@@ -9,6 +9,7 @@
 * Fixed being able to override items in other inventories  (issue [#1342](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1342))
 * Fixed getting stuck on toilet when the toilet bucket is full (issue [#1417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1417))
 * Fixed harvesting vine plants counting as crime (issue [#1407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1407))
+* Fixed vine plants not being harvestable at 100% (issue [#1416](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1416))
 
 ## Tasks
 
