@@ -16,6 +16,7 @@
 * Changed renovation tasks to move to separate bar (issue [#1333](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1333))
 * Changed renovation task to not be visible in task panel when completed (issue [#1333](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1333))
 * Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
+* Fixed "Start 5 renovations" not counting renovations started before getting the objective (issue [#1116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1116))
 
 ## Tenement System
 
