@@ -8,6 +8,10 @@
 * Fixed being able to override items in other inventories  (issue [#1342](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1342))
 * Fixed getting stuck on toilet when the toilet bucket is full (issue [#1417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1417))
 
+## Tasks
+
+* Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
+
 ## Open Sewer Tenement
 
 * Fixed wall near Kolhola doors missing collision
