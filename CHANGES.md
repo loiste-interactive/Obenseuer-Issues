@@ -10,6 +10,7 @@
 * Fixed getting stuck on toilet when the toilet bucket is full (issue [#1417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1417))
 * Fixed harvesting vine plants counting as crime (issue [#1407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1407))
 * Fixed vine plants not being harvestable at 100% (issue [#1416](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1416))
+* Fixed lockpicking achievement
 
 ## Tasks
 
