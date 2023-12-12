@@ -24,6 +24,7 @@
 ## Recipes
 
 * Fixed not being able to craft some soups (issue [#1424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1424))
+* Fixed cooking oil and some other items not being red in recipe when missing (issue [#1425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1425))
 
 ## Tenement System
 
