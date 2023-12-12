@@ -21,6 +21,10 @@
 * Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
 * Fixed "Start 5 renovations" not counting renovations started before getting the objective (issue [#1116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1116))
 
+## Recipes
+
+* Fixed not being able to craft some soups (issue [#1424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1424))
+
 ## Tenement System
 
 * Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
