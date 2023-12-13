@@ -13,6 +13,7 @@
 * Fixed vine plants not being harvestable at 100% (issue [#1416](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1416))
 * Fixed lockpicking achievement
 * Fixed cooking achievement
+* Fixed sitting while being arrested freezing player (issue [#1447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1447))
 
 ## Tasks
 
