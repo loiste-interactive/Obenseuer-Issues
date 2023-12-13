@@ -1,5 +1,6 @@
 # Upcoming
 
+* Player can noww turn themselves for the police
 * Added map markers
 * Added 3 new achievements
 * Added menu navigation keys to key bindings menu
