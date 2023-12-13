@@ -21,6 +21,10 @@
 * Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
 * Fixed "Start 5 renovations" not counting renovations started before getting the objective (issue [#1116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1116))
 
+## Items
+
+* Fixed tomato soups turning into vegetable soups when dropped, fixed peasoup changing type (issue [#1145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1145))
+
 ## Recipes
 
 * Fixed not being able to craft some soups (issue [#1424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1424))
