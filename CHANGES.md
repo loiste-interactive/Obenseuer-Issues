@@ -14,6 +14,7 @@
 * Fixed lockpicking achievement
 * Fixed cooking achievement
 * Fixed sitting while being arrested freezing player (issue [#1447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1447))
+* Fixed being able to talk to police when police is chasing you
 
 ## Tasks
 
