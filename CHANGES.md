@@ -39,6 +39,10 @@
 * Fixed taking a furniture crashing the game sometimes (issue [#1418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1418))
 * Fixed greenhouse upgrades not giving sun modifier (issue [#1443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1443))
 
+## Interior O-Market
+
+* O Market now sells take away coffee
+
 ## Open Sewer Tenement
 
 * Fixed wall near Kolhola doors missing collision
