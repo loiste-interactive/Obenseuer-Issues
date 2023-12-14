@@ -59,6 +59,8 @@
 * Added Old Cottage Table
 * Added Pan
 * Added Cafeteria Bucket
+* Added Red Bucket
+* Added Broom
 * Added Blue Plastic Barrel Sink
 * Added Makeshift Toilet
 * Added Blue Plastic Barrel Sink Blueprint
