@@ -76,6 +76,7 @@
 ## Tenement System
 
 * Added ability to clean other apartments and other places in the tenement
+* Added new furnishings for tenants
 * Fixed Stairwell Lights causing lag
 * Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
 * Fixed taking a furniture crashing the game sometimes (issue [#1418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1418))
