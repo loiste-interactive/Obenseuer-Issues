@@ -55,6 +55,16 @@
 * Added Table Lamp
 * Added Car Wheel
 * Added Bathroom Cabinet
+* Added Potato Sack
+* Added Old Cottage Table
+* Added Pan
+* Added Cafeteria Bucket
+* Added Blue Plastic Barrel Sink
+* Added Makeshift Toilet
+* Added Blue Plastic Barrel Sink Blueprint
+* Added Makeshift Toilet Blueprint
+* Added Makeshift Sink Blueprint
+* Added Shabby Bed Blueprint
 
 ## Recipes
 
@@ -64,6 +74,7 @@
 ## Tenement System
 
 * Added ability to clean other apartments and other places in the tenement
+* Fixed Stairwell Lights causing lag
 * Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
 * Fixed taking a furniture crashing the game sometimes (issue [#1418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1418))
 * Fixed greenhouse upgrades not giving sun modifier (issue [#1443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1443))
