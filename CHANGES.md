@@ -28,6 +28,34 @@
 
 * Fixed tomato soups turning into vegetable soups when dropped, fixed peasoup changing type (issue [#1145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1145))
 
+## Furnitures
+
+* Added posters
+* Added new paintings
+* Added magazines
+* Added signs
+* Added Old Bathtub
+* Added Shabby Bed Frame
+* Added Broken Payphone
+* Added boots
+* Added Cardboard Boxes
+* Added Fire Extinguisher
+* Added Old Small Folder
+* Added Metal Chain
+* Added Portable Ladder
+* Added Red Barrel with Fire
+* Added Shopping Basket
+* Added Traffic Cone
+* Added Camera Tripod
+* Added Laptop
+* Added Kitchen Drawer
+* Added Brown Refrigerator
+* Added Candle Bowl
+* Added Ceiling Lamp Chain
+* Added Table Lamp
+* Added Car Wheel
+* Added Bathroom Cabinet
+
 ## Recipes
 
 * Fixed not being able to craft some soups (issue [#1424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1424))
@@ -35,6 +63,7 @@
 
 ## Tenement System
 
+* Added ability to clean other apartments and other places in the tenement
 * Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
 * Fixed taking a furniture crashing the game sometimes (issue [#1418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1418))
 * Fixed greenhouse upgrades not giving sun modifier (issue [#1443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1443))
