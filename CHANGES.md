@@ -95,7 +95,7 @@
 
 ## O-Market
 
-* O-Market now sells flasshlights
+* O-Market now sells flashlights
 
 # December 7th 2023 (Version 0.3.23)
 
