@@ -1,6 +1,6 @@
 # Upcoming
 
-# December 7th 2023 (Version 0.3.24) - Playtesting branch
+# December 15th 2023 (Version 0.3.24) - Playtesting branch
 
 * Player can noww turn themselves for the police
 * Added map markers
