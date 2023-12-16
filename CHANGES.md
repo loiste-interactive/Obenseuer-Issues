@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furnitures
+
+* Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
+
 # December 15th 2023 (Version 0.3.24) - Playtesting branch
 
 * Player can noww turn themselves for the police
