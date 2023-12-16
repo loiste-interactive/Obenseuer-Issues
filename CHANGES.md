@@ -89,10 +89,6 @@
 * Fixed greenhouse upgrades not giving sun modifier (issue [#1443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1443))
 * Fixed Malone's toilet paper being in the greenhouse on the roof
 
-## Interior O-Market
-
-* O Market now sells take away coffee
-
 ## Open Sewer Tenement
 
 * Fixed wall near Kolhola doors missing collision
@@ -100,6 +96,7 @@
 ## O-Market
 
 * O-Market now sells flashlights
+* O Market now sells take away coffee
 
 # December 7th 2023 (Version 0.3.23)
 
