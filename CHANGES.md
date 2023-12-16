@@ -4,6 +4,10 @@
 
 * Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
 
+## Open Sewer Tenement
+
+* Added mapmarker for phone booth
+
 ## Interior Speakeasy
 
 * Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
