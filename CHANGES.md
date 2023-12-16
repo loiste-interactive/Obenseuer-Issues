@@ -8,6 +8,10 @@
 
 * Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
 
+## Interior Kolhola
+
+* Fixed money exchange map marker
+
 # December 15th 2023 (Version 0.3.24) - Playtesting branch
 
 * Player can noww turn themselves for the police
