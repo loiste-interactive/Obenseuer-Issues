@@ -4,6 +4,15 @@
 
 * Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
 
+# Items
+
+* Added milk mash
+* Added rice mash
+* Added kumis
+* Added rice wine
+* Added milk moonshine
+* Added shochu
+
 ## Open Sewer Tenement
 
 * Added map marker for phone booth
