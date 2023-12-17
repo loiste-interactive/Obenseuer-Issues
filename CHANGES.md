@@ -3,6 +3,7 @@
 ## Furnitures
 
 * Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
+* Fixed character culling issue
 
 # Items
 
