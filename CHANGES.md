@@ -1,8 +1,11 @@
 # Upcoming
 
+* Added flashlight reload hint to show when out of batteries
 * Fixed loading save in prison leaving skipping tools disabled
 * Fixed canal sauna area not covering whole sauna (issue [#1479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1479))
 * Fixed npcs not accepting items (issue [#1463](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1463))
+* Fixed flashlight not accepting batteries (issue [#1472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1472))
+* Fixed alarm clock (issue [#1453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1453))
 
 ## Furnitures
 
