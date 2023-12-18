@@ -19,6 +19,10 @@
 * Added milk moonshine
 * Added shochu
 
+## Tenement System
+
+* Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
+
 ## Open Sewer Tenement
 
 * Added gift shop stall
