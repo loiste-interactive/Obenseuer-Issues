@@ -6,6 +6,7 @@
 * Fixed npcs not accepting items (issue [#1463](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1463))
 * Fixed flashlight not accepting batteries (issue [#1472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1472))
 * Fixed alarm clock (issue [#1453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1453))
+* Fixed refresh rate resetting after re-launch (issue [#1477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1477))
 
 ## Furnitures
 
