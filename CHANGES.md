@@ -25,6 +25,10 @@
 * Added map marker for mailboxes
 * Optimized market square area a little
 
+## Interior Player Tenement
+
+* Fixed invisible wall blocking basement staircase (issue [#1496](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1496))
+
 ## Interior Speakeasy
 
 * Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
