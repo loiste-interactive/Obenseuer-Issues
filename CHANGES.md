@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed loading save in prison leaving skipping tools disabled
+* Fixed canal sauna area not covering whole sauna (issue [#1479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1479))
 
 ## Furnitures
 
