@@ -18,7 +18,7 @@
 
 ## Open Sewer Tenement
 
-* Gift shop stall is now open
+* Added gift shop stall
 * Added map marker for phone booth
 * Added map marker for ATM
 * Added map marker for mailboxes
