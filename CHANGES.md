@@ -27,6 +27,8 @@
 ## Tenement System
 
 * Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
+* Changed tenement and apartment utility names (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
+* Changed tenement upgrade icon shapes (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
 * Fixed Samuel not detecting items (issue [#1452](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1452))
 * Fixed being able to access cleaning mode outside of tenement (issue [#1466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1466))
 * Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
