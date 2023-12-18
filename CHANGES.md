@@ -31,6 +31,7 @@
 * Fixed furniture parenting not working with start furniture (issue [#1451](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1451))
 * Fixed brown fridge disappearing when placed (issue [#1456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1456))
 * Fixed wall of text (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
+* Fixed manufacturing process furniture saying containing items when it's not (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
 
 ## Open Sewer Tenement
 
