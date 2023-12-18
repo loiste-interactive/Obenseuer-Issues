@@ -25,6 +25,7 @@
 
 ## Tenement System
 
+* Fixed being able to access cleaning mode outside of tenement (issue [#1466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1466))
 * Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
 
 ## Open Sewer Tenement
