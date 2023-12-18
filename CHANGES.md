@@ -31,6 +31,7 @@
 ## Interior Gatehouse
 
 * Fixed saving and loaded after being released from prison putting player again to prison (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
+* Fixed switching prison cells causing issues. (issue [#1100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1100))
 
 # December 15th 2023 (Version 0.3.24) - Playtesting branch
 
