@@ -34,6 +34,7 @@
 * Fixed brown fridge disappearing when placed (issue [#1456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1456))
 * Fixed wall of text (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
 * Fixed manufacturing process furniture saying containing items when it's not (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
+* Fixed the doors of large apartments not closing automatically (issue [#1242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1242))
 
 ## Open Sewer Tenement
 
