@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed loading save in prison leaving skipping tools disabled
+
 ## Furnitures
 
 * Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
