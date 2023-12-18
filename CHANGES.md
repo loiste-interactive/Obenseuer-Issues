@@ -22,6 +22,7 @@
 * Added map marker for phone booth
 * Added map marker for ATM
 * Added map marker for mailboxes
+* Optimized market square area a little
 
 ## Interior Speakeasy
 
