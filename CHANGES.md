@@ -38,6 +38,7 @@
 ## Interior Speakeasy
 
 * Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
+* Fixed soundscape (issue [#1471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1471))
 
 ## Interior Kolhola
 
