@@ -6,6 +6,7 @@
 ## Furnitures
 
 * Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
+* Fixed Stolland clock being rotated 180 degrees (issue [#1491](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1491))
 * Fixed character culling issue
 
 # Items
