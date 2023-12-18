@@ -28,6 +28,9 @@
 * Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
 * Fixed being able to access cleaning mode outside of tenement (issue [#1466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1466))
 * Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
+* Fixed furniture parenting not working with start furniture (issue [#1451](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1451))
+* Fixed brown fridge disappearing when placed (issue [#1456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1456))
+* Fixed wall of text (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
 
 ## Open Sewer Tenement
 
