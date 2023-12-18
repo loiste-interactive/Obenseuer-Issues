@@ -25,6 +25,7 @@
 
 ## Tenement System
 
+* Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
 * Fixed being able to access cleaning mode outside of tenement (issue [#1466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1466))
 * Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
 
