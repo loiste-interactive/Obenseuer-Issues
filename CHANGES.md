@@ -8,6 +8,7 @@
 * Fixed alarm clock (issue [#1453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1453))
 * Fixed refresh rate resetting after re-launch (issue [#1477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1477))
 * Fixed not being able to rent an apartment to Jesper Kumpula after renting an apartment to Ingrid Claesson
+* Fixed vendors closing an hour later than they should (issue [#1426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1426))
 
 ## Furnitures
 
