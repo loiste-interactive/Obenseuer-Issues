@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 19th 2023 (Version 0.3.25) - Playtesting branch
+
 * Added flashlight reload hint to show when out of batteries
 * Fixed loading save in prison leaving skipping tools disabled
 * Fixed canal sauna area not covering whole sauna (issue [#1479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1479))
