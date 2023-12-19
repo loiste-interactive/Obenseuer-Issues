@@ -35,6 +35,7 @@
 
 * Added ability to decorate stairwell
 * Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
+* Changed apartments to require cleaning before being able to renovate (issue [#1494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1494))
 * Changed tenement and apartment utility names (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
 * Changed tenement upgrade icon shapes (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
 * Fixed Samuel not detecting items (issue [#1452](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1452))
