@@ -1,5 +1,9 @@
 # Upcoming
 
+## items
+
+* Pies now have multiple uses
+
 # December 19th 2023 (Version 0.3.25) - Playtesting branch
 
 * Added flashlight reload hint to show when out of batteries
