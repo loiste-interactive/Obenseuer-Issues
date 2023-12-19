@@ -7,6 +7,7 @@
 * Fixed flashlight not accepting batteries (issue [#1472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1472))
 * Fixed alarm clock (issue [#1453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1453))
 * Fixed refresh rate resetting after re-launch (issue [#1477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1477))
+* Fixed not being able to rent an apartment to Jesper Kumpula after renting an apartment to Ingrid Claesson
 
 ## Furnitures
 
