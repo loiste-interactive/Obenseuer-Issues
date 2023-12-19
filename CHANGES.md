@@ -3,6 +3,7 @@
 ## items
 
 * Pies now have multiple uses
+* Pizzas now have multiple uses
 
 # December 19th 2023 (Version 0.3.25) - Playtesting branch
 
