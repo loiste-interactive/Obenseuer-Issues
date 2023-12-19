@@ -12,6 +12,8 @@
 
 ## Furnitures
 
+* Added Tarp Wall furniture and blueprint
+* Added Wooden Pillar furniture and blueprint
 * Added wall hook furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
 * Added bathtub with soil furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
 * Added bathtub with soil and support furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
