@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
+
 ## items
 
 * Pies now have multiple uses
