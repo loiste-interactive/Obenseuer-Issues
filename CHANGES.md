@@ -31,6 +31,7 @@
 
 ## Tenement System
 
+* Added ability to decorate stairwell
 * Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
 * Changed tenement and apartment utility names (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
 * Changed tenement upgrade icon shapes (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
@@ -64,11 +65,12 @@
 ## Interior Kolhola
 
 * Fixed money exchange map marker
+* Fixed Liouba Bennet being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
 
 ## Interior Gatehouse
 
 * Fixed saving and loaded after being released from prison putting player again to prison (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
-* Fixed switching prison cells causing issues. (issue [#1100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1100))
+* Fixed switching prison cells causing issues (issue [#1100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1100))
 
 # December 15th 2023 (Version 0.3.24) - Playtesting branch
 
