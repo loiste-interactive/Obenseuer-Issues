@@ -1,11 +1,16 @@
 # Upcoming
 
+* Fixed furniture vendors (issue [#1522](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1522))
 * Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
 
 ## items
 
 * Pies now have multiple uses
 * Pizzas now have multiple uses
+
+## Speakeasy
+
+* Fixed npcs being outside of them map in old saves (issue [#1526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1526))
 
 # December 19th 2023 (Version 0.3.25) - Playtesting branch
 
