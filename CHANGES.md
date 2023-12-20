@@ -17,6 +17,7 @@
 
 ## Tenement System
 
+* Fixed loading a save crashing the game (issue [#1533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1533))
 * Fixed furniture re-appearing after reload (issue [#1525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1525))
 * Fixed furniture parenting not working with start furniture (issue [#1523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1523))
 
