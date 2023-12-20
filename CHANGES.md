@@ -8,6 +8,11 @@
 * Pies now have multiple uses
 * Pizzas now have multiple uses
 
+## Tasks
+
+* Added a hint about the printer and mailbox to "Missing debitcard" task description
+* Changed the descriptions of some tasks (issue [#1530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1530))
+
 ## Tenement System
 
 * Fixed furniture re-appearing after reload (issue [#1525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1525))
