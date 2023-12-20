@@ -8,6 +8,11 @@
 * Pies now have multiple uses
 * Pizzas now have multiple uses
 
+## Tenement System
+
+* Fixed furniture re-appearing after reload (issue [#1525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1525))
+* Fixed furniture parenting not working with start furniture (issue [#1523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1523))
+
 ## Speakeasy
 
 * Fixed npcs being outside of them map in old saves (issue [#1526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1526))
