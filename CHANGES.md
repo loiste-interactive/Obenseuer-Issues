@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added "drinking" skill
+* Added "drinking" skill achievement
 * Fixed furniture vendors (issue [#1522](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1522))
 * Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
 
