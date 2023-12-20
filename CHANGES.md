@@ -18,6 +18,10 @@
 * Fixed furniture re-appearing after reload (issue [#1525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1525))
 * Fixed furniture parenting not working with start furniture (issue [#1523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1523))
 
+## Deekula A
+
+* Fixed not being able to enter doctor's office when saving and loading after taking the doctor's ticket (issue [#1531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1531))
+
 ## Speakeasy
 
 * Fixed npcs being outside of them map in old saves (issue [#1526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1526))
