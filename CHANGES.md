@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed longer delays (issue [#1541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1541))
+
 ## Deekula A
 
 * Fixed lighting issues at Deekula A floor level (issue [#1542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1542))
