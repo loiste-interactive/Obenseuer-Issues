@@ -2,6 +2,7 @@
 
 * Added "drinking" skill
 * Added "drinking" skill achievement
+* Fixed weather not saving correctly
 * Fixed mushrooms plants not spoiling
 * Fixed plants staying at 0% when planting fails
 * Fixed trader money resetting after loading the game
