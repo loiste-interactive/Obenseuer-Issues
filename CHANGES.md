@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 21st 2023 (Version 0.3.26) - Playtesting branch
+
 * Added "drinking" skill
 * Added "drinking" skill achievement
 * Fixed weather not saving correctly
