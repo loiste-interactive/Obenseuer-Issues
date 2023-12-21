@@ -5,6 +5,7 @@
 ## Furniture
 
 * Fixed makeshift sink recipe (issue [#1555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1555))
+* Fixed flowerboxes not updating modifiers when turned on/off (issue [#1476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1476))
 
 ## O-Market
 
