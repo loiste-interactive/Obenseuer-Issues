@@ -2,6 +2,10 @@
 
 * Fixed longer delays (issue [#1541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1541))
 
+## Tenement System
+
+* Fixed furniture not being present on building mode list (issue [#1540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1540))
+
 ## Deekula A
 
 * Fixed lighting issues at Deekula A floor level (issue [#1542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1542))
