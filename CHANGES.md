@@ -8,7 +8,7 @@
 * Fixed furniture vendors (issue [#1522](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1522))
 * Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
 
-## items
+## Items
 
 * Pies now have multiple uses
 * Pizzas now have multiple uses
@@ -30,7 +30,12 @@
 
 ## Speakeasy
 
-* Fixed npcs being outside of them map in old saves (issue [#1526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1526))
+* Fixed npcs being outside of them map in old saves (issue [#1539](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1539))
+
+## Interior Kolhola
+
+* Added new dialogue to Jörge Af Guldskjöld
+* Fixed Jörge Af Guldskjöld being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
 
 # December 19th 2023 (Version 0.3.25) - Playtesting branch
 
