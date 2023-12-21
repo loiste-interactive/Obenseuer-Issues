@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed job hourly rate calculation (issue [#1535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1535)) 
+
 ## Furniture
 
 * Fixed makeshift sink recipe (issue [#1555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1555))
