@@ -1,6 +1,9 @@
 # Upcoming
 
+# December 21st 2023 (Version 0.3.26 V2) - Playtesting branch
+
 * Fixed longer delays (issue [#1541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1541))
+* Fixed broken map transitions (issue [#1543](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1543))
 
 ## Tenement System
 
