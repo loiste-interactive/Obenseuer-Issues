@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed landmark icons being too small sometimes
+
 # December 21st 2023 (Version 0.3.26 V2) - Playtesting branch
 
 * Fixed longer delays (issue [#1541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1541))
