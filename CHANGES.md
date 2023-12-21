@@ -1,5 +1,9 @@
 # Upcoming
 
+## Deekula A
+
+* Fixed lighting issues at Deekula A floor level (issue [#1542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1542))
+
 # December 21st 2023 (Version 0.3.26) - Playtesting branch
 
 * Added "drinking" skill
