@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 21st 2023 (Version 0.3.26 V3) - Playtesting branch
+
 * Fixed landmark icons being too small sometimes
 
 ## Tenement System
