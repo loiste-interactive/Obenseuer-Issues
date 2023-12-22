@@ -1,174 +1,14 @@
 # Upcoming
 
-# December 22nd 2023 (Version 0.3.26 V4) - Playtesting branch
+# December 22nd 2023 (Version 0.3.26) - Upcoming
 
-* Fixed job hourly rate calculation (issue [#1535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1535))
-* Fixed items spawning in random points
-
-## Items
-
-* Macaroni casseroles now have two uses
-
-## Furniture
-
-* Fixed makeshift sink recipe (issue [#1555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1555))
-* Fixed flowerboxes not updating modifiers when turned on/off (issue [#1476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1476))
-* Fixed bathtub blueprint (issue [#1560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1560))
-
-## Tenement System
-
-* Fixed apartment cleaning requirement not working sometimes (issue [#1556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1556))
-* Fixed building mode being accessible inside apartments after wall renovation (issue [#1554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1554))
-
-## O-Market
-
-* Fixed O-market cigarette packs not being full
-
-# December 21st 2023 (Version 0.3.26 V3) - Playtesting branch
-
-* Fixed landmark icons being too small sometimes
-
-## Tenement System
-
-* Fixed apartment cleaning requirement not working
-
-# December 21st 2023 (Version 0.3.26 V2) - Playtesting branch
-
-* Fixed longer delays (issue [#1541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1541))
-* Fixed broken map transitions (issue [#1543](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1543))
-
-## Tenement System
-
-* Fixed furniture not being present on building mode list (issue [#1540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1540))
-
-## Deekula A
-
-* Fixed lighting issues at Deekula A floor level (issue [#1542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1542))
-
-# December 21st 2023 (Version 0.3.26) - Playtesting branch
-
-* Added "drinking" skill
-* Added "drinking" skill achievement
-* Fixed weather not saving correctly
-* Fixed mushrooms plants not spoiling
-* Fixed plants staying at 0% when planting fails
-* Fixed trader money resetting after loading the game
-* Fixed furniture vendors (issue [#1522](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1522))
-* Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
-
-## Items
-
-* Pies now have multiple uses
-* Pizzas now have multiple uses
-
-## Tasks
-
-* Added a hint about the printer and mailbox to "Missing debitcard" task description
-* Changed the descriptions of some tasks (issue [#1530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1530))
-
-## Tenement System
-
-* Fixed loading a save crashing the game (issue [#1533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1533))
-* Fixed furniture re-appearing after reload (issue [#1525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1525))
-* Fixed furniture parenting not working with start furniture (issue [#1523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1523))
-
-## Deekula A
-
-* Fixed not being able to enter doctor's office when saving and loading after taking the doctor's ticket (issue [#1531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1531))
-
-## Speakeasy
-
-* Fixed npcs being outside of them map in old saves (issue [#1539](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1539))
-
-## Interior Kolhola
-
-* Added new dialogue to Jörge Af Guldskjöld
-* Fixed Jörge Af Guldskjöld being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
-
-# December 19th 2023 (Version 0.3.25) - Playtesting branch
-
-* Added flashlight reload hint to show when out of batteries
-* Fixed loading save in prison leaving skipping tools disabled
-* Fixed canal sauna area not covering whole sauna (issue [#1479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1479))
-* Fixed npcs not accepting items (issue [#1463](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1463))
-* Fixed flashlight not accepting batteries (issue [#1472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1472))
-* Fixed alarm clock (issue [#1453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1453))
-* Fixed refresh rate resetting after re-launch (issue [#1477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1477))
-* Fixed not being able to rent an apartment to Jesper Kumpula after renting an apartment to Ingrid Claesson
-* Fixed vendors closing an hour later than they should (issue [#1426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1426))
-
-## Furnitures
-
-* Added Tarp Wall furniture and blueprint
-* Added Wooden Pillar furniture and blueprint
-* Added wall hook furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
-* Added bathtub with soil furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
-* Added bathtub with soil and support furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
-* Fixed table lamp orientation (issue [#1455](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1455))
-* Fixed Stolland clock being rotated 180 degrees (issue [#1491](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1491))
-* Fixed kitchen tools interactable area (issue [#1499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1499))
-* Fixed character culling issue
-
-# Items
-
-* Added milk mash
-* Added rice mash
-* Added kumis
-* Added rice wine
-* Added milk moonshine
-* Added shochu
-
-## Tenement System
-
-* Added ability to decorate stairwell
-* Added notification if area is not fully examined (issue [#1450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1450))
-* Changed apartments to require cleaning before being able to renovate (issue [#1494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1494))
-* Changed tenement and apartment utility names (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
-* Changed tenement upgrade icon shapes (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
-* Fixed Samuel not detecting items (issue [#1452](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1452))
-* Fixed being able to access cleaning mode outside of tenement (issue [#1466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1466))
-* Fixed pipes not giving pipes (issue [#1483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1483))
-* Fixed furniture parenting not working with start furniture (issue [#1451](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1451))
-* Fixed brown fridge disappearing when placed (issue [#1456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1456))
-* Fixed wall of text (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
-* Fixed manufacturing process furniture saying containing items when it's not (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
-* Fixed the doors of large apartments not closing automatically (issue [#1242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1242))
-
-## Open Sewer Tenement
-
-* Added gift shop stall
-* Added map marker for phone booth
-* Added map marker for ATM
-* Added map marker for mailboxes
-* Added Kurahaara sign above the greenhouse door
-* Optimized market square area a little
-
-## Interior Player Tenement
-
-* Fixed invisible wall blocking basement staircase (issue [#1496](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1496))
-
-## Interior Speakeasy
-
-* Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
-* Fixed soundscape (issue [#1471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1471))
-
-## Interior Kolhola
-
-* Fixed money exchange map marker
-* Fixed Liouba Bennet being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
-
-## Interior Gatehouse
-
-* Fixed saving and loaded after being released from prison putting player again to prison (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
-* Fixed switching prison cells causing issues (issue [#1100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1100))
-
-# December 15th 2023 (Version 0.3.24) - Playtesting branch
-
-* Player can noww turn themselves for the police
 * Added map markers
 * Added 3 new achievements
 * Added menu navigation keys to key bindings menu
+* Added flashlight reload hint to show when out of batteries
+* Player can now turn themselves for the police
 * Player can now work for the Telemarketing company in Kolhola
+* Fixed loading save in prison leaving skipping tools disabled
 * Fixed Canal Sauna, Kolhola, Redemption Militia and Deekula C not having a map (issue [#936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/936))
 * Fixed coffee causing imsomnia (issue [#1395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1395))
 * Fixed guitar (issue [#1264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1264))
@@ -180,16 +20,33 @@
 * Fixed cooking achievement
 * Fixed sitting while being arrested freezing player (issue [#1447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1447))
 * Fixed being able to talk to police when police is chasing you
+* Fixed loading a save crashing the game (issue [#1533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1533))
+* Fixed canal sauna area not covering whole sauna (issue [#1479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1479))
+* Fixed refresh rate resetting after re-launch (issue [#1477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1477))
+* Fixed not being able to rent an apartment to Jesper Kumpula after renting an apartment to Ingrid Claesson
+* Fixed vendors closing an hour later than they should (issue [#1426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1426))
+* Fixed items spawning in random points
 
 ## Tasks
 
+* Added a hint about the printer and mailbox to "Missing debitcard" task description
 * Changed renovation tasks to move to separate bar (issue [#1333](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1333))
 * Changed renovation task to not be visible in task panel when completed (issue [#1333](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1333))
+* Changed the descriptions of some tasks (issue [#1530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1530))
 * Fixed being able to give 5 rubber ducks again to Mr. Duck (issue [#1415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1415))
 * Fixed "Start 5 renovations" not counting renovations started before getting the objective (issue [#1116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1116))
 
 ## Items
 
+* Added milk mash
+* Added rice mash
+* Added kumis
+* Added rice wine
+* Added milk moonshine
+* Added shochu
+* Macaroni casseroles now have two uses
+* Pies now have multiple uses
+* Pizzas now have multiple uses
 * Fixed tomato soups turning into vegetable soups when dropped, fixed peasoup changing type (issue [#1145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1145))
 
 ## Furnitures
@@ -231,6 +88,14 @@
 * Added Makeshift Toilet Blueprint
 * Added Makeshift Sink Blueprint
 * Added Shabby Bed Blueprint
+* Added Tarp Wall furniture and blueprint
+* Added Wooden Pillar furniture and blueprint
+* Added wall hook furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
+* Added bathtub with soil furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
+* Added bathtub with soil and support furniture and blueprint (issue [#1314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1314))
+* Fixed Stolland clock being rotated 180 degrees (issue [#1491](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1491))
+* Fixed kitchen tools interactable area (issue [#1499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1499))
+* Fixed flowerboxes not updating modifiers when turned on/off (issue [#1476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1476))
 
 ## Recipes
 
@@ -239,22 +104,59 @@
 
 ## Tenement System
 
+* Added ability to decorate stairwell
 * Added ability to clean other apartments and other places in the tenement
 * Added new furnishings for tenants
+* Changed apartments to require cleaning before being able to renovate (issue [#1494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1494))
+* Changed tenement and apartment utility names (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
+* Changed tenement upgrade icon shapes (issue [#1287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1287))
 * Fixed Stairwell Lights causing lag
 * Fixed renovation sound playing when changing map or loading game (issue [#1353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1353))
 * Fixed taking a furniture crashing the game sometimes (issue [#1418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1418))
 * Fixed greenhouse upgrades not giving sun modifier (issue [#1443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1443))
 * Fixed Malone's toilet paper being in the greenhouse on the roof
+* Fixed furniture parenting not working with start furniture (issue [#1523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1523))
+* Fixed wall of text (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
+* Fixed manufacturing process furniture saying containing items when it's not (issue [#1391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1391))
+* Fixed the doors of large apartments not closing automatically (issue [#1242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1242))
 
 ## Open Sewer Tenement
 
+* Added gift shop stall
+* Added Kurahaara sign above the greenhouse door
+* Optimized market square area a little
 * Fixed wall near Kolhola doors missing collision
 
-## O-Market
+## Interior Player Tenement
+
+* Fixed invisible wall blocking basement staircase (issue [#1496](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1496))
+
+## Interior O-Market
 
 * O-Market now sells flashlights
-* O Market now sells take away coffee
+* O-Market now sells take away coffee
+* Fixed O-market cigarette packs not being full
+
+## Interior Deekula A
+
+* Fixed not being able to enter doctor's office when saving and loading after taking the doctor's ticket (issue [#1531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1531))
+
+## Interior Speakeasy
+
+* Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
+* Fixed soundscape (issue [#1471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1471))
+
+## Interior Kolhola
+
+* Added new dialogue to Jörge Af Guldskjöld
+* Fixed money exchange map marker
+* Fixed Liouba Bennet being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
+* Fixed Jörge Af Guldskjöld being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
+
+## Interior Gatehouse
+
+* Fixed saving and loaded after being released from prison putting player again to prison (issue [#1106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1106))
+* Fixed switching prison cells causing issues (issue [#1100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1100))
 
 # December 7th 2023 (Version 0.3.23)
 
