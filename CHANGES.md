@@ -2,6 +2,7 @@
 
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
+* Fixed traders money not respawning
 * Fixed building mode showing text that player apartment is not examined when walls are upgraded
 
 # December 22nd 2023 (Version 0.3.26)
