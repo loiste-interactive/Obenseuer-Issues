@@ -8,6 +8,10 @@
 * Fixed flowerboxes not updating modifiers when turned on/off (issue [#1476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1476))
 * Fixed bathtub blueprint (issue [#1560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1560))
 
+## Tenement System
+
+* Fixed building mode being accessible inside apartments after wall renovation (issue [#1554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1554))
+
 ## O-Market
 
 * Fixed O-market cigarette packs not being full
