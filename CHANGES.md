@@ -15,6 +15,7 @@
 
 ## Tenement System
 
+* Fixed apartment cleaning requirement not working sometimes (issue [#1556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1556))
 * Fixed building mode being accessible inside apartments after wall renovation (issue [#1554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1554))
 
 ## O-Market
