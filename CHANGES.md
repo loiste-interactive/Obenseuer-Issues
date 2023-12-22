@@ -6,6 +6,12 @@
 * Added 3 new achievements
 * Added menu navigation keys to key bindings menu
 * Added flashlight reload hint to show when out of batteries
+* Added "drinking" skill
+* Added "drinking" skill achievement
+* Fixed weather not saving correctly
+* Fixed mushrooms plants not spoiling
+* Fixed plants staying at 0% when planting fails
+* Fixed trader money resetting after loading the game
 * Player can now turn themselves for the police
 * Player can now work for the Telemarketing company in Kolhola
 * Fixed loading save in prison leaving skipping tools disabled
@@ -16,6 +22,7 @@
 * Fixed getting stuck on toilet when the toilet bucket is full (issue [#1417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1417))
 * Fixed harvesting vine plants counting as crime (issue [#1407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1407))
 * Fixed vine plants not being harvestable at 100% (issue [#1416](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1416))
+* Fixed being able to sit on Keijo (issue [#1517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1517))
 * Fixed lockpicking achievement
 * Fixed cooking achievement
 * Fixed sitting while being arrested freezing player (issue [#1447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1447))
