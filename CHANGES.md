@@ -1,6 +1,6 @@
 # Upcoming
 
-# December 22nd 2023 (Version 0.3.26) - Upcoming
+# December 22nd 2023 (Version 0.3.26)
 
 * Added map markers
 * Added 3 new achievements
