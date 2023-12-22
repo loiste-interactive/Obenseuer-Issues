@@ -127,10 +127,6 @@
 * Optimized market square area a little
 * Fixed wall near Kolhola doors missing collision
 
-## Interior Player Tenement
-
-* Fixed invisible wall blocking basement staircase (issue [#1496](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1496))
-
 ## Interior O-Market
 
 * O-Market now sells flashlights
@@ -141,15 +137,9 @@
 
 * Fixed not being able to enter doctor's office when saving and loading after taking the doctor's ticket (issue [#1531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1531))
 
-## Interior Speakeasy
-
-* Fixed entrypoint position (issue [#1468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1468))
-* Fixed soundscape (issue [#1471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1471))
-
 ## Interior Kolhola
 
 * Added new dialogue to Jörge Af Guldskjöld
-* Fixed money exchange map marker
 * Fixed Liouba Bennet being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
 * Fixed Jörge Af Guldskjöld being called Fenella Hunt in dialogue (issue [#1518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1518))
 
