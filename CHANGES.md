@@ -1,6 +1,10 @@
 # Upcoming
 
-* Fixed job hourly rate calculation (issue [#1535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1535)) 
+* Fixed job hourly rate calculation (issue [#1535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1535))
+
+## Items
+
+* Macaroni casseroles now have two uses
 
 ## Furniture
 
