@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed job hourly rate calculation (issue [#1535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1535))
+* Fixed items spawning in random points
 
 ## Items
 
