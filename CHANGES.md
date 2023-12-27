@@ -7,9 +7,11 @@
 ## Tenement System
 
 * Fixed cleaning counter resetting to 0% (issue [#1592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1592))
+* Fixed not being able to use building menu when entering the tenement from outside (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 * Fixed furniture parenting not working (issue [#1591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1591))
 * Fixed some furniture giving multiple furniture
 * Fixed apartment 11 bear trap not being removable
+* Fixed not being able to remove firewood basket (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
