@@ -1,5 +1,9 @@
 # Upcoming
 
+* Disabled broken eye adaption
+* Fixed supernova sun (issue [#1548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1548))
+* Removed sun and moon flare that draws above everything (issue [#700](https://github.com/loiste-interactive/Obenseuer-Issues/issues/700))
+
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
 * Fixed traders money not respawning
