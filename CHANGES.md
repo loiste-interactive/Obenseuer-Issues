@@ -9,6 +9,7 @@
 * Fixed cleaning counter resetting to 0% (issue [#1592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1592))
 * Fixed furniture parenting not working (issue [#1591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1591))
 * Fixed some furniture giving multiple furniture
+* Fixed apartment 11 bear trap not being removable
 
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
