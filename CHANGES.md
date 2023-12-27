@@ -13,6 +13,10 @@
 * Fixed apartment 11 bear trap not being removable
 * Fixed not being able to remove firewood basket (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 
+## Greenhouse
+
+* Fixed Jomppe not buying cabbage (issue [#1590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1590))
+
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
 * Fixed traders money not respawning
