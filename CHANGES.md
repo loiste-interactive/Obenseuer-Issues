@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 28th 2023 (Version 0.3.28) - Playtesting branch
+
 * Disabled broken eye adaption
 * Fixed several issues with manufacturing UI (issue [#1596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1596))
 * Fixed supernova sun (issue [#1548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1548))
