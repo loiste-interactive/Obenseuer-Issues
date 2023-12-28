@@ -4,6 +4,7 @@
 * Fixed several issues with manufacturing UI (issue [#1596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1596))
 * Fixed supernova sun (issue [#1548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1548))
 * Fixed weather effects delay (issue [#1552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1552))
+* Fixed Lively Tenement achievement (issue [#1587](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1587))
 * Removed sun and moon flare that draws above everything (issue [#700](https://github.com/loiste-interactive/Obenseuer-Issues/issues/700))
 
 ## Tenement System
