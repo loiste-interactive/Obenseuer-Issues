@@ -9,6 +9,7 @@
 
 ## Tenement System
 
+* Added furniture descriptions (issue [#1193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1193))
 * Fixed cleaning counter resetting to 0% (issue [#1592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1592))
 * Fixed not being able to use building menu when entering the tenement from outside (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 * Fixed furniture parenting not working (issue [#1591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1591))
