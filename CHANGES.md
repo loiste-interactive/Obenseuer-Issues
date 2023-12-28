@@ -15,6 +15,7 @@
 * Fixed not being able to remove firewood basket (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 * Fixed moving resitent showing 0s when there is less than hour left (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
 * Fixed income field not updating when tab is open and resident moving is done (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
+* Fixed upgrade panel tenement upgrades being circles (issue [#1576](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1576))
 
 ## Tasks
 
