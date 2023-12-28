@@ -13,6 +13,8 @@
 * Fixed some furniture giving multiple furniture
 * Fixed apartment 11 bear trap not being removable
 * Fixed not being able to remove firewood basket (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
+* Fixed moving resitent showing 0s when there is less than hour left (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
+* Fixed income field not updating when tab is open and resident moving is done (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
 
 ## Tasks
 
