@@ -27,6 +27,10 @@
 
 * Fixed Jomppe not buying cabbage (issue [#1590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1590))
 
+## Deekula B
+
+* Fixed police tape not despawning (issue [#1598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1598))
+
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
 * Fixed traders money not respawning
