@@ -13,6 +13,10 @@
 * Fixed apartment 11 bear trap not being removable
 * Fixed not being able to remove firewood basket (issue [#1573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1573))
 
+## Tasks
+
+* Fixed Homecoming Celebration missing gift and bottle (issue [#1574](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1574))
+
 ## Greenhouse
 
 * Fixed Jomppe not buying cabbage (issue [#1590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1590))
