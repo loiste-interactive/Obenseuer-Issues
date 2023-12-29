@@ -12,6 +12,10 @@
 
 * Fixed storages with items being in the sky (issue [#1616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1616))
 
+* ## O-Market
+
+* Fixed matches, glue and cleaning spray not being sold as full (issue [#1580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1580))
+
 # December 28th 2023 (Version 0.3.28) - Playtesting branch
 
 * Disabled broken eye adaption
