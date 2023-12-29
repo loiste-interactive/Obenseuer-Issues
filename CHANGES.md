@@ -4,6 +4,10 @@
 
 * Fixed spawners spawning a new item to place where an item already exist without removing it (issue [#1605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1605))
 
+## Tenement System
+
+* Fixed storages with items being in the sky (issue [#1616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1616))
+
 # December 28th 2023 (Version 0.3.28) - Playtesting branch
 
 * Disabled broken eye adaption
