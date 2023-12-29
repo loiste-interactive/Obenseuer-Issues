@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed shop money not replenishing in some old saves (issue [#1583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1583))
+
 ## Items
 
 * Changed paint buckets to be stackable (issue [#1430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1430))
