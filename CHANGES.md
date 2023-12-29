@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed shop money not replenishing in some old saves (issue [#1583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1583))
+* Fixed Makeshift Sink blueprint name (issue [#1617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1617))
 
 ## Items
 
@@ -12,7 +13,7 @@
 
 * Fixed storages with items being in the sky (issue [#1616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1616))
 
-* ## O-Market
+## O-Market
 
 * Fixed matches, glue and cleaning spray not being sold as full (issue [#1580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1580))
 
