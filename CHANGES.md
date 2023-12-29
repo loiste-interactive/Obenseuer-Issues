@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Yest can now be extracted from milk and rice mashes
+
 # December 29th 2023 (Version 0.3.28)
 
 * Disabled broken eye adaption
