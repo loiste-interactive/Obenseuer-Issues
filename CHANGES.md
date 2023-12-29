@@ -1,31 +1,14 @@
 # Upcoming
 
-# December 29th 2023 (Version 0.3.28 V2) - Playtesting branch
-
-* Fixed shop money not replenishing in some old saves (issue [#1583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1583))
-* Fixed Makeshift Sink blueprint name (issue [#1617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1617))
-
-## Items
-
-* Changed paint buckets to be stackable (issue [#1430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1430))
-* Fixed spawners spawning a new item to place where an item already exist without removing it (issue [#1605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1605))
-* Fixed dropped items not despawning
-
-## Tenement System
-
-* Fixed storages with items being in the sky (issue [#1616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1616))
-
-## O-Market
-
-* Fixed matches, glue and cleaning spray not being sold as full (issue [#1580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1580))
-
-# December 28th 2023 (Version 0.3.28) - Playtesting branch
+# December 29th 2023 (Version 0.3.28)
 
 * Disabled broken eye adaption
 * Fixed several issues with manufacturing UI (issue [#1596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1596))
 * Fixed supernova sun (issue [#1548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1548))
 * Fixed weather effects delay (issue [#1552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1552))
 * Fixed Lively Tenement achievement (issue [#1587](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1587))
+* Fixed shop money not replenishing in some old saves (issue [#1583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1583))
+* Fixed Makeshift Sink blueprint name (issue [#1617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1617))
 * Removed sun and moon flare that draws above everything (issue [#700](https://github.com/loiste-interactive/Obenseuer-Issues/issues/700))
 
 ## Tenement System
@@ -40,6 +23,12 @@
 * Fixed moving resitent showing 0s when there is less than hour left (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
 * Fixed income field not updating when tab is open and resident moving is done (issue [#1589](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1589))
 * Fixed upgrade panel tenement upgrades being circles (issue [#1576](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1576))
+* Fixed storages with items being in the sky (issue [#1616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1616))
+
+## Items
+
+* Changed paint buckets to be stackable (issue [#1430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1430))
+* Fixed dropped items not despawning
 
 ## Tasks
 
@@ -52,6 +41,10 @@
 ## Deekula B
 
 * Fixed police tape not despawning (issue [#1598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1598))
+
+## O-Market
+
+* Fixed matches, glue and cleaning spray not being sold as full (issue [#1580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1580))
 
 # December 22nd 2023 (Version 0.3.27) - hotfix
 
