@@ -2,6 +2,7 @@
 
 ## Items
 
+* Changed paint buckets to be stackable (issue [#1430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1430))
 * Fixed spawners spawning a new item to place where an item already exist without removing it (issue [#1605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1605))
 
 ## Tenement System
