@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 28th 2023 (Version 0.3.28 V2) - Playtesting branch
+
 * Fixed shop money not replenishing in some old saves (issue [#1583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1583))
 * Fixed Makeshift Sink blueprint name (issue [#1617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1617))
 
