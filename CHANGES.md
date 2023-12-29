@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Fixed spawners spawning a new item to place where an item already exist without removing it (issue [#1605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1605))
+
 # December 28th 2023 (Version 0.3.28) - Playtesting branch
 
 * Disabled broken eye adaption
