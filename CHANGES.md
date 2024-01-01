@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
+
 ## Items
 
 * Fixed pearl earings not being able to be picked up
