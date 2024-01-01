@@ -3,6 +3,10 @@
 * Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
 * Fixed police arresting player when player moves to another area clearing crime and making time fast.
 
+## Outside
+
+* Fixed being able to take pea soup when inventory is full (issue [#1305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1305))
+
 ## Items
 
 * Fixed pearl earings not being able to be picked up
