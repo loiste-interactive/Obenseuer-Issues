@@ -7,6 +7,10 @@
 
 * Fixed being able to take pea soup when inventory is full (issue [#1305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1305))
 
+## Interior Kolhola
+
+* Fixed hotel rooms always being rented for one day only (despite paying for multiple)
+
 ## Items
 
 * Fixed pearl earings not being able to be picked up
