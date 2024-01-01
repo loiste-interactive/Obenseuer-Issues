@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Fixed pearl earings not being able to be picked up
+
 ## Recipes
 
 * Yest can now be extracted from milk and rice mashes
