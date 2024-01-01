@@ -19,6 +19,10 @@
 
 * Yest can now be extracted from milk and rice mashes
 
+## Furniture
+
+* Fixed bathtub ownership
+
 # December 29th 2023 (Version 0.3.28)
 
 * Disabled broken eye adaption
