@@ -21,7 +21,7 @@
 
 ## Recipes
 
-* Yest can now be extracted from milk and rice mashes
+* Yeast can now be extracted from milk and rice mashes
 
 ## Furniture
 
