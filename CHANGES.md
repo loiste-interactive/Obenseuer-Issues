@@ -18,6 +18,7 @@
 ## Items
 
 * Fixed pearl earings not being able to be picked up
+* Fixed drinking kumis, rice wine, milk moonshine and shochu also eating the bottle
 
 ## Recipes
 
