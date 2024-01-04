@@ -28,6 +28,7 @@
 
 ## Furniture
 
+* Added waiting functionality to player owned televisions
 * Fixed bathtub ownership
 
 # December 29th 2023 (Version 0.3.28)
