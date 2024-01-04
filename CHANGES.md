@@ -7,6 +7,10 @@
 
 * Fixed being able to take pea soup when inventory is full (issue [#1305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1305))
 
+## Interior Deekula C
+
+* Fixed Möbelmann door (issue [#1655](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1655))
+
 ## Interior Kolhola
 
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
