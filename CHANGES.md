@@ -16,6 +16,7 @@
 ## Interior Kolhola
 
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
+* Fixed hotel toilet locking player in if player's reservation expires (issue [#1670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1670))
 
 ## Items
 
