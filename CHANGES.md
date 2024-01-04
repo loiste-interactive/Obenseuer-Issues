@@ -2,6 +2,7 @@
 
 * Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
 * Fixed police arresting player when player moves to another area clearing crime and making time fast.
+* Fixed liquid sorting duplicating liquids (issue [#1613](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1613))
 
 ## Outside
 
