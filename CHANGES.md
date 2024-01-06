@@ -29,6 +29,7 @@
 
 ## Furniture
 
+* Added grain mill to shop lists
 * Added waiting functionality to player owned televisions
 * Fixed bathtub ownership
 
