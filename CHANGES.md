@@ -4,6 +4,7 @@
 * Fixed police arresting player when player moves to another area clearing crime and making time fast.
 * Fixed liquid sorting duplicating liquids (issue [#1613](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1613))
 * Fixed prison food getting moldy when player is asleep (issue [#1513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1513))
+* Fixed sometimes entering Speakeasy sending player straight to wasteland (issue [#1699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1699))
 
 ## Outside
 
