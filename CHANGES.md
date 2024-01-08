@@ -10,6 +10,7 @@
 
 * Fixed decent player extension windows
 * Fixed renovation timer getting stuck at 0s when passing time (issue [#1620](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1620))
+* Fixed some initial upgrades having required resources (issue [#1704](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1704))
 
 ## Outside
 
@@ -28,6 +29,7 @@
 
 * Fixed pearl earings not being able to be picked up
 * Fixed drinking kumis, rice wine, milk moonshine and shochu also eating the bottle
+* Updated guitar animations and sounds
 
 ## Recipes
 
@@ -38,6 +40,7 @@
 * Added grain mill to shop lists
 * Added waiting functionality to player owned televisions
 * Fixed bathtub ownership
+* Fixed fancy wooden desk name (issue [#1703](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1703))
 
 # December 29th 2023 (Version 0.3.28)
 
