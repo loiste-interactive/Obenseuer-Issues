@@ -6,15 +6,19 @@
 * Fixed prison food getting moldy when player is asleep (issue [#1513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1513))
 * Fixed sometimes entering Speakeasy sending player straight to wasteland (issue [#1699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1699))
 
+## Tenement System
+
+* Fixed decent player extension windows
+
 ## Outside
 
 * Fixed being able to take pea soup when inventory is full (issue [#1305](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1305))
 
-## Interior Deekula C
+## Deekula C
 
 * Fixed Möbelmann door (issue [#1655](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1655))
 
-## Interior Kolhola
+## Kolhola
 
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
 * Fixed hotel toilet locking player in if player's reservation expires (issue [#1670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1670))
