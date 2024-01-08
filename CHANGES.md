@@ -9,6 +9,7 @@
 ## Tenement System
 
 * Fixed decent player extension windows
+* Fixed renovation timer getting stuck at 0s when passing time (issue [#1620](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1620))
 
 ## Outside
 
