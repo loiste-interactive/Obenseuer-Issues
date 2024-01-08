@@ -5,6 +5,7 @@
 * Fixed liquid sorting duplicating liquids (issue [#1613](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1613))
 * Fixed prison food getting moldy when player is asleep (issue [#1513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1513))
 * Fixed sometimes entering Speakeasy sending player straight to wasteland (issue [#1699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1699))
+* Fixed union flags being broken for the first time (issue [#1677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1677))
 
 ## Tenement System
 
