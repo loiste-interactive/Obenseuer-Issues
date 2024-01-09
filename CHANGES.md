@@ -10,6 +10,7 @@
 
 ## Tenement System
 
+* Added barriers and sounds to apartments when they are being renovated
 * Fixed decent player extension windows
 * Fixed renovation timer getting stuck at 0s when passing time (issue [#1620](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1620))
 * Fixed some initial upgrades having required resources (issue [#1704](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1704))
