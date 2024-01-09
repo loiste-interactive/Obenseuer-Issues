@@ -6,6 +6,7 @@
 * Fixed prison food getting moldy when player is asleep (issue [#1513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1513))
 * Fixed sometimes entering Speakeasy sending player straight to wasteland (issue [#1699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1699))
 * Fixed union flags being broken for the first time (issue [#1677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1677))
+* Fixed crafting not returning containers if the game is saved and loaded while crafting is in progress (issue [#1706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1706))
 * Fixed growing green mushrooms not hurting when being near them (issue [#1659](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1659))
 * Fixed Unity logo appearing sometimes when booting up the game (issue [#1629](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1629))
 
