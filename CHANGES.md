@@ -1,5 +1,6 @@
 # Upcoming
 
+* Some furniture can now be mounted also on walls
 * Changed main menu to show first the character that has the latest save (issue [#309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/309))
 * Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
 * Fixed police arresting player when player moves to another area clearing crime and making time fast.
