@@ -21,6 +21,7 @@
 * Fixed renovation timer getting stuck at 0s when passing time (issue [#1620](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1620))
 * Fixed some initial upgrades having required resources (issue [#1704](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1704))
 * Fixed cleaning mode triggering when walking out of roof greenhouse (issue [#1663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1663))
+* Fixed not being able to always place some rugs on the floor (issue [#1649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1649))
 
 ## Outside
 
