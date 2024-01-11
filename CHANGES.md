@@ -87,6 +87,7 @@
 
 ## Items
 
+* Added tiny candle
 * Changed paint buckets to be stackable (issue [#1430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1430))
 * Fixed dropped items not despawning
 
