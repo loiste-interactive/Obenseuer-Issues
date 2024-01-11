@@ -42,6 +42,7 @@
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
 * Fixed hotel toilet locking player in if player's reservation expires (issue [#1670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1670))
 * Fixed sitting on the apartment A3 bench at the left of the entrance making player facing wall (issue [#1698](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1698))
+* Fixed apartment A20 curtains disappearing depending on the viewing angle (issue [#1697](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1697))
 
 ## Tenement B
 
