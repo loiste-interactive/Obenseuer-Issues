@@ -105,6 +105,7 @@
 
 ## O-Market
 
+* O-Market now sells tiny candles
 * Fixed matches, glue and cleaning spray not being sold as full (issue [#1580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1580))
 
 # December 22nd 2023 (Version 0.3.27) - hotfix
