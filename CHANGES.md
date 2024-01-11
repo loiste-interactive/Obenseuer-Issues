@@ -45,6 +45,7 @@
 ## Tenement B
 
 * Fixed selling items not converting RM to OC amount in Passmore's money pool
+* Fixed Passmore having stolen item prices in every item
 
 ## Items
 
