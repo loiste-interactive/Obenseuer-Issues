@@ -42,6 +42,10 @@
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
 * Fixed hotel toilet locking player in if player's reservation expires (issue [#1670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1670))
 
+## Tenement B
+
+* Fixed selling items not converting RM to OC amount in Passmore's money pool
+
 ## Items
 
 * Fixed pearl earings not being able to be picked up
