@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
+
 ## Tenement System
 
 * Fixed barriers and renovation sounds not being present when aparment is being renovated (issue [#1712](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1712))
