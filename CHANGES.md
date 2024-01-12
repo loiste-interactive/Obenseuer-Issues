@@ -15,6 +15,7 @@
 * Fixed negative mashing process (issue [#1691](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1691))
 * Fixed apartments upgrade achievements (issue [#1652](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1652))
 * Fixed wood debris collision not being disabled when the wood debris is gone (issue [#1684](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1684))
+* Fixed being able to start a crafting process even if not having the required items (issue [#1680](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1680))
 
 ## Tenement System
 
