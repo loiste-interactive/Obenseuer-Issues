@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 12th 2024 (Version 0.3.29) - Playtesting branch
+
 * Biogas reactor now builds up gas into the vat and compressor is needed to run only for short period of time
 * Some furniture can now be mounted also on walls
 * Changed main menu to show first the character that has the latest save (issue [#309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/309))
