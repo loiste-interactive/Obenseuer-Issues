@@ -54,6 +54,7 @@
 * Fixed pearl earings not being able to be picked up
 * Fixed drinking kumis, rice wine, milk moonshine and shochu also eating the bottle
 * Fixed not being able to move liquids between some containers (issue [#1675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1675))
+* Fixed merging stacks multiplying liquids (issue [#1678](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1678))
 * Updated guitar animations and sounds
 
 ## Recipes
