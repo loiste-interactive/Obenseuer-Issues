@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed barriers and renovation sounds not being present when aparment is being renovated (issue [#1712](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1712))
+
 # January 12th 2024 (Version 0.3.29) - Playtesting branch
 
 * Biogas reactor now builds up gas into the vat and compressor is needed to run only for short period of time
