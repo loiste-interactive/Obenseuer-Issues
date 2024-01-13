@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Fixed watching TV setting player depression to max.
+
 # January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
 
 ## Tenement System
