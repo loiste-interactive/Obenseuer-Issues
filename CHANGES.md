@@ -9,6 +9,10 @@
 * Jack-O-Turnips can now be lit
 * Fixed watching TV setting player depression to max.
 
+## Items
+
+* Betel palm nuts are now stackable
+
 # January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
 
 ## Tenement System
