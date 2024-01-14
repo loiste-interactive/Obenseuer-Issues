@@ -12,6 +12,7 @@
 ## Items
 
 * Added box of tea
+* Added tea
 * Betel palm nuts are now stackable
 
 # January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
