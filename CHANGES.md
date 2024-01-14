@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added juniper trees (growable)
 * Betel palms now yield multiple harvests
 
 ## Furniture
