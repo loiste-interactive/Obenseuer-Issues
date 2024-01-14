@@ -15,6 +15,10 @@
 * Added tea
 * Betel palm nuts are now stackable
 
+## Recipes
+
+* Added tea recipe
+
 # January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
 
 ## Tenement System
