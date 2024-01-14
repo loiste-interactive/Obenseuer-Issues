@@ -1,5 +1,7 @@
 # Upcoming
 
+* Betel palms now yield multiple harvests
+
 ## Furniture
 
 * Jack-O-Turnips can now be lit
