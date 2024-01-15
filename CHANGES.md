@@ -4,6 +4,10 @@
 * Betel palms now yield multiple harvests
 * Fixed biogas reactors not accepting liquids (issue [#1718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1718))
 
+## Tenement System
+
+* Fixed construction noises still playing when the renovation is finished (issue [#1716](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1716))
+
 ## Furniture
 
 * Jack-O-Turnips can now be lit
