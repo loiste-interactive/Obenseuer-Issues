@@ -6,6 +6,7 @@
 
 ## Tenement System
 
+* Added scaffolding and tarp when stairwell is being renovated (issue [#1713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1713))
 * Fixed construction noises still playing when the renovation is finished (issue [#1716](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1716))
 
 ## Furniture
