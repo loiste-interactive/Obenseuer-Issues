@@ -3,6 +3,7 @@
 * Added juniper trees (growable)
 * Betel palms now yield multiple harvests
 * Fixed biogas reactors not accepting liquids (issue [#1718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1718))
+* Fixed storages not working on Swiss-German locales (issue [#1124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1124))
 
 ## Tenement System
 
