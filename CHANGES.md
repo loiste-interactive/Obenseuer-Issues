@@ -8,6 +8,7 @@
 
 * Added scaffolding and tarp when stairwell is being renovated (issue [#1713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1713))
 * Fixed construction noises still playing when the renovation is finished (issue [#1716](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1716))
+* Fixed the tenement disappearing during the renovation of the facade (issue [#1725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1725))
 
 ## Furniture
 
