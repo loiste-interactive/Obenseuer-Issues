@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 16th 2024 (Version 0.3.29 V3) - Playtesting branch
+
 * Added juniper trees (growable)
 * Betel palms now yield multiple harvests
 * Fixed biogas reactors not accepting liquids (issue [#1718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1718))
