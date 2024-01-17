@@ -8,6 +8,10 @@
 * Fixed grain mill missing icon and slots
 * Fixed bathtubs (growing) not having correct modifiers (issue [#1676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1676))
 
+## Interior Redemption Militia
+
+* Player can now volunteer at redemption militia
+
 ## Items
 
 * Added hop seeds
