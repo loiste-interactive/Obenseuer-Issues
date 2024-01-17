@@ -1,77 +1,13 @@
 # Upcoming
 
-# January 17th 2024 (Version 0.3.29 V4) - Playtesting branch
-
-* Fixed harvesting quality varying greatly between in-world and UI (issue [#1682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1682))
-
-## Tenement System
-
-* Fixed apartments showing not being cleared when they should (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
-
-## Furniture
-
-* Added mushroom lamps to shop lists
-* Fixed grain mill missing icon and slots
-* Fixed bathtubs (growing) not having correct modifiers (issue [#1676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1676))
-
-## Items
-
-* Added hop seeds
-* Added hop plant
-
-## Redemption Militia
-
-* Player can now volunteer at redemption militia
-
-## Kolhola
-
-* Changed telemarketing hourly rate to be the minimum hourly rate
-* Changed telemarketing job to not increase thrist or toilet
-* Fixed Sam Morton not having dialogue
-
-# January 16th 2024 (Version 0.3.29 V3) - Playtesting branch
+# January 17th 2024 (Version 0.3.29)
 
 * Added juniper trees (growable)
 * Betel palms now yield multiple harvests
-* Fixed biogas reactors not accepting liquids (issue [#1718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1718))
-* Fixed storages not working on Swiss-German locales (issue [#1124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1124))
-
-## Tenement System
-
-* Added scaffolding and tarp when stairwell is being renovated (issue [#1713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1713))
-* Fixed construction noises still playing when the renovation is finished (issue [#1716](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1716))
-* Fixed the tenement disappearing during the renovation of the facade (issue [#1725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1725))
-
-## Furniture
-
-* Jack-O-Turnips can now be lit
-* Fixed watching TV setting player depression to max.
-
-## Items
-
-* Added box of tea
-* Added tea
-* Betel palm nuts are now stackable
-
-## Recipes
-
-* Added tea recipe
-
-## Interior O-Market
-
-* O-Market now sells tea
-
-# January 12th 2024 (Version 0.3.29 V2) - Playtesting branch
-
-## Tenement System
-
-* Fixed barriers and renovation sounds not being present when aparment is being renovated (issue [#1712](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1712))
-
-# January 12th 2024 (Version 0.3.29) - Playtesting branch
-
 * Biogas reactor now builds up gas into the vat and compressor is needed to run only for short period of time
 * Some furniture can now be mounted also on walls
 * Changed main menu to show first the character that has the latest save (issue [#309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/309))
+* Fixed storages not working on Swiss-German locales (issue [#1124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1124))
 * Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
 * Fixed police arresting player when player moves to another area clearing crime and making time fast.
 * Fixed liquid sorting duplicating liquids (issue [#1613](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1613))
@@ -86,11 +22,13 @@
 * Fixed wood debris collision not being disabled when the wood debris is gone (issue [#1684](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1684))
 * Fixed being able to start a crafting process even if not having the required items (issue [#1680](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1680))
 * Fixed lockpicking keeping player in locked position too long when depleting lockpicks stack (issue [#1668](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1668))
+* Fixed harvesting quality varying between in-world and UI (issue [#1682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1682))
 
 ## Tenement System
 
 * Added barriers and sounds to apartments when they are being renovated
 * Added text to show what items the trash will give if the inventory is full (issue [#1663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1663))
+* Fixed apartments showing not being cleared when they should (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
 * Fixed decent player extension windows
 * Fixed renovation timer getting stuck at 0s when passing time (issue [#1620](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1620))
 * Fixed some initial upgrades having required resources (issue [#1704](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1704))
@@ -98,6 +36,35 @@
 * Fixed not being able to always place some rugs on the floor (issue [#1649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1649))
 * Fixed fine basement sauna pool room benches
 * Fixed not being able to pick up items in the basement (issue [#1669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1669))
+
+## Items
+
+* Added hop seeds
+* Added hop plant
+* Added box of tea
+* Added tea
+* Betel palm nuts are now stackable
+* Fixed pearl earings not being able to be picked up
+* Fixed drinking kumis, rice wine, milk moonshine and shochu also eating the bottle
+* Fixed not being able to move liquids between some containers (issue [#1675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1675))
+* Fixed merging stacks multiplying liquids (issue [#1678](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1678))
+* Updated guitar animations and sounds
+
+## Recipes
+
+* Added tea recipe
+* Yeast can now be extracted from milk and rice mashes
+
+## Furniture
+
+* Added jack-o-turnip
+* Added grain mill to shop lists
+* Added waiting functionality to player owned televisions
+* Added mushroom lamps to shop lists
+* Fixed bathtub ownership
+* Fixed fancy wooden desk name (issue [#1703](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1703))
+* Fixed grain mill missing icon and slots
+* Fixed bathtubs (growing) not having correct modifiers (issue [#1676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1676))
 
 ## Outside
 
@@ -110,35 +77,26 @@
 ## Kolhola
 
 * Changed lighting
+* Changed telemarketing hourly rate to be the minimum hourly rate
+* Changed telemarketing job to not increase thrist or toilet
 * Fixed hotel rooms always being rented for one day only (despite paying for multiple)
 * Fixed hotel toilet locking player in if player's reservation expires (issue [#1670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1670))
 * Fixed sitting on the apartment A3 bench at the left of the entrance making player facing wall (issue [#1698](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1698))
 * Fixed apartment A20 curtains disappearing depending on the viewing angle (issue [#1697](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1697))
+* Fixed Sam Morton not having dialogue
 
 ## Tenement B
 
 * Fixed selling items not converting RM to OC amount in Passmore's money pool
 * Fixed Passmore having stolen item prices in every item
 
-## Items
+* ## O-Market
 
-* Fixed pearl earings not being able to be picked up
-* Fixed drinking kumis, rice wine, milk moonshine and shochu also eating the bottle
-* Fixed not being able to move liquids between some containers (issue [#1675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1675))
-* Fixed merging stacks multiplying liquids (issue [#1678](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1678))
-* Updated guitar animations and sounds
+* O-Market now sells tea
 
-## Recipes
+## Redemption Militia
 
-* Yeast can now be extracted from milk and rice mashes
-
-## Furniture
-
-* Added jack-o-turnip
-* Added grain mill to shop lists
-* Added waiting functionality to player owned televisions
-* Fixed bathtub ownership
-* Fixed fancy wooden desk name (issue [#1703](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1703))
+* Player can now volunteer at redemption militia
 
 # December 29th 2023 (Version 0.3.28)
 
