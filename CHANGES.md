@@ -5,7 +5,6 @@
 * Added juniper trees (growable)
 * Betel palms now yield multiple harvests
 * Biogas reactor now builds up gas into the vat and compressor is needed to run only for short period of time
-* Some furniture can now be mounted also on walls
 * Changed main menu to show first the character that has the latest save (issue [#309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/309))
 * Fixed storages not working on Swiss-German locales (issue [#1124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1124))
 * Fixed chemical lab getting stuffed (issue [#1570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1570))
@@ -36,6 +35,7 @@
 * Fixed not being able to always place some rugs on the floor (issue [#1649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1649))
 * Fixed fine basement sauna pool room benches
 * Fixed not being able to pick up items in the basement (issue [#1669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1669))
+* Some furniture can now be mounted also on walls
 
 ## Items
 
