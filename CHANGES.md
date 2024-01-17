@@ -2,6 +2,10 @@
 
 * Fixed harvesting quality varying greatly between in-world and UI (issue [#1682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1682))
 
+## Tenement System
+
+* Fixed apartments showing not being cleared when they should (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
+
 ## Furniture
 
 * Added mushroom lamps to shop lists
