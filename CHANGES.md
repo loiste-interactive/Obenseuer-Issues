@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed harvesting quality varying greatly between in-world and UI (issue [#1682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1682))
+
 ## Furniture
 
 * Added mushroom lamps to shop lists
