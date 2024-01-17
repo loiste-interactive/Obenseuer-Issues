@@ -6,6 +6,11 @@
 * Fixed grain mill missing icon and slots
 * Fixed bathtubs (growing) not having correct modifiers (issue [#1676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1676))
 
+## Items
+
+* Added hop seeds
+* Added hop plant
+
 # January 16th 2024 (Version 0.3.29 V3) - Playtesting branch
 
 * Added juniper trees (growable)
