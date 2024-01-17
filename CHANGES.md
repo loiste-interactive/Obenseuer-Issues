@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Fixed grain mill missing icon and slots
+
 # January 16th 2024 (Version 0.3.29 V3) - Playtesting branch
 
 * Added juniper trees (growable)
