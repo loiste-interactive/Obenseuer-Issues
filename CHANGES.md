@@ -2,7 +2,6 @@
 
 # January 17th 2024 (Version 0.3.29)
 
-* Added juniper trees (growable)
 * Betel palms now yield multiple harvests
 * Biogas reactor now builds up gas into the vat and compressor is needed to run only for short period of time
 * Changed main menu to show first the character that has the latest save (issue [#309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/309))
@@ -39,6 +38,7 @@
 
 ## Items
 
+* Added juniper trees
 * Added hop seeds
 * Added hop plant
 * Added box of tea
