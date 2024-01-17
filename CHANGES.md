@@ -19,6 +19,7 @@
 
 ## Kolhola
 
+* Changed telemarketing hourly rate to be the minimum hourly rate
 * Fixed Sam Morton not having dialogue
 
 # January 16th 2024 (Version 0.3.29 V3) - Playtesting branch
