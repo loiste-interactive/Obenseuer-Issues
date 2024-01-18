@@ -1,5 +1,9 @@
 # Upcoming
 
+## Mr. Duck's House
+
+* Fixed items spawning in the chest when returning to the house
+
 # January 17th 2024 (Version 0.3.29)
 
 * Betel palms now yield multiple harvests
