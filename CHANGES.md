@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed disappearing stairs when upgrading to huge workshop
+
 ## Items
 
 * Changed Mason Jars to be breakable
