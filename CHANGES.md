@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Changed Mason Jars to be breakable
+
 ## Mr. Duck's House
 
 * Fixed items spawning in the chest when returning to the house
