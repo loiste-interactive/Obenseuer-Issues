@@ -1,5 +1,7 @@
 # Upcoming
 
+* Updated pause menu saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
+
 ## Tenement System
 
 * Fixed disappearing stairs when upgrading to huge workshop
