@@ -1,6 +1,7 @@
 # Upcoming
 
-* Updated pause menu saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
+* Changed pause menu saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
+* Fixed tutorial move buttons when using arrow keys (issue [#1738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1738))
 
 ## Tenement System
 
