@@ -5,6 +5,7 @@
 ## Tenement System
 
 * Fixed disappearing stairs when upgrading to huge workshop
+* Fixed missing backside barriers during workshop upgrade (issue [#1739](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1739))
 
 ## Items
 
