@@ -8,6 +8,10 @@
 
 * Changed Mason Jars to be breakable
 
+## Greenhouse
+
+* Fixed Jomppe not buying hops
+
 ## Kolhola
 
 * Fixed betel palms causing invisible walls
