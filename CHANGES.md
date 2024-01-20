@@ -33,6 +33,10 @@
 
 * Biogas reactor gauge now shows the filled precentage in UI
 
+## Interior Kolhola
+
+* Fixed elevator light issue [#1740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1740))
+
 # January 17th 2024 (Version 0.3.29)
 
 * Betel palms now yield multiple harvests
