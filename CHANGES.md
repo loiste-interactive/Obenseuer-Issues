@@ -33,6 +33,7 @@
 
 * Biogas reactor gauge now shows the filled precentage in UI
 * Biogas reactor compressor now automatically runs when the vat is full with gas
+* Fixed few issues with the biogas reactor
 
 ## Interior Kolhola
 
