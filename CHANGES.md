@@ -3,6 +3,7 @@
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
 * Fixed tutorial move buttons when using arrow keys (issue [#1738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1738))
 * Fixed can openers clogging up lathes (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
+* Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
 
 ## Tenement System
 
@@ -33,7 +34,6 @@
 
 * Biogas reactor gauge now shows the filled precentage in UI
 * Biogas reactor compressor now automatically runs when the vat is full with gas
-* Fixed few issues with the biogas reactor
 
 ## Interior Kolhola
 
