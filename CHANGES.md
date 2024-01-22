@@ -7,6 +7,7 @@
 * Fixed some item spawners spawning items without deleting previous items and causing lag
 * Fixed NaN mushroom need addiction value (issue [#1764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1764))
 * Fixed bank customer service typo (issue [#1754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1754))
+* Fixed closing backpack closing the bottle recycling machine interface (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 
 ## Tenement System
 
