@@ -5,6 +5,7 @@
 * Fixed can openers clogging up lathes (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 * Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
 * Fixed some item spawners spawning items without deleting previous items and causing lag
+* Fixed NaN mushroom need addiction value (issue [#1764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1764))
 
 ## Tenement System
 
