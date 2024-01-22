@@ -6,6 +6,7 @@
 * Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
 * Fixed some item spawners spawning items without deleting previous items and causing lag
 * Fixed NaN mushroom need addiction value (issue [#1764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1764))
+* Fixed bank customer service typo (issue [#1754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1754))
 
 ## Tenement System
 
