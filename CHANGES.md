@@ -22,6 +22,11 @@
 
 * Changed Mason Jars to be breakable
 
+## Furniture
+
+* Biogas reactor gauge now shows the filled precentage in UI
+* Biogas reactor compressor now automatically runs when the vat is full with gas
+
 ## Greenhouse
 
 * Fixed Jomppe not buying hops
@@ -29,19 +34,15 @@
 ## Kolhola
 
 * Fixed betel palms causing invisible walls
+* Fixed elevator light issue [#1740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1740))
 
 ## Mr. Duck's House
 
 * Fixed items spawning in the chest when returning to the house
 
-## Furniture
+## Tenement B
 
-* Biogas reactor gauge now shows the filled precentage in UI
-* Biogas reactor compressor now automatically runs when the vat is full with gas
-
-## Interior Kolhola
-
-* Fixed elevator light issue [#1740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1740))
+* Fixed seeing the bank ladder not updating the task [#1751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1751))
 
 # January 17th 2024 (Version 0.3.29)
 
