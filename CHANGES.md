@@ -4,6 +4,7 @@
 * Fixed tutorial move buttons when using arrow keys (issue [#1738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1738))
 * Fixed can openers clogging up lathes (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 * Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
+* Fixed some item spawners spawning items without deleting previous items and causing lag
 
 ## Tenement System
 
@@ -12,7 +13,7 @@
 
 ## Recipes
 
-* Fixed canopeners crafting instantly
+* Fixed can openers crafting instantly
 
 ## Items
 
