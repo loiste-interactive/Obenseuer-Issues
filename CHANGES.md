@@ -48,6 +48,7 @@
 ## Tenement B
 
 * Fixed seeing the bank ladder not updating the task [#1751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1751))
+* Fixed Under Map teleporting player to infront of entrance to the small mine cave [#1765](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1765))
 
 # January 17th 2024 (Version 0.3.29)
 
