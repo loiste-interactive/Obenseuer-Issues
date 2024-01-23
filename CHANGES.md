@@ -53,6 +53,10 @@
 
 * Fixed items spawning in the chest when returning to the house
 
+## Deekula C
+
+* Fixed C1 bucket toilet being backwards (issue [#1473](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1473))
+
 ## Tenement B
 
 * Fixed seeing the bank ladder not updating the task ([#1751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1751))
