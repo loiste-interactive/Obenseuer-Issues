@@ -10,6 +10,8 @@
 * Fixed bank customer service typo (issue [#1754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1754))
 * Fixed closing backpack closing the bottle recycling machine interface (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 * Fixed missing inflatable pool icon
+* Fixed purchasing liquid removing random amounts (issue [#1736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1736))
+* Fixed Pentti stealing mash (issue [#1756](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1756))
 
 ## Tenement System
 
