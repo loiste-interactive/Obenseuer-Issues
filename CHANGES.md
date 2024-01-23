@@ -33,6 +33,10 @@
 * Biogas reactor gauge now shows the filled precentage in UI
 * Biogas reactor compressor now automatically runs when the vat is full with gas
 
+## Outside
+
+* Fixed yard porta-potty graphical issue [#1760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1760))
+
 ## Greenhouse
 
 * Fixed Jomppe not buying hops
