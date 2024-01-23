@@ -1,6 +1,7 @@
 # Upcoming
 
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
+* Changed blueprint spawner behavior
 * Fixed tutorial move buttons when using arrow keys (issue [#1738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1738))
 * Fixed can openers clogging up lathes (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 * Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
