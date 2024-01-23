@@ -13,6 +13,7 @@
 * Fixed missing inflatable pool icon
 * Fixed purchasing liquid removing random amounts (issue [#1736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1736))
 * Fixed Pentti stealing mash (issue [#1756](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1756))
+* Fixed wieldable items not disappearing when being sent to jail (issue [#1749](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1749))
 
 ## Tenement System
 
