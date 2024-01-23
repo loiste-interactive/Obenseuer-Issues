@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 23rd 2024 (Version 0.3.30) - Playtesting branch
+
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
 * Changed blueprint spawner behavior
 * Increased growing skill gain 2 times (issue [#1768](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1768))
