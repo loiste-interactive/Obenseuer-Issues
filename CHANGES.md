@@ -36,16 +36,17 @@
 
 ## Outside
 
-* Fixed yard porta-potty graphical issue [#1760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1760))
+* Fixed yard porta-potty graphical (issue [#1760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1760))
 
 ## Greenhouse
 
 * Fixed Jomppe not buying hops
+* Fixed Jomppe not buying watermelons (issue [#1742](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1742))
 
 ## Kolhola
 
 * Fixed betel palms causing invisible walls
-* Fixed elevator light issue [#1740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1740))
+* Fixed elevator light (issue [#1740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1740))
 
 ## Mr. Duck's House
 
@@ -53,8 +54,8 @@
 
 ## Tenement B
 
-* Fixed seeing the bank ladder not updating the task [#1751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1751))
-* Fixed Under Map teleporting player to infront of entrance to the small mine cave [#1765](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1765))
+* Fixed seeing the bank ladder not updating the task ([#1751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1751))
+* Fixed Under Map teleporting player to infront of entrance to the small mine cave ([#1765](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1765))
 
 # January 17th 2024 (Version 0.3.29)
 
