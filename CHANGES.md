@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed item sorting not working correctly sometimes
+
 # January 23rd 2024 (Version 0.3.30) - Playtesting branch
 
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
