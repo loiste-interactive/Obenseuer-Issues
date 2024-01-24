@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed item sorting not working correctly sometimes
+* Fixed inventory space issues (issue [#1770](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1770), issue [#1771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1771))
 
 # January 23rd 2024 (Version 0.3.30) - Playtesting branch
 
