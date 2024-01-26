@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 26th 2024 (Version 0.3.30 V2) - Playtesting branch
+
 * Added save migration if save has missing reference ids
 * Fixed item sorting not working correctly sometimes
 * Fixed inventory space issues (issue [#1770](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1770), issue [#1771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1771))
