@@ -6,6 +6,10 @@
 * Fixed phone script saving all dialogue data
 * Fixed some saves crashing constantly (issue [#1644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1644))
 
+## Tenement System
+
+* Added unique apartment decoration to Pate Rantanen
+
 # January 23rd 2024 (Version 0.3.30) - Playtesting branch
 
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
