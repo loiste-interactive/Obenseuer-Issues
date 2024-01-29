@@ -11,6 +11,13 @@
 * Fixed duplicating furniture (issue [#1782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1782))
 * Fixed a bug that caused furniture to disappear (hopefully the last one)
 
+## Furniture
+
+* Added new magazines
+* Added new posters
+* Added hospital bed
+* Added hospital table
+
 # January 26th 2024 (Version 0.3.30 V2) - Playtesting branch
 
 * Added save migration if save has missing reference ids
