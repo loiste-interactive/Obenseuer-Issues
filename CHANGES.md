@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed items getting stuck in crafting stations (issue [#1785](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1785))
+
 ## Tenement System
 
 * Fixed being able to pay to Jonasson infinitely (issue [#1786](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1786))
