@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed balcony construction tarps being at the wrong balcony (issue [#1787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1787))
+
 # January 26th 2024 (Version 0.3.30 V2) - Playtesting branch
 
 * Added save migration if save has missing reference ids
