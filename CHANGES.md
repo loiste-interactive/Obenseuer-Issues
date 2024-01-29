@@ -2,7 +2,9 @@
 
 ## Tenement System
 
+* Fixed being able to pay to Jonasson infinitely (issue [#1786](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1786))
 * Fixed balcony construction tarps being at the wrong balcony (issue [#1787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1787))
+* Fixed category buttons not working correctly (issue [#1779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1779))
 
 # January 26th 2024 (Version 0.3.30 V2) - Playtesting branch
 
