@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 29th 2024 (Version 0.3.30 V3) - Playtesting branch
+
 * Changed backpack button to backpack slot and button
 * Fixed items getting stuck in crafting stations (issue [#1785](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1785))
 
