@@ -2,6 +2,10 @@
 
 * Fixed player getting stuck if he falls asleep when working (issue [#1469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1469))
 
+## Tenement System
+
+* Added unique apartment decoration to Amanda Korhonen
+
 # January 29th 2024 (Version 0.3.30 V3) - Playtesting branch
 
 * Changed backpack button to backpack slot and button
