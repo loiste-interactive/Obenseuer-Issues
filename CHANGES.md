@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed player getting stuck if he falls asleep when working (issue [#1469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1469))
+* Fixed backpack being bugged after changing scene (issue [#1789](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1789))
 
 ## Tenement System
 
