@@ -1,52 +1,18 @@
 # Upcoming
 
-# January 30th 2024 (Version 0.3.30 V4) - Playtesting branch
-
-* Fixed player getting stuck if he falls asleep when working (issue [#1469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1469))
-* Fixed backpack being bugged after changing scene (issue [#1789](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1789))
-
-## Tenement System
-
-* Added unique apartment decoration to Amanda Korhonen
-* Fixed trash reappearing (issue [#1781](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1781))
-
-# January 29th 2024 (Version 0.3.30 V3) - Playtesting branch
-
-* Changed backpack button to backpack slot and button
-* Fixed items getting stuck in crafting stations (issue [#1785](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1785))
-
-## Tenement System
-
-* Fixed being able to pay to Jonasson infinitely (issue [#1786](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1786))
-* Fixed balcony construction tarps being at the wrong balcony (issue [#1787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1787))
-* Fixed category buttons not working correctly (issue [#1779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1779))
-* Fixed duplicating furniture (issue [#1782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1782))
-* Fixed a bug that caused furniture to disappear (hopefully the last one)
-
-## Furniture
-
-* Added new magazines
-* Added new posters
-* Added hospital bed
-* Added hospital table
-
-# January 26th 2024 (Version 0.3.30 V2) - Playtesting branch
+# January 31st 2024 (Version 0.3.30)
 
 * Added save migration if save has missing reference ids
-* Fixed item sorting not working correctly sometimes
-* Fixed inventory space issues (issue [#1770](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1770), issue [#1771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1771))
-* Fixed phone script saving all dialogue data
-* Fixed some saves crashing constantly (issue [#1644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1644))
-
-## Tenement System
-
-* Added unique apartment decoration to Pate Rantanen
-
-# January 23rd 2024 (Version 0.3.30) - Playtesting branch
-
+* Added modifiers to show capacity
 * Changed saving and loading menu (issue [#112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/112))
 * Changed blueprint spawner behavior
+* Changed backpack button to backpack slot and button
 * Increased growing skill gain 2 times (issue [#1768](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1768))
+* Fixed player getting stuck if he falls asleep when working (issue [#1469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1469))
+* Fixed items getting stuck in crafting stations (issue [#1785](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1785))
+* Fixed item sorting not working correctly sometimes
+* Fixed phone script saving all dialogue data
+* Fixed some saves crashing constantly (issue [#1644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1644))
 * Fixed tutorial move buttons when using arrow keys (issue [#1738](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1738))
 * Fixed can openers clogging up lathes (issue [#1741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1741))
 * Fixed gas bottle drain/fill rate being orders of magnitude smaller when player is skipping time
@@ -59,13 +25,28 @@
 * Fixed Pentti stealing mash (issue [#1756](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1756))
 * Fixed wieldable items not disappearing when being sent to jail (issue [#1749](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1749))
 * Fixed liquid amounts changing when stacking liquid containers (issue [#1733](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1733))
-
-## Tenement System
-
 * Fixed disappearing stairs when upgrading to huge workshop
 * Fixed missing backside barriers during workshop upgrade (issue [#1739](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1739))
 * Fixed apartment not being cleaned when the construction blocks entry (issue [#1763](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1763))
 * Fixed Samuel reacting negatively to stolen items of they are inside player's inventory when renovating (issue [#1717](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1717))
+
+## Tenement System
+
+* Added unique apartment decoration to Pate Rantanen
+* Added unique apartment decoration to Amanda Korhonen
+* Biogas reactor gauge now shows the filled precentage in UI
+* Biogas reactor compressor now automatically runs when the vat is full with gas
+* Fixed a bug that caused furniture to disappear
+* Fixed duplicating furniture (issue [#1782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1782))
+* Fixed balcony construction tarps being at the wrong balcony (issue [#1787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1787))
+* Fixed category buttons not working correctly (issue [#1779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1779))
+
+## Furniture
+
+* Added new magazines
+* Added new posters
+* Added hospital bed
+* Added hospital table
 
 ## Recipes
 
@@ -74,11 +55,6 @@
 ## Items
 
 * Changed Mason Jars to be breakable
-
-## Furniture
-
-* Biogas reactor gauge now shows the filled precentage in UI
-* Biogas reactor compressor now automatically runs when the vat is full with gas
 
 ## Outside
 
