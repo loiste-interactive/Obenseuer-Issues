@@ -4,6 +4,10 @@
 
 * Fixed not being able to take 24 pack from the stairwell
 
+## Furniture
+
+* Fixed hospital bed and table being too big
+
 # February 1st 2024 (Version 0.3.31) - hotfix
 
 * Fixed some saves getting stuck on the loading screen after migrating
