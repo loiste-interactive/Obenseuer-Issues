@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed not being able to take 24 pack from the stairwell
+
 # February 1st 2024 (Version 0.3.31) - hotfix
 
 * Fixed some saves getting stuck on the loading screen after migrating
