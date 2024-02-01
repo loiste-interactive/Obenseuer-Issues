@@ -2,6 +2,10 @@
 
 * Fixed some saves getting stuck on the loading screen after migrating
 
+## Tenement System
+
+* Fixed all furniture disappearing when taking furniture with items (issue [#1792](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1792))
+
 # January 31st 2024 (Version 0.3.30)
 
 * Added save migration if save has missing reference ids
