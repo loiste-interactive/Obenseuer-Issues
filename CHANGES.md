@@ -1,5 +1,7 @@
 # Upcoming
 
+* Removed flicker effect from super flashlight
+
 ## Tenement System
 
 * Fixed not being able to take 24 pack from the stairwell
