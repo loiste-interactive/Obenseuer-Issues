@@ -1,5 +1,7 @@
 # Upcoming
 
+# February 1st 2024 (Version 0.3.31) - hotfix
+
 * Fixed some saves getting stuck on the loading screen after migrating
 * Fixed storage and backpack inventory getting combined (issue [#1791](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1791))
 
