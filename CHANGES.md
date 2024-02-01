@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed some saves getting stuck on the loading screen after migrating
+
 # January 31st 2024 (Version 0.3.30)
 
 * Added save migration if save has missing reference ids
