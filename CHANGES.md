@@ -6,6 +6,7 @@
 
 * Fixed not being able to take 24 pack from the stairwell
 * Fixed moving not having correct furniture with items selected in migrated saves
+* Fixed sometimes moved furniture with items duplicating when saving and loading (issue [#1799](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1799))
 
 ## Furniture
 
