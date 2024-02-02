@@ -12,6 +12,10 @@
 
 * Fixed hospital bed and table being too big
 
+## Items
+
+* Fixed drinking tea destroying tea cup
+
 # February 1st 2024 (Version 0.3.31) - hotfix
 
 * Fixed some saves getting stuck on the loading screen after migrating
