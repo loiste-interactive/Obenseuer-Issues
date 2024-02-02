@@ -5,6 +5,7 @@
 ## Tenement System
 
 * Fixed not being able to take 24 pack from the stairwell
+* Fixed moving not having correct furniture with items selected in migrated saves
 
 ## Furniture
 
