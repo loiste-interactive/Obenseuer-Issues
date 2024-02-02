@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Pentti not paying for mash (issue [#1804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1804))
+* Fixed characters' stretched lips
 * Removed flicker effect from super flashlight
 
 ## Tenement System
