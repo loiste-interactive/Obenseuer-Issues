@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added hygiene
+
 # February 2nd 2024 (Version 0.3.33) - hotfix
 
 * Fixed Pentti not paying for mash (issue [#1804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1804))
