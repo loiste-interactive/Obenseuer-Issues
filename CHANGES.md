@@ -8,6 +8,10 @@
 * Fixed Pate's balcony (issue [#1814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1814))
 * Fixed spawners not removing old items when respawning in Malone's apartment (issue [#1820](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1820))
 
+## Items
+
+* Fixed Mason Jars breaking when trying to drink (issue [#1821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1821))
+
 ## Tenement B
 
 * Fixed blue barrels not having collision (issue [#1817](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1817))
