@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added hygiene
+* Added a second autosave
 
 ## Tenement System
 
