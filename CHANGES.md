@@ -11,6 +11,10 @@
 
 * Fixed blue barrels not having collision (issue [#1817](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1817))
 
+## Speakeasy
+
+* Fixed betel palm causing invisible wall (issue [#1805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1805))
+
 # February 2nd 2024 (Version 0.3.33) - hotfix
 
 * Fixed Pentti not paying for mash (issue [#1804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1804))
