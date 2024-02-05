@@ -7,6 +7,10 @@
 * Fixed Pate's balcony (issue [#1814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1814))
 * Fixed spawners not removing old items when respawning in Malone's apartment (issue [#1820](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1820))
 
+## Tenement B
+
+* Fixed blue barrels not having collision (issue [#1817](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1817))
+
 # February 2nd 2024 (Version 0.3.33) - hotfix
 
 * Fixed Pentti not paying for mash (issue [#1804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1804))
