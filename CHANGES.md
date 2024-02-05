@@ -3,6 +3,7 @@
 * Added hygiene
 * Added a second autosave
 * Fixed plants freezing the game (issue [#1801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1801))
+* Fixed item shortcuts not working sometimes (issue [#1818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1818))
 
 ## Tenement System
 
