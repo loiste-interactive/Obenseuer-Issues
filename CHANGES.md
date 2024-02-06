@@ -1,5 +1,7 @@
 # Upcoming
 
+# February 6th 2024 (Version 0.3.34) - playtesting branch
+
 * Added hygiene
 * Added a second autosave slot
 * Fixed plants freezing the game (issue [#1801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1801))
