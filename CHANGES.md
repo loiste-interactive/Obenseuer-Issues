@@ -9,6 +9,7 @@
 
 * Fixed Pate's balcony (issue [#1814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1814))
 * Fixed spawners not removing old items when respawning in Malone's apartment (issue [#1820](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1820))
+* Fixed the basement hallway being black when the basement is under construction
 
 ## Items
 
