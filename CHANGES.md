@@ -18,6 +18,10 @@
 
 * Fixed Mason Jars breaking when trying to drink (issue [#1821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1821))
 
+## Outside
+
+* Fixed getting more than one pea soup a day (issue [#1826](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1826))
+
 ## Tenement B
 
 * Fixed blue barrels not having collision (issue [#1817](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1817))
