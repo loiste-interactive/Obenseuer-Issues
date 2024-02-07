@@ -4,6 +4,10 @@
 
 * Fixed unpickable hamburgers (issue [#1839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1839))
 
+## Console
+
+* Added command to manipulate hygiene
+
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
 * Added hygiene
