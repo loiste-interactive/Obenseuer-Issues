@@ -4,6 +4,10 @@
 
 * Fixed unpickable hamburgers (issue [#1839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1839))
 
+## Recipes
+
+* Reduced fail chance of canned foods to almost 0
+
 ## Console
 
 * Added command to manipulate hygiene
