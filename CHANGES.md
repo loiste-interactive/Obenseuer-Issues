@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed bank panel missing rounding
+* Fixed heracleum plant not being centered
 
 ## Items
 
