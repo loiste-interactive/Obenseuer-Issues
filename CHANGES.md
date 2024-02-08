@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed bank panel missing rounding
+
 ## Items
 
 * Fixed unpickable hamburgers (issue [#1839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1839))
