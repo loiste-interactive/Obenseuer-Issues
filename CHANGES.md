@@ -6,6 +6,7 @@
 
 ## Items
 
+* Added dishwasher powder
 * Fixed unpickable hamburgers (issue [#1839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1839))
 
 ## Recipes
