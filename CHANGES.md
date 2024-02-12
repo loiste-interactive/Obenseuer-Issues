@@ -17,6 +17,10 @@
 
 * Added command to manipulate hygiene
 
+## O-Market
+
+* O.Market now sells dishwasher powder
+
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
 * Added hygiene
