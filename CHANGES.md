@@ -19,7 +19,8 @@
 
 ## O-Market
 
-* O.Market now sells dishwasher powder
+* O-Market now sells dishwasher powder
+* Fixed rats and animals being stuck
 
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
