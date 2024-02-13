@@ -26,6 +26,10 @@
 * O-Market now sells dishwasher powder
 * Fixed rats and animals being stuck
 
+## Furniture
+
+* Added dishwasher
+
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
 * Added hygiene
