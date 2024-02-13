@@ -4,6 +4,10 @@
 * Fixed bank panel missing rounding
 * Fixed heracleum plant not being centered
 
+## Tenement System
+
+* Changed basic income to base income (issue [#1853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1853))
+
 ## Items
 
 * Added dishwasher powder
