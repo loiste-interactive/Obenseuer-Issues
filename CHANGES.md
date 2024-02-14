@@ -21,6 +21,7 @@
 ## Console
 
 * Added command to manipulate hygiene
+* Added command to manipulate radiation dose
 
 ## O-Market
 
