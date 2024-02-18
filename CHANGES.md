@@ -33,6 +33,10 @@
 * O-Market now sells dishwasher powder
 * Fixed rats and animals being stuck
 
+## Pharmacy
+
+* Pharmacy now sells iodine pills
+
 ## Furniture
 
 * Added dishwasher
