@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added dosimeter
 * Added cobalt-60
 * Added iodine pills
 * Added dishwasher powder
