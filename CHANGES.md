@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added bag of blood
 * Added saline
 * Added dosimeter
 * Added cobalt-60
