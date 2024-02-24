@@ -23,6 +23,7 @@
 
 ## Recipes
 
+* Added saline
 * Reduced fail chance of canned foods to almost 0
 
 ## Console
