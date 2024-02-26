@@ -11,6 +11,7 @@
 ## Tenement System
 
 * Changed basic income to base income (issue [#1853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1853))
+* Fixed apartment cleaning percentage not updating sometimes (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
 
 ## Items
 
