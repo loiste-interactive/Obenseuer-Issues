@@ -2,6 +2,7 @@
 
 * Added radiation
 * Added dishwasher (workbench for reseting owner of items)
+* Added face slot
 * Fixed bank panel missing rounding
 * Fixed heracleum plant not being centered
 * Fixed SMV progression going back to 0% when god mode is on (issue [#1835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1835))
@@ -13,6 +14,7 @@
 
 ## Items
 
+* Added facemask
 * Added bag of blood
 * Added saline
 * Added dosimeter
