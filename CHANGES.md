@@ -15,6 +15,7 @@
 * Fixed the apartment 14 phantom fireplace (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
 * Fixed the apartment 14 body giving unusable mushroom item (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
 * Fixed heating upgrade construction missing tarp (issue [#1846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1846))
+* Fixed wires clipping through the floor of the roof greenhouse (issue [#1843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1843))
 
 ## Items
 
