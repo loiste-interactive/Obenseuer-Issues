@@ -27,6 +27,7 @@
 ## Recipes
 
 * Added missing cider recipe
+* Added missing mushroom cider recipe
 * Added saline
 * Reduced fail chance of canned foods to almost 0
 * Fixed some canned food recipes not requiring can opener (issue [#1850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1850))
