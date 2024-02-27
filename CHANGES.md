@@ -56,6 +56,7 @@
 ## Furniture
 
 * Added dishwasher
+* Fixed green dumpster having wrong price
 
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
