@@ -17,6 +17,7 @@
 * Fixed heating upgrade construction missing tarp (issue [#1846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1846))
 * Fixed wires clipping through the floor of the roof greenhouse (issue [#1843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1843))
 * Fixed missing foundation wall near the gazebo (issue [#1841](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1841))
+* Fixed second floor large apartment windows being shifted (issue [#1862](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1862))
 
 ## Items
 
