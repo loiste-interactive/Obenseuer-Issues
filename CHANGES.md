@@ -57,6 +57,7 @@
 
 * Added dishwasher
 * Fixed green dumpster having wrong price
+* Fixed chemical lab blueprint using an aquarium insread of a terrarium (issue [#1645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1645))
 
 # February 6th 2024 (Version 0.3.34) - playtesting branch
 
