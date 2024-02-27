@@ -12,6 +12,8 @@
 
 * Changed basic income to base income (issue [#1853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1853))
 * Fixed apartment cleaning percentage not updating sometimes (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
+* Fixed the apartment 14 phantom fireplace (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
+* Fixed the apartment 14 body giving unusable mushroom item (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
 
 ## Items
 
