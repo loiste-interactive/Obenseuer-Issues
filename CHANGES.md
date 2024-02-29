@@ -10,6 +10,7 @@
 * Fixed mushroom consumption causing the player to travel to Other Side for a few seconds (issue [#1835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1835))
 * Fixed Aleksi Kivi dialogue loop (issue [#266](https://github.com/loiste-interactive/Obenseuer-Issues/issues/266))
 * Fixed not being able to navigate to inventory sort buttons when using keyboard or controller
+* Fixed dropping the last bottle causing bottles reappear after breaking them (issue [#1863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1863))
 * Increased spoilage times
 * Removed space being an action button (issue [#142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/142))
 * Removed press any key flash effect
