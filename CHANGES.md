@@ -3,6 +3,7 @@
 * Fixed furniture and other stuff not working correctly (issue [#1866](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1866))
 * Fixed Olle's hat color (issue [#1865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1865))
 * Fixed the under map door teleporting player to the wrong place (issue [#1868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1868))
+* Fixed original stack amount to changing to 1 when one item is dragged to a slot that does not accept it (issue [#1845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1845))
 
 # February 29th 2024 (Version 0.3.35) - playtesting branch
 
