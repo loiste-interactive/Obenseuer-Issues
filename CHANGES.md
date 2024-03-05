@@ -9,6 +9,11 @@
 * Fixed satisfaction of bowel and bladder not being registered when player is already sitting on a toilet (issue [#1873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1873))
 * Fixed gun-trap having a chance of displaying "dead by beating" on the death-screen (issue [#1875](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1875))
 
+## Outside
+
+* Added police respawn to their original positions (issue [#1788](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1788))
+* Fixed letter lights being only illuminated while in field of view (issue [#900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/900))
+
 # February 29th 2024 (Version 0.3.35) - playtesting branch
 
 * Added radiation
