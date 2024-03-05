@@ -6,6 +6,7 @@
 * Fixed original stack amount to changing to 1 when one item is dragged to a slot that does not accept it (issue [#1845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1845))
 * Fixed splitting stacks causing several issues with liquids (issue [#1834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1834))
 * Fixed satisfaction of bowel and bladder not being registered when player is already sitting on a toilet (issue [#1873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1873))
+* Fixed gun-trap having a chance of displaying "dead by beating" on the death-screen (issue [#1875](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1875))
 
 # February 29th 2024 (Version 0.3.35) - playtesting branch
 
