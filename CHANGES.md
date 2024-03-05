@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
 * Fixed furniture and other stuff not working correctly (issue [#1866](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1866))
 * Fixed Olle's hat color (issue [#1865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1865))
 * Fixed the under map door teleporting player to the wrong place (issue [#1868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1868))
