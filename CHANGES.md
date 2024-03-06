@@ -2,6 +2,7 @@
 
 * Added owned icon for slot items
 * Added quality icon for slot items
+* Fixed loading an older save restoring the default junk (issue [#1878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1878))
 * Fixed toilet delay (issue [#1879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1879))
 * Removed quality background from slot items
 
