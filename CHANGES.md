@@ -1,5 +1,9 @@
 # Upcoming
 
+* Added owned icon for slot items
+* Added quality icon for slot items
+* Removed quality background from slot items
+
 # March 6th 2024 (Version 0.3.35 V2) - playtesting branch
 
 * Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
