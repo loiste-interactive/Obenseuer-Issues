@@ -6,6 +6,10 @@
 * Fixed toilet delay (issue [#1879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1879))
 * Removed quality background from slot items
 
+## Tenement System
+
+* Fixed the terrarium having an aquarium light when using building mode (issue [#425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/425))
+
 # March 6th 2024 (Version 0.3.35 V2) - playtesting branch
 
 * Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
