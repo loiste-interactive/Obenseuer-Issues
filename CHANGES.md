@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 6th 2024 (Version 0.3.35 V2) - playtesting branch
+
 * Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
 * Added processing time for crafting furniture (issue [#1190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1190))
 * Fixed furniture and other stuff not working correctly (issue [#1866](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1866))
