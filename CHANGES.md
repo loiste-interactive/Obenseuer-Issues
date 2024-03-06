@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 6th 2024 (Version 0.3.35 V3) - playtesting branch
+
 * Added owned icon for slot items
 * Added quality icon for slot items
 * Fixed loading an older save restoring the default junk (issue [#1878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1878))
