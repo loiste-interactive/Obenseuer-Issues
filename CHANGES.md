@@ -2,6 +2,7 @@
 
 * Added owned icon for slot items
 * Added quality icon for slot items
+* Fixed toilet delay (issue [#1879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1879))
 * Removed quality background from slot items
 
 # March 6th 2024 (Version 0.3.35 V2) - playtesting branch
