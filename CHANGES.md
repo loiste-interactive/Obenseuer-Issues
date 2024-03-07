@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed merging liquid containers sometimes emptying the other stack (issue [#1882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1882))
+
 # March 6th 2024 (Version 0.3.35 V3) - playtesting branch
 
 * Added owned icon for slot items
