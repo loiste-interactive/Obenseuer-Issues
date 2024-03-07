@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed sleeping events
 * Fixed merging liquid containers sometimes emptying the other stack (issue [#1882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1882))
 * Fixed stolen dishwasher powder breaking the dishwasher (issue [#1881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1881))
 * Fixed dishwasher progress not being saved (issue [#1881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1881))
