@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added radiation check to Dr. Pena
 * Fixed Mirjam being on coffee on break
 
 ## Console
