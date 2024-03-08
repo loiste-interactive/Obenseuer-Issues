@@ -2,6 +2,11 @@
 
 * Fixed Mirjam being on coffee on break
 
+## Console
+
+* Added difficulty commands
+* Fixed console kicking you out of the command line every time you press enter (issue [#840](https://github.com/loiste-interactive/Obenseuer-Issues/issues/840))
+
 # March 7th 2024 (Version 0.3.35 V4) - playtesting branch
 
 * Fixed sleeping events
