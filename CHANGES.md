@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Mirjam being on coffee on break
+
 # March 7th 2024 (Version 0.3.35 V4) - playtesting branch
 
 * Fixed sleeping events
