@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Dr. Pena radiation check
+
 # March 8th 2024 (Version 0.3.35 V5) - playtesting branch
 
 * Added radiation check to Dr. Pena
