@@ -1,5 +1,8 @@
 # Upcoming
 
+# March 11th 2024 (Version 0.3.35 V6) - playtesting branch
+
+* Added difficulty settings
 * Fixed Dr. Pena radiation check
 
 ## Items
