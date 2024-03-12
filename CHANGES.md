@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added controls to doctor UI
+* Added ability to disable mental health from difficulty menu
 * Fixed tooltip being able go off the screen (issue [#1886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1886))
 * Fixed broken dishwasher (issue [#1883](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1883))
 * Fixed doctor UI showing wrong price
