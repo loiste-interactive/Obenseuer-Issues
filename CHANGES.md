@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed tooltip being able go off the screen (issue [#1886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1886))
+
 ## Items
 
 * Added facemask pack
