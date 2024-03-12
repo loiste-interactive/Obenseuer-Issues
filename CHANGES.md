@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 12th 2024 (Version 0.3.35 V7) - playtesting branch
+
 * Added controls to doctor UI
 * Added ability to disable mental health from difficulty menu
 * Fixed tooltip being able go off the screen (issue [#1886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1886))
