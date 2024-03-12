@@ -8,6 +8,10 @@
 
 * Pharmacy now sells facemasks
 
+## Tenement System
+
+* Fixed water upgrades under construction tarp (issue [#1887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1887))
+
 # March 11th 2024 (Version 0.3.35 V6) - playtesting branch
 
 * Added difficulty settings
