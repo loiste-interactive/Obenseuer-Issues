@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 13th 2024 (Version 0.3.35 V8) - playtesting branch
+
 * Added ability to remove slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
 * Changed character remove to mention that it removes all slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
 * Fixed washing liquid and ammo items (issue [#1889](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1889))
