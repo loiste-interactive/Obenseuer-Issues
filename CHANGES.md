@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed washing liquid and ammo items (issue [#1889](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1889))
+* Fixed broken crafting interface (issue [#1888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1888))
 
 # March 12th 2024 (Version 0.3.35 V7) - playtesting branch
 
