@@ -8,7 +8,7 @@
 * Added dishwasher (workbench for reseting owner of items)
 * Added face slot
 * Added move stacks quickly by holding down the mouse button (issue [#1769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1769))
-* Added ability to remove slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
+* Added ability to remove save slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
 * Added controls to doctor UI
 * Added radiation check to Dr. Pena
 * Added a second autosave slot
