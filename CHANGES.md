@@ -1,125 +1,48 @@
 # Upcoming
 
-# March 14th 2024 (Version 0.3.35 V9) - playtesting branch
-
-* Fixed broken tenants (issue [#1890](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1890))
-* Fixed liquid swapping when moving liquid to different container (issue [#1891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1891))
-* Fixed gaining drinking skill from inappropriate actions (issue [#1892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1892))
-
-## Tenement System
-
-* Fixed invisible wall in medium workshop upgrade (issue [#1893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1893))
-
-# March 13th 2024 (Version 0.3.35 V8) - playtesting branch
-
-* Added ability to remove slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
-* Changed character remove to mention that it removes all slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
-* Fixed washing liquid and ammo items (issue [#1889](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1889))
-* Fixed broken crafting interface (issue [#1888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1888))
-
-# March 12th 2024 (Version 0.3.35 V7) - playtesting branch
-
-* Added controls to doctor UI
-* Added ability to disable mental health from difficulty menu
-* Fixed tooltip being able go off the screen (issue [#1886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1886))
-* Fixed broken dishwasher (issue [#1883](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1883))
-* Fixed doctor UI showing wrong price
-
-## Items
-
-* Added facemask pack
-
-## Pharmacy
-
-* Pharmacy now sells facemasks
-
-## Tenement System
-
-* Fixed water upgrades under construction tarp (issue [#1887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1887))
-
-# March 11th 2024 (Version 0.3.35 V6) - playtesting branch
+# March 14th 2024 (Version 0.3.35)
 
 * Added difficulty settings
-* Fixed Dr. Pena radiation check
-
-## Items
-
-* Soap doesn't stack anymore
-
-# March 8th 2024 (Version 0.3.35 V5) - playtesting branch
-
-* Added radiation check to Dr. Pena
-* Fixed Mirjam being on coffee on break
-
-## Console
-
-* Added difficulty commands
-* Fixed console kicking you out of the command line every time you press enter (issue [#840](https://github.com/loiste-interactive/Obenseuer-Issues/issues/840))
-
-# March 7th 2024 (Version 0.3.35 V4) - playtesting branch
-
-* Fixed sleeping events
-* Fixed merging liquid containers sometimes emptying the other stack (issue [#1882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1882))
-* Fixed stolen dishwasher powder breaking the dishwasher (issue [#1881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1881))
-* Fixed dishwasher progress not being saved (issue [#1881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1881))
-* Fixed connected controllers locking the mouse cursor
-
-# March 6th 2024 (Version 0.3.35 V3) - playtesting branch
-
-* Added owned icon for slot items
-* Added quality icon for slot items
-* Fixed loading an older save restoring the default junk (issue [#1878](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1878))
-* Fixed toilet delay (issue [#1879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1879))
-* Removed quality background from slot items
-
-## Tenement System
-
-* Fixed the terrarium having an aquarium light when using building mode (issue [#425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/425))
-
-# March 6th 2024 (Version 0.3.35 V2) - playtesting branch
-
-* Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
-* Added processing time for crafting furniture (issue [#1190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1190))
-* Fixed furniture and other stuff not working correctly (issue [#1866](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1866))
-* Fixed Olle's hat color (issue [#1865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1865))
-* Fixed the under map door teleporting player to the wrong place (issue [#1868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1868))
-* Fixed original stack amount to changing to 1 when one item is dragged to a slot that does not accept it (issue [#1845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1845))
-* Fixed splitting stacks causing several issues with liquids (issue [#1834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1834))
-* Fixed satisfaction of bowel and bladder not being registered when player is already sitting on a toilet (issue [#1873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1873))
-* Fixed gun-trap having a chance of displaying "dead by beating" on the death-screen (issue [#1875](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1875))
-* Increased farming payment (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
-* Increased mash payment (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
-
-## Tenement System
-
-* Rebalanced renovation costs (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
-
-## Outside
-
-* Added police respawn to their original positions (issue [#1788](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1788))
-* Fixed letter lights being only illuminated while in field of view (issue [#900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/900))
-
-# February 29th 2024 (Version 0.3.35) - playtesting branch
-
+* Added hygiene
 * Added radiation
 * Added dishwasher (workbench for reseting owner of items)
 * Added face slot
 * Added move stacks quickly by holding down the mouse button (issue [#1769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1769))
+* Added ability to remove slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
+* Added controls to doctor UI
+* Added radiation check to Dr. Pena
+* Added a second autosave slot
+* Added processing time for crafting furniture (issue [#1190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1190))
+* Fixed gaining drinking skill from inappropriate actions (issue [#1892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1892))
+* Fixed tooltip being able go off the screen (issue [#1886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1886))
+* Fixed the under map door teleporting player to the wrong place (issue [#1868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1868))
+* Fixed satisfaction of bowel and bladder not being registered when player is already sitting on a toilet (issue [#1873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1873))
+* Fixed gun-trap having a chance of displaying "dead by beating" on the death-screen (issue [#1875](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1875))
+* Fixed plants freezing the game (issue [#1801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1801))
+* Fixed item shortcuts not working sometimes (issue [#1818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1818))
+* Fixed extra storage space in storage (issue [#1827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1827))
 * Fixed bank panel missing rounding
 * Fixed heracleum plant not being centered
 * Fixed SMV progression going back to 0% when god mode is on (issue [#1835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1835))
 * Fixed mushroom consumption causing the player to travel to Other Side for a few seconds (issue [#1835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1835))
 * Fixed Aleksi Kivi dialogue loop (issue [#266](https://github.com/loiste-interactive/Obenseuer-Issues/issues/266))
 * Fixed not being able to navigate to inventory sort buttons when using keyboard or controller
-* Fixed dropping the last bottle causing bottles reappear after breaking them (issue [#1863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1863))
 * Fixed biogas reactor meter not updating (issue [#1848](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1848))
-* Increased spoilage times
+* Fixed doctor UI showing wrong price
+* Fixed sleeping events
+* Fixed connected controllers locking the mouse cursor
+* Increased farming payment (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
+* Increased mash payment (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
 * Removed space being an action button (issue [#142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/142))
-* Removed press any key flash effect
 
 ## Tenement System
 
+* Rebalanced renovation costs (issue [#1871](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1871))
+* Added unique apartment decoration to Aleksi Kivi
 * Changed basic income to base income (issue [#1853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1853))
+* Fixed invisible wall in medium workshop upgrade (issue [#1893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1893))
+* Fixed water upgrades under construction tarp (issue [#1887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1887))
+* Fixed the terrarium having an aquarium light when using building mode (issue [#425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/425))
 * Fixed apartment cleaning percentage not updating sometimes (issue [#1726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1726))
 * Fixed the apartment 14 phantom fireplace (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
 * Fixed the apartment 14 body giving unusable mushroom item (issue [#1847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1847))
@@ -127,9 +50,14 @@
 * Fixed wires clipping through the floor of the roof greenhouse (issue [#1843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1843))
 * Fixed missing foundation wall near the gazebo (issue [#1841](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1841))
 * Fixed second floor large apartment windows being shifted (issue [#1862](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1862))
+* Fixed Pate's balcony (issue [#1814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1814))
+* Fixed spawners not removing old items when respawning in Malone's apartment (issue [#1820](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1820))
+* Fixed the basement hallway being black when the basement is under construction
+* Fixed phantom sleeping bag (issue [#1823](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1823))
 
 ## Items
 
+* Added facemask pack
 * Added facemask
 * Added bag of blood
 * Added saline
@@ -137,7 +65,16 @@
 * Added cobalt-60
 * Added iodine pills
 * Added dishwasher powder
+* Added owned icon for slot items
+* Added quality icon for slot items
+* Added to the descriptions of Osmo Olut drinks that they are beer (issue [#1874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1874))
 * Fixed unpickable hamburgers (issue [#1839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1839))
+* Fixed Mason Jars breaking when trying to drink (issue [#1821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1821))
+* Fixed dropping the last bottle causing bottles reappear after breaking them (issue [#1863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1863))
+* Fixed original stack amount to changing to 1 when one item is dragged to a slot that does not accept it (issue [#1845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1845))
+* Fixed splitting stacks causing several issues with liquids (issue [#1834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1834))
+* Increased spoilage times
+* Removed quality background from slot items
 
 ## Recipes
 
@@ -148,49 +85,39 @@
 * Fixed some canned food recipes not requiring can opener (issue [#1850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1850))
 * Fixed some canned food recipes not returning empty cans (issue [#1850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1850))
 
-## Console
-
-* Added command to manipulate hygiene
-* Added command to manipulate radiation dose
-
-## O-Market
-
-* O-Market now sells dishwasher powder
-* Fixed rats and animals being stuck
-
-## Pharmacy
-
-* Pharmacy now sells iodine pills
-
 ## Furniture
 
 * Added dishwasher
 * Fixed green dumpster having wrong price
 * Fixed chemical lab blueprint using an aquarium insread of a terrarium (issue [#1645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1645))
 
-# February 6th 2024 (Version 0.3.34) - playtesting branch
+## Console
 
-* Added hygiene
-* Added a second autosave slot
-* Fixed plants freezing the game (issue [#1801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1801))
-* Fixed item shortcuts not working sometimes (issue [#1818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1818))
-* Fixed extra storage space in storage (issue [#1827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1827))
+* Added difficulty commands
+* Added command to manipulate hygiene
+* Added command to manipulate radiation dose
+* Fixed console kicking you out of the command line every time you press enter (issue [#840](https://github.com/loiste-interactive/Obenseuer-Issues/issues/840))
 
-## Tenement System
+## Main Menu
 
-* Added unique apartment decoration to Aleksi Kivi
-* Fixed Pate's balcony (issue [#1814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1814))
-* Fixed spawners not removing old items when respawning in Malone's apartment (issue [#1820](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1820))
-* Fixed the basement hallway being black when the basement is under construction
-* Fixed phantom sleeping bag (issue [#1823](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1823))
-
-## Items
-
-* Fixed Mason Jars breaking when trying to drink (issue [#1821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1821))
+* Changed character remove to mention that it removes all slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
+* Removed press any key flash effect
 
 ## Outside
 
+* Added police respawn to their original positions (issue [#1788](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1788))
+* Fixed letter lights being only illuminated while in field of view (issue [#900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/900))
 * Fixed getting more than one pea soup a day (issue [#1826](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1826))
+
+## Pharmacy
+
+* Pharmacy now sells facemasks
+* Pharmacy now sells iodine pills
+
+## O-Market
+
+* O-Market now sells dishwasher powder
+* Fixed rats and animals being stuck
 
 ## Tenement B
 
