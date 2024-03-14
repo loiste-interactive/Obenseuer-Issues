@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed liquid swapping when moving liquid to different container (issue [#1891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1891))
+
 # March 13th 2024 (Version 0.3.35 V8) - playtesting branch
 
 * Added ability to remove slots (issue [#1885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1885))
