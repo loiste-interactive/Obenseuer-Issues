@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed liquid swapping when moving liquid to different container (issue [#1891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1891))
+* Fixed gaining drinking skill from inappropriate actions (issue [#1892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1892))
 
 ## Tenement System
 
