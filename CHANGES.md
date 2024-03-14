@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed broken tenants (issue [#1890](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1890))
 * Fixed liquid swapping when moving liquid to different container (issue [#1891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1891))
 * Fixed gaining drinking skill from inappropriate actions (issue [#1892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1892))
 
