@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed survive 7/30/365 days achievements
+* Fixed survive 7/30/365 days achievements not triggering
 
 # March 15th 2024 (Version 0.3.36)
 
