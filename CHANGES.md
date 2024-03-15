@@ -1,11 +1,11 @@
 # Upcoming
 
 * Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
-* Fixed some crafting stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
+* Fixed some crafting/growing stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
 
 ## Tenement System
 
-* Fixed furniture storages sometimes all items (issue [#1900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1900))
+* Fixed furniture storages sometimes losing all items (issue [#1900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1900))
 * Fixed not being able to use the shabby bathroom shower (issue [#1897](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1897))
 * Fixed wine rack bottles remaining in the furniture store UI if the game was saved when the wine rack was last selected (issue [#1896](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1896))
 
