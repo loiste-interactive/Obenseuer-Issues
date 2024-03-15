@@ -2,6 +2,7 @@
 
 * Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
 * Fixed some crafting/growing stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
+* Fixed resetting refresh rate
 
 ## Tenement System
 
