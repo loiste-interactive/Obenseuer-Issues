@@ -1,5 +1,8 @@
 # Upcoming
 
+* Fixed difficulty setting not saving correctly (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
+* Fixed some crafting stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
+
 # March 14th 2024 (Version 0.3.35)
 
 * Added difficulty settings
