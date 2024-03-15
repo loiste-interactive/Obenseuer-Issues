@@ -5,6 +5,7 @@
 
 ## Tenement System
 
+* Fixed not being able to use the shabby bathroom shower (issue [#1897](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1897))
 * Fixed wine rack bottles remaining in the furniture store UI if the game was saved when the wine rack was last selected (issue [#1896](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1896))
 
 ## Furniture
