@@ -3,6 +3,10 @@
 * Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
 * Fixed some crafting stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
 
+## Tenement System
+
+* Fixed wine rack bottles remaining in the furniture store UI if the game was saved when the wine rack was last selected (issue [#1896](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1896))
+
 ## Furniture
 
 * Fixed Open Sewer poster name (issue [#1895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1895))
