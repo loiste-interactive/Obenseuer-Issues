@@ -1,7 +1,11 @@
 # Upcoming
 
-* Fixed difficulty setting not saving correctly (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
+* Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
 * Fixed some crafting stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
+
+## Furniture
+
+* Fixed Open Sewer poster name (issue [#1895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1895))
 
 # March 14th 2024 (Version 0.3.35)
 
