@@ -2,6 +2,10 @@
 
 * Fixed survive 7/30/365 days achievements not triggering
 
+## Recipes
+
+* Fixed cider yield
+
 # March 15th 2024 (Version 0.3.36)
 
 * Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
