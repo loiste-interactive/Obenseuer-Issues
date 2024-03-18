@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed survive 7/30/365 days achievements not triggering
+* Fixed broken sauna (issue [#1906](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1906))
 
 ## Recipes
 
