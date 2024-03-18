@@ -4,6 +4,7 @@
 * Fixed broken sauna (issue [#1906](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1906))
 * Fixed bucket toilets buckets not filling with products made by player
 * Fixed non sellable items dissappearing when trying to sell them
+* Fixed not being able to move items when using keyboard or controller
 
 ## Recipes
 
