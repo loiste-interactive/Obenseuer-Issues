@@ -11,6 +11,10 @@
 * Changed the plastic filament not to be stackable
 * Changed the coffee packages not to be stackable
 
+## Tenement System
+
+* Added resident list to stairwell to display current residents
+
 ## Recipes
 
 * Fixed cider yield
