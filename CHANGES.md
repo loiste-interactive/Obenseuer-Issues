@@ -1,6 +1,6 @@
 # Upcoming
 
-# March 19th 2024 (Version 0.3.37)
+# March 19th 2024 (Version 0.3.37) - hotfix
 
 * Fixed survive 7/30/365 days achievements not triggering
 * Fixed broken sauna (issue [#1906](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1906))
@@ -21,7 +21,7 @@
 
 * Fixed cider yield
 
-# March 15th 2024 (Version 0.3.36)
+# March 15th 2024 (Version 0.3.36) - hotfix
 
 * Fixed difficulty setting not saving correctly from main menu (issue [#1902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1902))
 * Fixed some crafting/growing stations not showing recipes (issue [#1899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1899))
