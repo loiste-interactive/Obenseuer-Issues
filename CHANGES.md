@@ -6,6 +6,11 @@
 * Fixed non sellable items dissappearing when trying to sell them
 * Fixed not being able to move items when using keyboard or controller
 
+## Items
+
+* Changed the plastic filament not to be stackable
+* Changed the coffee packages not to be stackable
+
 ## Recipes
 
 * Fixed cider yield
