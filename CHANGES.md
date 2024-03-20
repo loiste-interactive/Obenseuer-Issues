@@ -14,6 +14,7 @@
 ## Kolhola
 
 * Added ability to ask which pod player rented (issue [#1111](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1111))
+* Added dialogue if all pods are rented (issue [#1122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1122))
 
 # March 19th 2024 (Version 0.3.37) - hotfix
 
