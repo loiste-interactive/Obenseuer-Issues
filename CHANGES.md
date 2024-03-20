@@ -3,6 +3,10 @@
 * Fixed betel palm trees giving tomato seeds (issue [#1914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1914))
 * Fixed crafting stations visual state not updating when power status is changed (issue [#1913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1913))
 
+## Items
+
+* Fixed eating canned foods not giving you an empty can
+
 ## Deekula A
 
 * Changed Dr. Pena MD model
