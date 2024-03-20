@@ -11,6 +11,10 @@
 
 * Fixed storage stove being a ball grill (issue [#1912](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1912))
 
+## Kolhola
+
+* Added ability to ask which pod player rented (issue [#1111](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1111))
+
 # March 19th 2024 (Version 0.3.37) - hotfix
 
 * Fixed survive 7/30/365 days achievements not triggering
