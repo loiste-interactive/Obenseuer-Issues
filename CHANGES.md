@@ -2,6 +2,10 @@
 
 * Fixed betel palm trees giving tomato seeds (issue [#1914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1914))
 
+## Deekula C
+
+* Fixed storage stove being a ball grill (issue [#1912](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1912))
+
 # March 19th 2024 (Version 0.3.37) - hotfix
 
 * Fixed survive 7/30/365 days achievements not triggering
