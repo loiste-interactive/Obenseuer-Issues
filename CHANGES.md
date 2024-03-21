@@ -10,6 +10,7 @@
 
 ## Tenement System
 
+* Fixed cleaning status not always updating correctly
 * Fixed missing toilet in fine basement sauna upgrade
 
 ## Deekula A
