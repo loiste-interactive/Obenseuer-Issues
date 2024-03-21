@@ -7,6 +7,10 @@
 
 * Fixed eating canned foods not giving you an empty can
 
+## Tenement System
+
+* Fixed missing toilet in fine basement sauna upgrade
+
 ## Deekula A
 
 * Changed Dr. Pena MD model
