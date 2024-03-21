@@ -1,8 +1,10 @@
 # Upcoming
 
-* Fixed betel palm trees giving tomato seeds (issue [#1914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1914))
+# March 21st 2024 (Version 0.3.38) - hotfix
+
 * Fixed crafting stations visual state not updating when power status is changed (issue [#1913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1913))
 * Fixed the backpack being usable after being taken while sleeping (issue [#1917](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1917))
+* Fixed betel palm trees giving tomato seeds (issue [#1914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1914))
 
 ## Items
 
