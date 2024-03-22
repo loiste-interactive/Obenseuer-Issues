@@ -10,6 +10,10 @@
 
 * Fixed not being able to turn off the candle bowl (issue [#1918](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1918))
 
+## Kolhola
+
+* Fixed Hall Kääbus reappearing in the hostel after moving into the tenement (issue [#1922](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1922))
+
 # March 21st 2024 (Version 0.3.38) - hotfix
 
 * Fixed crafting stations visual state not updating when power status is changed (issue [#1913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1913))
