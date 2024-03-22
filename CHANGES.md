@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed redundant Fenella Hunt dialogue (issue [#1920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1920))
+
 # March 21st 2024 (Version 0.3.38) - hotfix
 
 * Fixed crafting stations visual state not updating when power status is changed (issue [#1913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1913))
