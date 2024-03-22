@@ -2,6 +2,10 @@
 
 * Fixed redundant Fenella Hunt dialogue (issue [#1920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1920))
 
+## Tenement System
+
+* Fixed fine walls player tenement door not closing automatically (issue [#1921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1921))
+
 ## Furniture
 
 * Fixed not being able to turn off the candle bowl (issue [#1918](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1918))
