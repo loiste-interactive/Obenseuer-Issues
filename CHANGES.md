@@ -6,6 +6,7 @@
 ## Items
 
 * Added lighter
+* Balanced soup crafting times and difficulty
 
 ## Tenement System
 
