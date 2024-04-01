@@ -7,6 +7,7 @@
 
 * Added lighter
 * Balanced soup crafting times and difficulty
+* Fixed homemade wheat flour dropping homemade rye flour
 
 ## Tenement System
 
