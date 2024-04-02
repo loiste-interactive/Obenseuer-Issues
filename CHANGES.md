@@ -1,5 +1,9 @@
 # Upcoming
 
+* Added ability to open backpacks when they are on the ground
+* Changed backpacks to have own inventory instead of global inventory
+* Changed backpacks to be able to moved to the inventory only if they are empty
+* Changed backpacks to count as part of the player's inventory
 * Fixed empty liquid containers sometimes breaking the dishwasher
 * Fixed redundant Fenella Hunt dialogue (issue [#1920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1920))
 
