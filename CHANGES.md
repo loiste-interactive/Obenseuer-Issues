@@ -6,6 +6,7 @@
 * Changed backpacks to count as part of the player's inventory
 * Fixed empty liquid containers sometimes breaking the dishwasher
 * Fixed redundant Fenella Hunt dialogue (issue [#1920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1920))
+* Fixed fuel slots not always working (issue [#882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/882))
 
 ## Items
 
