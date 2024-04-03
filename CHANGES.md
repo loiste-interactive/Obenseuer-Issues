@@ -17,6 +17,7 @@
 ## Tenement System
 
 * Fixed fine walls player tenement door not closing automatically (issue [#1921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1921))
+* Fixed decent stairwell resident list placement (issue [#1928](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1928))
 
 ## Furniture
 
