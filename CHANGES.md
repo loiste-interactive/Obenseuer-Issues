@@ -12,6 +12,7 @@
 
 * Added lighter
 * Balanced soup crafting times and difficulty
+* Changed empty milk carton icon (issue [#1927](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1927))
 * Fixed homemade wheat flour dropping homemade rye flour
 
 ## Tenement System
