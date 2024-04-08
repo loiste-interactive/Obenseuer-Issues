@@ -1,5 +1,6 @@
 # Upcoming
 
+* Smoking addiction & smoking need now modulates mental health change speed.
 * Added ability to open backpacks when they are on the ground
 * Changed backpacks to have own inventory instead of global inventory
 * Changed backpacks to be able to moved to the inventory only if they are empty
