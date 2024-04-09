@@ -21,6 +21,7 @@
 
 * Fixed fine walls player tenement door not closing automatically (issue [#1921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1921))
 * Fixed decent stairwell resident list placement (issue [#1928](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1928))
+* Fixed decent player apartment walls window visual gap (issue [#1933](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1933))
 
 ## Furniture
 
