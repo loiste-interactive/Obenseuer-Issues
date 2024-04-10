@@ -12,6 +12,8 @@
 ## Items
 
 * Added lighter
+* Added cigar
+* Added pack of cigars
 * Balanced soup crafting times and difficulty
 * Changed empty milk carton icon (issue [#1927](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1927))
 * Changed electronic waste icon and model (issue [#1926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1926))
