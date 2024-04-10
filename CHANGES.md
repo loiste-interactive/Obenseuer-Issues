@@ -29,6 +29,7 @@
 * Added Bathroom Glass
 * Added Bathroom Cup
 * Added Plunger
+* Added Lattemaster Coffeemaker
 * Fixed not being able to turn off the candle bowl (issue [#1918](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1918))
 * Fixed Stolland clock placement issue (issue [#1924](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1924))
 
