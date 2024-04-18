@@ -1,5 +1,8 @@
 # Upcoming
 
+* Added Open Sewer Metro (Playtest)
+* Added Interior City Gates (Playtest)
+* Added Interior Bazaar Bank (Playtest)
 * Smoking addiction & smoking need now modulates mental health change speed.
 * Added ability to open backpacks when they are on the ground
 * Changed backpacks to have own inventory instead of global inventory
