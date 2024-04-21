@@ -28,7 +28,7 @@
 
 ## Recipes
 
-* Added High purity gold bar
+* Added high purity gold bar
 * Added gold extraction (chemical lab)
 
 ## Tenement System
