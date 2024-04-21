@@ -14,6 +14,7 @@
 
 ## Items
 
+* Added gold nugget (high purity)
 * Added mercury
 * Added sulphuric acid
 * Added lighter
