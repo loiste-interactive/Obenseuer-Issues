@@ -14,6 +14,7 @@
 
 ## Items
 
+* Added mercury
 * Added sulphuric acid
 * Added lighter
 * Added cigar
