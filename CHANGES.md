@@ -14,6 +14,7 @@
 
 ## Items
 
+* Added sulphuric acid
 * Added lighter
 * Added cigar
 * Added pack of cigars
