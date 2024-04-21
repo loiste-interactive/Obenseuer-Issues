@@ -26,6 +26,8 @@
 * Changed electronic waste icon and model (issue [#1926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1926))
 * Fixed homemade wheat flour dropping homemade rye flour
 
+## Recipes
+
 ## Tenement System
 
 * Fixed fine walls player tenement door not closing automatically (issue [#1921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1921))
