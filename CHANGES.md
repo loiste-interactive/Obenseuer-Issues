@@ -16,6 +16,10 @@
 * Added small glass bottle (0.5L)
 * Removed slag being burnable
 
+## Furniture
+
+* Fixed flat screen TV price
+
 # April 23st 2024 (Version 0.3.39) - Playtest
 
 * Added Open Sewer Metro (Playtest)
