@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
+
 # April 23st 2024 (Version 0.3.39) - Playtest
 
 * Added Open Sewer Metro (Playtest)
