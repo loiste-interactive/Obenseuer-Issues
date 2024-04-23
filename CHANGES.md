@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed wrong verb used in sauna tip (issue [#1936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1936))
+* Fixed a single open sewer coin title (issue [#1935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1935))
 
 ## Tenement System
 
