@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added small glass bottle (0.5L)
 * Removed slag being burnable
 
 # April 23st 2024 (Version 0.3.39) - Playtest
