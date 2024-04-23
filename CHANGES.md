@@ -1,5 +1,7 @@
 # Upcoming
 
+# April 23st 2024 (Version 0.3.39) - Playtest
+
 * Added Open Sewer Metro (Playtest)
 * Added Interior City Gates (Playtest)
 * Added Interior Bazaar Bank (Playtest)
