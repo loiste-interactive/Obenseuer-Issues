@@ -11,6 +11,10 @@
 
 * Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
 
+## Items
+
+* Removed slag being burnable
+
 # April 23st 2024 (Version 0.3.39) - Playtest
 
 * Added Open Sewer Metro (Playtest)
