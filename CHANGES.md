@@ -7,6 +7,10 @@
 
 * Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
 
+## Outside
+
+* Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942)) (Playtest)
+
 ## Tenement B
 
 * Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
