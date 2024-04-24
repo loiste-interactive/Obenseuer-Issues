@@ -37,6 +37,7 @@
 
 ## Furniture
 
+* Added 3D printer
 * Fixed flat screen TV price
 
 # April 23st 2024 (Version 0.3.39) - Playtest
