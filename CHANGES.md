@@ -10,6 +10,7 @@
 ## Metro
 
 * Fixed being able to get stuck to the elevator shaft (issue [#1940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1940)) (Playtest)
+* Fixed the exit doors clipping through a black plane (issue [#1941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1941)) (Playtest)
 
 ## Kolhola
 
