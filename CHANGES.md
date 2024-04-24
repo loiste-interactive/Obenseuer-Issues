@@ -7,6 +7,10 @@
 
 * Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
 
+## Metro
+
+* Fixed being able to get stuck to the elevator shaft (issue [#1940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1940)) (Playtest)
+
 ## Kolhola
 
 * Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
