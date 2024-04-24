@@ -9,7 +9,7 @@
 
 ## Outside
 
-* Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942)) (Playtest)
+* Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942))
 
 ## Tenement B
 
