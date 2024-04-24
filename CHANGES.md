@@ -15,6 +15,10 @@
 
 * Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
 
+## City Gates
+
+* Fixed player getting stuck on rocks (issue [#1943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1943)) (Playtest)
+
 ## Metro
 
 * Fixed being able to get stuck to the elevator shaft (issue [#1940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1940)) (Playtest)
