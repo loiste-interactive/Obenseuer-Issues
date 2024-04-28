@@ -36,10 +36,15 @@
 * Fixed leek food and quality values (issue [#1952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1952))
 * Removed slag being burnable
 
+## Recipes
+
+* Added cold extraction to electronic parts and computer parts
+
 ## Furniture
 
 * Added 3D printer
 * Fixed flat screen TV price
+
 
 # April 23st 2024 (Version 0.3.39) - Playtest
 
