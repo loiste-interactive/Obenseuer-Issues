@@ -39,6 +39,7 @@
 ## Recipes
 
 * Added gold extraction to electronic parts and computer parts
+* Fixed gold extraction recipes
 
 ## Furniture
 
