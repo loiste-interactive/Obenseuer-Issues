@@ -38,7 +38,7 @@
 
 ## Recipes
 
-* Added cold extraction to electronic parts and computer parts
+* Added gold extraction to electronic parts and computer parts
 
 ## Furniture
 
