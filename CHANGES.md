@@ -47,7 +47,7 @@
 
 * Added 3D printer
 * Fixed flat screen TV price
-* Jonasson now sells gas bottle (furniture)
+* Jonasson now sells gas bottles (furniture)
 
 ## Blueprints
 
