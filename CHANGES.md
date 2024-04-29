@@ -48,6 +48,7 @@
 * Added 3D printer
 * Fixed flat screen TV price
 * Jonasson now sells gas bottles (furniture)
+* Water cooler bottle is now obtainable
 
 ## Blueprints
 
