@@ -6,6 +6,8 @@
 
 ## Tenement System
 
+* Added Ceiling Lamp Chain Blueprint
+* Added Metal Chain Blueprint
 * Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
 
 ## Outside
