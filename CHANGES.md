@@ -48,6 +48,10 @@
 * Added 3D printer
 * Fixed flat screen TV price
 
+## Blueprints
+
+* Added moonshine distillery blueprint
+
 
 # April 23st 2024 (Version 0.3.39) - Playtest
 
