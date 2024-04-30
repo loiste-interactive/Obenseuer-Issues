@@ -6,6 +6,7 @@
 
 ## Tenement System
 
+* Added industrial sign blueprint
 * Added moonshine distillery blueprint
 * Added Ceiling Lamp Chain Blueprint
 * Added Metal Chain Blueprint
