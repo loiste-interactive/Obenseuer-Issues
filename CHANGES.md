@@ -6,6 +6,7 @@
 
 ## Tenement System
 
+* Added moonshine distillery blueprint
 * Added Ceiling Lamp Chain Blueprint
 * Added Metal Chain Blueprint
 * Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
@@ -49,10 +50,6 @@
 * Fixed flat screen TV price
 * Jonasson now sells gas bottles (furniture)
 * Water cooler bottle is now obtainable
-
-## Blueprints
-
-* Added moonshine distillery blueprint
 
 
 # April 23st 2024 (Version 0.3.39) - Playtest
