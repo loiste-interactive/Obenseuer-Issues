@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added cat
 * Added chick
 * Added chicken
 * Fixed wrong verb used in sauna tip (issue [#1936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1936))
