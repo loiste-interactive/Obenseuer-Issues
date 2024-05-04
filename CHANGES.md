@@ -48,6 +48,7 @@
 
 ## Recipes
 
+* Added empty plastic container
 * Added gold extraction to electronic parts and computer parts
 * Fixed gold extraction recipes
 * Fixed coffee not having skill assigned
