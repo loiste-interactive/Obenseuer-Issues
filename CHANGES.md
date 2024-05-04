@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added engineering skill achievement
 * Added cat
 * Added chick
 * Added chicken
