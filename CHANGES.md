@@ -54,6 +54,7 @@
 
 ## Recipes
 
+* Added teddy bear
 * Added oven cloth
 * Added aluminum recycling
 * Added empty plastic container
