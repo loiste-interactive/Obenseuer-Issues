@@ -41,6 +41,7 @@
 
 ## Items
 
+* Added electric components
 * Added copper bar
 * Added aluminum bar
 * Added small glass bottle (0.5L)
