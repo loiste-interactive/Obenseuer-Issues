@@ -42,6 +42,7 @@
 
 ## Items
 
+* Added feathers
 * Added electric components
 * Added copper bar
 * Added aluminum bar
