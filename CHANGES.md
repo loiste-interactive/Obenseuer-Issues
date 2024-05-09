@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added sewing
 * Added engineering skill achievement
 * Added cat
 * Added chick
