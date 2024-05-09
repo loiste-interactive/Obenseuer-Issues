@@ -41,6 +41,7 @@
 
 ## Items
 
+* Added aluminum bar
 * Added small glass bottle (0.5L)
 * Sulphuric acid is now drinkable
 * Mercury is now drinkable
