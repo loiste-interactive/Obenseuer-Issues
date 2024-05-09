@@ -53,6 +53,7 @@
 
 ## Recipes
 
+* Added oven cloth
 * Added aluminum recycling
 * Added empty plastic container
 * Added gold extraction to electronic parts and computer parts
