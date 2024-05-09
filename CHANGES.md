@@ -51,6 +51,7 @@
 * Mercury is now drinkable
 * Fixed leek food and quality values (issue [#1952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1952))
 * Removed slag being burnable
+* Renamed wire -> cable
 
 ## Recipes
 
