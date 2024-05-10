@@ -67,6 +67,8 @@
 ## Furniture
 
 * Added sewing machine
+* Added chicken coops
+* Added cat cages
 * Added editable label
 * Added editable sign
 * Added 3D printer
