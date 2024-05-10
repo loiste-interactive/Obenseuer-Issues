@@ -66,6 +66,7 @@
 
 ## Furniture
 
+* Added sewing machine
 * Added editable label
 * Added editable sign
 * Added 3D printer
