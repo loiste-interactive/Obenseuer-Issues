@@ -43,6 +43,7 @@
 
 ## Items
 
+* Added copper wire
 * Added tin wire
 * Added thread
 * Added feathers
