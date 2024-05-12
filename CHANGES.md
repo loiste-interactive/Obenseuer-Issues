@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added electronics workbench
 * Added sewing
 * Added engineering skill achievement
 * Added cat
@@ -42,6 +43,7 @@
 
 ## Items
 
+* Added tin wire
 * Added thread
 * Added feathers
 * Added electric components
