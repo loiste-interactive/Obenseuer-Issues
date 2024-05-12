@@ -43,6 +43,7 @@
 
 ## Items
 
+* Added plastic parts
 * Added copper wire
 * Added tin wire
 * Added thread
@@ -59,6 +60,7 @@
 
 ## Recipes
 
+* Added plastic parts
 * Added teddy bear
 * Added oven cloth
 * Added aluminum recycling
