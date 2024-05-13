@@ -61,6 +61,7 @@
 
 ## Recipes
 
+* Added electronic parts
 * Added plastic parts
 * Added teddy bear
 * Added oven cloth
