@@ -39,6 +39,8 @@
 
 ## Kolhola
 
+* Added functioning dishwashers
+* Added electronics station
 * Fixed A7 item ownership
 * Fixed A13 balcony door
 * Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
