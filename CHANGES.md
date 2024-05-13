@@ -78,6 +78,7 @@
 
 ## Furniture
 
+* Added electronics station
 * Added sewing machine
 * Added chicken coops
 * Added cat cages
