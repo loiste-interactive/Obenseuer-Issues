@@ -25,6 +25,10 @@
 * Added lootable bird nests
 * Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942))
 
+## O-Market
+
+* O-Market now sells rice
+
 ## Tenement B
 
 * Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
