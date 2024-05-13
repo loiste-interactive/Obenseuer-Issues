@@ -39,6 +39,7 @@
 
 ## Kolhola
 
+* Fixed A13 balcony door
 * Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
 * Fixed subtitle showing Mirjam Freighter instead of Eliana Passmore (issue [#1939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1939)) (Playtest)
 
