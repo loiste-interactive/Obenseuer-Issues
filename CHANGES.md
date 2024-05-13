@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added electronics skill
 * Added electronics workbench
 * Added sewing
 * Added engineering skill achievement
