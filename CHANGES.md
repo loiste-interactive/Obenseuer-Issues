@@ -53,6 +53,7 @@
 
 ## Items
 
+* Added Lifehack-Pekka magazine
 * Added plastic parts
 * Added copper wire
 * Added tin wire
