@@ -95,6 +95,7 @@
 * Added editable sign
 * Added 3D printer
 * Fixed flat screen TV price
+* Jonasson now sells table saw
 * Jonasson now sells gas bottles (furniture)
 * Water cooler bottle is now obtainable
 
