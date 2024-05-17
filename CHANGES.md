@@ -87,6 +87,7 @@
 
 ## Furniture
 
+* Added firewood pile
 * Added electronics station
 * Added sewing machine
 * Added chicken coops
