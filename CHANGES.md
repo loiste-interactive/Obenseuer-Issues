@@ -98,6 +98,7 @@
 * Jonasson now sells table saw
 * Jonasson now sells gas bottles (furniture)
 * Water cooler bottle is now obtainable
+* Potato sack is now obtainable
 
 
 # April 23st 2024 (Version 0.3.39) - Playtest
