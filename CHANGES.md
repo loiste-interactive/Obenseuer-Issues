@@ -57,6 +57,7 @@
 
 ## Items
 
+* Added Open Sewer magazine
 * Added Lifehack-Pekka magazine
 * Added plastic parts
 * Added copper wire
