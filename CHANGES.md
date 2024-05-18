@@ -9,6 +9,7 @@
 * Added chick
 * Added chicken
 * Lifehack-Pekka now comes as an item what gives recipes upon usage
+* Reading Open-Sewer magazine gives small amount of random skill.
 * Fixed wrong verb used in sauna tip (issue [#1936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1936))
 * Fixed a single open sewer coin title (issue [#1935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1935))
 * Fixed vending machines missing glow
