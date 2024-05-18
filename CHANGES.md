@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added more recipe spawners with wider range of recipes to spawn
 * Added electronics skill
 * Added electronics workbench
 * Added sewing
