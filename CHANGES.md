@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added possibility to subscribe to Open Sewer magazine
 * Added more recipe spawners with wider range of recipes to spawn
 * Added electronics skill
 * Added electronics workbench
