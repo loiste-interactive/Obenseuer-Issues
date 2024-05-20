@@ -60,6 +60,7 @@
 
 ## Items
 
+* Added Stalburg Times
 * Added Open Sewer magazine
 * Added Lifehack-Pekka magazine
 * Added plastic parts
