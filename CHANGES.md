@@ -37,6 +37,7 @@
 
 * O-Market now sells daily newspapers
 * O-Market now sells rice
+* Changed layout
 
 ## Tenement B
 
