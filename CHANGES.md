@@ -34,7 +34,7 @@
 
 ## O-Market
 
-* O-Market now sells daily newspaper
+* O-Market now sells daily newspapers
 * O-Market now sells rice
 
 ## Tenement B
@@ -61,6 +61,7 @@
 
 ## Items
 
+* Added Evening Tidings Newspaper
 * Added Stalburg Times
 * Added Open Sewer magazine
 * Added Lifehack-Pekka magazine
