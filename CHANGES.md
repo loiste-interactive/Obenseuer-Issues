@@ -80,6 +80,7 @@
 
 ## Recipes
 
+* Added facemask
 * Added wiring components
 * Added electronic parts
 * Added plastic parts
