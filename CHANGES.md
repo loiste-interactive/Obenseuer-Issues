@@ -10,6 +10,7 @@
 * Added cat
 * Added chick
 * Added chicken
+* Magazines and newspapers can be used to skil time
 * Lifehack-Pekka now comes as an item what gives recipes upon usage
 * Reading Open-Sewer magazine gives small amount of random skill.
 * Fixed wrong verb used in sauna tip (issue [#1936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1936))
