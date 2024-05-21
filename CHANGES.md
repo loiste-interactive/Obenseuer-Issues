@@ -18,6 +18,7 @@
 * Fixed vending machines missing glow
 * Fixed Walt Bondar using wrong dialogue (issue [#2007](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2007))
 * Fixed uprooting a dead plant typo (issue [#2004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2004))
+* Fixed closing the backpack closing the entire UI while recycling bottles (issue [#1998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1998))
 
 ## Tenement System
 
