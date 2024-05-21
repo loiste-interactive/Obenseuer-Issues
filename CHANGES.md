@@ -19,6 +19,7 @@
 * Fixed Walt Bondar using wrong dialogue (issue [#2007](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2007))
 * Fixed uprooting a dead plant typo (issue [#2004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2004))
 * Fixed closing the backpack closing the entire UI while recycling bottles (issue [#1998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1998))
+* Fixed the prison deleting backpack and its contents (issue [#1960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1960))
 
 ## Tenement System
 
