@@ -81,6 +81,7 @@
 * Added copper bar
 * Added aluminum bar
 * Added small glass bottle (0.5L)
+* Added description to tin cans to say they are made out of steel (issue [#2022](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2022))
 * Changed dirty bandages to lower player hygiene (issue [#2020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2020))
 * Sulphuric acid is now drinkable
 * Mercury is now drinkable
