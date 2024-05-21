@@ -96,6 +96,7 @@
 ## Bazaar Bank
 
 * Fixed save/loading making the cameras go crazy (issue [#1961](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1961))
+* Fixed not being able to disable Bank's security if alarm is not on (issue [#1962](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1962))
 
 ## O-Market
 
