@@ -34,39 +34,6 @@
 * Fixed shabby courtyard dumpster clipping (issue [#1938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1938))
 * Fixed Ilona Pettinen dialogue (issue [#1990](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1990))
 
-## Outside
-
-* Added lootable bird nests
-* Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942))
-
-## O-Market
-
-* O-Market now sells daily newspapers
-* O-Market now sells rice
-* Changed layout
-
-## Tenement B
-
-* Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
-
-## City Gates
-
-* Fixed player getting stuck on rocks (issue [#1943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1943)) (Playtest)
-
-## Metro
-
-* Fixed being able to get stuck to the elevator shaft (issue [#1940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1940)) (Playtest)
-* Fixed the exit doors clipping through a black plane (issue [#1941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1941)) (Playtest)
-
-## Kolhola
-
-* Added functioning dishwashers
-* Added electronics station
-* Fixed A7 item ownership
-* Fixed A13 balcony door
-* Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
-* Fixed subtitle showing Mirjam Freighter instead of Eliana Passmore (issue [#1939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1939)) (Playtest)
-
 ## Items
 
 * Added Evening Tidings Newspaper
@@ -121,6 +88,42 @@
 * Water cooler bottle is now obtainable
 * Potato sack is now obtainable
 
+## Outside
+
+* Added lootable bird nests
+* Fixed the Deekula B police tape not being removed (issue [#1942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1942))
+
+## Bazaar Bank
+
+* Fixed save/loading making the cameras go crazy (issue [#1961](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1961))
+
+## O-Market
+
+* O-Market now sells daily newspapers
+* O-Market now sells rice
+* Changed layout
+
+## Tenement B
+
+* Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
+
+## City Gates
+
+* Fixed player getting stuck on rocks (issue [#1943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1943)) (Playtest)
+
+## Metro
+
+* Fixed being able to get stuck to the elevator shaft (issue [#1940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1940)) (Playtest)
+* Fixed the exit doors clipping through a black plane (issue [#1941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1941)) (Playtest)
+
+## Kolhola
+
+* Added functioning dishwashers
+* Added electronics station
+* Fixed A7 item ownership
+* Fixed A13 balcony door
+* Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
+* Fixed subtitle showing Mirjam Freighter instead of Eliana Passmore (issue [#1939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1939)) (Playtest)
 
 # April 23st 2024 (Version 0.3.39) - Playtest
 
