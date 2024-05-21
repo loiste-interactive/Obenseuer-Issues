@@ -22,6 +22,7 @@
 * Fixed the prison deleting backpack and its contents (issue [#1960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1960))
 * Fixed the open option not showing after trying to unequip backpack with items (issue [#1951](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1951))
 * Fixed small Dr. Pena MD typo (issue [#1971](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1971))
+* Fixed mashing kettle capacity showning incorrect value (issue [#1959](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1959))
 
 ## Tenement System
 
