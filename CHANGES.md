@@ -20,6 +20,7 @@
 * Fixed uprooting a dead plant typo (issue [#2004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2004))
 * Fixed closing the backpack closing the entire UI while recycling bottles (issue [#1998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1998))
 * Fixed the prison deleting backpack and its contents (issue [#1960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1960))
+* Fixed the open option not showing after trying to unequip backpack with items (issue [#1951](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1951))
 
 ## Tenement System
 
