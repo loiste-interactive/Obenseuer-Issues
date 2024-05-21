@@ -80,6 +80,7 @@
 * Added copper bar
 * Added aluminum bar
 * Added small glass bottle (0.5L)
+* Changed dirty bandages to lower player hygiene (issue [#2020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2020))
 * Sulphuric acid is now drinkable
 * Mercury is now drinkable
 * Fixed leek food and quality values (issue [#1952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1952))
