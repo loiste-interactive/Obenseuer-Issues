@@ -25,6 +25,7 @@
 * Fixed mashing kettle capacity showning incorrect value (issue [#1959](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1959))
 * Fixed vending machines immediately restocking (issue [#2000](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2000))
 * Fixed being able to drag multiple items at same time in inventory
+* Fixed liquid amount not being merged correctly sometimes
 
 ## Tenement System
 
