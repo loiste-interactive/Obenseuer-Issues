@@ -39,6 +39,7 @@
 
 ## Items
 
+* Added Mushroom Substitute Pills
 * Added Evening Tidings Newspaper
 * Added Stalburg Times
 * Added Open Sewer magazine
