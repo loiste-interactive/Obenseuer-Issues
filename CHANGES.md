@@ -98,6 +98,10 @@
 * Fixed save/loading making the cameras go crazy (issue [#1961](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1961))
 * Fixed not being able to disable Bank's security if alarm is not on (issue [#1962](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1962))
 
+## Deekula C
+
+* Fixed Deekula C door (issue [#1957](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1957)) (Playtest)
+
 ## O-Market
 
 * O-Market now sells daily newspapers
