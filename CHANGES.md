@@ -15,12 +15,12 @@
 * Reading Open-Sewer magazine gives small amount of random skill.
 * Fixed wrong verb used in sauna tip (issue [#1936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1936))
 * Fixed a single open sewer coin title (issue [#1935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1935))
-* Fixed vending machines missing glow
+* Fixed vending machines missing glow (Playtest)
 * Fixed Walt Bondar using wrong dialogue (issue [#2007](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2007))
 * Fixed uprooting a dead plant typo (issue [#2004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2004))
 * Fixed closing the backpack closing the entire UI while recycling bottles (issue [#1998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1998))
-* Fixed the prison deleting backpack and its contents (issue [#1960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1960))
-* Fixed the open option not showing after trying to unequip backpack with items (issue [#1951](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1951))
+* Fixed the prison deleting backpack and its contents (issue [#1960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1960)) (Playtest)
+* Fixed the open option not showing after trying to unequip backpack with items (issue [#1951](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1951)) (Playtest)
 * Fixed small Dr. Pena MD typo (issue [#1971](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1971))
 * Fixed mashing kettle capacity showning incorrect value (issue [#1959](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1959))
 
@@ -125,6 +125,7 @@
 * Fixed A13 balcony door
 * Fixed Sam Morton appearing as Colton (issue [#1937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1937))
 * Fixed subtitle showing Mirjam Freighter instead of Eliana Passmore (issue [#1939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1939)) (Playtest)
+* Fixed doorbell dialogue repeating after door is unlocked (issue [#1953](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1953)) (Playtest)
 
 # April 23st 2024 (Version 0.3.39) - Playtest
 
