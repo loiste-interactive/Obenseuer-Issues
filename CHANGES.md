@@ -118,6 +118,10 @@
 
 * Fixed being able to start the bank task again (issue [#1945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1945)) (Playtest)
 
+## Gatehouse
+
+* Player can now request medicine and shroom substitute from the guard
+
 ## City Gates
 
 * Fixed player getting stuck on rocks (issue [#1943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1943)) (Playtest)
