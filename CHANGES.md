@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added Tenement A (Playtest)
 * Added ability for Dr. Pena to check addiction levels
 * Added indicator to crafting stations to show if it is manually operated
 * Added possibility to subscribe to Open Sewer magazine
