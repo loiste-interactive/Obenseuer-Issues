@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 30th 2024 (Version 0.3.39 V2) - Playtest
+
 * Added Tenement A (Playtest)
 * Added ability for Dr. Pena to check addiction levels
 * Added indicator to crafting stations to show if it is manually operated
