@@ -16,6 +16,10 @@
 * Dynamite can now be detonated with an axe or sledgehammer
 * Fixed diesel having "Equip" button (issue [#2024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2024))
 
+## Player Tenement
+
+* Fixed npc navigation (issue [#2071](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2071))
+
 ## Outside
 
 * Added a rare thunderstorm
