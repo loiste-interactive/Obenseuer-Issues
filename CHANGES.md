@@ -20,6 +20,10 @@
 * Dynamite can now be detonated with an axe or sledgehammer
 * Fixed diesel having "Equip" button (issue [#2024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2024))
 
+## Intro
+
+* Fixed intro issues (issue [#2073](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2073))
+
 ## Player Tenement
 
 * Fixed npc navigation (issue [#2071](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2071))
