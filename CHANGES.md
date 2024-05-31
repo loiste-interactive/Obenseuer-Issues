@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added urination/defecation sounds slider (issue [#2050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2050))
 * Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
 
 ## Tenement System
