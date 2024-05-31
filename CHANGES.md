@@ -5,6 +5,7 @@
 ## Tenement A
 
 * Fixed Fredrik stealing player's money (issue [#2056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2056)) (Playtest)
+* Fixed player getting blocked on the last step of the Tenement A stairwell (issue [#2055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2055)) (Playtest)
 
 # May 30th 2024 (Version 0.3.39 V2) - Playtest
 
