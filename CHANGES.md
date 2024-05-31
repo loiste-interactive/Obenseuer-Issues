@@ -18,6 +18,7 @@
 
 * Added a rare thunderstorm
 * Changed start weather and time (issue [#2028](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2028))
+* Fixed Lönkkä Kurahaara not buying vegetables (issue [#1956](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1956))
 
 ## Tenement A
 
