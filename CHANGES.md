@@ -6,6 +6,10 @@
 * Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
 * Fixed player seeing breeding recipes in the cages not designated for them (issue [#2068](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2068)) (Playtest)
 
+## Tasks
+
+* Fixed not being able to give dynamite to Passmore (issue [#2072](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2072))
+
 ## Tenement System
 
 * Changed "RMB) Rotate object" to "RMB) Hold and move to rotate" (issue [#2041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2041))
