@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059))
+
 # May 30th 2024 (Version 0.3.39 V2) - Playtest
 
 * Added Tenement A (Playtest)
