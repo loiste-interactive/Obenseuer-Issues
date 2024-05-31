@@ -10,6 +10,7 @@
 
 ## Items
 
+* Dynamite can now be detonated with an axe or sledgehammer
 * Fixed diesel having "Equip" button (issue [#2024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2024))
 
 ## Outside
