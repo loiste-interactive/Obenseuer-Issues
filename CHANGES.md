@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
 * Added urination/defecation sounds slider (issue [#2050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2050))
 * Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
 
