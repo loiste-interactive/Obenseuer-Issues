@@ -6,6 +6,7 @@
 
 ## Tenement System
 
+* Changed "RMB) Rotate object" to "RMB) Hold and move to rotate" (issue [#2041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2041))
 * Fixed makeshift courtyard stairs collision (issue [#2054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2054))
 
 ## Items
