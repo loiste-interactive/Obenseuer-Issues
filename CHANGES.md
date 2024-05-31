@@ -4,6 +4,7 @@
 * Added urination/defecation sounds slider (issue [#2050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2050))
 * Added cats to give scratches when catched if the cat is not tamed (issue [#2069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2069)) (Playtest)
 * Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
+* Fixed player seeing breeding recipes in the cages not designated for them (issue [#2068](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2068)) (Playtest)
 
 ## Tenement System
 
