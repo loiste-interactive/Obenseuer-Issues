@@ -1,6 +1,10 @@
 # Upcoming
 
-* Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059))
+* Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
+
+## Tenement A
+
+* Fixed Fredrik stealing player's money (issue [#2056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2056)) (Playtest)
 
 # May 30th 2024 (Version 0.3.39 V2) - Playtest
 
