@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 31st 2024 (Version 0.3.39 V3) - Playtest
+
 * Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
 * Added urination/defecation sounds slider (issue [#2050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2050))
 * Added cats to give scratches when catched if the cat is not tamed (issue [#2069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2069)) (Playtest)
