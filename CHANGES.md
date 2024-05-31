@@ -2,6 +2,10 @@
 
 * Fixed missing Interior City Gates (issue [#2059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2059)) (Playtest)
 
+## Tenement System
+
+* Fixed makeshift courtyard stairs collision (issue [#2054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2054))
+
 ## Tenement A
 
 * Fixed Fredrik stealing player's money (issue [#2056](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2056)) (Playtest)
