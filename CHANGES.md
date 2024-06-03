@@ -41,6 +41,7 @@
 * Fixed starting area being too dark (issue [#2082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2082)) (Playtest)
 * Fixed starting area collisions (issue [#2083](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2083)) (Playtest)
 * Fixed shelves in the Bank sending player flying in random direction (issue [#2093](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2093)) (Playtest)
+* Fixed missing sink UI image (issue [#2084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2084)) (Playtest)
 
 ## Tenement A
 
