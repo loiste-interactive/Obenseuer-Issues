@@ -36,6 +36,10 @@
 * Changed to be able to remove all character slots without needing to select an existing slot first (issue [#2148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2148))
 * Fixed 'remove slot' button being partially unclickable (issue [#2147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2147))
 
+## Bazaar Bank
+
+* Fixed shelves in the Bank sending player flying in random direction (issue [#2093](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2093)) (Playtest)
+
 ## Tenement A
 
 * Added lightable oil lamp to the room with recorder (issue [#2137](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2137)) (Playtest)
