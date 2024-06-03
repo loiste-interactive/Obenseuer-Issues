@@ -20,6 +20,7 @@
 
 ## Items
 
+* Added vanilla ice cream
 * Added boiled egg
 * Added rock item to Tenement Resource category (issue [#2140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2140))
 
@@ -65,6 +66,7 @@
 
 ## O-Market
 
+* O-Market now sells ice cream
 * Fixed hot dog weiner refigerator (issue [#2060](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2060))
 
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
