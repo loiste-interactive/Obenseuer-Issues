@@ -1,5 +1,13 @@
 # Upcoming
 
+## Items
+
+* Added boiled egg
+
+## Recipes
+
+* Added boiled egg
+
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
 
 * Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
