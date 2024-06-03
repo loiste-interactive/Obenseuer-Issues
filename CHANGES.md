@@ -19,6 +19,10 @@
 * Added boiled egg
 * Changed 3D printer recipe icons to usb icons (issue [#2129](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2129))
 
+## Furniture
+
+* Fixed new machinery having owned tags (issue [#2113](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2113)) (Playtest)
+
 ## Main Menu
 
 * Changed to be able to remove all character slots without needing to select an existing slot first (issue [#2148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2148))
