@@ -8,6 +8,10 @@
 
 * Added boiled egg
 
+## Main Menu
+
+* Fixed 'remove slot' button being partially unclickable (issue [#2147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2147))
+
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
 
 * Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
