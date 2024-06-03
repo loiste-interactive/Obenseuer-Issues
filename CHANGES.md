@@ -22,6 +22,7 @@
 
 * Added lightable oil lamp to the room with recorder (issue [#2137](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2137)) (Playtest)
 * Changed Fredrik's store to refridginated (issue [#2145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2145)) (Playtest)
+* Fixed several issues (issue [#2131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2131)) (Playtest)
 
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
 
