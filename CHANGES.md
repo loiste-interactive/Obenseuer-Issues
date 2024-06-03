@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed not being able to plant stacks correctly (issue [#2122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2122))
+* Fixed not being able to plant stacks correctly (issue [#2122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2122)) (Playtest)
 * Fixed hold to sprint and crouch pause menu issue (issue [#2130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2130))
 
 ## Tenement System
