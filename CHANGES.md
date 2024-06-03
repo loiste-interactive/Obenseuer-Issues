@@ -12,6 +12,10 @@
 * Fixed start tenement upgrades with samuel not appearing (issue [#2092](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2092)) (Playtest)
 * Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124)) (Playtest)
 
+## Tasks
+
+* Added "Tell passmore what you found" objective is not getting completed (issue [#2102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2102)) (Playtest)
+
 ## Items
 
 * Added boiled egg
