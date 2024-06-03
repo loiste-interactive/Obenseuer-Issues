@@ -13,6 +13,10 @@
 * Changed to be able to remove all character slots without needing to select an existing slot first (issue [#2148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2148))
 * Fixed 'remove slot' button being partially unclickable (issue [#2147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2147))
 
+## Tenement A
+
+* Changed Fredrik's store to refridginated (issue [#2145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2145)) (Playtest)
+
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
 
 * Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
