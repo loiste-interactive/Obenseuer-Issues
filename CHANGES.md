@@ -1,11 +1,12 @@
 # Upcoming
 
+* Fixed not being able to plant stacks correctly (issue [#2122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2122))
 * Fixed hold to sprint and crouch pause menu issue (issue [#2130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2130))
 
 ## Tenement System
 
 * Changed the tenement blueprint to show that the first apartment is player's (issue [#2139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2139))
-* Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124))
+* Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124)) (Playtest)
 
 ## Items
 
