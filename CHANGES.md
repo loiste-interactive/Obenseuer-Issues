@@ -4,6 +4,7 @@
 * Changed waiting text when working (issue [#2112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2112))
 * Fixed not being able to plant stacks correctly (issue [#2122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2122)) (Playtest)
 * Fixed hold to sprint and crouch pause menu issue (issue [#2130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2130))
+* Fixed green electrical model not having pixelization applied (issue [#2111](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2111))
 
 ## Tenement System
 
