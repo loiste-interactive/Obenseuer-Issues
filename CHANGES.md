@@ -9,6 +9,7 @@
 ## Tenement System
 
 * Changed the tenement blueprint to show that the first apartment is player's (issue [#2139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2139))
+* Fixed start tenement upgrades with samuel not appearing (issue [#2092](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2092)) (Playtest)
 * Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124)) (Playtest)
 
 ## Items
