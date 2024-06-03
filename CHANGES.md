@@ -55,6 +55,10 @@
 * Fixed several issues (issue [#2131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2131)) (Playtest)
 * Fixed something blocking player's movement on the green door (issue [#2117](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2117)) (Playtest)
 
+## Kolhola
+
+* Added catspawner to A14
+
 # May 31st 2024 (Version 0.3.39 V3) - Playtest
 
 * Added flies when player's hygiene is very low (issue [#2034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2034))
