@@ -55,6 +55,10 @@
 * Fixed several issues (issue [#2131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2131)) (Playtest)
 * Fixed something blocking player's movement on the green door (issue [#2117](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2117)) (Playtest)
 
+## Tenement B
+
+* Fixed tunnel missing details (issue [#2104](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2104))
+
 ## Kolhola
 
 * Added catspawner to A14
