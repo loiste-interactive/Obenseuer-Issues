@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Changed the tenement blueprint to show that the first apartment is player's (issue [#2139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2139))
+
 ## Items
 
 * Added boiled egg
