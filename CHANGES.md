@@ -16,6 +16,7 @@
 
 * Fixed "Tell passmore what you found" objective is not getting completed (issue [#2102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2102)) (Playtest)
 * Fixed "Get Dynamite for Passmore" objective is not getting completed (issue [#2079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2079)) (Playtest)
+* Fixed Passmore only giving 1 OC (issue [#2100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2100)) (Playtest)
 
 ## Items
 
