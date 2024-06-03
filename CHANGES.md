@@ -44,6 +44,7 @@
 * Fixed shelves in the Bank sending player flying in random direction (issue [#2093](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2093)) (Playtest)
 * Fixed missing sink UI image (issue [#2084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2084)) (Playtest)
 * Fixed blowing bank vault up setting off the alarm system even if the alarm was disarmed already (issue [#2091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2091)) (Playtest)
+* Fixed there's not being consequences for being in the bank after 3:00 (issue [#2101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2101)) (Playtest)
 
 ## Tenement A
 
