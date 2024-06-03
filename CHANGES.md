@@ -14,7 +14,8 @@
 
 ## Tasks
 
-* Added "Tell passmore what you found" objective is not getting completed (issue [#2102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2102)) (Playtest)
+* Fixed "Tell passmore what you found" objective is not getting completed (issue [#2102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2102)) (Playtest)
+* Fixed "Get Dynamite for Passmore" objective is not getting completed (issue [#2079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2079)) (Playtest)
 
 ## Items
 
