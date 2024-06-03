@@ -27,6 +27,7 @@
 ## Tenement A
 
 * Added lightable oil lamp to the room with recorder (issue [#2137](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2137)) (Playtest)
+* Added more detail to Osrat shadow cluster room (issue [#2116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2116)) (Playtest)
 * Changed Fredrik's store to refridginated (issue [#2145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2145)) (Playtest)
 * Fixed several issues (issue [#2131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2131)) (Playtest)
 * Fixed something blocking player's movement on the green door (issue [#2117](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2117)) (Playtest)
