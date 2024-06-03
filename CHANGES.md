@@ -3,6 +3,7 @@
 ## Items
 
 * Added boiled egg
+* Added rock item to Tenement Resource category (issue [#2140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2140))
 
 ## Recipes
 
