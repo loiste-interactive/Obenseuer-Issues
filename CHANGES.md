@@ -25,6 +25,7 @@
 * Added boiled egg
 * Added rock item to Tenement Resource category (issue [#2140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2140))
 * Fixed being able to stack fertile chicken eggs (issue [#2159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2159))
+* Fixed a fertile egg or chick not spawning fully grown item in the inventory (issue [#2157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2157))
 
 ## Recipes
 
