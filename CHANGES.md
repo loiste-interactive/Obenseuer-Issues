@@ -16,6 +16,7 @@
 * Fixed start tenement upgrades with samuel not appearing (issue [#2092](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2092)) (Playtest)
 * Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124)) (Playtest)
 * Fixed rotate object tooltip (issue [#2154](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2154)) (Playtest)
+* Fixed respawning money box (issue [#2125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2125)) (Playtest)
 
 ## Tasks
 
