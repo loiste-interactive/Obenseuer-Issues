@@ -8,6 +8,7 @@
 * Fixed green electrical model not having pixelization applied (issue [#2111](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2111))
 * Fixed being able to take ungrown cats and rats (issue [#2153](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2153)) (Playtest)
 * Fixed animal growing indicator not visually progressing (issue [#2155](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2155)) (Playtest)
+* Fixed crafting process not starting when using different types of water (issue [#1126](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1126))
 
 ## Tenement System
 
