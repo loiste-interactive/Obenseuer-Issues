@@ -34,6 +34,7 @@
 
 * Added boiled egg
 * Changed 3D printer recipe icons to usb icons (issue [#2129](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2129))
+* Fixed saline recipe (issue [#2149](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2149))
 
 ## Furniture
 
