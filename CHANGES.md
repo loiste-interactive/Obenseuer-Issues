@@ -1,5 +1,7 @@
 # Upcoming
 
+# June 4th 2024 (Version 0.3.39 V4) - Playtest
+
 * Changed cats' eyes to glow in the dark (issue [#2070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2070)) (Playtest)
 * Changed Osrat arrow to be illuminated in the dark (issue [#2130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2130))
 * Changed waiting text when working (issue [#2112](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2112))
