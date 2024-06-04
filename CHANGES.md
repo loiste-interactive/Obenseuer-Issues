@@ -42,8 +42,11 @@
 
 ## Furniture
 
+* Fixed esc not closing type mode (issue [#2057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2057)) (Playtest)
+* Fixed missing caret (issue [#2057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2057)) (Playtest)
 * Fixed new machinery having owned tags (issue [#2113](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2113)) (Playtest)
 * Fixed not being able to place the firewood storage (issue [#2094](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2094)) (Playtest)
+* Fixed build mode activating when editing signs (issue [#2120](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2120)) (Playtest)
 
 ## Main Menu
 
