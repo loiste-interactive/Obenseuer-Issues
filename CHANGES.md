@@ -6,12 +6,15 @@
 * Fixed not being able to plant stacks correctly (issue [#2122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2122)) (Playtest)
 * Fixed hold to sprint and crouch pause menu issue (issue [#2130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2130))
 * Fixed green electrical model not having pixelization applied (issue [#2111](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2111))
+* Fixed being able to take ungrown cats and rats (issue [#2153](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2153)) (Playtest)
+* Fixed animal growing indicator not visually progressing (issue [#2155](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2155)) (Playtest)
 
 ## Tenement System
 
 * Changed the tenement blueprint to show that the first apartment is player's (issue [#2139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2139))
 * Fixed start tenement upgrades with samuel not appearing (issue [#2092](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2092)) (Playtest)
 * Fixed missing rent dialogue (issue [#2124](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2124)) (Playtest)
+* Fixed rotate object tooltip (issue [#2154](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2154)) (Playtest)
 
 ## Tasks
 
