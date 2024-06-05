@@ -2,6 +2,11 @@
 
 * Fixed a typo in phone message (issue [#2193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2193))
 
+## Items
+
+* Fixed ice cream stats (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
+* Fixed grey backgrounds (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
+
 # June 4th 2024 (Version 0.3.39 V4) - Playtest
 
 * Changed cats' eyes to glow in the dark (issue [#2070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2070)) (Playtest)
