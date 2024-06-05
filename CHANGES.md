@@ -12,6 +12,10 @@
 
 * Fixed boiled egg recipes (issue [#2185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2185)) (Playtest)
 
+## Tenement A
+
+* Changed the Tenement A keycard to a regular item (issue [#2188](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2188)) (Playtest)
+
 # June 4th 2024 (Version 0.3.39 V4) - Playtest
 
 * Changed cats' eyes to glow in the dark (issue [#2070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2070)) (Playtest)
