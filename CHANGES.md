@@ -4,6 +4,10 @@
 * Fixed a typo in phone message (issue [#2193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2193))
 * Fixed wieldable items not remembring state after level transition (issue [#2191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2191)) (Playtest)
 
+## Main Menu
+
+* Improved background
+
 ## Items
 
 * Added bobby
