@@ -15,6 +15,8 @@
 ## Tenement A
 
 * Changed the Tenement A keycard to a regular item (issue [#2188](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2188)) (Playtest)
+* Changed resident list style (issue [#2171](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2171)) (Playtest)
+* Fixed resident list names not being rendered properly when viewed from smaller angles (issue [#2170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2170)) (Playtest)
 
 # June 4th 2024 (Version 0.3.39 V4) - Playtest
 
