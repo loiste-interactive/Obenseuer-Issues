@@ -1,11 +1,16 @@
 # Upcoming
 
 * Fixed a typo in phone message (issue [#2193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2193))
+* Fixed wieldable items not remembring state after level transition (issue [#2191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2191)) (Playtest)
 
 ## Items
 
 * Fixed ice cream stats (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
 * Fixed grey backgrounds (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
+
+## Recipes
+
+* Fixed boiled egg recipes (issue [#2185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2185)) (Playtest)
 
 # June 4th 2024 (Version 0.3.39 V4) - Playtest
 
