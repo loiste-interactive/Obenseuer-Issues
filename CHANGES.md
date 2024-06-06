@@ -33,6 +33,7 @@
 * Fixed the lamp at the bank entrance being turned on at start (issue [#2176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2176)) (Playtest)
 * Fixed blowing bank vault up setting off the alarm system even if the alarm was disarmed already (issue [#2174](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2174)) (Playtest)
 * Fixed the vault door auto closing when the player is inside the vault (issue [#2183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2183)) (Playtest)
+* Fixed the alarm disarm sound being too loud (issue [#2182](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2182)) (Playtest)
 
 ## Tenement A
 
