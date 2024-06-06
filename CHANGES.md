@@ -23,6 +23,10 @@
 
 * Fixed player kitchen having an owned cabinet (issue [#2206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2206))
 
+## Bazaar Bank
+
+* Changed some items and storages owners (issue [#2184](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2184)) (Playtest)
+
 ## Tenement A
 
 * Added cat trader
