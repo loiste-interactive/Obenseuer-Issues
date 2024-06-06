@@ -31,6 +31,7 @@
 * Fixed gas killing the player when hiding at the boss's house (issue [#2181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2181)) (Playtest)
 * Fixed some storages not spawning items (issue [#2178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2178)) (Playtest)
 * Fixed the lamp at the bank entrance being turned on at start (issue [#2176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2176)) (Playtest)
+* Fixed blowing bank vault up setting off the alarm system even if the alarm was disarmed already (issue [#2174](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2174)) (Playtest)
 
 ## Tenement A
 
