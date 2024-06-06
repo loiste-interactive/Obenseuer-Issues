@@ -25,7 +25,9 @@
 
 ## Bazaar Bank
 
+* Added a button to turn off the alarm inside the boss's house (issue [#2181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2181)) (Playtest)
 * Changed some items and storages owners (issue [#2184](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2184)) (Playtest)
+* Fixed gas killing the player when hiding at the boss's house (issue [#2181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2181)) (Playtest)
 
 ## Tenement A
 
