@@ -18,6 +18,10 @@
 
 * Fixed boiled egg recipes (issue [#2185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2185)) (Playtest)
 
+## Tenement System
+
+* Fixed player kitchen having an owned cabinet (issue [#2206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2206))
+
 ## Tenement A
 
 * Added cat trader
