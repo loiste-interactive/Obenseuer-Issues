@@ -25,6 +25,10 @@
 * Changed resident list style (issue [#2171](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2171)) (Playtest)
 * Fixed resident list names not being rendered properly when viewed from smaller angles (issue [#2170](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2170)) (Playtest)
 
+## Deekula B
+
+* Fixed not being able to use B3 toilet after the apartment is cleaned (issue [#2208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2208))
+
 # June 4th 2024 (Version 0.3.39 V4) - Playtest
 
 * Changed cats' eyes to glow in the dark (issue [#2070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2070)) (Playtest)
