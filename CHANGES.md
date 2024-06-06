@@ -3,6 +3,7 @@
 * Changed item use amount slot text location if item has perishable data (issue [#2169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2169))
 * Fixed a typo in phone message (issue [#2193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2193))
 * Fixed wieldable items not remembring state after level transition (issue [#2191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2191)) (Playtest)
+* Fixed not being able to interact with various objects around eye-level when dosimeter is equipped (issue [#2110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2110)) (Playtest)
 
 ## Main Menu
 
