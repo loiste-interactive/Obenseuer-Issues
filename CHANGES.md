@@ -17,6 +17,7 @@
 * Added canister skins
 * Added bobby
 * Changed diesel to be liquid
+* Jams and (homemade) canned foods now have mental health benefit
 * Fixed ice cream stats (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
 * Fixed grey backgrounds (issue [#2196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2196)) (Playtest)
 
