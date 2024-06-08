@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added fried egg
 * Added canister skins
 * Added bobby
 * Changed diesel to be liquid
@@ -21,6 +22,7 @@
 
 ## Recipes
 
+* Added fried egg
 * Fixed boiled egg recipes (issue [#2185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2185)) (Playtest)
 
 ## Tenement System
