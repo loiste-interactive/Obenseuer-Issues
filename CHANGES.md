@@ -33,6 +33,7 @@
 * Fixed respawning money box (issue [#2180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2180)) (Playtest)
 * Fixed bleach, disinfectant and cleaner not being used if they were stored in the backpack (issue [#2248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2248)) (Playtest)
 * Fixed sewing machines being owned (issue [#2244](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2244)) (Playtest)
+* Fixed picking up mail in buildmode causing the mail pile to stay (issue [#2249](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2249)) (Playtest)
 
 ## Bazaar Bank
 
