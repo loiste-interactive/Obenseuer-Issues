@@ -7,6 +7,7 @@
 * Fixed not being able to interact with various objects around eye-level when dosimeter is equipped (issue [#2110](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2110)) (Playtest)
 * Fixed being able to open some furniture from the wrong side (issue [#2014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2014))
 * Fixed both sides of the steel cabinet saying that they are the left side (issue [#2218](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2218))
+* Fixed icon does not always appearing when checking addiction with Dr. Pena MD (issue [#2227](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2227)) (Playtest)
 
 ## Main Menu
 
