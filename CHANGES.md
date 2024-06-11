@@ -43,6 +43,10 @@
 * Fixed the vault door auto closing when the player is inside the vault (issue [#2183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2183)) (Playtest)
 * Fixed the alarm disarm sound being too loud (issue [#2182](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2182)) (Playtest)
 
+## O-Market
+
+* Fixed "Stalburg Times" and "Evening Tidnings" showing estimate price (issue [#2250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2250)) (Playtest)
+
 ## Tenement A
 
 * Added cat trader
