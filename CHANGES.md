@@ -31,6 +31,7 @@
 
 * Fixed player kitchen having an owned cabinet (issue [#2206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2206))
 * Fixed respawning money box (issue [#2180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2180)) (Playtest)
+* Fixed bleach, disinfectant and cleaner not being used if they were stored in the backpack (issue [#2248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2248)) (Playtest)
 
 ## Bazaar Bank
 
