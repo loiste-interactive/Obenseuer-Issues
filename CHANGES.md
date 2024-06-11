@@ -27,6 +27,10 @@
 * Added fried egg
 * Fixed boiled egg recipes (issue [#2185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2185)) (Playtest)
 
+## Furniture
+
+* Fixed Moonshine distillery requiring barrel planters (issue [#2229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2229)) (Playtest)
+
 ## Tenement System
 
 * Fixed player kitchen having an owned cabinet (issue [#2206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2206))
