@@ -31,6 +31,7 @@
 ## Furniture
 
 * Fixed Moonshine distillery requiring barrel planters (issue [#2229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2229)) (Playtest)
+* Fixed furniture crafting UI not showing and using resources inside backpack (issue [#2258](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2258)) (Playtest)
 
 ## Tenement System
 
