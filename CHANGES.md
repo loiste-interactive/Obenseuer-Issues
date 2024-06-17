@@ -1,5 +1,6 @@
 # Upcoming
 
+* Right digit of rotary lock now makes slightly different sound.
 * Consuming stolen foods/drinks now have small mentalhealth debuff
 * Changed item use amount slot text location if item has perishable data (issue [#2169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2169))
 * Fixed a typo in phone message (issue [#2193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2193))
