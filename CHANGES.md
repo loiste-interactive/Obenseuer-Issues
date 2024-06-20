@@ -1,5 +1,10 @@
 # Upcoming
 
+## Items
+
+* Fixed boiled egg giving bleeding
+* Fixed diesel being tasty
+
 # June 20th 2024 (Version 0.3.39 V5) - Playtest
 
 * Added Makeshift House (House1)
