@@ -1,5 +1,7 @@
 # Upcoming
 
+# June 20th 2024 (Version 0.3.39 V5) - Playtest
+
 * Added Makeshift House (House1)
 * Added Small Storage (House4)
 * Right digit of rotary lock now makes slightly different sound.
