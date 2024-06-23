@@ -2,7 +2,7 @@
 
 ## Tenement A
 
-* Removed being able to lockpick elevator doors (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274))
+* Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274))
 
 ## Furniture
 
