@@ -4,6 +4,10 @@
 
 * Removed being able to lockpick elevator doors (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274))
 
+## Furniture
+
+* Fixed not being able to attach head lantern to ceiling chain
+
 ## Items
 
 * Fixed boiled egg giving bleeding
