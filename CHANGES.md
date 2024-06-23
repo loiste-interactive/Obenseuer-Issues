@@ -2,7 +2,7 @@
 
 ## Tenement A
 
-* Added tresspassing zones to cat breeders apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291))
+* Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291))
 * Added more storage space to Fredrik's fume cabinet (lab) (issue [#2268](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2268))
 * Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274))
 * Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299))
