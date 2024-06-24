@@ -37,6 +37,10 @@
 
 * Fixed Osrat spot being active when it shouldn't be (issue [#2304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2304)) (Playtest)
 
+## Small Storage (House4)
+
+* Added an item that must be picked up to proceed in "The disappearance of Alice" task (issue [#2301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2301)) (Playtest)
+
 # June 20th 2024 (Version 0.3.39 V5) - Playtest
 
 * Added Makeshift House (House1)
