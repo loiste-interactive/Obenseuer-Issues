@@ -14,6 +14,7 @@
 ## Items
 
 * Added Iron Ore Rock
+* Added Asbestos Rock
 * Fixed boiled egg giving bleeding
 * Fixed diesel being tasty
 
