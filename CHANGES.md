@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added Iron Ore Rock
 * Fixed boiled egg giving bleeding
 * Fixed diesel being tasty
 
