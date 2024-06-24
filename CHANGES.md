@@ -23,6 +23,7 @@
 
 ## Furniture
 
+* Added electronics workbench
 * Added a small drawer
 * Added leather scrap rug
 * Added leather scrap rug blueprint
