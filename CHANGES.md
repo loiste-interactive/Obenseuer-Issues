@@ -1,5 +1,8 @@
 # Upcoming
 
+* Changed several "The Disappearance of Alice" dialogs
+* Fixed "The Disappearance of Alice" typos (issue [#2298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2298)) (Playtest)
+
 ## Tenement A
 
 * Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291)) (Playtest)
