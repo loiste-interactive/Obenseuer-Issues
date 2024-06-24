@@ -38,6 +38,7 @@
 ## Makeshift House (House1)
 
 * Fixed Osrat spot being active when it shouldn't be (issue [#2304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2304)) (Playtest)
+* Fixed Crazy Neighbor not appearing if selected at start
 
 ## Small Storage (House4)
 
