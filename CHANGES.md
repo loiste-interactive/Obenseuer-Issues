@@ -6,6 +6,23 @@
 * Fixed not being able to report Hietala's and Alice's bodies (issue [#2293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2293)) (Playtest)
 * Fixed not being able to report Pia's body to the police (issue [#2292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2292)) (Playtest)
 
+## Recipes
+
+* Fixed water purify distillery recipes requiring containers (issue [#2285](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2285)) (Playtest)
+
+## Items
+
+* Added Gold Ore Rock
+* Added Iron Ore Rock
+* Added Asbestos Rock
+* Fixed boiled egg giving bleeding (Playtest)
+* Fixed diesel being tasty (Playtest)
+
+## Furniture
+
+* Fixed not being able to attach head lantern to ceiling chain (Playtest)
+* Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
+
 ## Tenement A
 
 * Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291)) (Playtest)
@@ -18,19 +35,6 @@
 ## Makeshift House (House1)
 
 * Fixed Osrat spot being active when it shouldn't be (issue [#2304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2304)) (Playtest)
-
-## Furniture
-
-* Fixed not being able to attach head lantern to ceiling chain (Playtest)
-* Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
-
-## Items
-
-* Added Gold Ore Rock
-* Added Iron Ore Rock
-* Added Asbestos Rock
-* Fixed boiled egg giving bleeding (Playtest)
-* Fixed diesel being tasty (Playtest)
 
 # June 20th 2024 (Version 0.3.39 V5) - Playtest
 
