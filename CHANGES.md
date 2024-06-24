@@ -14,6 +14,10 @@
 * Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299)) (Playtest)
 * Fixed not being able to ask Jonne Reis about Alice (issue [#2300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2300)) (Playtest)
 
+## Makeshift House (House1)
+
+* Fixed Osrat spot being active when it shouldn't be (issue [#2304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2304)) (Playtest)
+
 ## Furniture
 
 * Fixed not being able to attach head lantern to ceiling chain (Playtest)
