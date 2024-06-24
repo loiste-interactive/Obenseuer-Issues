@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
 * Fixed boiled egg giving bleeding
