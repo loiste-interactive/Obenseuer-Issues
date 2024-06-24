@@ -2,22 +2,23 @@
 
 ## Tenement A
 
-* Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291))
-* Added more storage space to Fredrik's fume cabinet (lab) (issue [#2268](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2268))
-* Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274))
-* Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299))
+* Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291)) (Playtest)
+* Added more storage space to Fredrik's fume cabinet (lab) (issue [#2268](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2268)) (Playtest)
+* Added more hints to Joel's apartment that someone else lives there (issue [#2307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2307)) (Playtest)
+* Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274)) (Playtest)
+* Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299)) (Playtest)
 
 ## Furniture
 
-* Fixed not being able to attach head lantern to ceiling chain
+* Fixed not being able to attach head lantern to ceiling chain (Playtest)
 
 ## Items
 
 * Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
-* Fixed boiled egg giving bleeding
-* Fixed diesel being tasty
+* Fixed boiled egg giving bleeding (Playtest)
+* Fixed diesel being tasty (Playtest)
 
 # June 20th 2024 (Version 0.3.39 V5) - Playtest
 
