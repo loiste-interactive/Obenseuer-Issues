@@ -6,6 +6,7 @@
 * Fixed not being able to report Hietala's and Alice's bodies (issue [#2293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2293)) (Playtest)
 * Fixed not being able to report Pia's body to the police (issue [#2292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2292)) (Playtest)
 * Fixed reporting the Pia's body to the police softlocking the game (issue [#2278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2278)) (Playtest)
+* Fixed T-posing NPC model (issue [#2276](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2276)) (Playtest)
 
 ## Recipes
 
