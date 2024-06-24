@@ -11,6 +11,7 @@
 
 ## Recipes
 
+* Plastic bottles can now be recycled into filament
 * Fixed water purify distillery recipes requiring containers (issue [#2285](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2285)) (Playtest)
 
 ## Items
