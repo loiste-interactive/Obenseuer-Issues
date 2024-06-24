@@ -33,6 +33,7 @@
 * Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274)) (Playtest)
 * Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299)) (Playtest)
 * Fixed not being able to ask Jonne Reis about Alice (issue [#2300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2300)) (Playtest)
+* Fixed being able to tell Fredrik that "Pia is dead" when Pia is alive (issue [#2277](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2277)) (Playtest)
 
 ## Makeshift House (House1)
 
