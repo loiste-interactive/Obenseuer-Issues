@@ -15,6 +15,7 @@
 
 ## Items
 
+* Added Odd Teddy Bear
 * Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
