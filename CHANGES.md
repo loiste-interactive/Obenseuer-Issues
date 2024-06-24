@@ -10,6 +10,7 @@
 * Added more hints to Joel's apartment that someone else lives there (issue [#2307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2307)) (Playtest)
 * Fixed elevator doors not having a lock location (issue [#2274](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2274)) (Playtest)
 * Fixed collision not matching the stair geometry (issue [#2299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2299)) (Playtest)
+* Fixed not being able to ask Jonne Reis about Alice (issue [#2300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2300)) (Playtest)
 
 ## Furniture
 
