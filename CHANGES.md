@@ -1,6 +1,7 @@
 # Upcoming
 
-* Changed several "The Disappearance of Alice" dialogs
+* Changed several "The Disappearance of Alice" dialogs (Playtest)
+* Changed lockpicks to require recipe for crafting (issue [#2286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2286))
 * Fixed "The Disappearance of Alice" typos (issue [#2298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2298)) (Playtest)
 * Fixed not being able to report Hietala's and Alice's bodies (issue [#2293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2293)) (Playtest)
 * Fixed not being able to report Pia's body to the police (issue [#2292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2292)) (Playtest)
