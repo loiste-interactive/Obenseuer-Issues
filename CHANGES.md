@@ -23,6 +23,8 @@
 
 ## Furniture
 
+* Added leather scrap rug
+* Added leather scrap rug blueprint
 * Added rag rug
 * Added rag rug blueprint
 * Fixed not being able to attach head lantern to ceiling chain (Playtest)
