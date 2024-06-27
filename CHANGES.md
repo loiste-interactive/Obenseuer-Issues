@@ -18,6 +18,7 @@
 
 ## Items
 
+* Added Heavy Water
 * Added Pure Water
 * Added Odd Teddy Bear
 * Added Gold Ore Rock
