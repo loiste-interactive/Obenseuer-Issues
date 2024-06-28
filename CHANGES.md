@@ -9,6 +9,8 @@
 * Fixed reporting the Pia's body to the police softlocking the game (issue [#2278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2278)) (Playtest)
 * Fixed T-posing NPC model (issue [#2276](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2276)) (Playtest)
 * Fixed NPC footstep sounds
+* Fixed the direction the police look when chasing the player
+* Fixed the police not chasing the player after the player goes to another level or after loading the save
 
 ## Recipes
 
