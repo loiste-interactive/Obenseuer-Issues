@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added planning table
 * Added small random variation to rotary lock 'tick' pitch (issue [#2311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2311))
 * Changed several "The Disappearance of Alice" dialogs (Playtest)
 * Changed lockpicks to require recipe for crafting (issue [#2286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2286))
@@ -14,6 +15,7 @@
 
 ## Recipes
 
+* Added Simple Blueprint
 * Added Pure Water
 * Added empty filament spool recipe
 * Plastic bottles can now be recycled into filament
@@ -21,6 +23,7 @@
 
 ## Items
 
+* Added Simple Blueprint
 * Added Heavy Water
 * Added Pure Water
 * Added Odd Teddy Bear
