@@ -24,6 +24,7 @@
 
 ## Items
 
+* Added Lime(stone)
 * Added Simple Blueprint
 * Added Heavy Water
 * Added Pure Water
