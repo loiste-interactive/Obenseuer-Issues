@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Scam Invoice
 * Added Glue
 * Added Simple Blueprint
 * Added Pure Water
@@ -24,6 +25,7 @@
 
 ## Items
 
+* Added Scam Invoice
 * Added Lime(stone)
 * Added Simple Blueprint
 * Added Heavy Water
