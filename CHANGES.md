@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added LMAO-Tables
 * Added Improved Blueprint
 * Added Scam Invoice
 * Added Lime(stone)
