@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Glue
 * Added Simple Blueprint
 * Added Pure Water
 * Added empty filament spool recipe
