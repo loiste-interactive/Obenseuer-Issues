@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Improved Blueprint
 * Added Scam Invoice
 * Added Glue
 * Added Simple Blueprint
@@ -25,6 +26,7 @@
 
 ## Items
 
+* Added Improved Blueprint
 * Added Scam Invoice
 * Added Lime(stone)
 * Added Simple Blueprint
