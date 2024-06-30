@@ -49,6 +49,7 @@
 
 ## Blueprints
 
+* Added Fancy Wooden Table
 * Added Chicken Coops
 * Added Fermenting Container
 * Added Mashing Kettle
