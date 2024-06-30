@@ -49,6 +49,7 @@
 
 ## Blueprints
 
+* Added Dressing Room Benches
 * Added Smooth Wooden Pillar
 * Added Mesh Wall
 * Added Fancy Wooden Table
