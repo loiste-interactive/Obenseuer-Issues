@@ -29,6 +29,7 @@
 
 ## Items
 
+* Added Lacquer
 * Added Detailed Blueprint
 * Added Clay
 * Added LMAO-Tables
