@@ -48,6 +48,8 @@
 
 ## Blueprints
 
+* Added Fermenting Container
+* Added Mashing Kettle
 * Added cottage table
 * Added cottage bench
 * Added coffee table blueprints
