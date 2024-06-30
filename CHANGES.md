@@ -42,6 +42,7 @@
 
 ## Furniture
 
+* Added modular shelf blueprints
 * Added drawing board
 * Added pillow blueprints
 * Added pillows
