@@ -65,6 +65,7 @@
 
 ## Furniture
 
+* Added smooth wooden pillar
 * Added Mesh Wall
 * Added drawing board
 * Added pillows
