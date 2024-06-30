@@ -28,6 +28,7 @@
 
 ## Items
 
+* Added Complex Blueprint
 * Added Clay
 * Added LMAO-Tables
 * Added Improved Blueprint
