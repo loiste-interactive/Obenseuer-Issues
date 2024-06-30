@@ -49,6 +49,7 @@
 
 ## Blueprints
 
+* Added Smooth Wooden Pillar
 * Added Mesh Wall
 * Added Fancy Wooden Table
 * Added Chicken Coops
