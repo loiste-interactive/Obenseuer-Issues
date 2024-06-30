@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Flowerpot
 * Added Detailed Blueprint
 * Added Cement
 * Added Brick
