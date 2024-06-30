@@ -46,20 +46,25 @@
 * Fixed boiled egg giving bleeding (Playtest)
 * Fixed diesel being tasty (Playtest)
 
-## Furniture
+## Blueprints
 
+* Added cottage table
+* Added cottage bench
 * Added coffee table blueprints
 * Added modular shelf blueprints
-* Added drawing board
+* Added leather scrap rug blueprint
+* Added rag rug blueprint
 * Added pillow blueprints
-* Added pillows
 * Added cat cage blueprints
+
+## Furniture
+
+* Added drawing board
+* Added pillows
 * Added electronics workbench
 * Added a small drawer
 * Added leather scrap rug
-* Added leather scrap rug blueprint
 * Added rag rug
-* Added rag rug blueprint
 * Fixed not being able to attach head lantern to ceiling chain (Playtest)
 * Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
 
