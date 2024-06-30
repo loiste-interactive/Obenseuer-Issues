@@ -42,6 +42,7 @@
 
 ## Furniture
 
+* Added drawing board
 * Added pillow blueprints
 * Added pillows
 * Added cat cage blueprints
