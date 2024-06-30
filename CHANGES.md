@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Detailed Blueprint
 * Added Cement
 * Added Brick
 * Added Improved Blueprint
