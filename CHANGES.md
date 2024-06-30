@@ -49,6 +49,8 @@
 
 ## Blueprints
 
+* Added Wooden Stool
+* Added Wooden Step Stool
 * Added Dressing Room Benches
 * Added Smooth Wooden Pillar
 * Added Mesh Wall
