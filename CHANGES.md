@@ -49,6 +49,7 @@
 
 ## Blueprints
 
+* Added Mesh Wall
 * Added Fancy Wooden Table
 * Added Chicken Coops
 * Added Fermenting Container
@@ -64,6 +65,7 @@
 
 ## Furniture
 
+* Added Mesh Wall
 * Added drawing board
 * Added pillows
 * Added electronics workbench
