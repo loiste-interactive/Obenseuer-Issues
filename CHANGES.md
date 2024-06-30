@@ -15,6 +15,7 @@
 
 ## Recipes
 
+* Added Cement
 * Added Brick
 * Added Improved Blueprint
 * Added Scam Invoice
