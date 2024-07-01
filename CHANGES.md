@@ -3,7 +3,7 @@
 * Added planning table
 * Added small random variation to rotary lock 'tick' pitch (issue [#2311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2311))
 * Added exclamation mark to show new items (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091))
-* Added notifications to magazine recipes (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091)) (Playtest)
+* Added notifications to magazine recipes and skills (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091)) (Playtest)
 * Changed several "The Disappearance of Alice" dialogs (Playtest)
 * Changed lockpicks to require recipe for crafting (issue [#2286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2286))
 * Fixed "The Disappearance of Alice" typos (issue [#2298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2298)) (Playtest)
