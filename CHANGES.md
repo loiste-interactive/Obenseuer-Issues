@@ -49,6 +49,7 @@
 
 ## Blueprints
 
+* Added Metal Locker
 * Added Wooden Stool
 * Added Wooden Step Stool
 * Added Dressing Room Benches
