@@ -86,6 +86,10 @@
 * Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
 * Fixed the private property sign being sideways in the furniture preview menu (issue [#2318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2318))
 
+## O-Market
+
+* Fixed being able to recycle full milk cartons from the O-Market fridge (issue [#2315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2315))
+
 ## Tenement A
 
 * Added tresspassing zones to cat breeder's apartment (A7) (issue [#2291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2291)) (Playtest)
