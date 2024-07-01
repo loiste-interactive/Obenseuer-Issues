@@ -14,6 +14,7 @@
 * Fixed NPC footstep sounds
 * Fixed the direction the police look when chasing the player
 * Fixed the police not chasing the player after the player goes to another level or after loading the save
+* Fixed collectible items with missing item id not being removed (issue [#2323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2323))
 
 ## Recipes
 
