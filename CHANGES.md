@@ -74,6 +74,7 @@
 
 ## Furniture
 
+* Added safe
 * Added smooth wooden pillar
 * Added Mesh Wall
 * Added drawing board
