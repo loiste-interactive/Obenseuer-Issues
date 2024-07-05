@@ -20,6 +20,7 @@
 
 ## Recipes
 
+* Added Copper Wire
 * Added Metal Slab (from ore + charcoal + limestone)
 * Added Sand
 * Added Gravel
