@@ -44,6 +44,7 @@
 
 ## Items
 
+* Added Rat Trap
 * Added Copper Shavings
 * Added Gravel
 * Added Gold Ore
