@@ -42,6 +42,7 @@
 
 ## Items
 
+* Added Copper Shavings
 * Added Gravel
 * Added Gold Ore
 * Added Iron Ore
