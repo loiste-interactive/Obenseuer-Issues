@@ -38,6 +38,7 @@
 * Added Simple Blueprint
 * Added Pure Water
 * Added empty filament spool recipe
+* Added Rat Trap Baits
 * Plastic bottles can now be recycled into filament
 * Fixed water purify distillery recipes requiring containers (issue [#2285](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2285)) (Playtest)
 
@@ -61,6 +62,9 @@
 * Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
+* Added Rat Trap With Bait
+* Added Rat Trap Without Bait
+* Added Rat Trap Baits
 * Fixed boiled egg giving bleeding (Playtest)
 * Fixed diesel being tasty (Playtest)
 
