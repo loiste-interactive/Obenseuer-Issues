@@ -20,6 +20,7 @@
 
 ## Recipes
 
+* Added Metal Slab (from ore + charcoal + limestone)
 * Added Sand
 * Added Gravel
 * Added Gold Ore
