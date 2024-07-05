@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added crusher
 * Added planning table
 * Added small random variation to rotary lock 'tick' pitch (issue [#2311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2311))
 * Added exclamation mark to show new items (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091))
@@ -19,6 +20,10 @@
 
 ## Recipes
 
+* Added Gravel
+* Added Gold Ore
+* Added Iron Ore
+* Added Asbestos
 * Added Flowerpot
 * Added Detailed Blueprint
 * Added Cement
@@ -34,6 +39,9 @@
 
 ## Items
 
+* Added Gravel
+* Added Gold Ore
+* Added Iron Ore
 * Added Lacquer
 * Added Detailed Blueprint
 * Added Clay
