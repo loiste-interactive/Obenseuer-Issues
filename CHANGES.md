@@ -20,6 +20,7 @@
 
 ## Recipes
 
+* Added Rat Trap
 * Added Charcoal
 * Added Copper Wire
 * Added Metal Slab (from ore + charcoal + limestone)
