@@ -20,6 +20,7 @@
 
 ## Recipes
 
+* Added Sand
 * Added Gravel
 * Added Gold Ore
 * Added Iron Ore
