@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added liquid tanks
 * Added crusher
 * Added planning table
 * Added small random variation to rotary lock 'tick' pitch (issue [#2311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2311))
