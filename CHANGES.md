@@ -94,6 +94,7 @@
 
 ## Furniture
 
+* Makeshift sinks don't anymore have an infinite water supply
 * Added safe
 * Added smooth wooden pillar
 * Added Mesh Wall
