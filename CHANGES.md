@@ -94,6 +94,7 @@
 
 ## Furniture
 
+* Added IBC Container
 * Makeshift sinks doesn't anymore have an infinite water supply
 * Added safe
 * Added smooth wooden pillar
