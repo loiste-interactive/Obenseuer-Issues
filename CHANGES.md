@@ -18,6 +18,7 @@
 * Fixed the police not chasing the player after the player goes to another level or after loading the save
 * Fixed collectible items with missing item id not being removed (issue [#2323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2323))
 * Fixed typos (issue [#2313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2313))
+* Fixed Hospital Table agressive LOD
 
 ## Recipes
 
