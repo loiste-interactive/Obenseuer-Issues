@@ -22,7 +22,7 @@
 
 ## Recipes
 
-* Added Coke
+* Added Coke (coal)
 * Added Rat Trap
 * Added Charcoal
 * Added Copper Wire
@@ -48,7 +48,7 @@
 
 ## Items
 
-* Added coke
+* Added Coke (coal)
 * Added Rat Trap
 * Added Copper Shavings
 * Added Gravel
