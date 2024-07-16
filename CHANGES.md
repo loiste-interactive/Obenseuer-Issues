@@ -22,6 +22,7 @@
 
 ## Recipes
 
+* Added Urea extraction
 * Added Coke (coal)
 * Added Rat Trap
 * Added Charcoal
@@ -48,6 +49,8 @@
 
 ## Items
 
+* Added Urea
+* Added Fertilizer
 * Added Coke (coal)
 * Added Rat Trap
 * Added Copper Shavings
