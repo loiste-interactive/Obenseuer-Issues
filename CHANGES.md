@@ -112,6 +112,7 @@
 * Fixed not being able to attach head lantern to ceiling chain (Playtest)
 * Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
 * Fixed the private property sign being sideways in the furniture preview menu (issue [#2318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2318))
+* Fixed makeshift toilet not requiring a bucket (issue [#2351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2351))
 * Makeshift sinks doesn't anymore have an infinite water supply
 
 ## Tenement System
