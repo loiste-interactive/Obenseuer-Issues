@@ -6,6 +6,7 @@
 * Added small random variation to rotary lock 'tick' pitch (issue [#2311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2311))
 * Added exclamation mark to show new items (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091))
 * Added notifications to magazine recipes and skills (issue [#1091](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1091)) (Playtest)
+* Added NPCs to react when the player plays the guitar
 * Changed several "The Disappearance of Alice" dialogs (Playtest)
 * Changed lockpicks to require recipe for crafting (issue [#2286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2286))
 * Fixed "The Disappearance of Alice" typos (issue [#2298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2298)) (Playtest)
@@ -19,6 +20,7 @@
 * Fixed collectible items with missing item id not being removed (issue [#2323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2323))
 * Fixed typos (issue [#2313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2313))
 * Fixed Hospital Table agressive LOD
+* Fixed guitar playing without the player holding click (issue [#2355](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2355))
 
 ## Tenement System
 
