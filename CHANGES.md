@@ -23,8 +23,10 @@
 ## Tenement System
 
 * Changed apartment electricity icon
+* Changed tenement heating icon
+* Changed tenement heating name to heating room
 * Changed tenement water icon
-* Changed tenement water name to tenement plumbing
+* Changed tenement water name to plumbing
 
 ## Recipes
 
