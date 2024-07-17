@@ -20,6 +20,12 @@
 * Fixed typos (issue [#2313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2313))
 * Fixed Hospital Table agressive LOD
 
+## Tenement System
+
+* Changed apartment electricity icon
+* Changed tenement water icon
+* Changed tenement water name to tenement plumbing
+
 ## Recipes
 
 * Added Urea extraction
