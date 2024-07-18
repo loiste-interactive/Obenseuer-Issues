@@ -90,6 +90,7 @@
 * Fixed boiled egg giving bleeding (Playtest)
 * Fixed diesel being tasty (Playtest)
 * Fixed dwarf plush typo (issue [#2360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2360))
+* Increased Pure Green Mushrooms price (issue [#2348](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2348))
 
 ## Blueprints
 
