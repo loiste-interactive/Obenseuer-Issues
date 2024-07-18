@@ -28,6 +28,7 @@
 
 ## Tenement System
 
+* Added building menu to display environment dependent modifiers (issue [#349](https://github.com/loiste-interactive/Obenseuer-Issues/issues/349)) (Playtest)
 * Changed apartment electricity icon
 * Changed tenement heating icon
 * Changed tenement heating name to heating room
