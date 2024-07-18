@@ -21,6 +21,7 @@
 * Fixed typos (issue [#2313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2313))
 * Fixed Hospital Table agressive LOD
 * Fixed guitar playing without the player holding click (issue [#2355](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2355))
+* Fixed steep stairs having a jaggy movement (issue [#338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/338))
 
 ## Tenement System
 
