@@ -87,6 +87,7 @@
 * Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
+* Added perishable data for mushroom items
 * Fixed boiled egg giving bleeding (Playtest)
 * Fixed diesel being tasty (Playtest)
 * Fixed dwarf plush typo (issue [#2360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2360))
