@@ -64,7 +64,9 @@
 * Added Urea
 * Added Fertilizer
 * Added Coke (coal)
-* Added Rat Trap
+* Added Rat Trap With Bait
+* Added Rat Trap Without Bait
+* Added Rat Trap Baits
 * Added Copper Shavings
 * Added Gravel
 * Added Gold Ore
@@ -83,9 +85,6 @@
 * Added Gold Ore Rock
 * Added Iron Ore Rock
 * Added Asbestos Rock
-* Added Rat Trap With Bait
-* Added Rat Trap Without Bait
-* Added Rat Trap Baits
 * Fixed boiled egg giving bleeding (Playtest)
 * Fixed diesel being tasty (Playtest)
 * Fixed dwarf plush typo (issue [#2360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2360))
