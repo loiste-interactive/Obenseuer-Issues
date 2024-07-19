@@ -34,6 +34,7 @@
 * Changed tenement heating name to heating room
 * Changed tenement water icon
 * Changed tenement water name to plumbing
+* Improved furniture snap location detection
 * Makeshift sinks doesn't anymore have an infinite water supply
 
 ## Recipes
@@ -115,6 +116,8 @@
 * Added rag rug blueprint
 * Added pillow blueprints
 * Added cat cage blueprints
+* Added Half Wooden Pillar blueprint
+* Added Smooth Half Wooden Pillar blueprint
 
 ## Furniture
 
@@ -130,6 +133,8 @@
 * Added a small drawer
 * Added leather scrap rug
 * Added rag rug
+* Added Half Wooden Pillar
+* Added Smooth Half Wooden Pillar
 * Fixed not being able to attach head lantern to ceiling chain (Playtest)
 * Fixed Fancy Large Wooden Cabinet spawning new items (issue [#2308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2308)) (Playtest)
 * Fixed the private property sign being sideways in the furniture preview menu (issue [#2318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2318))
