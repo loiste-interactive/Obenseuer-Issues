@@ -36,6 +36,7 @@
 * Changed tenement water icon
 * Changed tenement water name to plumbing
 * Fixed not being able to open building menu when entering from the balcony/extension door (issue [#2273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2273))
+* Fixed some furniture not being highlighted correctly (issue [#2265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2265))
 * Improved furniture snap location detection
 * Makeshift sinks doesn't anymore have an infinite water supply
 
