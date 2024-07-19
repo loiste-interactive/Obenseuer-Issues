@@ -25,6 +25,7 @@
 * Fixed steep stairs having a jaggy movement (issue [#338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/338))
 * Fixed Malone dialogue typos (issue [#2361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2361))
 * Fixed dropping an empty backpack taking currently equipped backpacks inventory (issue [#2350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2350)) (Playtest)
+* Fixed planter modifiers not updating correctly (issue [#2123](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2123))
 
 ## Tenement System
 
