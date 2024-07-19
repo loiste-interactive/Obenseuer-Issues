@@ -135,6 +135,7 @@
 * Fixed the private property sign being sideways in the furniture preview menu (issue [#2318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2318))
 * Fixed makeshift toilet not requiring a bucket (issue [#2351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2351))
 * Fixed fermenting barrel crafting requiring 0 blue barrels (issue [#2358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2358))
+* Fixed Half Pallet and Quater Pallet being off-centered
 * Makeshift sinks doesn't anymore have an infinite water supply
 
 ## Outside
