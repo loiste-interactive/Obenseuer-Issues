@@ -34,6 +34,7 @@
 * Changed tenement heating name to heating room
 * Changed tenement water icon
 * Changed tenement water name to plumbing
+* Makeshift sinks doesn't anymore have an infinite water supply
 
 ## Recipes
 
@@ -136,9 +137,9 @@
 * Fixed fermenting barrel crafting requiring 0 blue barrels (issue [#2358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2358))
 * Makeshift sinks doesn't anymore have an infinite water supply
 
-## Tenement System
+## Outside
 
-* Makeshift sinks doesn't anymore have an infinite water supply
+* Fixed Eijas grill table (issue [#2363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2363)) (Playtest)
 
 ## O-Market
 
