@@ -148,6 +148,7 @@
 
 ## Outside
 
+* Added missing vent (issue [#2259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2259))
 * Fixed Eijas grill table (issue [#2363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2363)) (Playtest)
 
 ## O-Market
