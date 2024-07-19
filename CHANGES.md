@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 19th 2024 (Version 0.3.39 V6) - Playtest
+
 * Added liquid tanks
 * Added crusher
 * Added planning table
