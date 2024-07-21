@@ -7,6 +7,10 @@
 * Mushrooms needs to be refigerated, not frozen.
 * Sahti, coffee and kumis spoils unless refigerated
 
+## Tenement System
+
+* Shabby canal sauna rain barrel now fills itself during rain
+
 # July 19th 2024 (Version 0.3.39 V6) - Playtest
 
 * Added liquid tanks
