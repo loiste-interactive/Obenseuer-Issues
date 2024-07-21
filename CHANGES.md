@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380))
+
 # Items
 
 * Mushrooms needs to be refigerated, not frozen.
