@@ -12,6 +12,10 @@
 * Bare water and first water upgrade (basement) now has sewage tank
 * Shabby canal sauna rain barrel now fills itself during rain
 
+## Kolhola
+
+* Kolhola now has clean water.
+
 # July 19th 2024 (Version 0.3.39 V6) - Playtest
 
 * Added liquid tanks
