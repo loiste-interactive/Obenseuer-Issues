@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380))
+* Fixed some NPCs thinking they were police officers (issue [#2376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2376))
 
 # Items
 
