@@ -15,6 +15,10 @@
 * Bare water and first water upgrade (basement) now has sewage tank
 * Shabby canal sauna rain barrel now fills itself during rain
 
+## Gatehouse
+
+* Fixed prison cell vent lockpicking (issue [#2408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2408))
+
 ## Kolhola
 
 * Kolhola now has clean water
