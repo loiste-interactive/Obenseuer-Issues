@@ -22,6 +22,7 @@
 * Fixed Small Drawer having wrong icon (issue [#2366](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2366)) (Playtest)
 * Fixed Mesh Wall having wrong icon (issue [#2371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2371)) (Playtest)
 * Fixed Electronics Workbench having wrong icon (issue [#2371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2371)) (Playtest)
+* Fixed Drawing Board being off-centered (issue [#2367](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2367)) (Playtest)
 
 ## Tenement System
 
