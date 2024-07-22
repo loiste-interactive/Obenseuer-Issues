@@ -19,6 +19,7 @@
 
 ## Tenement A
 
+* Fixed top stairs not being walkable (issue [#2413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2413))
 * Tenement A now has clean water
 
 ## Tenement B
