@@ -20,6 +20,7 @@
 
 * Changed barrels to fluid storages (issue [#2397](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2397))
 * Fixed Small Drawer having wrong icon (issue [#2366](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2366)) (Playtest)
+* Fixed Mesh Wall having wrong icon (issue [#2371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2371)) (Playtest)
 
 ## Tenement System
 
