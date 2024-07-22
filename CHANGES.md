@@ -14,7 +14,8 @@
 
 ## Kolhola
 
-* Kolhola now has clean water.
+* Kolhola now has clean water
+* Fixed A5 kitchen missing sink
 
 # July 19th 2024 (Version 0.3.39 V6) - Playtest
 
