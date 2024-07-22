@@ -1,11 +1,12 @@
 # Upcoming
 
-* Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380))
-* Fixed some NPCs thinking they were police officers (issue [#2376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2376))
+* Changed the behavior of the police (issue [#2414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2414)) (Playtest)
+* Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380)) (Playtest)
+* Fixed some NPCs thinking they were police officers (issue [#2376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2376)) (Playtest)
 
 # Items
 
-* Mushrooms needs to be refigerated, not frozen.
+* Mushrooms needs to be refigerated, not frozen. (Playtest)
 * Sahti, coffee and kumis spoils unless refigerated
 
 ## Tenement System
