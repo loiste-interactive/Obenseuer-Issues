@@ -17,6 +17,14 @@
 * Kolhola now has clean water
 * Fixed A5 kitchen missing sink
 
+## Tenement A
+
+* Tenement A now has clean water
+
+## Tenement B
+
+* Tenement B now has clean water
+
 # July 19th 2024 (Version 0.3.39 V6) - Playtest
 
 * Added liquid tanks
