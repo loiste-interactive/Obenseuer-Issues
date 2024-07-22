@@ -6,6 +6,7 @@
 * Fixed double-click/hold item move not working after interacting with liquid storage (issue [#2396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2396)) (Playtest)
 * Fixed not being able to move liquid to some empty containers (issue [#2395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2395)) (Playtest)
 * Fixed item stat tooltip when filling item (issue [#2391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2391)) (Playtest)
+* Fixed lights being too dark sometimes (issue [#2370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2370)) (Playtest)
 * Increased IBC Container filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 * Increased sinks filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 
