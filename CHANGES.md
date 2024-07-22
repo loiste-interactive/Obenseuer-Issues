@@ -4,10 +4,14 @@
 * Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380)) (Playtest)
 * Fixed some NPCs thinking they were police officers (issue [#2376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2376)) (Playtest)
 
-# Items
+## Items
 
 * Mushrooms needs to be refigerated, not frozen. (Playtest)
 * Sahti, coffee and kumis spoils unless refigerated
+
+## Furniture
+
+* Changed barrels to fluid storages (issue [#2397](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2397))
 
 ## Tenement System
 
