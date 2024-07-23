@@ -17,6 +17,13 @@
 * Increased IBC Container filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 * Increased sinks filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 
+## Tenement System
+
+* Added a Plastic Barrel Shower to player's apartment makeshift bathroom upgrade (issue [#2415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2415))
+* Bare water and first water upgrade (basement) now has sewage tank
+* Fixed Jonne Reis breaking apartment upgrades (issue [#2429](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2429))
+* Shabby canal sauna rain barrel now fills itself during rain
+
 ## Items
 
 * Mushrooms needs to be refigerated, not frozen. (Playtest)
@@ -30,12 +37,6 @@
 * Fixed Mesh Wall having wrong icon (issue [#2371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2371)) (Playtest)
 * Fixed Electronics Workbench having wrong icon (issue [#2371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2371)) (Playtest)
 * Fixed Drawing Board being off-centered (issue [#2367](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2367)) (Playtest)
-
-## Tenement System
-
-* Added a Plastic Barrel Shower to player's apartment makeshift bathroom upgrade (issue [#2415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2415))
-* Bare water and first water upgrade (basement) now has sewage tank
-* Shabby canal sauna rain barrel now fills itself during rain
 
 ## Outside
 
