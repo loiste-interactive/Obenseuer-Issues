@@ -31,6 +31,11 @@
 * Bare water and first water upgrade (basement) now has sewage tank
 * Shabby canal sauna rain barrel now fills itself during rain
 
+## Outside
+
+* Fixed Eijas Grill benches having wrong texture (Playtest)
+* Fixed Eijas Grill bench facing in the wrong direction (issue [#2421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2421))
+
 ## Gatehouse
 
 * Fixed prison cell vent lockpicking (issue [#2408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2408))
