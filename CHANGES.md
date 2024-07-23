@@ -64,6 +64,10 @@
 
 * Tenement B now has clean water
 
+## Deekula B
+
+* Fixed missing sink (issue [#2430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2430))
+
 # July 19th 2024 (Version 0.3.39 V6) - Playtest
 
 * Added liquid tanks
