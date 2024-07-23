@@ -11,6 +11,7 @@
 * Fixed lights being too dark sometimes (issue [#2370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2370)) (Playtest)
 * Fixed metal storage not locking view when lockpicking (issue [#2386](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2386)) (Playtest)
 * Fixed exception null spam in the console (issue [#2378](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2378)) (Playtest)
+* Fixed dishwasher washing the skin off (issue [#2310](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2310)) (Playtest)
 * Increased IBC Container filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 * Increased sinks filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
 
