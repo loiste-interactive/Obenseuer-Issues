@@ -2,6 +2,7 @@
 
 * Changed water cooler to liquid storage (Playtest)
 * Changed the behavior of the police (issue [#2414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2414)) (Playtest)
+* Fixed not being able interact or open menus after showing photo to Pia (issue [#2407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2407)) (Playtest)
 * Fixed clipping rocks in jaw crusher (issue [#2380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2380)) (Playtest)
 * Fixed some NPCs thinking they were police officers (issue [#2376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2376)) (Playtest)
 * Fixed double-click/hold item move not working after interacting with liquid storage (issue [#2396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2396)) (Playtest)
