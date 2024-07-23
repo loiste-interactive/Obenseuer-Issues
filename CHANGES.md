@@ -21,6 +21,7 @@
 ## Tenement System
 
 * Added a Plastic Barrel Shower to player's apartment makeshift bathroom upgrade (issue [#2415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2415))
+* Balanced rents of a few tenants
 * Tenement upgrades are now cheaper
 * Bare water and first water upgrade (basement) now has sewage tank
 * Fixed Jonne Reis breaking apartment upgrades (issue [#2429](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2429)) (Playtest)
