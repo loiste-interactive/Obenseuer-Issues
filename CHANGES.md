@@ -63,6 +63,7 @@
 * Fixed top stairs not being walkable (issue [#2413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2413)) (Playtest)
 * Fixed trespassing zones at cat trader's apartment (issue [#2422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2422)) (Playtest)
 * Fixed some Tenement A issues (issue [#2223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2223)) (Playtest)
+* Fixed some lighting issues (issue [#2190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2190)) (Playtest)
 * Tenement A now has clean water (Playtest)
 
 ## Tenement B
