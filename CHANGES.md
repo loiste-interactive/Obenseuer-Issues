@@ -14,6 +14,7 @@
 * Fixed exception null spam in the console (issue [#2378](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2378)) (Playtest)
 * Fixed dishwasher washing the skin off (issue [#2310](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2310)) (Playtest)
 * Fixed wind effect causing exceptions (issue [#2281](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2281))
+* Fixed biogas reactor not updating correctly when player spends time in other scenes (issue [#1954](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1954))
 * Fixed dishwasher starting cleaning items that are not owned
 * Fixed dishwasher creating multiple recipes of the same item
 * Increased IBC Container filling and unfilling speed (issue [#2393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2393)) (Playtest)
