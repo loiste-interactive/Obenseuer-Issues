@@ -1,7 +1,13 @@
 # Upcoming
 
+## Blueprints
+
+* Added hay bale
+* Added big gear
+
 ## Furniture
 
+* Added hay bale
 * Added big gear
 * Fixed tv table not being purchaseable
 * Fixed fancy sofa not being purchaseable
