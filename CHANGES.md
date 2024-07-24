@@ -3,6 +3,7 @@
 ## Furniture
 
 * Added big gear
+* Fixed fancy sofa not being purchaseable
 * Fixed toolboxes not being purchaseable
 * Fixed Helm Clock, Wall Clock and Helm not being purchaseable
 * Fixed electric kiln not being purchaseable
