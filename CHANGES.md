@@ -26,6 +26,7 @@
 * Tenement upgrades are now cheaper
 * Bare water and first water upgrade (basement) now has sewage tank
 * Fixed Jonne Reis breaking apartment upgrades (issue [#2429](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2429)) (Playtest)
+* Fixed furniture crafting crashing the game the selected category becomes empty (issue [#2342](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2342))
 * Shabby canal sauna rain barrel now fills itself during rain
 
 ## Items
