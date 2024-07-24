@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 24th 2024 (Version 0.3.39 V7) - Playtest
+
 * Added rent payment interval options
 * Changed water cooler to liquid storage (Playtest)
 * Changed the behavior of the police (issue [#2414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2414)) (Playtest)
