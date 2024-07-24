@@ -2,6 +2,7 @@
 
 ## Furniture
 
+* Fixed electric kiln not being purchaseable
 * Fixed candle bowl not being purchaseable
 * Fixed picnic table not being purchaseable
 * Fixed glass coffee table not being purchaseable
