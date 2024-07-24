@@ -50,6 +50,10 @@
 * Fixed Eijas Grill benches having wrong texture (Playtest)
 * Fixed Eijas Grill bench facing in the wrong direction (issue [#2421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2421))
 
+## City Gates
+
+* Fixed dynamite explosion sounds having too short range (issue [#2403](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2403)) (Playtest)
+
 ## Gatehouse
 
 * Fixed prison cell vent lockpicking (issue [#2408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2408))
