@@ -59,6 +59,7 @@
 
 ## Tenement A
 
+* Added door to Speakeasy (issue [#2114](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2114)) (Playtest)
 * Fixed top stairs not being walkable (issue [#2413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2413)) (Playtest)
 * Fixed trespassing zones at cat trader's apartment (issue [#2422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2422)) (Playtest)
 * Fixed some Tenement A issues (issue [#2223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2223)) (Playtest)
