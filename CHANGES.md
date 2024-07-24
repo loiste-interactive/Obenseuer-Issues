@@ -2,6 +2,7 @@
 
 ## Furniture
 
+* Added big gear
 * Fixed electric kiln not being purchaseable
 * Fixed candle bowl not being purchaseable
 * Fixed picnic table not being purchaseable
