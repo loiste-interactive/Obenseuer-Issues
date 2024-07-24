@@ -59,9 +59,10 @@
 
 ## Tenement A
 
-* Fixed top stairs not being walkable (issue [#2413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2413))
-* Fixed trespassing zones at cat trader's apartment (issue [#2422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2422))
-* Tenement A now has clean water
+* Fixed top stairs not being walkable (issue [#2413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2413)) (Playtest)
+* Fixed trespassing zones at cat trader's apartment (issue [#2422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2422)) (Playtest)
+* Fixed some Tenement A issues (issue [#2223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2223)) (Playtest)
+* Tenement A now has clean water (Playtest)
 
 ## Tenement B
 
