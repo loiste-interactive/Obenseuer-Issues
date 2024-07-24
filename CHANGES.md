@@ -8,6 +8,10 @@
 
 * Added blueprint commands
 
+## Kolhola
+
+* Fixed Kolhola sourcing it's water from fermented septic tank (issue [#2437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2437))
+
 # July 24th 2024 (Version 0.3.39 V7) - Playtest
 
 * Added rent payment interval options
