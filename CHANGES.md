@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) 
+
 ## Tenement A
 
 * Fixed wrong door transition point (issue [#2434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2434)) (Playtest)
