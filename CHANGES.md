@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement A
+
+* Fixed wrong door transition point (issue [#2434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2434)) (Playtest)
+
 # July 24th 2024 (Version 0.3.39 V7) - Playtest
 
 * Added rent payment interval options
