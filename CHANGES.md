@@ -35,6 +35,10 @@
 * Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) (Playtest)
 * Modular shelf pieces now snap on walls
 
+## O-Market
+
+* O-Market now sells 10L bottles of clean water
+
 ## Makeshift House (House1)
 
 * Fixed Crazy neighbor collision (issue [#2444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2444)) (Playtest)
