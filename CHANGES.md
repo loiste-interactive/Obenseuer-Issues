@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed wieldables moving animations (issue [#2436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2436)) (Playtest)
+
 ## Tenement System
 
 * Fixed rooftop greenhouse upgrade lighting bug (issue [#2446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2446)) (Playtest)
