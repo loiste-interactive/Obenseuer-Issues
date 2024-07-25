@@ -28,6 +28,10 @@
 * Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) (Playtest)
 * Modular shelf pieces now snap on walls
 
+## Deekula B
+
+* Fixed apartment B4 sink crashing the game (issue [#2442](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2442)) (Playtest)
+
 ## Tenement A
 
 * Fixed wrong door transition point (issue [#2434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2434)) (Playtest)
