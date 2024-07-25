@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed older saves not having new skills (issue [#2433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2433))
 * Fixed wieldables moving animations (issue [#2436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2436)) (Playtest)
 * Fixed hovering over stat icons crashing the game (issue [#2447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2447)) (Playtest)
 
