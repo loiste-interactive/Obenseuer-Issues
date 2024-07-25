@@ -5,6 +5,10 @@
 * Fixed wieldables moving animations (issue [#2436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2436)) (Playtest)
 * Fixed hovering over stat icons crashing the game (issue [#2447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2447)) (Playtest)
 
+## Items
+
+* Added 10L water bottle
+
 ## Tenement System
 
 * Fixed rooftop greenhouse upgrade lighting bug (issue [#2446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2446)) (Playtest)
