@@ -12,11 +12,13 @@
 
 * Added hay bale
 * Added big gear
+* Added Makeshift IBC Sink
 
 ## Furniture
 
 * Added hay bale
 * Added big gear
+* Added Makeshift IBC Sink
 * Fixed tv table not being purchaseable
 * Fixed fancy sofa not being purchaseable
 * Fixed toolboxes not being purchaseable
