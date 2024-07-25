@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed rooftop greenhouse upgrade lighting bug (issue [#2446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2446)) (Playtest)
+
 ## Blueprints
 
 * Added hay bale
@@ -17,7 +21,7 @@
 * Fixed candle bowl not being purchaseable
 * Fixed picnic table not being purchaseable
 * Fixed glass coffee table not being purchaseable
-* Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439))
+* Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) (Playtest)
 * Modular shelf pieces now snap on walls
 
 ## Tenement A
