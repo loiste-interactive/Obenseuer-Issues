@@ -31,6 +31,10 @@
 * Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) (Playtest)
 * Modular shelf pieces now snap on walls
 
+## Makeshift House (House1)
+
+* Fixed Crazy neighbor collision (issue [#2444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2444)) (Playtest)
+
 ## Deekula B
 
 * Fixed apartment B4 sink crashing the game (issue [#2442](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2442)) (Playtest)
