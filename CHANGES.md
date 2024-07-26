@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 26th 2024 (Version 0.3.39 V8) - Playtest
+
 * Fixed older saves not having new skills (issue [#2433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2433))
 * Fixed sinks not working with old playtest saves (issue [#2443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2443)) (Playtest)
 * Fixed wieldables moving animations (issue [#2436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2436)) (Playtest)
