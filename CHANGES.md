@@ -34,6 +34,7 @@
 * Fixed picnic table not being purchaseable
 * Fixed glass coffee table not being purchaseable
 * Fixed unplaceable dwaring boards (issue [#2439](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2439)) (Playtest)
+* Reduced price of vegetable crates (issue [#2454](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2454))
 * Modular shelf pieces now snap on walls
 
 ## O-Market
