@@ -11,6 +11,7 @@
 
 ## Tenement System
 
+* Fixed crazy neighbor not showing up in player tenement (issue [#2450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2450)) (Playtest)
 * Fixed rooftop greenhouse upgrade lighting bug (issue [#2446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2446)) (Playtest)
 
 ## Blueprints
