@@ -14,6 +14,7 @@
 
 * Added Spring Water (issue [#2465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2465))
 * Fixed 10L bottles display (issue [#2466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2466)) (Playtest)
+* Fixed A-Board Sign UI icon and glowing bug (issue [#2469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2469)) (Playtest)
 
 # July 26th 2024 (Version 0.3.39 V8) - Playtest
 
