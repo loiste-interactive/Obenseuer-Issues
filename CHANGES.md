@@ -13,6 +13,7 @@
 
 ## Items
 
+* Added Syringe Pack (issue [#2240](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2240))
 * Added Spring Water (issue [#2465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2465))
 * Fixed 10L bottles display (issue [#2466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2466)) (Playtest)
 
