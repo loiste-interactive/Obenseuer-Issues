@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 29th 2024 (Version 0.3.39 V9) - Playtest
+
 * Fixed being able to fall asleep while opening a change level door (issue [#2328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2328))
 * Fixed doors (issue [#2472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2472)) (Playtest)
 * Fixed shake not working after loading the game from the pause menu (issue [#2321](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2321))
