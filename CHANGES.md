@@ -10,6 +10,11 @@
 
 * Fixed the same furniture appearing multiple times in furniture shops (issue [#2470](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2470))
 
+## Items
+
+* Added Spring Water (issue [#2465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2465))
+* Fixed 10L bottles display (issue [#2466](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2466)) (Playtest)
+
 # July 26th 2024 (Version 0.3.39 V8) - Playtest
 
 * Fixed older saves not having new skills (issue [#2433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2433))
