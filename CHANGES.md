@@ -2,6 +2,10 @@
 
 * Fixed doors (issue [#2472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2472)) (Playtest)
 
+## Tenement System
+
+* Fixed the same furniture appearing multiple times in furniture shops (issue [#2470](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2470))
+
 # July 26th 2024 (Version 0.3.39 V8) - Playtest
 
 * Fixed older saves not having new skills (issue [#2433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2433))
