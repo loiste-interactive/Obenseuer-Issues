@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed doors (issue [#2472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2472)) (Playtest)
+
 # July 26th 2024 (Version 0.3.39 V8) - Playtest
 
 * Fixed older saves not having new skills (issue [#2433](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2433))
