@@ -18,6 +18,7 @@
 ## Furniture
 
 * Fixed A-Board Sign UI icon and glowing bug (issue [#2469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2469)) (Playtest)
+* Fixed pressing enter adding a new line to editable signs (issue [#2377](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2377)) (Playtest)
 
 # July 26th 2024 (Version 0.3.39 V8) - Playtest
 
