@@ -2,6 +2,10 @@
 
 * Fixed doors (issue [#2472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2472)) (Playtest)
 
+## Blueprints
+
+* Fixed makeshift IBC sink blueptrint (issue [#2467](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2467)) (Playtest)
+
 ## Tenement System
 
 * Fixed the same furniture appearing multiple times in furniture shops (issue [#2470](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2470))
