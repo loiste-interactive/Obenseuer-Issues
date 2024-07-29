@@ -4,6 +4,10 @@
 
 * Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478))
 
+## Furniture
+
+* Fixed haybale requiring 0 yarn
+
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
 * Fixed being able to fall asleep while opening a change level door (issue [#2328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2328))
