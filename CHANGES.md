@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed being able to fall asleep while opening a change level door (issue [#2328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2328))
 * Fixed doors (issue [#2472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2472)) (Playtest)
 
 ## Blueprints
