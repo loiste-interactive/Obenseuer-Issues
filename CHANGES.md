@@ -2,11 +2,16 @@
 
 ## Items
 
-* Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478))
+* Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478)) (Playtest)
 
 ## Furniture
 
-* Fixed haybale requiring 0 yarn
+* Fixed haybale requiring 0 yarn (Playtest)
+
+## Tenement System
+
+* Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
+* Fixed crazy neighbor not showing up in apartment 4 (Playtest)
 
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
