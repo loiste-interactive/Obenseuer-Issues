@@ -16,6 +16,10 @@
 * Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
 * Fixed crazy neighbor not showing up in apartment 4 (Playtest)
 
+## Deekula C
+
+* Fixed missing apartment C3 sink (issue [#2483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2483)) (Playtest)
+
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
 * Fixed being able to fall asleep while opening a change level door (issue [#2328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2328))
