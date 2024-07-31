@@ -13,6 +13,7 @@
 
 ## Tenement System
 
+* Increased resident rents.
 * Total rent income are now not affected by the payment schedule setting.
 * Tenement UI now shows the income in selected payment schedule.
 * Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
