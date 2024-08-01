@@ -8,6 +8,7 @@
 
 ## Items
 
+* Added limestone rock
 * Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478)) (Playtest)
 
 ## Furniture
