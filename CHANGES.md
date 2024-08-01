@@ -2,6 +2,7 @@
 
 * Added text wobble effect when the player is drunk
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
+* Fixed crushers not having an UI image
 * Fixed mashing/distillery/fermenters not accounting input item quality
 * Fixed null spam (issue [#2438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2438)) (Playtest)
 * Fixed not being able to plant multiple plants at once (issue [#2480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2480)) (Playtest)
