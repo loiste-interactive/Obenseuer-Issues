@@ -11,6 +11,10 @@
 * Added limestone rock
 * Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478)) (Playtest)
 
+## Recipes
+
+* Added limestone
+
 ## Furniture
 
 * Fixed haybale requiring 0 yarn (Playtest)
@@ -26,6 +30,8 @@
 ## Deekula C
 
 * Fixed missing apartment C3 sink (issue [#2483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2483)) (Playtest)
+
+
 
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
