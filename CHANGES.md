@@ -7,6 +7,10 @@
 * Fixed null spam (issue [#2438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2438)) (Playtest)
 * Fixed not being able to plant multiple plants at once (issue [#2480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2480)) (Playtest)
 
+## Tasks
+
+* Changed Orange Heaven task dialogue and objectives
+
 ## Items
 
 * Added limestone rock
