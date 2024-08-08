@@ -3,6 +3,7 @@
 * Added text wobble effect when the player is drunk
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
 * Player now receives occasional fake invoice
+* Changed the dialogue comment texts to be easier to read (issue [#2405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2405))
 * Fixed crushers not having an UI image
 * Fixed mashing/distillery/fermenters not accounting input item quality
 * Fixed null spam (issue [#2438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2438)) (Playtest)
