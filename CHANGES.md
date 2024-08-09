@@ -29,6 +29,7 @@
 
 ## Tenement System
 
+* Optimized build menu
 * Increased resident rents.
 * Total rent income are now not affected by the payment schedule setting.
 * Tenement UI now shows the income in selected payment schedule.
