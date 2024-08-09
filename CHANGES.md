@@ -34,6 +34,7 @@
 * Tenement UI now shows the income in selected payment schedule.
 * Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
 * Fixed crazy neighbor not showing up in apartment 4 (Playtest)
+* Fixed rare bug where game crashes when looking at furniture in build mode (issue [#2525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2525))
 
 ## Deekula C
 
