@@ -4,7 +4,7 @@
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
 * Player now receives occasional fake invoice
 * Changed the dialogue comment texts to be easier to read (issue [#2405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2405))
-* Fixed crushers not having an UI image
+* Fixed crushers not having an UI image (Playtest)
 * Fixed mashing/distillery/fermenters not accounting input item quality
 * Fixed null spam (issue [#2438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2438)) (Playtest)
 * Fixed not being able to plant multiple plants at once (issue [#2480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2480)) (Playtest)
@@ -30,9 +30,9 @@
 ## Tenement System
 
 * Optimized build menu
-* Increased resident rents.
-* Total rent income are now not affected by the payment schedule setting.
-* Tenement UI now shows the income in selected payment schedule.
+* Increased resident rents (Playtest)
+* Total rent income are now not affected by the payment schedule setting (Playtest)
+* Tenement UI now shows the income in selected payment schedule
 * Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
 * Fixed crazy neighbor not showing up in apartment 4 (Playtest)
 * Fixed rare bug where game crashes when looking at furniture in build mode (issue [#2525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2525))
@@ -40,8 +40,6 @@
 ## Deekula C
 
 * Fixed missing apartment C3 sink (issue [#2483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2483)) (Playtest)
-
-
 
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
