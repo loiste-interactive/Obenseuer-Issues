@@ -24,6 +24,7 @@
 
 * Added limestone
 * Fixed fried egg recipe using wrong egg (issue [#2531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2531)) (Playtest)
+* Fixed scrap metal recipe typo (issue [#2512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2512)) (Playtest)
 
 ## Furniture
 
