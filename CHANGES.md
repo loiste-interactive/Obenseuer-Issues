@@ -23,6 +23,7 @@
 ## Crafting
 
 * Fixed washing still removing the item skin (issue [#2499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2499)) (Playtest)
+* Fixed non-stolen detergent not reducing charges on use (issue [#2510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2510)) (Playtest)
 
 ## Items
 
