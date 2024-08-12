@@ -16,6 +16,10 @@
 
 * Changed Orange Heaven task dialogue and objectives
 
+## Growing
+
+* Changed how much the player gains skill level from planting (issue [#1955](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1955))
+
 ## Crafting
 
 * Fixed washing still removing the item skin (issue [#2499](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2499)) (Playtest)
