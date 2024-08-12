@@ -32,9 +32,10 @@
 
 ## Furniture
 
-* Fixed haybale requiring 0 yarn (Playtest)
+* Fixed hay bale requiring 0 yarn (Playtest)
 * Fixed electronics station description (issue [#2529](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2529)) (Playtest)
 * Fixed issues with White and Green Rug (issue [#2524](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2524))
+* Fixed Hay Bale blueprint being listed in task items intsead of blueprint section (issue [#2516](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2516)) (Playtest)
 
 ## Tenement System
 
