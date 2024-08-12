@@ -23,6 +23,7 @@
 ## Recipes
 
 * Added limestone
+* Fixed fried egg recipe using wrong egg (issue [#2531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2531)) (Playtest)
 
 ## Furniture
 
