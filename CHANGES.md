@@ -20,6 +20,7 @@
 
 * Added limestone rock
 * Fixed some items missing use sounds
+* Fixed drinking OS Energy Drink not returning an empty can (issue [#2509](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2509))
 * Fixed spring water being so good, that player drinks it all (including the bottle) at once (issue [#2478](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2478)) (Playtest)
 * Fixed not being able to eat one watermelon only (issue [#2523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2523))
 * Updated watermelon stats
