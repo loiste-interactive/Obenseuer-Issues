@@ -11,6 +11,7 @@
 * Fixed not being able to plant multiple plants at once (issue [#2480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2480)) (Playtest)
 * Fixed natural light sources flashing (issue [#2375](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2375)) (Playtest)
 * Fixed npcs being able to give coins when playing the guitar from afar (issue [#2527](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2527)) (Playtest)
+* Fixed game being laggy when filling from owned liquid container while npc sees the player (issue [#2520](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2520)) (Playtest)
 
 ## Tasks
 
