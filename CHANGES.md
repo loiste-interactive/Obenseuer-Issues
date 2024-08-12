@@ -4,6 +4,7 @@
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
 * Player now receives occasional fake invoice
 * Changed the dialogue comment texts to be easier to read (issue [#2405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2405))
+* Fixed money UI when the player has more money than the UI can display (issue [#2528](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2528))
 * Fixed crushers not having an UI image (Playtest)
 * Fixed mashing/distillery/fermenters not accounting input item quality
 * Fixed null spam (issue [#2438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2438)) (Playtest)
@@ -26,6 +27,7 @@
 ## Furniture
 
 * Fixed haybale requiring 0 yarn (Playtest)
+* Fixed electronics station description (issue [#2529](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2529)) (Playtest)
 
 ## Tenement System
 
