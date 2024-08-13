@@ -40,6 +40,8 @@
 ## Recipes
 
 * Added limestone
+* Added a notification if the player picks up a recipe the player already has in inventory
+* Fixed recipes with the same name were not being added to the inventory
 * Fixed fried egg recipe using wrong egg (issue [#2531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2531)) (Playtest)
 * Fixed scrap metal recipe typo (issue [#2512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2512)) (Playtest)
 
