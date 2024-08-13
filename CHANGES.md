@@ -53,14 +53,17 @@
 
 ## Tenement System
 
+* Added status labels to upgrade list UI (issue [#1601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1601))
 * Optimized build menu
 * Increased resident rents (Playtest)
 * Total rent income are now not affected by the payment schedule setting (Playtest)
 * Tenement UI now shows the income in selected payment schedule
+* Changed upgrade list style (issue [#1601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1601))
 * Fixed residents livign rent free (issue [#2508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2508)) (Playtest)
 * Fixed not being able to fully examine apartment 4 (issue [#2479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2479)) (Playtest)
 * Fixed crazy neighbor not showing up in apartment 4 (Playtest)
 * Fixed rare bug where game crashes when looking at furniture in build mode (issue [#2525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2525))
+* Fixed there not being enough slots to display all the required materials (issue [#2511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2511)) (Playtest)
 
 ## Deekula C
 
