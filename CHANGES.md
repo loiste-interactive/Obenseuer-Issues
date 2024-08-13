@@ -70,6 +70,11 @@
 * Fixed not being able to upgrade plumbing (issue [#2536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2536)) (Playtest)
 * Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 
+## Kolhola
+
+* Fixed the office water cooler (issue [#2515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2515)) (Playtest)
+* Fixed Eliana bugs (issue [#2519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2519)) (Playtest)
+
 ## Deekula C
 
 * Fixed missing apartment C3 sink (issue [#2483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2483)) (Playtest)
