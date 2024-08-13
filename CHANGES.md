@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added text wobble effect when the player is drunk
+* Added missing rent payments setting to pause menu (Playtest)
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
 * Player now receives occasional fake invoice
 * Changed the dialogue comment texts to be easier to read (issue [#2405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2405))
