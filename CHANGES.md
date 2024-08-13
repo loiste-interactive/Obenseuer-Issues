@@ -65,6 +65,7 @@
 * Fixed rare bug where game crashes when looking at furniture in build mode (issue [#2525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2525))
 * Fixed there not being enough slots to display all the required materials (issue [#2511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2511)) (Playtest)
 * Fixed not being able to upgrade plumbing (issue [#2536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2536)) (Playtest)
+* Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 
 ## Deekula C
 
