@@ -73,6 +73,11 @@
 * Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
 
+## Kolhola
+
+* Fixed the office water cooler (issue [#2515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2515)) (Playtest)
+* Fixed Eliana bugs (issue [#2519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2519)) (Playtest)
+
 ## Tenement A
 
 * Fixed the fan not being at right position (issue [#2062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2062)) (Playtest)
@@ -81,10 +86,11 @@
 
 * Fixed player knowing Passmore's password before getting it (issue [#2316](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2316)) (Playtest)
 
-## Kolhola
+## Deekula B
 
-* Fixed the office water cooler (issue [#2515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2515)) (Playtest)
-* Fixed Eliana bugs (issue [#2519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2519)) (Playtest)
+* Fixed not being able to use other keys to unlock storage (issue [#1413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1413))
+* Fixed Max Masher becoming un-hurt after reload (issue [#2334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2334))
+* Fixed bathtub missing collision and making the player to cough after being cleaned (issue [#2225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2225))
 
 ## Deekula C
 
