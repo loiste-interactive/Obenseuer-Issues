@@ -14,6 +14,7 @@
 * Fixed npcs being able to give coins when playing the guitar from afar (issue [#2527](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2527)) (Playtest)
 * Fixed game being laggy when filling from owned liquid container while npc sees the player (issue [#2520](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2520)) (Playtest)
 * Fixed prison escape giving extreme bounties (issue [#2526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2526)) (Playtest)
+* Fixed some growing plants having wrong state at start (issue [#2186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2186))
 
 ## Tasks
 
@@ -71,6 +72,10 @@
 * Fixed not being able to upgrade plumbing (issue [#2536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2536)) (Playtest)
 * Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
+
+## Tenement A
+
+* Fixed the fan not being at right position (issue [#2062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2062)) (Playtest)
 
 ## Tenement B
 
