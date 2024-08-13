@@ -72,6 +72,10 @@
 * Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
 
+## Tenement B
+
+* Fixed player knowing Passmore's password before getting it (issue [#2316](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2316)) (Playtest)
+
 ## Kolhola
 
 * Fixed the office water cooler (issue [#2515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2515)) (Playtest)
