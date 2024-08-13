@@ -44,6 +44,7 @@
 * Fixed recipes with the same name were not being added to the inventory
 * Fixed fried egg recipe using wrong egg (issue [#2531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2531)) (Playtest)
 * Fixed scrap metal recipe typo (issue [#2512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2512)) (Playtest)
+* Fixed learned or collected recipes not getting updated on older saves (issue [#2409](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2409))
 
 ## Furniture
 
