@@ -77,6 +77,10 @@
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
 * Fixed bugged fine canal sauna wall (issue [#2539](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2539))
 
+## O Market
+
+* Fixed daily newspapers not restocking (issue [#2204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2204)) (Playtest)
+
 ## Kolhola
 
 * Fixed the office water cooler (issue [#2515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2515)) (Playtest)
