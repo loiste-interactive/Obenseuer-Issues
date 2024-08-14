@@ -99,6 +99,10 @@
 
 * Fixed missing apartment C3 sink (issue [#2483](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2483)) (Playtest)
 
+## Makeshift House (House1)
+
+* Fixed being able to get two heads (issue [#2506](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2506)) (Playtest)
+
 # July 29th 2024 (Version 0.3.39 V9) - Playtest
 
 * Fixed being able to fall asleep while opening a change level door (issue [#2328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2328))
