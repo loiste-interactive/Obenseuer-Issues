@@ -73,6 +73,7 @@
 * Fixed not being able to upgrade plumbing (issue [#2536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2536)) (Playtest)
 * Fixed animals falling through everything in placing mode (issue [#2077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2077))
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
+* Fixed bugged fine canal sauna wall (issue [#2539](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2539))
 
 ## Kolhola
 
