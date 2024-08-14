@@ -15,6 +15,7 @@
 * Fixed game being laggy when filling from owned liquid container while npc sees the player (issue [#2520](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2520)) (Playtest)
 * Fixed prison escape giving extreme bounties (issue [#2526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2526)) (Playtest)
 * Fixed some growing plants having wrong state at start (issue [#2186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2186))
+* Fixed being able to try read newspaper if stats are too low (issue [#2175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2175)) (Playtest)
 * Improved saving and loading times
 
 ## Tasks
