@@ -1,5 +1,7 @@
 # Upcoming
 
+# August 15th 2024 (Version 0.3.40) - Playtest
+
 * Added text wobble effect when the player is drunk
 * Added missing rent payments setting to pause menu (Playtest)
 * Low tier mashes and alcohols now yield better qualities (to easen the start of the game)
@@ -18,7 +20,6 @@
 * Fixed being able to try read newspaper if stats are too low (issue [#2175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2175)) (Playtest)
 * Fixed Sunday coming after Monday when the month start over
 * Fixed npc sit animations being bugged after loading a game (issue [#2513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2513)) (Playtest)
-* Improved saving and loading times
 
 ## Tasks
 
