@@ -16,7 +16,8 @@
 * Fixed prison escape giving extreme bounties (issue [#2526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2526)) (Playtest)
 * Fixed some growing plants having wrong state at start (issue [#2186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2186))
 * Fixed being able to try read newspaper if stats are too low (issue [#2175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2175)) (Playtest)
-* Fixed Sunday coming after Monday when the month start over 
+* Fixed Sunday coming after Monday when the month start over
+* Fixed npc sit animations being bugged after loading a game (issue [#2513](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2513)) (Playtest)
 * Improved saving and loading times
 
 ## Tasks
