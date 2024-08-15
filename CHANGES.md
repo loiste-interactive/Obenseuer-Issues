@@ -79,6 +79,10 @@
 * Fixed the "ghost" toilet in Apartment 16 (issue [#2507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2507))
 * Fixed bugged fine canal sauna wall (issue [#2539](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2539))
 
+## Gatehouse
+
+* Fixed gatehouse storage being too small for rucksack items (issue [#2535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2535)) (Playtest)
+
 ## O-Market
 
 * Fixed daily newspapers not restocking (issue [#2204](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2204)) (Playtest)
