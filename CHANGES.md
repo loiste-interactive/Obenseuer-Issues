@@ -59,6 +59,7 @@
 * Fixed issues with White and Green Rug (issue [#2524](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2524))
 * Fixed Hay Bale blueprint being listed in task items intsead of blueprint section (issue [#2516](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2516)) (Playtest)
 * Fixed plank bed and shabby bed blueprints (issue [#2498](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2498))
+* Fixed barrel shower liquid disappearing (issue [#2541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2541)) (Playtest)
 
 ## Tenement System
 
