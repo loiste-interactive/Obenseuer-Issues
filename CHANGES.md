@@ -3,6 +3,10 @@
 * Fixed not being able to talk to some NPCs (issue [#2542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2542)) (Playtest)
 * Fixed not being able to use some tools (issue [#2547](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2547)) (Playtest)
 
+## Tenement System
+
+* Fixed the crazy neighbor killing the previous tenant (issue [#2556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2556)) (Playtest)
+
 # August 15th 2024 (Version 0.3.40) - Playtest
 
 * Added text wobble effect when the player is drunk
