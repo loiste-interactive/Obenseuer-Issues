@@ -10,6 +10,7 @@
 ## Tenement System
 
 * Fixed the crazy neighbor killing the previous tenant (issue [#2556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2556)) (Playtest)
+* Fixed plants disappearing (issue [#2557](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2557)) (Playtest)
 
 # August 15th 2024 (Version 0.3.40) - Playtest
 
