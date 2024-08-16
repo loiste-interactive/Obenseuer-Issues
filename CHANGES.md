@@ -7,6 +7,7 @@
 * Fixed not being able to use some tools (issue [#2547](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2547)) (Playtest)
 * Fixed the game getting stuck when pressing "quit to main menu" (issue [#2559](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2559)) (Playtest)
 * Fixed not being able to pickup anything (issue [#2555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2555)) (Playtest)
+* Fixed not being able to fill liquid containers in manufacturing process crafting stations (issue [#2544](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2544)) (Playtest)
 
 ## Tenement System
 
