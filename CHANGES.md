@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed face masks not working after loading the game while the face mask is equipped (issue [#2558](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2558))
+* Fixed being able to unlock a locked door when the lockpick stack deplates fully (issue [#2550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2550))
 * Fixed some dropped items, mold etc. not disappearing when they should
 * Fixed not being able to talk to some NPCs (issue [#2542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2542)) (Playtest)
 * Fixed not being able to use some tools (issue [#2547](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2547)) (Playtest)
