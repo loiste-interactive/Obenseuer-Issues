@@ -5,6 +5,7 @@
 * Fixed not being able to talk to some NPCs (issue [#2542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2542)) (Playtest)
 * Fixed not being able to use some tools (issue [#2547](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2547)) (Playtest)
 * Fixed the game getting stuck when pressing "quit to main menu" (issue [#2559](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2559)) (Playtest)
+* Fixed not being able to pickup anything (issue [#2555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2555)) (Playtest)
 
 ## Tenement System
 
