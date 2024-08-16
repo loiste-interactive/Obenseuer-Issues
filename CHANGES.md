@@ -11,8 +11,15 @@
 
 ## Tenement System
 
-* Fixed the crazy neighbor killing the previous tenant (issue [#2556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2556)) (Playtest)
+* Changed the Crazy Neighbor to open the apartment's door when the player opens the door with lockpicks first time (issue [#2551](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2551)) (Playtest)
+* Fixed the Crazy Neighbor killing the previous tenant (issue [#2556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2556)) (Playtest)
 * Fixed plants disappearing (issue [#2557](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2557)) (Playtest)
+* Fixed the crazy neighbors apartment counting examination (issue [#2549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2549)) (Playtest)
+* Fixed the crazy neighbor not reacting to stealing owned items (issue [#2553](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2553)) (Playtest)
+
+## O-Market
+
+* Fixed some items getting moldy (issue [#2543](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2543)) (Playtest)
 
 # August 15th 2024 (Version 0.3.40) - Playtest
 
