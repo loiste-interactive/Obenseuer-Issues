@@ -4,6 +4,10 @@
 
 * Changed decorative items stall to janitor stall
 
+## Recipes
+
+* Added shroom water (chemical lab)
+
 # August 16th 2024 (Version 0.3.40 V2) - Playtest
 
 * Fixed face masks not working after loading the game while the face mask is equipped (issue [#2558](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2558))
