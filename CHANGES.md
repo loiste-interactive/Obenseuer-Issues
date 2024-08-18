@@ -12,6 +12,9 @@
 
 ## Recipes
 
+* Added Blackccurant Mash
+* Added Blackcurrant Wine
+* Added Blackcurrant Liqueur
 * Added Blackcurrant Juice
 * Added shroom water (chemical lab)
 * Added sugar mash from sugar beet juice
