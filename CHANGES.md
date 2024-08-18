@@ -19,6 +19,9 @@
 
 ## Items
 
+* Added Blackccurant Mash
+* Added Blackcurrant Wine
+* Added Blackcurrant Liqueur
 * Added Blackcurrant Juice
 * Added Blackcurrant Juice Concentrate
 * Mason jars are now 2L
