@@ -14,6 +14,7 @@
 
 ## Items
 
+* Mason jars are now 2L
 * Sugar beet juice is now liquid
 
 # August 16th 2024 (Version 0.3.40 V2) - Playtest
