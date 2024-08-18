@@ -1,5 +1,6 @@
 # Upcoming
 
+* Improved price of low quality products.
 * Good masing kettle is now 30L
 
 ## Outside
