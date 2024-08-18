@@ -1,6 +1,6 @@
 # Upcoming
 
-* Good masing kettle is now 25L
+* Good masing kettle is now 30L
 
 ## Outside
 
