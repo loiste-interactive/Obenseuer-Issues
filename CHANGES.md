@@ -6,6 +6,10 @@
 
 * Changed decorative items stall to janitor stall
 
+## O-Market
+
+* O-Market now sells blackcurrant juice concentrate
+
 ## Recipes
 
 * Added Blackcurrant Juice
