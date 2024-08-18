@@ -9,6 +9,7 @@
 ## Recipes
 
 * Added shroom water (chemical lab)
+* Updated sugar beet juice recipe to not require bucket
 
 ## Items
 
