@@ -36,6 +36,7 @@
 * Mason jars are now 2L
 * Sugar beet juice is now liquid
 * Fixed OS Energy Drink being uncaffeinated (issue [#2582](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2582))
+* Fixed player eating cash box instead of breaking it (issue [#2568](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2568))
 
 # August 16th 2024 (Version 0.3.40 V2) - Playtest
 
