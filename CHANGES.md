@@ -1,5 +1,6 @@
 # Upcoming
 
+* Itemstacks can now be merged if quality label is same.
 * Improved price of low quality products.
 * Good masing kettle is now 30L
 
