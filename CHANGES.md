@@ -12,6 +12,9 @@
 
 ## Recipes
 
+* Added Mushroom Blackccurant Mash
+* Added Mushroom Blackcurrant Wine
+* Added Mushroom Blackcurrant Liqueur
 * Added Blackccurant Mash
 * Added Blackcurrant Wine
 * Added Blackcurrant Liqueur
@@ -22,6 +25,9 @@
 
 ## Items
 
+* Added Mushroom Blackccurant Mash
+* Added Mushroom Blackcurrant Wine
+* Added Mushroom Blackcurrant Liqueur
 * Added Blackccurant Mash
 * Added Blackcurrant Wine
 * Added Blackcurrant Liqueur
