@@ -14,6 +14,8 @@
 
 ## Items
 
+* Added Blackcurrant Juice
+* Added Blackcurrant Juice Concentrate
 * Mason jars are now 2L
 * Sugar beet juice is now liquid
 
