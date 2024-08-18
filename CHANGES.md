@@ -1,5 +1,7 @@
 # Upcoming
 
+* Good masing kettle is now 25L
+
 ## Outside
 
 * Changed decorative items stall to janitor stall
