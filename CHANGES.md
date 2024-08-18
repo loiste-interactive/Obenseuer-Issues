@@ -8,6 +8,7 @@
 
 ## Recipes
 
+* Added Blackcurrant Juice
 * Added shroom water (chemical lab)
 * Added sugar mash from sugar beet juice
 * Updated sugar beet juice recipe to not require bucket
