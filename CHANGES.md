@@ -14,6 +14,7 @@
 ## Outside
 
 * Changed decorative items stall to janitor stall
+* Fixed Tenement A doorphone being broken (issue [#2581](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2581)) (Playtest)
 
 ## Deekula C
 
