@@ -18,6 +18,7 @@
 ## Deekula C
 
 * Fixed Mobelmann's door not being open during his opening times (issue [#2570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2570)) (Playtest)
+* Fixed Homecoming quest being stuck at the first step (issue [#2573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2573)) (Playtest)
 
 ## O-Market
 
