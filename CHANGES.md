@@ -10,6 +10,7 @@
 * Fixed recipes not showing correct name (issue [#2588](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2588)) (Playtest)
 * Fixed liquid quality not being set correctly after load (issue [#2583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2583)) (Playtest)
 * Fixed fermenting bucket and other manufacturing processes not having the correct capacity (issue [#2563](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2563)) (Playtest)
+* Fixed getting crime points when sorting inventory (issue [#2578](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2578)) (Playtest)
 
 ## Tenement System
 
