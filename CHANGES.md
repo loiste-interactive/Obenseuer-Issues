@@ -15,6 +15,10 @@
 
 * Changed decorative items stall to janitor stall
 
+## Deekula C
+
+* Fixed Mobelmann's door not being open during his opening times (issue [#2570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2570)) (Playtest)
+
 ## O-Market
 
 * O-Market now sells blackcurrant juice concentrate
