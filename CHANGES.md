@@ -6,6 +6,7 @@
 * Fixed the bathtub corpse not being removed when reporting multiple corspes (issue [#2537](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2537)) (Playtest)
 * Fixed calling the police to report a body softlocking the game (issue [#2592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2592)) (Playtest)
 * Fixed being able to get crime points when item is not moved to player inventory (issue [#2591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2591))
+* Fixed recipes not showing correct name (issue [#2588](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2588)) (Playtest)
 
 ## Outside
 
