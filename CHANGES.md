@@ -25,6 +25,10 @@
 
 * O-Market now sells blackcurrant juice concentrate
 
+## Kohola
+
+* Fixed occlusion issues (issue [#2575](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2575)) (Playtest)
+
 ## Furniture
 
 * Fixed fluid containers being owned (issue [#2584](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2584)) (Playtest)
