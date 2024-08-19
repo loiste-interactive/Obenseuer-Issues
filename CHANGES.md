@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added shortkey for filling/unfilling liquid containers (issue [#2579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2579)) (Playtest)
 * Itemstacks can now be merged if quality label is same.
 * Improved price of low quality products.
 * Good masing kettle is now 30L
