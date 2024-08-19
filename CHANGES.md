@@ -16,6 +16,10 @@
 
 * O-Market now sells blackcurrant juice concentrate
 
+## Furniture
+
+* Fixed fluid containers being owned (issue [#2584](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2584)) (Playtest)
+
 ## Recipes
 
 * Added Mushroom Blackccurant Mash
