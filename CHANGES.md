@@ -11,6 +11,10 @@
 * Fixed liquid quality not being set correctly after load (issue [#2583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2583)) (Playtest)
 * Fixed fermenting bucket and other manufacturing processes not having the correct capacity (issue [#2563](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2563)) (Playtest)
 
+## Tenement System
+
+* Fixed not being able to remove furniture sometimes (issue [#2562](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2562)) (Playtest)
+
 ## Outside
 
 * Changed decorative items stall to janitor stall
