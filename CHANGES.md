@@ -12,6 +12,7 @@
 * Fixed fermenting bucket and other manufacturing processes not having the correct capacity (issue [#2563](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2563)) (Playtest)
 * Fixed getting crime points when sorting inventory (issue [#2578](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2578)) (Playtest)
 * Fixed Dr. Pena MD giving an inaccurate addiction stat (issue [#2605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2605)) (Playtest)
+* Fixed brick furnace stops running after load (issue [#2608](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2608)) (Playtest)
 
 ## Tenement System
 
