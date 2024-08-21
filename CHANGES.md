@@ -13,6 +13,8 @@
 * Fixed getting crime points when sorting inventory (issue [#2578](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2578)) (Playtest)
 * Fixed Dr. Pena MD giving an inaccurate addiction stat (issue [#2605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2605)) (Playtest)
 * Fixed brick furnace stops running after load (issue [#2608](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2608)) (Playtest)
+* Fixed missing lockpicking animation (issue [#2612](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2612)) (Playtest)
+* Fixed subtitles not showing names correctly (issue [#2609](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2609)) (Playtest)
 
 ## Tenement System
 
