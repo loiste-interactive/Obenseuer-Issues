@@ -15,6 +15,7 @@
 * Fixed brick furnace stops running after load (issue [#2608](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2608)) (Playtest)
 * Fixed missing lockpicking animation (issue [#2612](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2612)) (Playtest)
 * Fixed subtitles not showing names correctly (issue [#2609](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2609)) (Playtest)
+* Fixed the ability to use some toilets when the lid is not up (issue [#2610](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2610)) (Playtest)
 
 ## Tenement System
 
