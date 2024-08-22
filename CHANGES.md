@@ -9,6 +9,7 @@
 
 ## Items
 
+* Added steel wire
 * Fixed mason jar tooltip
 
 # August 22nd 2024 (Version 0.3.40 V3) - Playtest
