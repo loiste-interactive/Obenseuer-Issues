@@ -17,6 +17,8 @@
 
 ## Items
 
+* Added watermelon moonshine
+* Added watermelon mushroom moonshine
 * Added watermelon wine
 * Added mushroom watermelon wine
 * Added steel wire
