@@ -2,6 +2,10 @@
 
 * Added loom
 
+## Items
+
+* Fixed mason jar tooltip
+
 # August 22nd 2024 (Version 0.3.40 V3) - Playtest
 
 * Added shortkey for filling/unfilling liquid containers (issue [#2579](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2579)) (Playtest)
