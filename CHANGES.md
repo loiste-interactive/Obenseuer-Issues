@@ -8,10 +8,15 @@
 * Added Cloth Roll
 * Mesh uses now steel wire instead of cable
 * Mesh is now a loom recipe
+* Fixed some mashes yielding wrong amount of ruined mash
 
 ## Items
 
 * Added steel wire
+* Added watermelon mash
+* Added watermelon mushroom mash
+* Increased watermelon price
+* Increased watermelon jam price
 * Fixed mason jar tooltip
 
 ## Furniture
