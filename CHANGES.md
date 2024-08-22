@@ -11,6 +11,7 @@
 * Mesh uses now steel wire instead of cable
 * Mesh is now a loom recipe
 * Fixed some mashes yielding wrong amount of ruined mash
+* Fixed shroom blackrurrant mash yielding wrong amount of mash
 
 ## Items
 
