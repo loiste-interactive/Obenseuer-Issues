@@ -6,6 +6,8 @@
 
 * Added Tarp Roll
 * Added Cloth Roll
+* Added watermelon mash
+* Added glowing watermelon mash
 * Mesh uses now steel wire instead of cable
 * Mesh is now a loom recipe
 * Fixed some mashes yielding wrong amount of ruined mash
