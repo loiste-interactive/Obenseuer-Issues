@@ -21,7 +21,7 @@
 
 ## Crafting
 
-* Fixed dupe exploit (issue [#2614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2614)) (Playtest)
+* Fixed being able to fill an infinite amount of liquid at manufacturing process stations when the liquid container has the same liquid (issue [#2614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2614))
 
 ## Tenement System
 
