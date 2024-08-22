@@ -2,6 +2,11 @@
 
 * Added loom
 
+## Recipes
+
+* Added Tarp Roll
+* Added Cloth Roll
+
 ## Items
 
 * Fixed mason jar tooltip
