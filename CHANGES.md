@@ -8,6 +8,8 @@
 * Added Cloth Roll
 * Added watermelon mash
 * Added glowing watermelon mash
+* Added watermelon wine
+* Added mushroom watermelon wine
 * Mesh uses now steel wire instead of cable
 * Mesh is now a loom recipe
 * Fixed some mashes yielding wrong amount of ruined mash
@@ -15,6 +17,8 @@
 
 ## Items
 
+* Added watermelon wine
+* Added mushroom watermelon wine
 * Added steel wire
 * Added watermelon mash
 * Added watermelon mushroom mash
