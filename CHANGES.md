@@ -6,6 +6,8 @@
 
 * Added Tarp Roll
 * Added Cloth Roll
+* Mesh uses now steel wire instead of cable
+* Mesh is now a loom recipe
 
 ## Items
 
