@@ -19,6 +19,10 @@
 * Fixed the ability to use some toilets when the lid is not up (issue [#2610](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2610)) (Playtest)
 * Fixed blueprints not spawning (issue [#2616](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2616)) (Playtest)
 
+## Crafting
+
+* Fixed dupe exploit (issue [#2614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2614)) (Playtest)
+
 ## Tenement System
 
 * Fixed not being able to remove furniture sometimes (issue [#2562](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2562)) (Playtest)
