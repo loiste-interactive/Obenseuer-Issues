@@ -24,6 +24,7 @@
 * Added steel wire
 * Added watermelon mash
 * Added watermelon mushroom mash
+* Mushroom rollies now have quality data
 * Increased watermelon price
 * Increased watermelon jam price
 * Fixed mason jar tooltip
