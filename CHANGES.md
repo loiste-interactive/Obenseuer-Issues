@@ -4,6 +4,7 @@
 
 ## Recipes
 
+* Added Bandage
 * Added Tarp Roll
 * Added Cloth Roll
 * Added watermelon mash
