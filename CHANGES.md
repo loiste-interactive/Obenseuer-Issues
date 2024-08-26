@@ -1,6 +1,8 @@
 # Upcoming
 
 * Added loom
+* Glowing rats can now randomly attack the player
+* Glowing rats cause coughing when near them
 
 ## Recipes
 
