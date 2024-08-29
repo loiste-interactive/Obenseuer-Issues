@@ -1,5 +1,11 @@
 # Upcoming
 
+* Added Small Playtest Mines Area (Playtest)
+* Added Interior Mines Barrack Hotel (Playtest)
+* Added Interior Mines Canteen (Playtest)
+* Added Interior Mines Management (Playtest)
+* Added Interior Mines Office (Playtest)
+* Added Interior Mines Shroom Farm Apartment (Playtest)
 * Added loom
 * Glowing rats can now randomly attack the player
 * Glowing rats cause coughing when near them
