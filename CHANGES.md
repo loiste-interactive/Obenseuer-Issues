@@ -35,6 +35,8 @@
 ## Furniture
 
 * Added loom
+* Fixed not being able to place the tripod camera (issue [#2641](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2641))
+* Fixed not being able to place the chainsaw (issue [#2641](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2641))
 
 ## Pharmacy
 
