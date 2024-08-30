@@ -1,7 +1,7 @@
 # Upcoming
 
 * Fixed the crafting stations not working if there's a missing learned recipe (Playtest)
-* Fixed the mines map not loading (Playtest)
+* Fixed the mines UI map not loading (Playtest)
 
 # August 30th 2024 (Version 0.3.41) - Playtest
 
