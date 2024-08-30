@@ -11,6 +11,10 @@
 * Glowing rats cause coughing when near them
 * Fixed level file not being migrated when changing level (issue [#2482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2482))
 
+## Tenement System
+
+* Fixed Fine Pier Sauna leading to Under Map (issue [#2645](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2645)) (Playtest)
+
 ## Recipes
 
 * Added Bandage
