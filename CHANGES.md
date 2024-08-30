@@ -1,5 +1,7 @@
 # Upcoming
 
+# August 30th 2024 (Version 0.3.41) - Playtest
+
 * Added Small Playtest Mines Area (Playtest)
 * Added Interior Mines Barrack Hotel (Playtest)
 * Added Interior Mines Canteen (Playtest)
