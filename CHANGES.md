@@ -9,6 +9,7 @@
 * Added loom
 * Glowing rats can now randomly attack the player
 * Glowing rats cause coughing when near them
+* Fixed level file not being migrated when changing level (issue [#2482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2482))
 
 ## Recipes
 
