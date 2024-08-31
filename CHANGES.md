@@ -3,6 +3,10 @@
 * Fixed the crafting stations not working if there's a missing learned recipe (Playtest)
 * Fixed the mines UI map not loading (Playtest)
 
+## Recipes
+
+* Coffee now has better quality on lower levels
+
 # August 30th 2024 (Version 0.3.41) - Playtest
 
 * Added Small Playtest Mines Area (Playtest)
