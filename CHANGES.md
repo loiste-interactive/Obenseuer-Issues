@@ -3,6 +3,7 @@
 * Fixed the crafting stations not working if there's a missing learned recipe (Playtest)
 * Fixed the mines UI map not loading (Playtest)
 * Fixed typos in dialogue and letters
+* Fixed makeshift passport becoming real (forged) passport (issue [#2682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2682))
 
 ## Recipes
 
