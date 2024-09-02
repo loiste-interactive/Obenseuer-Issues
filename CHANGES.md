@@ -15,6 +15,10 @@
 
 * Fixed stuff spoiling in Anna's storage (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 
+## Outside
+
+* Fixed Teuvo being an anon (issue [#2677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2677))
+
 # August 30th 2024 (Version 0.3.41) - Playtest
 
 * Added Small Playtest Mines Area (Playtest)
