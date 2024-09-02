@@ -12,6 +12,7 @@
 
 ## Recipes
 
+* Added recipes to shroomify meats
 * Coffee now has better quality on lower levels
 
 ## Furniture
