@@ -34,6 +34,7 @@
 ## Outside
 
 * Fixed Teuvo being an anon (issue [#2677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2677))
+* Fixed janitor going to home too early (issue [#2648](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2648))
 
 # August 30th 2024 (Version 0.3.41) - Playtest
 
