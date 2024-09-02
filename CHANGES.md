@@ -7,6 +7,7 @@
 
 ## Items
 
+* Added glass fask
 * Fixed shroom coffee not having shroom in it (issue [#2665](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2665))
 
 ## Recipes
