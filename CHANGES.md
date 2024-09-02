@@ -17,6 +17,10 @@
 
 * Fixed stuff spoiling in Anna's storage (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 
+## Mines Hotel
+
+* Fixed room 4 not giving access to bed (issue [#2674](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2674))
+
 ## Outside
 
 * Fixed Teuvo being an anon (issue [#2677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2677))
