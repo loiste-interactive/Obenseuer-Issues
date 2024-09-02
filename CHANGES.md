@@ -9,6 +9,10 @@
 
 * Coffee now has better quality on lower levels
 
+## Furniture
+
+* Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
+
 ## Blueprints
 
 * Fixed pillows being very important to be considered as task items (issue [#2669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2669))
