@@ -7,6 +7,10 @@
 
 * Coffee now has better quality on lower levels
 
+## Blueprints
+
+* Fixed pillows being very important to be considered as task items (issue [#2669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2669))
+
 ## Mines Canteen
 
 * Fixed stuff spoiling in Anna's storage (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
