@@ -5,6 +5,10 @@
 * Fixed typos in dialogue and letters
 * Fixed makeshift passport becoming real (forged) passport (issue [#2682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2682))
 
+## Items
+
+* Fixed shroom coffee not having shroom in it (issue [#2665](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2665))
+
 ## Recipes
 
 * Coffee now has better quality on lower levels
