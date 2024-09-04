@@ -5,6 +5,7 @@
 * Fixed the mines UI map not loading (Playtest)
 * Fixed typos in dialogue and letters
 * Fixed makeshift passport becoming real (forged) passport (issue [#2682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2682))
+* Fixed facemask having a high hygiene penalty (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 
 ## Items
 
