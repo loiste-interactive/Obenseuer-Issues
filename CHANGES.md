@@ -44,6 +44,7 @@
 
 ## Tenement A
 
+* Fredrik got his lab back into working order (issue [#2411](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2411))
 * Fixed Saunas being some weird blashphemous warm rooms where you're not allowed to throw water on stones (issue [#2504](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2504))
 
 # August 30th 2024 (Version 0.3.41) - Playtest
