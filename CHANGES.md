@@ -29,6 +29,7 @@
 
 ## Mines Canteen
 
+* Fixed sledgehammering rats not counting as solving the rat problem (issue [#2667](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2667))
 * Fixed stuff spoiling in Anna's storage (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 
 ## Mines Hotel
