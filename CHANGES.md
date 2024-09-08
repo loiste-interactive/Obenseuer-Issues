@@ -23,6 +23,7 @@
 
 ## Furniture
 
+* Added 4 new union flags (reward)
 * Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
 * Fixed dismantling barrel shower giving buckets (issue [#2671](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2671))
 
