@@ -1,5 +1,6 @@
 # Upcoming
 
+* Jonasson now sells loom
 * Telemarketing job is now less soul grinding
 * Safes now have different types of loot
 * Fixed the crafting stations not working if there's a missing learned recipe (Playtest)
