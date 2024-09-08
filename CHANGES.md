@@ -27,6 +27,7 @@
 
 ## Blueprints
 
+* Added loom blueprint
 * Fixed pillows being very important to be considered as task items (issue [#2669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2669))
 
 ## Mines Canteen
