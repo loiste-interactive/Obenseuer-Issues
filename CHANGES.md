@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added 4 new skill achievements
 * Jonasson now sells loom
 * Telemarketing job is now less soul grinding
 * Safes now have different types of loot
