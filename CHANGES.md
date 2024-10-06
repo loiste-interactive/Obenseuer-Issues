@@ -35,7 +35,7 @@
 
 ## Tenement System
 
-* Outsided of exterior saunas now have a cooldown effect.
+* Outsides of exterior saunas now have a weak cooldown effect.
 
 ## Mines Canteen
 
