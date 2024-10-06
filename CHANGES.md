@@ -33,6 +33,10 @@
 * Added loom blueprint
 * Fixed pillows being very important to be considered as task items (issue [#2669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2669))
 
+## Tenement System
+
+* Outsided of exterior saunas now have a cooldown effect.
+
 ## Mines Canteen
 
 * Fixed sledgehammering rats not counting as solving the rat problem (issue [#2667](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2667))
