@@ -25,12 +25,14 @@
 ## Furniture
 
 * Added 4 new union flags (reward)
+* Added multiple furniture from this list (issue [#2412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2412))
 * Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
 * Fixed dismantling barrel shower giving buckets (issue [#2671](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2671))
 
 ## Blueprints
 
 * Added loom blueprint
+* Added stone fireplace
 * Fixed pillows being very important to be considered as task items (issue [#2669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2669))
 
 ## Tenement System
