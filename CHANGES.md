@@ -1,6 +1,8 @@
 # Upcoming
 
 * Added 4 new skill achievements
+* Added new stat for orange mushrooms
+* Added new consumption effects for orange mushrooms
 * Jonasson now sells loom
 * Telemarketing job is now less soul grinding
 * Safes now have different types of loot
@@ -15,11 +17,15 @@
 ## Items
 
 * Added glass flask
+* Added Orange Mushroom Powder
+* Added Pure Orange Mushroom Powder
 * Fixed shroom coffee not having shroom in it (issue [#2665](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2665))
 
 ## Recipes
 
 * Added recipes to shroomify meats
+* Added Orange Mushroom Powder Recipe
+* Added Pure Orange Mushroom Powder Recipe
 * Coffee now has better quality on lower levels
 
 ## Furniture
