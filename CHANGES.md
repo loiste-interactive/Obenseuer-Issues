@@ -31,6 +31,7 @@
 * Added Orange Mushroom Powder Recipe
 * Added Pure Orange Mushroom Powder Recipe
 * Coffee now has better quality on lower levels
+* Fixed not being able to cook Chicken Curry Sauce with Rice (issue [#2712](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2712))
 
 ## Furniture
 
