@@ -14,6 +14,10 @@
 * Fixed facemask having a high hygiene penalty (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 * Fixed pressing down key on editable signs adding new lines (issue [#2481](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2481))
 
+## Crafting
+
+* Fixed not being able to wash flashlights and some other items with ammo data (issue [#2724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2724))
+
 ## Items
 
 * Added glass flask
