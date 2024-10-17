@@ -50,7 +50,8 @@
 
 ## Tenement System
 
-* Outsides of exterior saunas now have a weak cooldown effect.
+* Outsides of exterior saunas now have a weak cooldown effect
+* Fixed renovation icons not being updated after starting an upgrade (issue [#2676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2676))
 
 ## Mines Canteen
 
