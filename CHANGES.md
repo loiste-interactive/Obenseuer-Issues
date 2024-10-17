@@ -13,6 +13,7 @@
 * Fixed makeshift passport becoming real (forged) passport (issue [#2682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2682))
 * Fixed facemask having a high hygiene penalty (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 * Fixed pressing down key on editable signs adding new lines (issue [#2481](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2481))
+* Fixed time skipping when loading game or changing scene (issue [#2705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2705)) (Playtest)
 
 ## Crafting
 
