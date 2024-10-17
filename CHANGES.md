@@ -14,6 +14,8 @@
 * Fixed facemask having a high hygiene penalty (issue [#2686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2686))
 * Fixed pressing down key on editable signs adding new lines (issue [#2481](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2481))
 * Fixed time skipping when loading game or changing scene (issue [#2705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2705)) (Playtest)
+* Fixed hatched eggs spawning a chick after loading the game (issue [#2722](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2722)) (Playtest)
+* Fixed animals not spawning after loading the game (Playtest)
 
 ## Crafting
 
