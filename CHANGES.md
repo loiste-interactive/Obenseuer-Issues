@@ -39,6 +39,10 @@
 ## Furniture
 
 * Added 4 new union flags (reward)
+* Added License Plates
+* Added more Beer Crate colors
+* Added Pappa-Tunturi
+* Added Devil's Angels Wall Flag
 * Added multiple furniture from this list (issue [#2412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2412))
 * Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
 * Fixed dismantling barrel shower giving buckets (issue [#2671](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2671))
