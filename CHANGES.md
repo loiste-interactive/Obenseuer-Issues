@@ -23,6 +23,8 @@
 
 ## Items
 
+* Added snus
+* Added nicotine pouches
 * Added glass flask
 * Added Orange Mushroom Powder
 * Added Pure Orange Mushroom Powder
