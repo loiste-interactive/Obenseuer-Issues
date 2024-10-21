@@ -59,6 +59,8 @@
 
 ## Tenement System
 
+* Added ablity to change furniture style in building menu (e.g. a sleeping bag to a packed form)
+* Added the reason to the rent buttons why the apartments cannot be rented
 * Outsides of exterior saunas now have a weak cooldown effect
 * Fixed renovation icons not being updated after starting an upgrade (issue [#2676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2676))
 
