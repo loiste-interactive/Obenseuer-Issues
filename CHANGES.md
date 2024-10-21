@@ -48,6 +48,7 @@
 * Added multiple furniture from this list (issue [#2412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2412))
 * Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
 * Fixed dismantling barrel shower giving buckets (issue [#2671](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2671))
+* Fixed dismantling Old Bathtub With Soil giving 0 Old Bathtubs (issue [#2739](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2739))
 
 ## Blueprints
 
