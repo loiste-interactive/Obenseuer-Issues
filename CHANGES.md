@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added Interior Mines Potato Mine (Playtest)
 * Added 4 new skill achievements
 * Added new stat for orange mushrooms
 * Added new consumption effects for orange mushrooms
