@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 23rd 2024 (Version 0.3.42) - Playtest
+
 * Added Interior Mines Potato Mine (Playtest)
 * Added 4 new skill achievements
 * Added new stat for orange mushrooms
@@ -43,10 +45,15 @@
 ## Furniture
 
 * Added 4 new union flags (reward)
+* Added skins to various furniture
 * Added License Plates
-* Added more Beer Crate colors
 * Added Pappa-Tunturi
 * Added Devil's Angels Wall Flag
+* Added New Posters
+* Added Egg timer
+* Added Motorcycle Gang Paintings
+* Added Kettle
+* Added Grater
 * Added multiple furniture from this list (issue [#2412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2412))
 * Fixed fermenting container blueprint giving mashing kettle (issue [#2672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2672))
 * Fixed dismantling barrel shower giving buckets (issue [#2671](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2671))
