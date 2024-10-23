@@ -17,6 +17,7 @@
 * Fixed time skipping when loading game or changing scene (issue [#2705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2705)) (Playtest)
 * Fixed hatched eggs spawning a chick after loading the game (issue [#2722](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2722)) (Playtest)
 * Fixed animals not spawning after loading the game (Playtest)
+* Fixed not being able to sometimes to use the buttons at the bottom of the pause menu (e.g. Load Game button)
 
 ## Crafting
 
