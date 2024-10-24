@@ -1,5 +1,9 @@
 # Upcoming
 
+## Crafting
+
+* Fixed animal/plant growing being broken (issue [#2752](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2752)) (Playtest)
+
 ## Tenement System
 
 * Fixed not being able to take/move/place furniture (issue [#2755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2755)) (Playtest)
