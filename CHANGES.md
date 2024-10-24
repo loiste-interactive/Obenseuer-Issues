@@ -3,6 +3,7 @@
 ## Crafting
 
 * Fixed animal/plant growing being broken (issue [#2752](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2752)) (Playtest)
+* Fixed some crafting stations removing items (issue [#2748](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2748)) (Playtest)
 
 ## Tenement System
 
