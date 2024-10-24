@@ -2,6 +2,7 @@
 
 * Fixed Orange Heaven dialogue window getting stuck (issue [#2747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2747)) (Playtest)
 * Fixed not being able to continue the Orange Heaven quest after talking to Malone (Playtest)
+* Fixed furniture store UI being broken sometimes (issue [#2751](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2751)) (Playtest)
 
 ## Crafting
 
