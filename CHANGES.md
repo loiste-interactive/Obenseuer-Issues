@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Orange Heaven dialogue window getting stuck (issue [#2747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2747)) (Playtest)
+
 ## Crafting
 
 * Fixed animal/plant growing being broken (issue [#2752](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2752)) (Playtest)
