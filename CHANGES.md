@@ -10,6 +10,10 @@
 * Fixed furniture disappearing (issue [#2755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2755)) (Playtest)
 * Fixed radio playing music after being taken (issue [#2755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2755)) (Playtest)
 
+## Kolhola
+
+* Fixed not being able to talk to the guy in the Money Extange (issue [#2754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2754)) (Playtest)
+
 # October 23rd 2024 (Version 0.3.42) - Playtest
 
 * Added Interior Mines Potato Mine (Playtest)
