@@ -13,6 +13,7 @@
 ## Kolhola
 
 * Fixed not being able to talk to the guy in the Money Extange (issue [#2754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2754)) (Playtest)
+* Fixed sofa in Kolhola A13 poking trough the roof (issue [#2753](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2753)) (Playtest)
 
 # October 23rd 2024 (Version 0.3.42) - Playtest
 
