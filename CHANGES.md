@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed not being able to take/move/place furniture (issue [#2755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2755)) (Playtest)
+
 # October 23rd 2024 (Version 0.3.42) - Playtest
 
 * Added Interior Mines Potato Mine (Playtest)
