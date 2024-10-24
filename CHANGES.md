@@ -15,6 +15,7 @@
 * Fixed not being able to talk to the guy in the Money Extange (issue [#2754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2754)) (Playtest)
 * Fixed sofa in Kolhola A13 poking trough the roof (issue [#2753](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2753)) (Playtest)
 * Fixed minor visual bug in Hostel Warehom (issue [#2743](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2743))
+* Fixed Kolhola A13 light not being rendered if player is right up against the door (issue [#2232](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2232))
 
 # October 23rd 2024 (Version 0.3.42) - Playtest
 
