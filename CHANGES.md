@@ -2,6 +2,10 @@
 
 * Changed "eating habits" loading screen hint (issue [#2763](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2763))
 
+## Crafting
+
+* Fixed coffee maker making dupes of non-stackable containers (issue [#2762](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2762)) (Playtest)
+
 ## Tenement System
 
 * Fixed vanished apartment upgrades and tenants (issue [#2764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2764)) (Playtest)
