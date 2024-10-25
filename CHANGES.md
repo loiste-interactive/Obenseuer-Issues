@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 25th 2024 (Version 0.3.42 V3) - Playtest
+
 * Added Orange Heaven outcome enhancement (issue [#2745](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2745)) (Playtest)
 * Changed "eating habits" loading screen hint (issue [#2763](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2763))
 
