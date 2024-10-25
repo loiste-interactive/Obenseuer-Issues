@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed vanished apartment upgrades and tenants (issue [#2764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2764)) (Playtest)
+
 # October 24th 2024 (Version 0.3.42 V2) - Playtest
 
 * Fixed Orange Heaven dialogue window getting stuck (issue [#2747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2747)) (Playtest)
