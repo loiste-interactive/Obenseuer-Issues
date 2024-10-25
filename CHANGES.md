@@ -8,7 +8,7 @@
 ## Crafting
 
 * Fixed coffee maker making dupes of non-stackable containers (issue [#2762](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2762)) (Playtest)
-* Fixed nrot being able to remove mash from mashing tuns (issue [#2759](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2759)) (Playtest)
+* Fixed not being able to remove mash from mashing tuns (issue [#2759](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2759)) (Playtest)
 
 ## Tenement System
 
