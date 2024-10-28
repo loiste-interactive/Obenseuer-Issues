@@ -9,6 +9,7 @@
 ## Furniture
 
 * Large wooden chest now costs more
+* Fixed being unable to place desk fan or examination bed (issue [#2797](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2797)) (Playtest)
 
 ## Deekula B
 
