@@ -6,6 +6,10 @@
 
 * Laundry detergent can now be drank
 
+## Furniture
+
+* Large wooden chest now costs more
+
 ## Deekula B
 
 * Fixed sofa phasing through walls (issue [#2794](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2794)) (Playtest)
