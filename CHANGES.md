@@ -2,6 +2,10 @@
 
 * Fixed new achievements not triggering  (issue [#2798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2798)) (Playtest)
 
+## Crafting
+
+* Fixed manufacturing output value increasing when using a container that already contains liquid (issue [#2803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2803)) (Playtest)
+
 ## Items
 
 * Laundry detergent can now be drank
