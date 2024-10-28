@@ -10,6 +10,11 @@
 
 * Large wooden chest now costs more
 * Fixed being unable to place desk fan or examination bed (issue [#2797](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2797)) (Playtest)
+* Fixed the broken brown refrigerator hanging on the wall on the furniture preview menu (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
+
+## Deekula A
+
+* Fixed diesel not counting as stealing (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
 
 ## Deekula B
 
