@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed new achievements not triggering  (issue [#2798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2798)) (Playtest)
+
 # October 25th 2024 (Version 0.3.42 V3) - Playtest
 
 * Added Orange Heaven outcome enhancement (issue [#2745](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2745)) (Playtest)
