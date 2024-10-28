@@ -19,6 +19,10 @@
 * Fixed the broken brown refrigerator hanging on the wall on the furniture preview menu (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
 * Fixed Devils Angels Wall Flag icon (issue [#2787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2787)) (Playtest)
 
+## Player Tenement
+
+* Fixed Player Cat multiplying (issue [#2769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2769)) (Playtest)
+
 ## Deekula A
 
 * Fixed diesel not counting as stealing (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
