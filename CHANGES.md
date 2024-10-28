@@ -2,6 +2,10 @@
 
 * Fixed new achievements not triggering  (issue [#2798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2798)) (Playtest)
 
+## Items
+
+* Laundry detergent can now be drank
+
 ## Deekula B
 
 * Fixed sofa phasing through walls (issue [#2794](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2794)) (Playtest)
