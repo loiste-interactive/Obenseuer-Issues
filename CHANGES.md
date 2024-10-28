@@ -15,6 +15,11 @@
 
 * Fixed sofa phasing through walls (issue [#2794](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2794)) (Playtest)
 
+## City Gates
+
+* Fixed being able to get stuck between the truck and wall (issue [#2802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2802))
+
+
 # October 25th 2024 (Version 0.3.42 V3) - Playtest
 
 * Added Orange Heaven outcome enhancement (issue [#2745](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2745)) (Playtest)
@@ -53,6 +58,7 @@
 * Fixed sofa in Kolhola A13 poking trough the roof (issue [#2753](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2753)) (Playtest)
 * Fixed minor visual bug in Hostel Warehom (issue [#2743](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2743))
 * Fixed Kolhola A13 light not being rendered if player is right up against the door (issue [#2232](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2232))
+
 
 # October 23rd 2024 (Version 0.3.42) - Playtest
 
@@ -201,6 +207,7 @@
 ## Pharmacy
 
 * Fixed facemask packs not being able to be purchased (issue [#2625](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2625)) (Playtest)
+
 
 # August 22nd 2024 (Version 0.3.40 V3) - Playtest
 
