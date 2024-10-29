@@ -10,6 +10,15 @@
 
 ## Items
 
+* Added Glowing Pike
+* Added Glowing Perch
+* Added Glowing Salmon
+* Added Pike
+* Added Perch
+* Added Salmon
+* Added Pike Eggs
+* Added Perch Eggs
+* Added Salmon Eggs
 * Laundry detergent can now be drank
 
 ## Furniture
