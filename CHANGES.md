@@ -32,6 +32,10 @@
 
 * Fixed Player Cat multiplying (issue [#2769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2769)) (Playtest)
 
+## Tenement System
+
+* Fixed huge workshop price
+
 ## Deekula A
 
 * Fixed diesel not counting as stealing (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
