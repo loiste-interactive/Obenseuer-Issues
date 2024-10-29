@@ -44,6 +44,10 @@
 
 * Fixed being able to get stuck between the truck and wall (issue [#2802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2802))
 
+## Outside
+
+* Added Deekula B rooftop terrace
+
 
 # October 25th 2024 (Version 0.3.42 V3) - Playtest
 
