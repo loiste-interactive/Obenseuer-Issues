@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added player character skills menu
 * Fixed new achievements not triggering  (issue [#2798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2798)) (Playtest)
 * Fixed item spawners spawning new items when hidden (issue [#2793](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2793)) (Playtest)
 
