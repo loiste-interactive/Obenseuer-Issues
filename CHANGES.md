@@ -41,6 +41,11 @@
 * Changed Makeshift Facade price (issue [#2873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2873)) (Playtest)
 * Fixed huge workshop price
 
+## Mines Canteen
+
+* Fixed no one reacting when the cat is killed (issue [#2868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2868)) (Playtest)
+* Fixed cat not dying when sitting on it (issue [#2726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2726)) (Playtest)
+
 ## Deekula A
 
 * Fixed diesel not counting as stealing (issue [#2805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2805)) (Playtest)
