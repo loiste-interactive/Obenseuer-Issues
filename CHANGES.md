@@ -10,6 +10,7 @@
 
 * Fixed manufacturing output value increasing when using a container that already contains liquid (issue [#2803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2803)) (Playtest)
 * Fixed not being able to open manufacturing UI after recipe was enabled but not activated (issue [#2781](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2781)) (Playtest)
+* Fixed crafting not always removing correct items (issue [#2815](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2815)) (Playtest)
 
 ## Items
 
