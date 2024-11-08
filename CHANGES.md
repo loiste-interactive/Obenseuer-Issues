@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 8th 2024 (Version 0.3.42 V4) - Playtest
+
 * Added player character skills menu
 * Added ability to swim
 * Added trader's wealth level indicator (issue [#2844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2844))
