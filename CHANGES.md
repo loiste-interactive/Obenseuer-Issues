@@ -5,6 +5,7 @@
 * Added trader's wealth level indicator (issue [#2844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2844))
 * Fixed new achievements not triggering (issue [#2798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2798)) (Playtest)
 * Fixed item spawners spawning new items when hidden (issue [#2793](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2793)) (Playtest)
+* Fixed people spotting player doing crimes when they shouldn't (issue [#2617](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2617)) (Playtest)
 
 ## Crafting
 
