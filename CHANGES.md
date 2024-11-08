@@ -45,6 +45,11 @@
 
 * Fixed no one reacting when the cat is killed (issue [#2868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2868)) (Playtest)
 * Fixed cat not dying when sitting on it (issue [#2726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2726)) (Playtest)
+* Fixed stolen items being counted as buyable (issue [#2780](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2780)) (Playtest)
+
+## O Market
+
+* Fixed being able to put 10L bottles in bottle recycling (issue [#2867](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2867)) (Playtest)
 
 ## Deekula A
 
