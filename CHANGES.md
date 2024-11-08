@@ -38,6 +38,7 @@
 
 ## Tenement System
 
+* Changed Makeshift Facade price (issue [#2873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2873)) (Playtest)
 * Fixed huge workshop price
 
 ## Deekula A
