@@ -27,6 +27,8 @@
 * Laundry detergent can now be drank
 * Fixed Chicken Wheat Sandwich having rye bread when dropped/placed (issue [#2874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2874))
 * Fixed liquids disappearing from some containers placed in the world (issue [#2740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2740))
+* Fixed broken items respawning (issue [#2854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2854))
+* Fixed some glass items not being breakable in the world
 
 ## Furniture
 
