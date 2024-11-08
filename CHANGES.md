@@ -40,6 +40,7 @@
 
 * Changed Makeshift Facade price (issue [#2873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2873)) (Playtest)
 * Fixed huge workshop price
+* Fixed Crazy Neighbour automatically counts in first 3-4 renovations (issue [#2810](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2810)) (Playtest)
 
 ## Mines Canteen
 
