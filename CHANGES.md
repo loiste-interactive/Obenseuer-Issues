@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed large spam log of npcs (issue [#2881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2881)) (Playtest)
+
 # November 8th 2024 (Version 0.3.42 V4) - Playtest
 
 * Added player character skills menu
