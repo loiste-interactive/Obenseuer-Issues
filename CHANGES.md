@@ -2,6 +2,12 @@
 
 * Fixed large spam log of npcs (issue [#2881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2881)) (Playtest)
 
+## Outside
+
+* Fixed the border road sign is levitating off the ground (issue [#2885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2885)) (Playtest)
+* Fixed minor clipping on Deekula rooftop garden (issue [#2887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2887)) (Playtest)
+* Fixed Deekula roof garden barrels (issue [#2884](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2884)) (Playtest)
+
 # November 8th 2024 (Version 0.3.42 V4) - Playtest
 
 * Added player character skills menu
