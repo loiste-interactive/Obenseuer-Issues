@@ -2,6 +2,7 @@
 
 * O-Market now gives detailed receipts
 * Skeida now gives detailed receipts
+* Mine Canteen now gives detailed receipts (Playtest)
 * Fixed large spam log of npcs (issue [#2881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2881)) (Playtest)
 * Fixed change_scene command (issue [#2898](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2898)) (Playtest)
 
