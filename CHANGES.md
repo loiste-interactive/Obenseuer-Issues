@@ -6,6 +6,7 @@
 * Fixed large spam log of npcs (issue [#2881](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2881)) (Playtest)
 * Fixed change_scene command (issue [#2898](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2898)) (Playtest)
 * Fixed wealth indicator not showing up properly (issue [#2906](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2906)) (Playtest)
+* Fixed scene migration not working correctly (issue [#2882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2882)) (Playtest)
 
 ## Items
 
