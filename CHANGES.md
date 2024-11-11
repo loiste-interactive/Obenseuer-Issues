@@ -22,6 +22,10 @@
 * Fixed Deekula roof garden barrels (issue [#2884](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2884)) (Playtest)
 * Fixed Deekula rooftop garden occlusion (issue [#2886](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2886)) (Playtest)
 
+## Canteen
+
+* Fixed bag changing owned items to stolen (issue [#2902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2902)) (Playtest)
+
 # November 8th 2024 (Version 0.3.42 V4) - Playtest
 
 * Added player character skills menu
