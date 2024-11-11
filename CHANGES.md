@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 11th 2024 (Version 0.3.43) - Playtest
+
 * O-Market now gives detailed receipts
 * Skeida now gives detailed receipts
 * Mine Canteen now gives detailed receipts (Playtest)
