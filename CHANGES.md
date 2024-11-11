@@ -27,6 +27,10 @@
 
 * Fixed bag changing owned items to stolen (issue [#2902](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2902)) (Playtest)
 
+## Greenhouse
+
+* Fixed greenhouse barrel stove not having fuel at start (issue [#2895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2895)) (Playtest)
+
 # November 8th 2024 (Version 0.3.42 V4) - Playtest
 
 * Added player character skills menu
