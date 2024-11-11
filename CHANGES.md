@@ -9,6 +9,7 @@
 * Fixed scene migration not working correctly (issue [#2882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2882)) (Playtest)
 * Fixed console spam (issue [#2883](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2883)) (Playtest)
 * Fixed Player Cat multiplying (issue [#2891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2891)) (Playtest)
+* Fixed cats reporting crimes (issue [#2888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2888)) (Playtest)
 * Increased view distance
 
 ## Items
