@@ -10,6 +10,7 @@
 ## Items
 
 * Added receipt
+* Fixed laundry detergents drink button (issue [#2892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2892)) (Playtest)
 
 ## Outside
 
