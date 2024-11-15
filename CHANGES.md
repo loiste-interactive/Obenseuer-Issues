@@ -3,6 +3,7 @@
 ## items
 
 * Added Puuhari Magazine
+* Added IC Magazine
 
 # November 11th 2024 (Version 0.3.43) - Playtest
 
