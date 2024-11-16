@@ -1,5 +1,7 @@
 # Upcoming
 
+* Player can now subscribe to ARG and Puuhari magazines
+
 ## items
 
 * Added Puuhari Magazine
