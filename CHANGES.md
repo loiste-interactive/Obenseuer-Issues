@@ -11,6 +11,7 @@
 * Added IC Magazine
 * Added ARG Magazine
 * Fixed hot steel bars not glowing red
+* Fixed being unable to eat pork steak with vegetables
 
 ## Furniture
 
