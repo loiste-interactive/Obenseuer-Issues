@@ -16,6 +16,7 @@
 
 ## Furniture
 
+* Added memorial candle
 * Fixed shabby bed ownership (issue [#2920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2920)) (Playtest)
 
 # November 11th 2024 (Version 0.3.43) - Playtest
