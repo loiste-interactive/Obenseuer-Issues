@@ -10,6 +10,7 @@
 
 ## items
 
+* Added Rail
 * Added Puuhari Magazine
 * Added IC Magazine
 * Added ARG Magazine
