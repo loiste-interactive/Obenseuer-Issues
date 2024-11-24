@@ -10,6 +10,7 @@
 
 ## items
 
+* Added Rebar
 * Added Rail
 * Added Puuhari Magazine
 * Added IC Magazine
@@ -19,6 +20,7 @@
 
 ## Recipes
 
+* Added Rebar
 * Added Rail
 * Added Plörö
 
