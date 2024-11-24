@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added music skill.
 * Added localization import/export console commands.
 * Eating hearty meals can now satisfy hunger for longer time.
 * Player can now subscribe to ARG and Puuhari magazines
