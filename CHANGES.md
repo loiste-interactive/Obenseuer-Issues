@@ -10,6 +10,7 @@
 
 ## items
 
+* Added Mushroom version of doughes
 * Added Multigrain Dough
 * Added Multigrain Sawdust Dough
 * Added Rebar
