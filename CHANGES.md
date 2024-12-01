@@ -40,6 +40,10 @@
 * Fixed chicken coops requiring terrariums (issue [#2948](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2948)) (Playtest)
 * Fixed commercial kitchen tables spawning random loot (Playtest)
 
+## Blueprints
+
+* Added smooth half pillar to loot list (issue [#2968](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2968)) (Playtest)
+
 ## Pharmacy
 
 * Fixed few items being un-purchaseable (issue [#2964](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2964)) (Playtest)
