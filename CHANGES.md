@@ -12,6 +12,8 @@
 
 ## items
 
+* Added Smoked Pike
+* Added Smoked Perch
 * Added Smoked Salmon
 * Added Butterine
 * Added Mushroom version of doughes
@@ -27,6 +29,8 @@
 
 ## Recipes
 
+* Added Smoked Pike
+* Added Smoked Perch
 * Added Smoked Salmon
 * Added Glowing Rat
 * Added Mushroom version of doughes
