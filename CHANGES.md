@@ -35,6 +35,7 @@
 * Added Plörö
 * Added Fecal Moonshines  (issue [#2966](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2966)) (Playtest)
 * Added Multigrain Sandwiches (issue [#2950](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2950)) (Playtest)
+* Sandwich recipes now require butterine
 
 ## Furniture
 
