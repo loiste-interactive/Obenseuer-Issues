@@ -27,6 +27,7 @@
 
 ## Recipes
 
+* Added Smoked Salmon
 * Added Glowing Rat
 * Added Mushroom version of doughes
 * Added Multigrain Dough
