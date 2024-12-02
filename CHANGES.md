@@ -45,6 +45,7 @@
 
 ## Furniture
 
+* Added smoker
 * Added memorial candle
 * Fixed shabby bed ownership (issue [#2920](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2920)) (Playtest)
 * Fixed chicken coops requiring terrariums (issue [#2948](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2948)) (Playtest)
