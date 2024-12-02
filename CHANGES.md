@@ -52,6 +52,10 @@
 
 * Fixed few items being un-purchaseable (issue [#2964](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2964)) (Playtest)
 
+## O-Market
+
+* O-Market now sells butterine
+
 # November 11th 2024 (Version 0.3.43) - Playtest
 
 * O-Market now gives detailed receipts
