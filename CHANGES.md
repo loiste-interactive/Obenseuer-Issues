@@ -12,6 +12,7 @@
 
 ## items
 
+* Added Smoked Salmon
 * Added Butterine
 * Added Mushroom version of doughes
 * Added Multigrain Dough
