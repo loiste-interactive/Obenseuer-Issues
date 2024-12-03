@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added achievement for entering the mines first time.
 * Added music skill.
 * Added localization import/export console commands.
 * Eating plain breads now require butter.
