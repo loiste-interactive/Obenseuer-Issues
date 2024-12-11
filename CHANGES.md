@@ -55,6 +55,7 @@
 
 ## Blueprints
 
+* Added copper moonshine still
 * Added smooth half pillar to loot list (issue [#2968](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2968)) (Playtest)
 
 ## Pharmacy
