@@ -65,6 +65,10 @@
 
 * O-Market now sells butterine
 
+## Outside
+
+* Added hourly bus
+
 # November 11th 2024 (Version 0.3.43) - Playtest
 
 * O-Market now gives detailed receipts
