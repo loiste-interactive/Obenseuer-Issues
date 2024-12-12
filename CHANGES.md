@@ -14,6 +14,8 @@
 
 ## items
 
+* Added Mussel
+* Added Steamed Mussels
 * Added Smoked Pike
 * Added Smoked Perch
 * Added Smoked Salmon
