@@ -2,6 +2,7 @@
 
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
+* Added Mines
 * Improved loading times
 * Added achievement for entering the mines first time.
 * Added achievements for the city gates.
