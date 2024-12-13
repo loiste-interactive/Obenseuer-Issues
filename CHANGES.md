@@ -1,5 +1,6 @@
 # Upcoming
 
+* Improved loading times
 * Added achievement for entering the mines first time.
 * Added achievements for the city gates.
 * Added music skill.
