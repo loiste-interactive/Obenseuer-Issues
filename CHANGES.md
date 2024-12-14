@@ -40,6 +40,10 @@
 
 * Removed yeasterine (issue [#3013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3013))
 
+## Deekula A
+
+* Removed floor mug (issue [#3031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3021))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
