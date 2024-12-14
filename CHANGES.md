@@ -3,6 +3,10 @@
 * Fixed typo in yellow pages
 * Fixed being able to use owned items as ammo.
 
+## Console
+
+* Fixed console now showing Unity messages (issue [#3025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3025))
+
 ## Mines
 
 * Added locks to personal house doors
