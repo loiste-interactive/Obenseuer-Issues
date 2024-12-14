@@ -6,6 +6,7 @@
 ## Console
 
 * Fixed console now showing Unity messages (issue [#3025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3025))
+* Fixed import_translations command (issue [#3026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3026))
 
 ## Mines
 
