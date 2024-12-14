@@ -7,6 +7,10 @@
 * Saunaklonkku is no longer breathing concrete fumes (issue [#2985](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2985))
 * Fixed weird urinal (issue [#2988](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2988))
 
+## Mines office mini hub
+
+* Fixed being unable to leave (issue [#2987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2987))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
