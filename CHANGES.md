@@ -24,6 +24,7 @@
 * Fixed weak buffer (issue [#3030](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3030))
 * Fixed elevator doors opening to wrong direction (issue [#3050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3050))
 * Fixed broken shack stairs
+* Fixed saunaklonkku cave mushrooms lights (issue [#3055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3055))
 
 ## Mines office mini hub
 
