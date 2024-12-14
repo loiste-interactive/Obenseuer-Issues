@@ -34,6 +34,10 @@
 
 * Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
 
+## O Market
+
+* Removed yeasterine (issue [#3013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3013))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
