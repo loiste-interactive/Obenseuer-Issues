@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed typo in yellow pages
+* Fixed being able to use owned items as ammo.
 
 ## Mines
 
