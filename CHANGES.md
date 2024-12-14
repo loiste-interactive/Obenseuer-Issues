@@ -29,6 +29,7 @@
 * Fixed broken shack stairs
 * Fixed saunaklonkku cave mushrooms lights (issue [#3055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3055))
 * Fixed monitoring room door putting player back intro the monitoring room (issue [#3041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3041))
+* Fixed "track change 4B" (issue [#3003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3003))
 
 ## Mines office mini hub
 
