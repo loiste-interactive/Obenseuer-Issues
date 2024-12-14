@@ -17,6 +17,10 @@
 
 * Fixed stairs being a slide (issue [#2989](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2989))
 
+## Mine Market
+
+* Fixed refigerator being empty until interracted (issue [#2995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2995))
+
 ## City Gates
 
 * Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
