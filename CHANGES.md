@@ -32,6 +32,10 @@
 
 * Fixed barrack house 2 being an death trap (issue [#2997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2997))
 
+## Mine Canteen
+
+* Fixed player being in mine canteen for eternity (issue [#3024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3024))
+
 ## City Gates
 
 * Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
