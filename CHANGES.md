@@ -62,6 +62,10 @@
 * Fixed tile mirror
 * Fixed floating cashbox
 
+## Tenement System
+
+* Second mine direction signs appear only at 3rd upgrade (issue [#3052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3052))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
