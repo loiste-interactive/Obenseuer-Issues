@@ -21,6 +21,7 @@
 * Fixed slippery stairs (issue [#3011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3011))
 * Fixed being unable to obtain speeding ticket achievement (issue [#3015](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3015))
 * Fixed weak buffer (issue [#3030](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3030))
+* Fixed elevator doors opening to wrong direction (issue [#3050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3050))
 
 ## Mines office mini hub
 
