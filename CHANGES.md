@@ -49,11 +49,17 @@
 ## O Market
 
 * Removed yeasterine (issue [#3013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3013))
+* Fixed borked salt (issue [#3035](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3035))
 
 ## Deekula A
 
 * Removed floor mug (issue [#3031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3021))
 * Fixed floor lamp being stuffed in mattress (issue [#3023](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3023))
+
+## Kolhola
+
+* Fixed tile mirror
+* Fixed floating cashbox
 
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
