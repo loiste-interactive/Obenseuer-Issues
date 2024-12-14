@@ -12,6 +12,7 @@
 * Fixed mines double gates not unlocking both (issue [#2998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2998))
 * Fixed invisible railing on catwalk (issue [#3001](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3001))
 * Fixed exiting electrical room putting player between rock and a hard place (issue [#3006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3006))
+* Fixed slippery stairs (issue [#3011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3011))
 
 ## Mines office mini hub
 
