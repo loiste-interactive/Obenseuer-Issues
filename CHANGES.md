@@ -6,6 +6,7 @@
 
 * Saunaklonkku is no longer breathing concrete fumes (issue [#2985](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2985))
 * Fixed weird urinal (issue [#2988](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2988))
+* Fixed exiting elevator control room dropping player under the platform (issue [#2991](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2991))
 
 ## Mines office mini hub
 
