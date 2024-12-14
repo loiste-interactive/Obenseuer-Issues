@@ -21,6 +21,10 @@
 
 * Fixed refigerator being empty until interracted (issue [#2995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2995))
 
+## Mine Barrack House 2
+
+* Fixed barrack house 2 being an death trap (issue [#2997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2997))
+
 ## City Gates
 
 * Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
