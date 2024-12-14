@@ -11,6 +11,10 @@
 
 * Fixed being unable to leave (issue [#2987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2987))
 
+## Mines Elevator Control Room
+
+* Fixed stairs being a slide (issue [#2989](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2989))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
