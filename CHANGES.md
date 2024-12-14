@@ -26,6 +26,7 @@
 * Fixed elevator doors opening to wrong direction (issue [#3050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3050))
 * Fixed broken shack stairs
 * Fixed saunaklonkku cave mushrooms lights (issue [#3055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3055))
+* Fixed monitoring room door putting player back intro the monitoring room (issue [#3041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3041))
 
 ## Mines office mini hub
 
