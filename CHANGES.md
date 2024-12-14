@@ -9,6 +9,7 @@
 * Fixed weird urinal (issue [#2988](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2988))
 * Fixed exiting elevator control room dropping player under the platform (issue [#2991](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2991))
 * Fixed player surviving the fall to mineshaft (issue [#2993](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2993))
+* Fixed mines double gates not unlocking both (issue [#2998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2998))
 
 ## Mines office mini hub
 
