@@ -2,6 +2,7 @@
 
 * Fixed typo in yellow pages
 * Fixed being able to use owned items as ammo.
+* Fixed loading a save returning invisible dynamite cones  (issue [#3048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3048))
 
 ## Console
 
