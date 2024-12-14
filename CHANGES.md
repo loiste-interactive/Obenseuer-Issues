@@ -17,6 +17,10 @@
 
 * Fixed stairs being a slide (issue [#2989](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2989))
 
+## City Gates
+
+* Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
