@@ -14,6 +14,7 @@
 * Fixed invisible railing on catwalk (issue [#3001](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3001))
 * Fixed exiting electrical room putting player between rock and a hard place (issue [#3006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3006))
 * Fixed slippery stairs (issue [#3011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3011))
+* Fixed being unable to obtain speeding ticket achievement (issue [#3015](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3015))
 
 ## Mines office mini hub
 
