@@ -1,5 +1,6 @@
 # Upcoming
 
+* Chained locomotives now have lights on.
 * Improved saving times
 * Player now takes damage when jumping out of moving train
 * Fixed typo in yellow pages
