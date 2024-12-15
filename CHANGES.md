@@ -1,7 +1,7 @@
 # Upcoming
 
 * Improved saving times
-* Player now takes damage if he jumps out of moving train
+* Player now takes damage when jumping out of moving train
 * Fixed typo in yellow pages
 * Fixed being able to use owned items as ammo.
 * Fixed loading a save returning invisible dynamite cones  (issue [#3048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3048))
