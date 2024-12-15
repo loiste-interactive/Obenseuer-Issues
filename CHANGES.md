@@ -8,6 +8,7 @@
 * Fixed minitrains causing game to crash in some switches
 * Fixed trains self colliding after save/load (issue [#3014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3014))
 * Fixed Train-Train crash crash (issue [#3063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3063))
+* Fixed trains with multiple locomotives behaving oddly after loading a game
 
 ## Console
 
