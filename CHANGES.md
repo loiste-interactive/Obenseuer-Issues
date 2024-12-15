@@ -22,6 +22,12 @@
 * Fixed hospital table having eyes (issue [#3082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3082))
 * Fixed fancy leather chair being unable to be placed (issue [#3079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3079))
 
+## Tenement System
+
+* Added functional tracks to mine upgrades (issue [#3078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3078))
+* Second mine direction signs appear only at 3rd upgrade (issue [#3052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3052))
+* Fixed fine mine upgrade requiring apartment water (not tenement water)
+
 ## Console
 
 * Fixed console now showing Unity messages (issue [#3025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3025))
@@ -90,11 +96,6 @@
 * Fixed tile mirror
 * Fixed floating cashbox
 * Removed poster coffee
-
-## Tenement System
-
-* Second mine direction signs appear only at 3rd upgrade (issue [#3052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3052))
-* Fixed fine mine upgrade requiring apartment water (not tenement water)
 
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
