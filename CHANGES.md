@@ -16,6 +16,10 @@
 
 * Fixed tenement A keycard dropping into pharmacy keycard (issue [#3076](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3076))
 
+## Furniture
+
+* Fixed being able to place broken refigerators on walls/ceilings
+
 ## Console
 
 * Fixed console now showing Unity messages (issue [#3025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3025))
