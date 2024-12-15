@@ -74,6 +74,7 @@
 ## Tenement System
 
 * Second mine direction signs appear only at 3rd upgrade (issue [#3052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3052))
+* Fixed fine mine upgrade requiring apartment water (not tenement water)
 
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
