@@ -34,6 +34,7 @@
 * Fixed "track change 4B" (issue [#3003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3003))
 * Fixed Heska's mineshaft track ending abruptly (issue [#3009](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3009))
 * Fixed train ramming open a switch in another switch
+* Fixed X-switch acting weird
 
 ## Mines office mini hub
 
