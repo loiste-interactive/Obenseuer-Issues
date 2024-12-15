@@ -11,6 +11,10 @@
 * Fixed Train-Train crash crash (issue [#3063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3063))
 * Fixed trains with multiple locomotives behaving oddly after loading a game
 
+## Items
+
+* Fixed tenement A keycard dropping into pharmacy keycard (issue [#3076](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3076))
+
 ## Console
 
 * Fixed console now showing Unity messages (issue [#3025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3025))
