@@ -32,6 +32,7 @@
 * Fixed saunaklonkku cave mushrooms lights (issue [#3055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3055))
 * Fixed monitoring room door putting player back intro the monitoring room (issue [#3041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3041))
 * Fixed "track change 4B" (issue [#3003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3003))
+* Fixed Heska's mineshaft track ending abruptly (issue [#3009](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3009))
 
 ## Mines office mini hub
 
