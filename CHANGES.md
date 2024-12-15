@@ -5,6 +5,7 @@
 * Fixed being able to use owned items as ammo.
 * Fixed loading a save returning invisible dynamite cones  (issue [#3048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3048))
 * Fixed minitrains causing game to crash in some switches
+* Fixed trains self colliding after save/load (issue [#3014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3014))
 
 ## Console
 
