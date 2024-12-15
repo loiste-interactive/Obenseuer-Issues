@@ -19,6 +19,7 @@
 ## Furniture
 
 * Fixed being able to place broken refigerators on walls/ceilings
+* Fixed hospital table having eyes (issue [#3082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3082))
 
 ## Console
 
