@@ -89,6 +89,7 @@
 
 * Fixed tile mirror
 * Fixed floating cashbox
+* Removed poster coffee
 
 ## Tenement System
 
