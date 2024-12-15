@@ -27,6 +27,7 @@
 * Added functional tracks to mine upgrades (issue [#3078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3078))
 * Second mine direction signs appear only at 3rd upgrade (issue [#3052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3052))
 * Fixed fine mine upgrade requiring apartment water (not tenement water)
+* Fixed fine mine upgrade missing floor
 
 ## Console
 
