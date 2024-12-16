@@ -101,6 +101,7 @@
 ## Mine Hostel
 
 * Fixed upstairs exit door (issue [#3104](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3104))
+* Fixed bed ownership management (issue [#3066](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3066))
 
 ## City Gates
 
