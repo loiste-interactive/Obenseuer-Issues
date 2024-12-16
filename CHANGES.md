@@ -37,6 +37,7 @@
 * Fixed placing the glass flask by using building mode having wrong placement side (issue [#3081](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3081))
 * Fixed tooltips not showing furniture groups (issue [#3109](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3109))
 * Fixed loose items not stacking atop each others (issue [#3074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3074))
+* Fixed the void when mine is being upgraded (issue [#3073](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3073))
 
 ## Console
 
