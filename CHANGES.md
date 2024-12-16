@@ -60,6 +60,8 @@
 * Fixed Heska's dialogue (issue [#3008](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3008))
 * Fixed train ramming open a switch in another switch
 * Fixed X-switch acting weird
+* Fixed unwell well (issue [#3098](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3098))
+* Fixed diesel station stock crashing the game (issue [#2990](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2990))
 
 ## Mines Management
 
