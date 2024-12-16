@@ -60,6 +60,10 @@
 * Fixed train ramming open a switch in another switch
 * Fixed X-switch acting weird
 
+## Mines Management
+
+* Fixed dating Tanja freezing the game when player is not feeling well (issue [#3096](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3096))
+
 ## Mines office mini hub
 
 * Fixed being unable to leave (issue [#2987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2987))
