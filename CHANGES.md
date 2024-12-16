@@ -46,6 +46,7 @@
 
 ## Mines
 
+* Added map marker for exit elevator
 * Added proper map markers
 * Added locks to personal house doors
 * Improved performance
