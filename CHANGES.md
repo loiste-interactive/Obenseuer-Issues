@@ -97,6 +97,10 @@
 
 * Fixed player being in mine canteen for eternity (issue [#3024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3024))
 
+## Mine Hostel
+
+* Fixed upstairs exit door (issue [#3104](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3104))
+
 ## City Gates
 
 * Removed mystery door (issue [#3049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3049))
