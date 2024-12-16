@@ -72,6 +72,7 @@
 * Fixed unwell well (issue [#3098](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3098))
 * Fixed diesel station stock crashing the game (issue [#2990](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2990))
 * Fixed shroomfarm apartment trying to postpone itself into the next update (issue [#3108](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3108))
+* Fixed speeding ticket invoices not being sent (issue [#3099](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3099))
 
 ## Mines Management
 
