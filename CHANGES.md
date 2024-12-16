@@ -46,6 +46,7 @@
 
 ## Mines
 
+* Added proper map markers
 * Added locks to personal house doors
 * Improved performance
 * Adjusted lighting
