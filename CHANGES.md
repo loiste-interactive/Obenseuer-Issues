@@ -33,6 +33,7 @@
 * Fixed basement mines door not being updated (issue [#3064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3064))
 * Fixed Jonne Reis breaking tenement upgrades (issue [#3077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3077))
 * Fixed Jonne Reis breaking tenement board (issue [#3100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3100))
+* Fixed Jonne Reis not being visible in tenement menu (issue [#3051](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3051))
 * Fixed placing the glass flask by using building mode having wrong placement side (issue [#3081](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3081))
 
 ## Console
