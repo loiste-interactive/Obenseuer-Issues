@@ -31,6 +31,8 @@
 * Fixed fine mine upgrade requiring apartment water (not tenement water)
 * Fixed fine mine upgrade missing floor
 * Fixed basement mines door not being updated (issue [#3064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3064))
+* Fixed Jonne Reis breaking tenement upgrades (issue [#3077](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3077))
+* Fixed Jonne Reis breaking tenement board (issue [#3100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3100))
 
 ## Console
 
