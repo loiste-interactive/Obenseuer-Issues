@@ -11,6 +11,7 @@
 * Fixed Train-Train crash crash (issue [#3063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3063))
 * Fixed trains with multiple locomotives behaving oddly after loading a game
 * Fixed crashing trains not bouncing off properly
+* Fixed shop vendors funds getting resetted (issue [#3061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3061))
 
 ## Items
 
