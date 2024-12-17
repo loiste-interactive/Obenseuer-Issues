@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added anvil
 * Chained locomotives now have lights on.
 * Improved saving times
 * Player now takes damage when jumping out of moving train
@@ -21,6 +22,15 @@
 ## Items
 
 * Fixed tenement A keycard dropping into pharmacy keycard (issue [#3076](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3076))
+
+## Recipes
+
+* Added sheet metal
+* Added steel pot
+* Added steel urn
+* Added steel tray
+* Added steel teapot
+* Added steeö vase
 
 ## Furniture
 
