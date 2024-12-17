@@ -3,6 +3,7 @@
 * Added anvil
 * Chained locomotives now have lights on.
 * Improved saving times
+* Imprived migration times
 * Player now takes damage when jumping out of moving train
 * Fixed typo in yellow pages
 * Fixed being able to use owned items as ammo.
