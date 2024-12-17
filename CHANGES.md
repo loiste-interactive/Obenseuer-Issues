@@ -40,6 +40,10 @@
 * Fixed fancy leather chair being unable to be placed (issue [#3079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3079))
 * Fixed refrigerator ownership (issue [#3136](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3136))
 
+## Blueprints
+
+* Added anvil
+
 ## Tenement System
 
 * Adjusted balcony upgrade prices
