@@ -16,6 +16,7 @@
 * Fixed collision issues on plastic chairs (issue [#2488](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2488))
 * Fixed collision issues on field kitchen on Redemption Milita (issue [#2554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2554))
 * Fixed collision issues on shopping carts in the O Market (issue [#2662](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2662))
+* Fixed collision issues on Tenement lvl 1 scaffolding (issue [#2552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2552))
 
 ## Items
 
