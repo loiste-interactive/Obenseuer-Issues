@@ -124,6 +124,10 @@
 * Fixed floating cashbox
 * Removed poster coffee
 
+## Greenhouse
+
+* Fixed the thermometer having wrong value when entering the greenhouse (issue [#3102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3102))
+
 # December 13th 2024 (Version 0.3.43 V2) - Playtest
 
 * Added Mines
