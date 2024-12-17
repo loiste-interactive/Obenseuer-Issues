@@ -14,6 +14,7 @@
 * Fixed shop vendors funds getting resetted (issue [#3061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3061))
 * Fixed vendor categories not working (issue [#3022](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3022))
 * Fixed collision issues on plastic chairs (issue [#2488](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2488))
+* Fixed collision issues on field kitchen (issue [#2554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2554))
 
 ## Items
 
