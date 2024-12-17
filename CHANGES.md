@@ -42,6 +42,7 @@
 
 ## Tenement System
 
+* Adjusted mine upgrade prices
 * Tenants now pay deposit when rented to
 * Player now returns the deposit when evicting the tenant.
 * Added functional tracks to mine upgrades (issue [#3078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3078))
