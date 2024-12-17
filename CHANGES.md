@@ -101,6 +101,7 @@
 
 * Fixed player being in mine canteen for eternity (issue [#3024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3024))
 * Fixed being able to select the "You have blonde hair!" when it shouldn't be possible (issue [#3045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3045))
+* Fixed not being able to take the daily meal (issue [#3060](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3060))
 
 ## Mine Hostel
 
