@@ -126,6 +126,8 @@
 
 * Fixed tile mirror
 * Fixed floating cashbox
+* Fixed standing on Eliana's desk after cutscene (issue [#2036](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2036))
+* Fixed double Eliana (issue [#2808](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2808))
 * Removed poster coffee
 
 ## Greenhouse
