@@ -21,7 +21,7 @@
 * Fixed collision issues on Tenement lvl 1 scaffolding (issue [#2552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2552))
 * Ended police strike (issue [#2982](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2982))
 * Fixed train bogies not orienting properly on a loaded save (issue [#3127](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3127))
-* Fixed train not positioning itself properly when loaded a save where train is on a switch
+* Fixed train not positioning itself properly when loaded a save where train is on a switch (dosn't apply on old saves)
 
 ## Items
 
