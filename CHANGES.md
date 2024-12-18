@@ -39,10 +39,12 @@
 ## Furniture
 
 * Added anvil
+* Calendar now shows how many days you lived in Obenseuer and current weekday (issue [#3145](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3145))
 * Fixed being able to place broken refigerators on walls/ceilings
 * Fixed hospital table having eyes (issue [#3082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3082))
 * Fixed fancy leather chair being unable to be placed (issue [#3079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3079))
 * Fixed refrigerator ownership (issue [#3136](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3136))
+* Fixed not being able to place tripod camera (issue [#3147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3147))
 
 ## Blueprints
 
