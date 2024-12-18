@@ -52,6 +52,8 @@
 
 ## Tenement System
 
+* Decent courtyard now requires shabby facade
+* Player extensions now require shabby facade
 * Adjusted balcony upgrade prices
 * Tenants now pay deposit when rented to
 * Player now returns the deposit when evicting the tenant.
