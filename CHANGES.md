@@ -35,6 +35,7 @@
 * Added steel tray
 * Added steel teapot
 * Added steeö vase
+* Added fecal mushroom mash (from glowing turds)
 
 ## Furniture
 
