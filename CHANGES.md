@@ -23,6 +23,7 @@
 * Fixed train bogies not orienting properly on a loaded save (issue [#3127](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3127))
 * Fixed train not positioning itself properly when loaded a save where train is on a switch (dosn't apply on old saves)
 * Fixed nuclear powered dosimeter (issue [#3122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3122))
+* Fixed lingering subtle subtitles (issue [#3046](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3046))
 
 ## Items
 
