@@ -8,7 +8,8 @@
 
 ## Mines
 
-* made fuel pump comma more visible
+* Made fuel pump comma more visible
+* Fixed weirdness with X-Switch
 
 # December 20th 2024 (Version 0.3.44) - Playtest
 
