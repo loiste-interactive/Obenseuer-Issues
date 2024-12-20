@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed NPCs no longer being lazy asses and standing up (issue [#3173](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3173))
+
 ## Furniture
 
 * Fixed copper moonsine still being impossible to place  (issue [#3180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3180))
