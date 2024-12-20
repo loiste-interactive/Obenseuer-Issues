@@ -11,6 +11,10 @@
 * Made fuel pump comma more visible
 * Fixed weirdness with X-Switch
 
+## Mine Market
+
+* Fixed AA-battery owneship (issue [#3186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3186))
+
 # December 20th 2024 (Version 0.3.44) - Playtest
 
 * Added anvil
