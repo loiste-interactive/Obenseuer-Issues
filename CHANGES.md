@@ -49,6 +49,7 @@
 * Fixed fancy leather chair being unable to be placed (issue [#3079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3079))
 * Fixed refrigerator ownership (issue [#3136](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3136))
 * Fixed not being able to place tripod camera (issue [#3147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3147))
+* Fixed pre-(and post-) stocked wine racks (issue [#3162](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3162))
 
 ## Blueprints
 
