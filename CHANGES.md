@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Fixed copper moonsine still being impossible to place  (issue [#3180](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3180))
+
 # December 20th 2024 (Version 0.3.44) - Playtest
 
 * Added anvil
