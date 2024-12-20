@@ -24,6 +24,7 @@
 * Fixed train not positioning itself properly when loaded a save where train is on a switch (dosn't apply on old saves)
 * Fixed nuclear powered dosimeter (issue [#3122](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3122))
 * Fixed lingering subtle subtitles (issue [#3046](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3046))
+* Fixed item spawn spam (issue [#2922](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2922))
 
 ## Items
 
