@@ -1,5 +1,6 @@
 # Upcoming
 
+* Train jumping out of train damage now happens after small delay
 * Fixed NPCs no longer being lazy asses and standing up (issue [#3173](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3173))
 
 ## Furniture
