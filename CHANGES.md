@@ -18,6 +18,7 @@
 
 ## Mines
 
+* Heska now tells the dosage when player should leave at last (issue [#3154](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3154))
 * Made fuel pump comma more visible
 * Fixed weirdness with X-Switch
 * Fixed inversion anomalies in tracks (issue [#3175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3175))
