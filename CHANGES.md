@@ -10,6 +10,10 @@
 * Fixed typo with sleeping bag
 * Fixed school chair graduating as a stool (issue [#3192](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3192))
 
+## Tenement System
+
+* Fixed Fine mine depot missing collisions (issue [#3191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3191))
+
 ## Mines
 
 * Made fuel pump comma more visible
