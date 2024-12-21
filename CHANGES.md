@@ -3,6 +3,7 @@
 * Added new sleep event
 * Train jumping out of train damage now happens after small delay(issue [#3176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3176))
 * Fixed NPCs no longer being lazy asses and standing up (issue [#3173](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3173))
+* Added change level triggers to the bottom of the stairs/ladders on mines tenement upgrades. (issue [#3174](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3174))
 
 ## Furniture
 
