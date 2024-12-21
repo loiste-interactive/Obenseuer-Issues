@@ -26,6 +26,7 @@
 * Fixed inversion anomalies in tracks (issue [#3175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3175))
 * Fixed some gold nodes being unreachable
 * Fixed fuel pump sounds
+* Supressed Antero's telepathic abilities (issue [#3184](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3184))
 
 ## Mine Market
 
