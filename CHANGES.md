@@ -30,6 +30,7 @@
 
 ## Mines
 
+* Added 10min cooldown for autosaves
 * Diesel stop now gives receipt
 * Added dialogue for missing funds for Anders Terva
 * Heska now tells the dosage when player should leave at last (issue [#3154](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3154))
