@@ -13,6 +13,10 @@
 * Fixed school chair graduating as a stool (issue [#3192](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3192))
 * Fixed blueprint requirement showing incorrect title if it has a furnituregroup requirement (issue [#3225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3225))
 
+## Items
+
+* Fixed plörö issues
+
 ## Tenement System
 
 * Fixed Fine mine depot missing collisions (issue [#3191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3191))
