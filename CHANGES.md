@@ -43,6 +43,7 @@
 ## Tenement A
 
 * Fixed coffee mug phasing through Pena's hand
+* Fixed elevator note
 
 # December 20th 2024 (Version 0.3.44) - Playtest
 
