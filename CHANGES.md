@@ -41,6 +41,7 @@
 * Fixed some gold nodes being unreachable
 * Fixed fuel pump sounds
 * Supressed Antero's telepathic abilities (issue [#3184](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3184))
+* Fixed floating track
 
 ## Mine Market
 
