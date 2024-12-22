@@ -44,6 +44,7 @@
 
 ## Tenement A
 
+* Enlarged trespassing zones on cat-breeders apartment
 * Fixed coffee mug phasing through Pena's hand
 * Fixed elevator note
 
