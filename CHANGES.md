@@ -23,6 +23,7 @@
 * Fixed Orange Mushroom Lantern icon (issue [#3240](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3240)
 * Fixed fancy desk category (issue [#3228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3228))
 * Fixed Leather Scrap and Rag Rugs using wrong icons (issue [#3221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3221))
+* Fixed Bathroom Cup having wrong icon (issue [#3167](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3167))
 
 ## Tasks
 
