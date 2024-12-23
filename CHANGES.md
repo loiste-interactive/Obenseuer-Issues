@@ -28,6 +28,7 @@
 
 * Fixed changed Survive in Obenseuer "Get some soup" task to "Get some hot soup" (issue [#3220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3220))
 * Fixed Anna not marking the Sauna location on the map (issue [#3208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3208))
+* Fixed player keeping Pia's letter instead of mailing it (issue [#2829](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2829))
 
 ## Items
 
