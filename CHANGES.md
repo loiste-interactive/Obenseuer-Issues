@@ -38,6 +38,7 @@
 * Fixed Decent and Fine mine depot stairs missing collisions (issue [#3190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3190))
 * Fixed not being able to use stolen items correctly for cleaning up (issue [#3187](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3187))
 * Fixed not being able to finish contract work  (issue [#3247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3247))
+* Fixed sink furniture containing items despite being empty (issue [#3210](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3210))
 
 ## Mines
 
