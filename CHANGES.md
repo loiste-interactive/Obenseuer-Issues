@@ -63,6 +63,7 @@
 * Fixed floating track
 * Fixed Toivo throwing a backpack randomly (issue [#3058](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3058))
 * Fixed radios (issue [#3059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3059))
+* Fixed Toivo's laptop being usable
 
 ## Mine Market
 
