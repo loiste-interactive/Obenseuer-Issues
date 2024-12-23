@@ -26,6 +26,7 @@
 ## Tasks
 
 * Fixed changed Survive in Obenseuer "Get some soup" task to "Get some hot soup" (issue [#3220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3220))
+* Fixed Anna not marking the Sauna location on the map (issue [#3208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3208))
 
 ## Items
 
