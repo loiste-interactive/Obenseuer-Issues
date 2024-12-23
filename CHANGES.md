@@ -19,6 +19,7 @@
 * Fixed blueprint requirement showing incorrect title if it has a furnituregroup requirement (issue [#3225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3225))
 * Fixed portable generator ownership (issue [#3201](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3201))
 * Fixed plastic chair collisions (issue [#3195](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3195)
+* Fixed Orange Mushroom Lantern icon (issue [#3240](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3240)
 
 ## Items
 
