@@ -9,6 +9,7 @@
 * Restored prison guard's and Lönkkä's schedules (issue [#3193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3193))
 * Fixed rock pile state not saving (issue [#3085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3085))
 * Fixed autosave not saving skills (issue [#3128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3128))
+* Reduced inventory opening/closing volume (issue [#2978](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2978))
 
 ## Furniture
 
