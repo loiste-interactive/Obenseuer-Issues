@@ -12,7 +12,8 @@
 
 ## Tenement System
 
-* Fixed fine player bathroom shower missing collisions 
+* Fixed fine player bathroom shower missing collisions
+* Fixed phantom paper roll (issue [#3140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3140))
 
 ## Outside
 
