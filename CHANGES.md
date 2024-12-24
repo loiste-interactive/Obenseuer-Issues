@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed orechutes not saving and loading properly (issue [#3253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3253))
+
 ## Items
 
 * Fixed glowing fish item group (issue [#3259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3259))
