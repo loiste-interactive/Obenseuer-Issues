@@ -78,6 +78,10 @@
 * Fixed coffee mug phasing through Pena's hand
 * Fixed elevator note
 
+## Outside
+
+* Eija renewed her supplier contract (issue [#3261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3261))
+
 # December 20th 2024 (Version 0.3.44) - Playtest
 
 * Added anvil
