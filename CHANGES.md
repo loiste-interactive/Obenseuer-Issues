@@ -15,6 +15,10 @@
 * Fixed being unable to craft saline (issue [#3250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3250))
 * Fixed multigrain Doug recipe (issue [#3229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3229))
 
+## Furniture
+
+* Fixed dismantling chainsaw giving planks and nails
+
 ## Tenement System
 
 * Fixed fine player bathroom shower missing collisions
