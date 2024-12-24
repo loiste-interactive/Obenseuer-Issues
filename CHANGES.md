@@ -8,6 +8,7 @@
 ## Recipes
 
 * Fixed being unable to craft saline (issue [#3250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3250))
+* Fixed multigrain Doug recipe (issue [#3229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3229))
 
 ## Tenement System
 
