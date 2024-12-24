@@ -3,6 +3,7 @@
 ## Items
 
 * Fixed glowing fish item group (issue [#3259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3259))
+* Fixed IC magazine giving farming recipes (issue [#3232](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3232))
 
 ## Recipes
 
