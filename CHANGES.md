@@ -4,6 +4,10 @@
 
 * Fixed glowing fish item group (issue [#3259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3259))
 
+## Recipes
+
+* Fixed being unable to craft saline (issue [#3250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3250))
+
 ## Tenement System
 
 * Fixed fine player bathroom shower missing collisions 
