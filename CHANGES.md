@@ -16,6 +16,11 @@
 
 * Eija renewed her supplier contract (issue [#3261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3261))
 
+## Mines
+
+* Fixed gas station not giving correct amount of crime (issue [#3242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3242))
+
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
