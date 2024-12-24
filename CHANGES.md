@@ -1,5 +1,13 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed fine player bathroom shower missing collisions 
+
+## Outside
+
+* Eija renewed her supplier contract (issue [#3261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3261))
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
@@ -46,7 +54,6 @@
 * Fixed not being able to finish contract work  (issue [#3247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3247))
 * Fixed sink furniture containing items despite being empty (issue [#3210](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3210))
 * Fixed not being able to remove furniture (issue [#3139](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3139))
-* Fixed fine player bathroom shower missing collisions 
 
 ## Mines
 
@@ -78,10 +85,6 @@
 * Enlarged trespassing zones on cat-breeders apartment
 * Fixed coffee mug phasing through Pena's hand
 * Fixed elevator note
-
-## Outside
-
-* Eija renewed her supplier contract (issue [#3261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3261))
 
 # December 20th 2024 (Version 0.3.44) - Playtest
 
