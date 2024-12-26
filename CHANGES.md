@@ -60,6 +60,7 @@
 ## Gatehouse
 
 * Fixed guard not telling you're free if you get released during sleep
+* Fixed the call the guard button not starting correct dialogue when the player is already released
 
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
