@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added warning message to notes if they're owned
 * Fixed orechutes not saving and loading properly (issue [#3253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3253))
 * Fixed prison bugging out when you land there 'innocent' (issue [#2606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2606))
 * Fixed police not saving state properlty
