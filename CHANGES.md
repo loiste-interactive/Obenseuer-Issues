@@ -65,6 +65,7 @@
 * Fixed guard not telling you're free if you get released during sleep
 * Fixed the call the guard button not starting correct dialogue when the player is already released
 * Fixed TV power (issue [#2224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2224))
+* Fixed player not landing in prison when starting to talk with the guard before guard notices player
 
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
