@@ -13,6 +13,7 @@
 * Fixed minitrain not playing engine sound after loading a save
 * Fixed prison ignoring part of the sentence (issue [#3157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3157))
 * Fixed collectible packages not saving
+* Fixed new achievements not being achievable in old saves (issue [#3084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3084))
 
 ## Items
 
