@@ -42,6 +42,7 @@
 ## Outside
 
 * Eija renewed her supplier contract (issue [#3261](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3261))
+* Fixed trash rendering through fog (issue [#2939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2939))
 
 ## Mines
 
