@@ -23,6 +23,7 @@
 ## Furniture
 
 * Fixed dismantling chainsaw giving planks and nails
+* Union flags are now in flag category (issue [#3267](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3267))
 
 ## Tenement System
 
