@@ -10,6 +10,7 @@
 * Fixed esc not working after saving a game (issue [#3265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3265))
 * Fixed game not pausing correctly during autosaves (potentially fixing other related issues)
 * Fixed minitrain not playing engine sound after loading a save
+* Fixed prison ignoring part of the sentence (issue [#3157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3157))
 
 ## Items
 
