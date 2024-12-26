@@ -59,6 +59,7 @@
 
 ## Gatehouse
 
+* Player can now request a can opener from the guard
 * Fixed guard not telling you're free if you get released during sleep
 * Fixed the call the guard button not starting correct dialogue when the player is already released
 
