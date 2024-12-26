@@ -57,6 +57,10 @@
 
 * Fixed cameras rotating oddly (issue [#2969](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2969))
 
+## Gatehouse
+
+* Fixed guard not telling you're free if you get released during sleep
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
