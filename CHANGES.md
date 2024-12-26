@@ -59,6 +59,7 @@
 
 ## Gatehouse
 
+* Prison will now spawn a trash bag with your old stuff, if your cell gets changed (issue [#1803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1803))
 * Player can now request a can opener from the guard
 * Fixed guard not telling you're free if you get released during sleep
 * Fixed the call the guard button not starting correct dialogue when the player is already released
