@@ -40,7 +40,6 @@
 * Fixed furniture shop UI being culled (issue [#3260](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3260))
 * Fixed ore drop-off not giving out receipts if drop ownersless items (issue [#3273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3273))
 * Fixed ore drop-off receipt sound playing every time game is loaded
-* Fixed gate B2 not retaining it's powered state
 
 ## Bank
 
