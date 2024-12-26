@@ -7,6 +7,7 @@
 * Fixed dishwasher duplicating empty items (issue [#3251](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3251))
 * Fixed train couplers not saving and loading correctly (issue [#3178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3178))
 * Fixed post-reload infinite flashlight battry (issue [#2065](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2065))
+* Fixed esc not working after saving a game (issue [#3265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3265))
 
 ## Items
 
