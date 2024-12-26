@@ -13,11 +13,13 @@
 
 ## Items
 
+* Added smoked fish
 * Fixed glowing fish item group (issue [#3259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3259))
 * Fixed IC magazine giving farming recipes (issue [#3232](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3232))
 
 ## Recipes
 
+* Added smoked fish
 * Fixed being unable to craft saline (issue [#3250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3250))
 * Fixed multigrain Doug recipe (issue [#3229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3229))
 * Fixed empty plastic filament spool recipe giving full plastic filament spools (issue [#3223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3223))
