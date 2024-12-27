@@ -57,6 +57,7 @@
 ## Mines
 
 * Improved mine map
+* Drop-off machine now has note regarding mining permits and cashing out receipts
 * Fixed gas station not giving correct amount of crime (issue [#3242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3242))
 * Fixed furniture shop UI being culled (issue [#3260](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3260))
 * Fixed ore drop-off not giving out receipts if drop ownersless items (issue [#3273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3273))
