@@ -15,6 +15,7 @@
 * Fixed prison ignoring part of the sentence (issue [#3157](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3157))
 * Fixed collectible packages not saving
 * Fixed new achievements not being achievable in old saves (issue [#3084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3084))
+* Fixed trains reseting their position and becoming non-functional when loaded a save where they've been left at player mine depot
 
 ## Items
 
