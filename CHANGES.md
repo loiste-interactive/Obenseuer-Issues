@@ -32,6 +32,7 @@
 * Fixed multigrain Doug recipe (issue [#3229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3229))
 * Fixed empty plastic filament spool recipe giving full plastic filament spools (issue [#3223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3223))
 * Fixed malting not using malting skill (issue [#3268](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3268))
+* Mouse traps now take more time to make (issue [#3280](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3280))
 
 ## Furniture
 
