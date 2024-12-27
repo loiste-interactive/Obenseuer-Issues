@@ -49,6 +49,7 @@
 * Fixed mine upgrades having broken collisions
 * Fixed phantom paper roll (issue [#3140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3140))
 * Fixed doorway missing collisions (issue [#3263](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3263))
+* Fixed deposit payments (issue [#3284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3284))
 
 ## Outside
 
