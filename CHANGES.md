@@ -43,6 +43,7 @@
 
 * Late balcony upgrades now need rebar
 * Fixed fine player bathroom shower missing collisions
+* Fixed flickering lights in mine upgrades
 * Fixed mine upgrades having broken collisions
 * Fixed phantom paper roll (issue [#3140](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3140))
 * Fixed doorway missing collisions (issue [#3263](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3263))
