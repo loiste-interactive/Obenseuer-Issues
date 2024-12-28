@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added braking sound to trains
 * Added warning message to notes if they're owned
 * Prison now gives a bit more food
 * Fixed orechutes not saving and loading properly (issue [#3253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3253))
