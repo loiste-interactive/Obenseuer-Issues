@@ -61,6 +61,7 @@
 
 ## Mines
 
+* Added some OSRAT stuff
 * Improved mine map
 * Drop-off machine now has note regarding mining permits and cashing out receipts
 * Fixed gas station not giving correct amount of crime (issue [#3242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3242))
