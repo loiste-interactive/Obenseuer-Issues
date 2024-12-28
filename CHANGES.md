@@ -69,6 +69,7 @@
 * Fixed ore drop-off not giving out receipts if drop ownersless items (issue [#3273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3273))
 * Fixed ore drop-off receipt sound playing every time game is loaded
 * Fixed waste depository gate not remembering powered state (issue [#3278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3278))
+* Fixed flatbed bed car
 
 ## Bank
 
