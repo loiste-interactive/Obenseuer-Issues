@@ -18,6 +18,7 @@
 * Fixed new achievements not being achievable in old saves (issue [#3084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3084))
 * Fixed trains reseting their position and becoming non-functional when loaded a save where they've been left at player mine depot
 * Fixed thunder not being linked to audio mixers (issue [#3271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3271))
+* Fixed water rendering over particles
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 
 ## Items
