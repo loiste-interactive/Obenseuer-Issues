@@ -14,3 +14,4 @@ If you'd like to discuss the game with fellow players, you can join the Obenseue
 * For non trivial bugs it's good to provide logs found from "C:\Users\ [username] \AppData\LocalLow\Loiste Interactive\Obenseuer"
 * Please also include the version of the game into the report (can be seen in the bottom of pausemenu)
 * Please make individual issues for separate bugs, do not list separate issues together
+* For performance related issues and crashes, also include your computer specs
