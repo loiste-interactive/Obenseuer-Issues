@@ -114,6 +114,10 @@
 
 * Fixed player stealing not being fully succesful (issue [#2994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2994))
 
+## Player Tenement
+
+* Fixed lights flickering on staircase
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
