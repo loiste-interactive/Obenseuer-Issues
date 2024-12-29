@@ -23,6 +23,7 @@
 * Fixed player falling asleep when watching TV (issue [#3270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3270))
 * Fixed RMB drag overwriting liquids
 * Fixed player thinking that empty bottles still have some liquid after just drank them emtpy (issue [#2650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2650))
+* Fixed player thinking that empty trash still have some food despite just eat it (issue [#2940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2940))
 * Fixed icon of the first collected recipe always being broken (issue [#3019](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3019))
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 
