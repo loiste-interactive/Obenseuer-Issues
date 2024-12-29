@@ -21,6 +21,7 @@
 * Fixed thunder not being linked to audio mixers (issue [#3271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3271))
 * Fixed water rendering over particles
 * Fixed player falling asleep when watching TV (issue [#3270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3270))
+* Fixed RMB drag overriding liquids
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 
 ## Items
