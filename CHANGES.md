@@ -48,6 +48,7 @@
 
 ## Tenement System
 
+* Player cat now comes in pet carrier
 * Late balcony upgrades now need rebar
 * Fixed fine player bathroom shower missing collisions
 * Fixed flickering lights in mine upgrades
