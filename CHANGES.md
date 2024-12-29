@@ -22,6 +22,7 @@
 * Fixed water rendering over particles
 * Fixed player falling asleep when watching TV (issue [#3270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3270))
 * Fixed RMB drag overwriting liquids
+* Fixed player thinking that empty bottles still have some liquid after just drank them emtpy (issue [#2650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2650))
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 
 ## Items
