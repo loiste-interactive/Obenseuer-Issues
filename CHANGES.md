@@ -87,6 +87,10 @@
 * Fixed TV power (issue [#2224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2224))
 * Fixed player not landing in prison when starting to talk with the guard before guard notices player
 
+## Tenement A
+
+* Added dish drying cabinet (issue [#3293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3293))
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
