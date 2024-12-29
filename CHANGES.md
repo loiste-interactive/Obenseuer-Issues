@@ -73,6 +73,7 @@
 * Fixed ore drop-off receipt sound playing every time game is loaded
 * Fixed waste depository gate not remembering powered state (issue [#3278](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3278))
 * Fixed flatbed bed car
+* Emil's duct is now solid (issue [#3115](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3115))
 
 ## Bank
 
