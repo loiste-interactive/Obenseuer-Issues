@@ -104,6 +104,10 @@
 
 * Added dish drying cabinet (issue [#3293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3293))
 
+## Tenement B
+
+* Fixed ??? exit (issue [#2800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2800))
+
 ## Mine Market
 
 * Fixed player stealing not being fully succesful (issue [#2994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2994))
