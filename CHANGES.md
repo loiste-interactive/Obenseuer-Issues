@@ -41,6 +41,7 @@
 
 ## Furniture
 
+* Liquid storages now belong to their own category (issue [#3287](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3287))
 * Fixed dismantling chainsaw giving planks and nails
 * Union flags are now in flag category (issue [#3267](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3267))
 
