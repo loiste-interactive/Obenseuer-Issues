@@ -96,6 +96,10 @@
 
 * Added dish drying cabinet (issue [#3293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3293))
 
+## Mine Market
+
+* Fixed player stealing not being fully succesful (issue [#2994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2994))
+
 # December 23rd 2024 (Version 0.3.45) - Playtest
 
 * Added new sleep event
