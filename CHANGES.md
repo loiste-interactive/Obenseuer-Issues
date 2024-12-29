@@ -20,6 +20,7 @@
 * Fixed trains reseting their position and becoming non-functional when loaded a save where they've been left at player mine depot
 * Fixed thunder not being linked to audio mixers (issue [#3271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3271))
 * Fixed water rendering over particles
+* Fixed player falling asleep when watching TV (issue [#3270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3270))
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 
 ## Items
