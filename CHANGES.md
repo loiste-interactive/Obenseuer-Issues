@@ -2,6 +2,7 @@
 
 * Added braking sound to trains
 * Added warning message to notes if they're owned
+* Added navigation data to pharmacy, canal saunas and some shacks
 * Prison now gives a bit more food
 * Fixed orechutes not saving and loading properly (issue [#3253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3253))
 * Fixed prison bugging out when you land there 'innocent' (issue [#2606](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2606))
