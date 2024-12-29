@@ -27,6 +27,7 @@
 * Fixed icon of the first collected recipe always being broken (issue [#3019](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3019))
 * Fixed paranormal NPCs (issue [#2979](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2979))
 * Fixed being able to glitch into things while uncrouching
+* Fixed growing many mushrooms in single growing workbench causing a lot of lag
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 * Improved performance
 
