@@ -69,6 +69,7 @@
 * Fixed deposit payments (issue [#3284](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3284))
 * Fixed kitchen upgrade barrier missing collisions (issue [#3292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3292))
 * Fixed being able to access work in progress basement from the mines (issue [#3277](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3277))
+* Fixed Malone's chair (issue [#3266](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3266))
 * Locked Mine lvl4 elevator door
 
 ## Outside
