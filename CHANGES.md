@@ -31,6 +31,10 @@
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 * Improved performance
 
+## Tasks
+
+* Fixed Pia's head regrowing (issue [#2929](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2929))
+
 ## Items
 
 * Added grilled salmon/perch/pike
