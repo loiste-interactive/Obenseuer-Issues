@@ -34,6 +34,7 @@
 ## Tasks
 
 * Fixed Pia's head regrowing (issue [#2929](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2929))
+* Fixed not being able to report bodies (issue [#3224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3224))
 
 ## Items
 
