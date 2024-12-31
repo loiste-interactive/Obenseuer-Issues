@@ -29,6 +29,7 @@
 * Fixed being able to glitch into things while uncrouching
 * Fixed growing many mushrooms in single growing workbench causing a lot of lag
 * Fixed not being able to swim (issue [#3299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3299))
+* Fixed picking up dropped store items being a crime (issue [#3308](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3308))
 * Reduced xp gain on medium&large distilleries (issue [#2938](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2938))
 * Improved performance
 
