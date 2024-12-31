@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed void sky  (issue [#3314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3314))
+
 ## Furniture
 
 * Fixed multiple dismantle items
