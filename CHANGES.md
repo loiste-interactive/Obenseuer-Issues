@@ -1,5 +1,11 @@
 # Upcoming
 
+## Furniture
+
+* Fixed multiple dismantle items
+
+# Upcoming
+
 * Added braking sound to trains
 * Added warning message to notes if they're owned
 * Added navigation data to pharmacy, canal saunas and some shacks
