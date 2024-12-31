@@ -4,6 +4,10 @@
 
 * Fixed multiple dismantle items
 
+## Mines
+
+* Fixed that one ring not having a master (issue [#3313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3313))
+
 # December 31st 2024 (Version 0.3.46) - Playtest
 
 * Added braking sound to trains
