@@ -4,7 +4,7 @@
 
 * Fixed multiple dismantle items
 
-# Upcoming
+# December 31st 2024 (Version 0.3.46) - Playtest
 
 * Added braking sound to trains
 * Added warning message to notes if they're owned
