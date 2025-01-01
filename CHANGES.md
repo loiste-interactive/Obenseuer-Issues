@@ -3,6 +3,7 @@
 ## Tenement System
 
 * Fixed not being able to enter building mode in canal saunas
+* Fixed not being able to enter building mode in stairwell (issue [#3027](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3027))
 * Fixed fine courtyard grill ownership and recipes
 * Fixed ownerships of items in sauna upgrades
 * Fixed weird railing collisions in IV mine
