@@ -18,6 +18,7 @@
 * Fixed decent courtyard grill ownership and recipes
 * Fixed fine courtyard grill ownership and recipes
 * Fixed ownerships of items in sauna upgrades
+* Fixed weird railing collisions in IV mine
 * Saunas III and IV now requires water and heating upgrades
 
 ## Mines
