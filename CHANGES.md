@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added new lights and characters culling system, performance should see significants improvements
+* Fixed NullReference error spam about lightcontrollers
 
 ## Tenement System
 
