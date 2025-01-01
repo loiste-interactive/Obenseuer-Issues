@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed void sky  (issue [#3314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3314))
+* Fixed getting previously achieved achievements from steam (issue [#3320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3320))
 
 ## Furniture
 
