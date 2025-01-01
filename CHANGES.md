@@ -16,6 +16,7 @@
 
 * Fixed A7 mold issues (issue [#3338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3338))
 * Fixed lights being rendered when not required
+* Fixed lights popping in laundry
 
 # January 1st 2025 (Version 0.3.47) - Playtest
 
