@@ -10,6 +10,7 @@
 ## Tenement System
 
 * Fixed shabby greenhouse hose ownership
+* Fixed decent courtyardgrill ownership
 
 ## Mines
 
