@@ -7,6 +7,10 @@
 
 * Fixed multiple dismantle items
 
+## Tenement System
+
+* Fixed shabby greenhouse hose ownership
+
 ## Mines
 
 * Fixed that one ring not having a master (issue [#3313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3313))
