@@ -1,6 +1,11 @@
 # Upcoming
 
-* Fixed void sky  (issue [#3314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3314))
+# January 1st 2025 (Version 0.3.47) - Playtest
+
+* Fixed police tapes (issue [#3315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3315))
+* Fixed Seamus hanging with Malone at the start (issue [#3317](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3317))
+* Fixed Pet Carrier appearing always (issue [#3318](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3318))
+* Fixed void sky (issue [#3314](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3314))
 * Fixed getting previously achieved achievements from steam (issue [#3320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3320))
 
 ## Furniture
