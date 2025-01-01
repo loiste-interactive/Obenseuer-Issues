@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added new lights and characters culling system, performance should see a significants improvements
+
 ## Tenement System
 
 * Fixed not being able to enter building mode in canal saunas
