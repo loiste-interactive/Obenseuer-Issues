@@ -1,6 +1,6 @@
 # Upcoming
 
-* Added new lights and characters culling system, performance should see a significants improvements
+* Added new lights and characters culling system, performance should see significants improvements
 
 ## Tenement System
 
