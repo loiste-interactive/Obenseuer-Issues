@@ -17,6 +17,8 @@
 * Fixed shabby greenhouse hose ownership
 * Fixed decent courtyard grill ownership and recipes
 * Fixed fine courtyard grill ownership and recipes
+* Fixed ownerships of items in sauna upgrades
+* Saunas III and IV now requires water and heating upgrades
 
 ## Mines
 
