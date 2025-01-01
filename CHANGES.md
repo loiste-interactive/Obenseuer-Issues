@@ -2,6 +2,7 @@
 
 ## Tenement System
 
+* Fixed not being able to enter building mode in canal saunas
 * Fixed fine courtyard grill ownership and recipes
 * Fixed ownerships of items in sauna upgrades
 * Fixed weird railing collisions in IV mine
