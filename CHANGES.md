@@ -4,6 +4,7 @@
 * Added new lights and characters culling system, performance should see significant improvements
 * Added sparks on train when braking
 * Fixed NullReference error spam about lightcontrollers
+* Fixed hotel beds not remembering being rented out (issue [#3353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3353))
 
 ## Items
 
