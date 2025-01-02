@@ -7,6 +7,7 @@
 * Fixed hotel beds not remembering being rented out (issue [#3353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3353))
 * Fixed sky not updating (issue [#3356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3356))
 * Fixed start package showing wrong item amount
+* Fixed broken start package after saving and loading in border checkpoint (issue [#2718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2718))
 
 ## Items
 
