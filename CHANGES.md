@@ -38,6 +38,10 @@
 * Fixed TV loop (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
 * Fixed guard not caring about trespassing
 
+## Pharmacy
+
+* Fixed wrong owner on antidepressant pack
+
 # January 1st 2025 (Version 0.3.47) - Playtest
 
 * Fixed police tapes (issue [#3315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3315))
