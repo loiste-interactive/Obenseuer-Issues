@@ -4,6 +4,10 @@
 * Added sparks on train when braking
 * Fixed NullReference error spam about lightcontrollers
 
+## Items
+
+* Fixed insta eating all the fish (issue [#3357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3357))
+
 ## Tenement System
 
 * Fixed not being able to enter building mode in canal saunas
