@@ -6,6 +6,7 @@
 * Fixed NullReference error spam about lightcontrollers
 * Fixed hotel beds not remembering being rented out (issue [#3353](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3353))
 * Fixed sky not updating (issue [#3356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3356))
+* Fixed start package showing wrong item amount
 
 ## Items
 
