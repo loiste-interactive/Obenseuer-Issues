@@ -12,6 +12,7 @@
 ## Items
 
 * Fixed insta eating all the fish (issue [#3357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3357))
+* Fixed items resetting their properties on failed drag
 
 ## Tenement System
 
