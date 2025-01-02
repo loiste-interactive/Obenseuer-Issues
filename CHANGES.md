@@ -12,6 +12,7 @@
 
 ## Items
 
+* Picking up items doesn't instantly mix liquids of different qualities
 * Fixed insta eating all the fish (issue [#3357](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3357))
 * Fixed items resetting their properties on failed drag
 * Fixed player pouring liquids on ground when transfering between bottles (issue [#3352](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3352))
