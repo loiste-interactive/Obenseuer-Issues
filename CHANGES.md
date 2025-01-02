@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added new lights and characters culling system, performance should see significants improvements
+* Added sparks on train when braking
 * Fixed NullReference error spam about lightcontrollers
 
 ## Tenement System
