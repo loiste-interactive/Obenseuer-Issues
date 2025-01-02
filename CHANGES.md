@@ -28,6 +28,7 @@
 ## Gatehouse
 
 * Fixed TV loop (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
+* Fixed guard not caring about trespassing
 
 # January 1st 2025 (Version 0.3.47) - Playtest
 
