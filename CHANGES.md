@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 3rd 2025 (Version 0.3.47 V2) - Playtest
+
 * Added a new achievement
 * Added new lights and characters culling system, performance should see significant improvements
 * Added sparks on train when braking
