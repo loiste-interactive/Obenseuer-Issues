@@ -11,6 +11,10 @@
 * Fixed Hank Möbelman alias Reijo Rautakaivos (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
 * Fixed bribery (issue [#3361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3361))
 
+## Tasks
+
+* Fixed Seamus Liepa not unlocking the door (issue [#3369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3369))
+
 ## Items
 
 * Picking up items doesn't instantly mix liquids of different qualities
@@ -26,6 +30,10 @@
 * Fixed ownerships of items in sauna upgrades
 * Fixed weird railing collisions in IV mine
 * Saunas III and IV now requires water and heating upgrades
+
+## Mines
+
+* Fixed Hanss' glowsticks (issue [#3367](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3367))
 
 ## Kolhola
 
