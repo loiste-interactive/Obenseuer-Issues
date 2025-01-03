@@ -58,6 +58,10 @@
 
 * Fixed wrong owner on antidepressant pack
 
+## O-Market
+
+* Fixed stuff spoiling in refrigerators (issue [#3371](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3371))
+
 # January 1st 2025 (Version 0.3.47) - Playtest
 
 * Fixed police tapes (issue [#3315](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3315))
