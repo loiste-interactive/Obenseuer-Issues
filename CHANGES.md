@@ -1,5 +1,7 @@
 # Upcoming
 
+Fixed broken lights optimization system causing massive amount of lag.
+
 # January 3rd 2025 (Version 0.3.47 V2) - Playtest
 
 * Added a new achievement
