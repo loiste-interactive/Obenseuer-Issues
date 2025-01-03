@@ -26,6 +26,7 @@
 ## Furniture
 
 * Fixed Makeshift Toilet bucket having only 4 slots (issue [#3373](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3373))
+* Fixed Bathroom Cabinet's description (issue [#3372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3372))
 
 ## Tenement System
 
