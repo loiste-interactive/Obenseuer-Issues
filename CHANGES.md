@@ -15,6 +15,7 @@
 ## Tasks
 
 * Fixed Seamus Liepa not unlocking the door (issue [#3369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3369))
+* Fixed Max Masher standing after kicking the door (issue [#3374](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3374))
 
 ## Items
 
