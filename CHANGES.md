@@ -11,6 +11,7 @@
 * Fixed Hank Möbelman alias Reijo Rautakaivos (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
 * Fixed bribery (issue [#3361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3361))
 * Fixed money exchange UI money not being 2 decimal digits (issue [#3351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3351))
+* Fixed footstep sounds playing while driving minitrain (issue [#3350](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3350))
 
 ## Tasks
 
