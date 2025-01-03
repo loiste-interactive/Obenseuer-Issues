@@ -22,6 +22,10 @@
 * Fixed items resetting their properties on failed drag
 * Fixed player pouring liquids on ground when transfering between bottles (issue [#3352](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3352))
 
+## Furniture
+
+* Fixed Makeshift Toilet bucket having only 4 slots (issue [#3373](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3373))
+
 ## Tenement System
 
 * Fixed not being able to enter building mode in canal saunas
