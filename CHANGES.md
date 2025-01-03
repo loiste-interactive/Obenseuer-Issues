@@ -10,6 +10,7 @@
 * Fixed broken start package after saving and loading in border checkpoint (issue [#2718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2718))
 * Fixed Hank Möbelman alias Reijo Rautakaivos (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
 * Fixed bribery (issue [#3361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3361))
+* Fixed money exchange UI money not being 2 decimal digits (issue [#3351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3351))
 
 ## Tasks
 
