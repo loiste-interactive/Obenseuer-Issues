@@ -51,6 +51,7 @@
 
 * Fixed TV loop (issue [#3358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3358))
 * Fixed guard not caring about trespassing
+* Fixed Cell 2 not respawning food (issue [#3363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3363))
 
 ## Pharmacy
 
