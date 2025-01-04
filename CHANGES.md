@@ -2,6 +2,10 @@
 
 * Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
 
+## Kolhola
+
+* Fixed elevator light
+
 # Upcoming
 
 * Fixed massive performance issues in trade road
