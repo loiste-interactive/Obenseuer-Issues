@@ -6,6 +6,7 @@
 
 * Added deep fried rat
 * Added deep fried mystery
+* Added deep fried cat
 
 ## Recipes
 
