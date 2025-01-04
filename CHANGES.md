@@ -1,4 +1,4 @@
-# Upcoming +1
+# Upcoming
 
 * Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
 
@@ -6,7 +6,7 @@
 
 * Fixed elevator light
 
-# Upcoming
+# January 4th 2025 (Version 0.3.48) - Playtest
 
 * Fixed massive performance issues in trade road
 
