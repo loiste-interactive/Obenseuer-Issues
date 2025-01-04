@@ -8,6 +8,7 @@
 * Added deep fried mystery
 * Added deep fried cat
 * Added deep fried dog
+* Added deep fried chicken
 
 ## Recipes
 
