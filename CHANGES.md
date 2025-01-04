@@ -1,7 +1,10 @@
+# Upcoming +1
+
+* Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
+
 # Upcoming
 
-Fixed broken lights optimization system causing massive amount of lag.
-Fixed massive performance issues in trade road
+* Fixed massive performance issues in trade road
 
 # January 3rd 2025 (Version 0.3.47 V2) - Playtest
 
