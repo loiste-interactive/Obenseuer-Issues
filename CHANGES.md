@@ -5,6 +5,7 @@
 ## Items
 
 * Added deep fried rat
+* Added deep fried mystery
 
 ## Recipes
 
