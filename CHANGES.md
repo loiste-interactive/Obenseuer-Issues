@@ -6,6 +6,10 @@
 
 * Added deep fried rat
 
+## Recipes
+
+* Added deep fried rat
+
 ## Kolhola
 
 * Fixed elevator light
