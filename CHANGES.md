@@ -2,6 +2,10 @@
 
 * Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
 
+## Items
+
+* Added deep fried rat
+
 ## Kolhola
 
 * Fixed elevator light
