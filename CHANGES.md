@@ -15,6 +15,12 @@
 ## Recipes
 
 * Added deep fried rat
+* Added deep fried mystery
+* Added deep fried cat
+* Added deep fried dog
+* Added deep fried chicken
+* Added deep fried pork
+* Added deep fried beef
 
 ## Kolhola
 
