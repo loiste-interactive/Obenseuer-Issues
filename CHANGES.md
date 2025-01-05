@@ -2,6 +2,7 @@
 
 * Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
 * Fixed eternal train ride (issue [#3380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3380))
+* Fixed bribery ignoring stolen stuff (issue [#3383](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3383))
 
 ## Items
 
