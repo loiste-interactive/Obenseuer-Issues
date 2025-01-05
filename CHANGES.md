@@ -26,6 +26,10 @@
 * Added deep fried pork
 * Added deep fried beef
 
+## Tenement System
+
+* Fixed mine depot tracks not connecting correctly (issue [#3396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3396))
+
 ## Kolhola
 
 * Fixed elevator light
