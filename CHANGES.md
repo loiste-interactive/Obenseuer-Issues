@@ -29,6 +29,10 @@
 
 * Fixed elevator light
 
+## Gatehouse
+
+* Prison now leaves backpacks in front of the lockers
+
 # January 4th 2025 (Version 0.3.48) - Playtest
 
 * Fixed massive performance issues in trade road
