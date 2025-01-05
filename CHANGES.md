@@ -38,6 +38,10 @@
 
 * Fixed missing teddy bear
 
+## Mines
+
+* Fixed broken track at wye (issue [#3397](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3397))
+
 # January 4th 2025 (Version 0.3.48) - Playtest
 
 * Fixed massive performance issues in trade road
