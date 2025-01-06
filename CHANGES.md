@@ -32,6 +32,10 @@
 
 * Fixed mine depot tracks not connecting correctly (issue [#3396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3396))
 
+## Mines Motel
+
+* Fixed rooms trapping in player when the rent-time runs out
+
 ## Kolhola
 
 * Fixed elevator light
