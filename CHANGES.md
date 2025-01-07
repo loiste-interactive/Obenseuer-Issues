@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 7th 2025 (Version 0.3.48 V2) - Playtest
+
 * Added effect for choosing police as an enemy
 * Items dropped on trains now move with trains
 * Fixed broken lights optimization system causing performance issues, and lights popping/being dark.
