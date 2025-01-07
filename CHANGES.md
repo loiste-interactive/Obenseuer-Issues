@@ -6,6 +6,7 @@
 * Fixed eternal train ride (issue [#3380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3380))
 * Fixed bribery ignoring stolen stuff (issue [#3383](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3383))
 * Fixed renovation speed setting lying (issue [#3388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3388))
+* Fixed furniture vendors restocking every time (issue [#3391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3391))
 * Fixed reiska not buying unowned receipts 
 
 ## Furniture
