@@ -8,6 +8,10 @@
 * Fixed renovation speed setting lying (issue [#3388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3388))
 * Fixed reiska not buying unowned receipts 
 
+## Tasks
+
+* Fixed "Bring permit to Reiska" getting marked as abandoned (issue [#3393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3393))
+
 ## Items
 
 * Added deep fried rat
@@ -51,6 +55,15 @@
 ## Mines
 
 * Fixed broken track at wye (issue [#3397](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3397))
+* Fixed Toivo Malmijoki and Olavi Hyypiö screen shaking (issue [#3410](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3410))
+
+## OS Mining Services
+
+* Ken Nakahara now marks the player tenement to player's map and tells how to get there
+
+## One stop shop
+
+* Mr. Bag now buys empty backpacks
 
 # January 4th 2025 (Version 0.3.48) - Playtest
 
