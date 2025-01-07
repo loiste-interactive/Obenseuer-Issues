@@ -8,6 +8,10 @@
 * Fixed renovation speed setting lying (issue [#3388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3388))
 * Fixed reiska not buying unowned receipts 
 
+## Furniture
+
+* Fixed placing kitchen drawer making the frame disappear (issue [#3405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3405))
+
 ## Tasks
 
 * Fixed "Bring permit to Reiska" getting marked as abandoned (issue [#3393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3393))
