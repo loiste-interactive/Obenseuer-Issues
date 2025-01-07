@@ -69,6 +69,7 @@
 ## One stop shop
 
 * Mr. Bag now buys empty backpacks
+* Fixed Mr. Bag being stuck in broken mode (issue [#2852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2852))
 
 # January 4th 2025 (Version 0.3.48) - Playtest
 
