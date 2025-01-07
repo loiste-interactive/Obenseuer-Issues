@@ -7,7 +7,8 @@
 * Fixed bribery ignoring stolen stuff (issue [#3383](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3383))
 * Fixed renovation speed setting lying (issue [#3388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3388))
 * Fixed furniture vendors restocking every time (issue [#3391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3391))
-* Fixed reiska not buying unowned receipts 
+* Fixed reiska not buying unowned receipts
+* Fixed glowing fish turning into normal fish (issue [#3422](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3422))
 
 ## Furniture
 
