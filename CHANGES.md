@@ -8,7 +8,7 @@
 
 * Fixed B2 light (issue [#3426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3426))
 
-# January 7th 2025 (Version 0.3.48 V2) - Playtest
+# January 7th 2025 (Version 0.3.48 V2) - Public Playtest
 
 * Added effect for choosing police as an enemy
 * Items dropped on trains now move with trains
