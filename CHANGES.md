@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Commercial dishwasher price is now in RM
+
 ## Mines Hotel
 
 * Fixed Invisible walls  (issue [#3427](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3427))
