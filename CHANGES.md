@@ -20,6 +20,10 @@
 
 * Pentti sells drinks in pints
 
+## Outside
+
+* Lönkkä now buys fertilizer and urea solution
+
 # January 7th 2025 (Version 0.3.48 V2) - Public Playtest
 
 * Added effect for choosing police as an enemy
