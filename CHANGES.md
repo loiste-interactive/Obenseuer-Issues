@@ -1,5 +1,9 @@
 # Upcoming
 
+## Console
+
+* Added crime commands
+
 ## Furniture
 
 * Commercial dishwasher price is now in RM
