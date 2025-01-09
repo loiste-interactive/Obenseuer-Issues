@@ -8,6 +8,10 @@
 
 * Commercial dishwasher price is now in RM
 
+## Mines
+
+* Fixed collision issues at Erikson claim (issue [#3415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3415))
+
 ## Mines Hotel
 
 * Fixed Invisible walls  (issue [#3427](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3427))
@@ -23,6 +27,8 @@
 ## Outside
 
 * Lönkkä now buys fertilizer and urea solution
+* Updated foliage assets
+* Fixed satellite dishes pointing to silly directions (issue [#2855](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2855))
 
 # January 7th 2025 (Version 0.3.48 V2) - Public Playtest
 
