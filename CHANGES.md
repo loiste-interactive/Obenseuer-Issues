@@ -4,6 +4,10 @@
 
 * Added crime commands
 
+## Recipes
+
+* Fixed rat trap skill (issue [#3447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3447))
+
 ## Furniture
 
 * Commercial dishwasher price is now in RM
