@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed picking up shrooms instarotting them (issue [#3448](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3448))
+
 ## Console
 
 * Added crime commands
