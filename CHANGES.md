@@ -30,6 +30,10 @@
 * Updated foliage assets
 * Fixed satellite dishes pointing to silly directions (issue [#2855](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2855))
 
+## Gatehouse
+
+* Fixed prison not giving food when sleeping
+
 # January 7th 2025 (Version 0.3.48 V2) - Public Playtest
 
 * Added effect for choosing police as an enemy
