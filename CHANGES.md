@@ -10,6 +10,7 @@
 
 ## Furniture
 
+* Fixed placed furniture sometimes not giving out light
 * Commercial dishwasher price is now in RM
 
 ## Mines
