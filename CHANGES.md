@@ -37,6 +37,7 @@
 ## Gatehouse
 
 * Fixed prison not giving food when sleeping
+* Fixed guard always saying 4 days when player has maximum prison sentence
 
 # January 7th 2025 (Version 0.3.48 V2) - Public Playtest
 
