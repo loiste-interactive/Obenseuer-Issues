@@ -7,6 +7,10 @@
 
 * Added crime commands
 
+## Items
+
+* Fixed player cat changing to summer fur sometimes (issue [#3446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3446))
+
 ## Recipes
 
 * Fixed rat trap skill (issue [#3447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3447))
