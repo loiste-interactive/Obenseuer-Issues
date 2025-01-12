@@ -26,6 +26,10 @@
 
 * Fixed Invisible walls  (issue [#3427](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3427))
 
+## Tenement A
+
+* Fixed roll-up door not saving its state (issue [#3451](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3451))
+
 ## Tenement B
 
 * Fixed B2 light (issue [#3426](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3426))
