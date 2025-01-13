@@ -10,6 +10,7 @@
 ## Outside
 
 * Fixed phone booth light
+* Fixed Mr.Bag taking an unannounced vacation (issue [#3474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3474))
 
 # January 13th 2025 (Version 0.4.0) - Public Playtest
 
