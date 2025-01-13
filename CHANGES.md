@@ -12,6 +12,7 @@
 ## Tasks
 
 * Fixed Orange Heaven not updating (issue [#3414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3414))
+* Fixed not being able to complete "Who lives in the basement" in under certain circumstances (issue [#3468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3468))
 
 ## Items
 
