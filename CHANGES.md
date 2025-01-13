@@ -1,5 +1,9 @@
 # Upcoming
 
+## Outside
+
+* Fixed phone booth light
+
 # January 13th 2025 (Version 0.4.0) - Public Playtest
 
 * Added new loading screen
