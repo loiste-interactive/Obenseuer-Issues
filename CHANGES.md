@@ -30,6 +30,7 @@
 ## Tenement system
 
 * Fixed UI showing wrong player relationship status (issue [#3434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3434))
+* Fixed some states not being saved (storages/roadblock) (issue [#3430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3430), issue [#3443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3443))
 
 ## Mines
 
