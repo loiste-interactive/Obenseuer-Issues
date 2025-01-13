@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Fixed ethanol being uncraftable.
+
 ## Outside
 
 * Fixed phone booth light
