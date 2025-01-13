@@ -4,6 +4,7 @@
 
 ## Recipes
 
+* Fixed french fries.
 * Fixed ethanol being uncraftable.
 
 ## Outside
