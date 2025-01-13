@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 13th 2025 (Version 0.4.0) - Public Playtest
+
 * Added new loading screen
 * Fixed picking up shrooms instarotting them (issue [#3448](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3448))
 * Fixed lizzy refusing to empty your septic tanks (issue [#3420](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3420))
