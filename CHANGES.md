@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed stealh mode police (issue [#3477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3477))
+
 ## Recipes
 
 * Fixed ethanol being uncraftable.
