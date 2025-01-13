@@ -51,6 +51,7 @@
 
 ## Gatehouse
 
+* Player can now request rubber ducks
 * Fixed prison not giving food when sleeping
 * Fixed guard always saying 4 days when player has maximum prison sentence
 
