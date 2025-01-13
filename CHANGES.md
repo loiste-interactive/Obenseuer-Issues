@@ -8,6 +8,10 @@
 
 * Added crime commands
 
+## Tasks
+
+* Fixed Orange Heaven not updating (issue [#3414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3414))
+
 ## Items
 
 * Fixed player cat changing to summer fur sometimes (issue [#3446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3446))
