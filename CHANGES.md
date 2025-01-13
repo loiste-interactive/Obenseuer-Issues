@@ -16,6 +16,7 @@
 
 ## Items
 
+* Slaughtering cats now give leather
 * Fixed player cat changing to summer fur sometimes (issue [#3446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3446))
 
 ## Recipes
