@@ -32,6 +32,7 @@
 * Antero now tells about those wooden loaders.
 * Fixed collision issues at Erikson claim (issue [#3415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3415))
 * Fixed canteen being always open despite sign telling otherwise
+* Fixed Os Mining Services not being restocked (issue [#3460](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3460))
 
 ## Mines Office
 
