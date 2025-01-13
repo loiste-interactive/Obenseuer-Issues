@@ -27,6 +27,10 @@
 * Fixed collision issues at Erikson claim (issue [#3415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3415))
 * Fixed canteen being always open despite sign telling otherwise
 
+## Mines Office
+
+* Fixed not being able to redeem to ore dro-off receipt (issue [#3457](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3457))
+
 ## Mines Hotel
 
 * Fixed Invisible walls  (issue [#3427](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3427))
