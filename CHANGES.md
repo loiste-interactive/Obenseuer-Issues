@@ -27,6 +27,10 @@
 * Fixed placed furniture sometimes not giving out light
 * Commercial dishwasher price is now in RM
 
+## Tenement system
+
+* Fixed UI showing wrong player relationship status (issue [#3434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3434))
+
 ## Mines
 
 * Antero now tells about those wooden loaders.
