@@ -27,6 +27,7 @@
 * Fixed Antero taking player's word for the mining permit
 * Fixed Emil taking player's word for the mining permit
 * Fixed wastedump gate not remembering it's state if lockpicked open (issue [#3473](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3473))
+* Fixed Saunaklonkku being too posessive of Seamus' ring (issue [#3481](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3481))
 
 # January 13th 2025 (Version 0.4.0) - Public Playtest
 
