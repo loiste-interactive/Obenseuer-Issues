@@ -7,6 +7,7 @@
 
 * Fixed french fries.
 * Fixed ethanol being uncraftable.
+* Fixed multigrain bread recipes
 
 ## Outside
 
