@@ -9,6 +9,7 @@
 
 ## Outside
 
+* Fixed satellite dish popping
 * Fixed phone booth light
 * Fixed Mr.Bag taking an unannounced vacation (issue [#3474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3474))
 
