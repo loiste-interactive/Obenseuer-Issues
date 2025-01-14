@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 14th 2025 (Version 0.4.0 V2) - Public Playtest
+
 * Fixed owned and stolen stuff mixing if the owner is the same.
 * Fixed stealh mode police (issue [#3477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3477))
 * Fixed shops not opening when they should be (issue [#3474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3474))
