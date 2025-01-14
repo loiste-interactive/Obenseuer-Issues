@@ -15,7 +15,7 @@
 
 ## Mines
 
-* Fixed claim rock ownership
+* Fixed claim rock ownership + loader permission
 * Fixed Antero taking player's word for the mining permit
 
 # January 13th 2025 (Version 0.4.0) - Public Playtest
