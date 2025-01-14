@@ -9,6 +9,10 @@
 * Fixed ethanol being uncraftable.
 * Fixed multigrain bread recipes
 
+## Tenement System
+
+* Fixed tier 3 and 4 minedepot tracks (issue [#3479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3479))
+
 ## Outside
 
 * Fixed satellite dish popping
