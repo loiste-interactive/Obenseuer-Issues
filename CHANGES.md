@@ -3,6 +3,7 @@
 * Fixed owned and stolen stuff mixing if the owner is the same.
 * Fixed stealh mode police (issue [#3477](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3477))
 * Fixed shops not opening when they should be (issue [#3474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3474))
+* Fixed liquid containers occasionally becoming black holes (issue [#3298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3298))
 
 ## Recipes
 
