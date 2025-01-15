@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed pines growing horizontally
+
 # January 14th 2025 (Version 0.4.0 V2) - Public Playtest
 
 * Fixed owned and stolen stuff mixing if the owner is the same.
