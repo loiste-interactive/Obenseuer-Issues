@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed pines growing horizontally
+* Minor fixes like Kolhola sink and etc.
 
 # January 14th 2025 (Version 0.4.0 V2) - Public Playtest
 
