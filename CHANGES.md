@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed dosimeter showing negative numbers
 * Fixed pines growing horizontally
 * Minor fixes like Kolhola sink and etc.
 
