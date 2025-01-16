@@ -1,6 +1,6 @@
 # Upcoming
 
-# January 16th 2025 (Version 0.4.0 V3) - Public Playtest
+# January 16th 2025 (Version 0.4.0)
 
 * Fixed dosimeter showing negative numbers
 * Fixed pines growing horizontally
