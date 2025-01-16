@@ -4,6 +4,10 @@
 * Fixed pines growing horizontally
 * Minor fixes like Kolhola sink and etc.
 
+## Tasks
+
+* Fixed Pia disappearing after first visit (issue [#3495](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3495))
+
 # January 14th 2025 (Version 0.4.0 V2) - Public Playtest
 
 * Fixed owned and stolen stuff mixing if the owner is the same.
