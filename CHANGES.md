@@ -1,5 +1,7 @@
 # Upcoming
 
+# January 16th 2025 (Version 0.4.0 V3) - Public Playtest
+
 * Fixed dosimeter showing negative numbers
 * Fixed pines growing horizontally
 * Minor fixes like Kolhola sink and etc.
