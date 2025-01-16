@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added dynamite to mine steel cabinet loot pool
+
 # January 16th 2025 (Version 0.4.0)
 
 * Fixed dosimeter showing negative numbers
