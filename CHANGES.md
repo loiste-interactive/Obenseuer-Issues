@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added dynamite to mine steel cabinet loot pool
+* Fixed RM hyperdeflation (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
 
 # January 16th 2025 (Version 0.4.0)
 
