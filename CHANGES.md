@@ -2,6 +2,7 @@
 
 * Added dynamite to mine steel cabinet loot pool
 * Fixed RM hyperdeflation (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
+* Fixed some places having their own calendar system (issue [#3309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3309))
 
 # January 16th 2025 (Version 0.4.0)
 
