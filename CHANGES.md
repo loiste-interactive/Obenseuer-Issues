@@ -20,6 +20,7 @@
 * Mine sacks now have mine specific loot
 * Fixed Antero Eriks scamming player
 * Made it easier to climb out of mines
+* Fixed speed camera sending double invoices
 
 # January 16th 2025 (Version 0.4.0)
 
