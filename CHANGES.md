@@ -9,6 +9,7 @@
 
 ## Mines
 
+* Player can now insert stuff into the mine claim ore chutes
 * Mine sacks now have mine specific loot
 * Fixed Antero Eriks scamming player
 
