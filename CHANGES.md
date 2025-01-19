@@ -7,6 +7,10 @@
 * Fixed max all addictions achievement(s) being practically impossible to get (issue [#3514](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3514))
 * Reduced hygiene degration rate
 
+## Tenement System
+
+* IV mining depot orecrusher now unloads tipping wagons and automatically processes items.
+
 ## Mines
 
 * Antero and Emil now mentions the payment
