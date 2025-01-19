@@ -7,6 +7,7 @@
 * Fixed max all addictions achievement(s) being practically impossible to get (issue [#3514](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3514))
 * Fixed rocks poking through tipping wagons
 * Reduced hygiene degration rate
+* Fixed fake invoices being broken (issue [#3527](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3527))
 
 ## Tenement System
 
