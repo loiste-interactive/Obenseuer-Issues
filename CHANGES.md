@@ -13,6 +13,7 @@
 * Player can now insert stuff into the mine claim ore chutes
 * Mine sacks now have mine specific loot
 * Fixed Antero Eriks scamming player
+* Made it easier to climb out of mines
 
 # January 16th 2025 (Version 0.4.0)
 
