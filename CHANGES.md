@@ -10,6 +10,7 @@
 ## Mines
 
 * Mine sacks now have mine specific loot
+* Fixed Antero Eriks scamming player
 
 # January 16th 2025 (Version 0.4.0)
 
