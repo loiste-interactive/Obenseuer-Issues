@@ -15,6 +15,10 @@
 * IV mining depot orecrusher now unloads tipping wagons and automatically processes items.
 * Fixed large orecrusher still crueshing rocks despite being off
 
+## Recipes
+
+* Fixed unable to plant leeks (issue [#3519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3519))
+
 ## Mines
 
 * Antero and Emil now mentions the payment
