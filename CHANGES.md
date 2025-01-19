@@ -5,6 +5,7 @@
 * Fixed some places having their own calendar system (issue [#3309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3309))
 * Fixed dirty water being too dirty even for showering
 * Fixed max all addictions achievement(s) being practically impossible to get (issue [#3514](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3514))
+* Fixed rocks poking through tipping wagons
 * Reduced hygiene degration rate
 
 ## Tenement System
