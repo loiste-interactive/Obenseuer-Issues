@@ -9,6 +9,7 @@
 * Reduced hygiene degration rate
 * Fixed fake invoices being broken (issue [#3527](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3527))
 * Fixed prison not working correctly (issue [#3535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3535))
+* Fixed refigerators not showing items until searched
 
 ## Tenement System
 
