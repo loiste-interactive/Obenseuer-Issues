@@ -11,6 +11,7 @@
 ## Tenement System
 
 * IV mining depot orecrusher now unloads tipping wagons and automatically processes items.
+* Fixed large orecrusher still crueshing rocks despite being off
 
 ## Mines
 
