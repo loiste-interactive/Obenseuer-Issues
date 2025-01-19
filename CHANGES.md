@@ -7,6 +7,10 @@
 * Fixed max all addictions achievement(s) being practically impossible to get (issue [#3514](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3514))
 * Reduced hygiene degration rate
 
+## Mines
+
+* Mine sacks now have mine specific loot
+
 # January 16th 2025 (Version 0.4.0)
 
 * Fixed dosimeter showing negative numbers
