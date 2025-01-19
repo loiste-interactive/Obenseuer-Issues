@@ -11,7 +11,7 @@
 * Fixed prison not working correctly (issue [#3535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3535))
 * Fixed refigerators not showing items until searched
 * Fixed firewoodpiles and others not updating their visual state after loading a game  (issue [#3508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3508))
-* Fixed Ivar Phil hoarding red shrooms (issue [#3548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3548))
+* Fixed Ivar Phil hoarding green shrooms (issue [#3548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3548))
 
 ## Tenement System
 
