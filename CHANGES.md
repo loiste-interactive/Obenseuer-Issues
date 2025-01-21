@@ -13,6 +13,12 @@
 * Fixed firewoodpiles and others not updating their visual state after loading a game  (issue [#3508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3508))
 * Fixed Ivar Phil hoarding green shrooms (issue [#3548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3548))
 
+## Tasks
+
+* Added the ability to ask Heska Pavonen for the gate code
+* Added the gate code to the task notes
+* Added dialogue for Heska when the player returns from the radioactive repository
+
 ## Tenement System
 
 * IV mining depot orecrusher now unloads tipping wagons and automatically processes items.
