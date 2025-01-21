@@ -4,6 +4,7 @@
 
 * Added gas mask
 * Added gas mask filter
+* Fixed receipts showing OC value with RM currency
 
 # January 21st 2025 (Version 0.4.01) - Public Playtest
 
