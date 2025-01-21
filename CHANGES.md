@@ -12,6 +12,7 @@
 * Fixed refigerators not showing items until searched
 * Fixed firewoodpiles and others not updating their visual state after loading a game  (issue [#3508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3508))
 * Fixed Ivar Phil hoarding green shrooms (issue [#3548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3548))
+* Fixed time related bugs (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
 
 ## Tasks
 
