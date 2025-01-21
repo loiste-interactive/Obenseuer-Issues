@@ -23,6 +23,10 @@
 
 * Fixed unable to plant leeks (issue [#3519](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3519))
 
+## Furniture
+
+* Lattemaster now has better equipment quality 
+
 ## Mines
 
 * Antero and Emil now mentions the payment
