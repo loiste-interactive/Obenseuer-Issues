@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added dynamite to mine steel cabinet loot pool
+* Fixed time related bugs (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
 * Fixed RM hyperdeflation (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
 * Fixed some places having their own calendar system (issue [#3309](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3309))
 * Fixed dirty water being too dirty even for showering
@@ -12,7 +13,6 @@
 * Fixed refigerators not showing items until searched
 * Fixed firewoodpiles and others not updating their visual state after loading a game  (issue [#3508](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3508))
 * Fixed Ivar Phil hoarding green shrooms (issue [#3548](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3548))
-* Fixed time related bugs (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
 
 ## Tasks
 
