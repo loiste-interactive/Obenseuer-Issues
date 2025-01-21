@@ -1,5 +1,10 @@
 # Upcoming
 
+## Items
+
+* Added gas mask
+* Added gas mask filter
+
 # January 21st 2025 (Version 0.4.01) - Public Playtest
 
 * Added dynamite to mine steel cabinet loot pool
