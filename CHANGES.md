@@ -10,6 +10,10 @@
 
 * Fixed pine tree throwing players into the sky (issue [#3531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3531))
 
+## Mines
+
+* Fixed pipes collision issues near the elevator area (issue [#3538](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3538))
+
 # January 22nd 2025 (Version 0.4.01) 
 
 * Added dynamite to mine steel cabinet loot pool
