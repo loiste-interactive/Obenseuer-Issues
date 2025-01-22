@@ -1,5 +1,7 @@
 # Upcoming
 
+* Being high on orange shrooms now speed up manual crafting
+
 ## Items
 
 * Added gas mask
