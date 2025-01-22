@@ -1,6 +1,7 @@
 # Upcoming
 
 * Being high on orange shrooms now speed up manual crafting
+* Winning in slots machines gives a dopamine spike.
 
 ## Items
 
