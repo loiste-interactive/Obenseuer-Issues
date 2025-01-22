@@ -6,7 +6,7 @@
 * Added gas mask filter
 * Fixed receipts showing OC value with RM currency
 
-# January 21st 2025 (Version 0.4.01) - Public Playtest
+# January 22nd 2025 (Version 0.4.01) 
 
 * Added dynamite to mine steel cabinet loot pool
 * Fixed time related bugs (issue [#3494](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3494))
