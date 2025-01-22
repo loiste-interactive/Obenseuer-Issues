@@ -18,6 +18,10 @@
 * Fixed pipes collision issues near the elevator area (issue [#3538](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3538))
 * Fixed ownership and collision issues on the fine tier mine upgrade (issue [#3530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3530))
 
+## Mine Canteen
+
+* Petting Kisu now yields dopamine
+
 ## Tenement System
 
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
