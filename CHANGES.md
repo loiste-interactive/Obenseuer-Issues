@@ -6,6 +6,10 @@
 * Added gas mask filter
 * Fixed receipts showing OC value with RM currency
 
+## Outside
+
+* Fixed pine tree throwing players into the sky (issue [#3531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3531))
+
 # January 22nd 2025 (Version 0.4.01) 
 
 * Added dynamite to mine steel cabinet loot pool
