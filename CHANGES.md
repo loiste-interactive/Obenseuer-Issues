@@ -9,6 +9,10 @@
 * Added gas mask filter
 * Fixed receipts showing OC value with RM currency
 
+## Recipes
+
+* Added handwheel
+
 ## Outside
 
 * Fixed pine tree throwing players into the sky (issue [#3531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3531))
