@@ -15,6 +15,11 @@
 * Fixed pipes collision issues near the elevator area (issue [#3538](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3538))
 * Fixed ownership and collision issues on the fine tier mine upgrade (issue [#3530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3530))
 
+## Tenement System
+
+* Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
+* Fixed Amandas ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
+
 # January 22nd 2025 (Version 0.4.01) 
 
 * Added dynamite to mine steel cabinet loot pool
