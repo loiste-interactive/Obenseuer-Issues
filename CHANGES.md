@@ -13,6 +13,7 @@
 ## Mines
 
 * Fixed pipes collision issues near the elevator area (issue [#3538](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3538))
+* Fixed ownership and collision issues on the fine tier mine upgrade (issue [#3530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3530))
 
 # January 22nd 2025 (Version 0.4.01) 
 
