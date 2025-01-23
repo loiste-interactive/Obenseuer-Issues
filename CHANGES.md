@@ -3,8 +3,11 @@
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
 * Added mining skill effects to mining
 * Added fallback fonts for some characters
+* Added controls to the list menu (Hotel) (issue [#3503](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3503))
+* Added controls to the minitrain (issue [#3506](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3506))
 * Fixed vsync setting being limited to 55
 * Fixed already learned recipes not working without the recipe when the recipe is required (issue [#3591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3591))
+* Removed camera rotation when entering/exiting the minitrain
 * Increased pickaxe hit range
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
