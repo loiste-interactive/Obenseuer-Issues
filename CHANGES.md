@@ -22,6 +22,7 @@
 * Added gas mask
 * Added gas mask filter
 * Fixed receipts showing OC value with RM currency
+* Fixed watermelon alcohols destroying bottle
 
 ## Recipes
 
