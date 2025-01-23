@@ -4,6 +4,7 @@
 * Added mining skill effects to mining
 * Added fallback fonts for some characters
 * Fixed vsync setting being limited to 55
+* Increased pickaxe hit range
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
 
