@@ -40,6 +40,10 @@
 
 * Petting Kisu now yields dopamine
 
+## Potato Mine
+
+* Fixed background sounds not working
+
 ## Tenement System
 
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
