@@ -4,6 +4,7 @@
 * Added mining skill effects to mining
 * Added fallback fonts for some characters
 * Fixed vsync setting being limited to 55
+* Fixed already learned recipes not working without the recipe when the recipe is required (issue [#3591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3591))
 * Increased pickaxe hit range
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
