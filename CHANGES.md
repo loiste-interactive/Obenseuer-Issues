@@ -12,6 +12,11 @@
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
 
+## Tasks
+
+* Fixed Orange Heaven not progressing when asking about Malone (issue [#3512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3512))
+* Fixed Seamus not giving potatoes
+
 ## Items
 
 * Added gas mask
