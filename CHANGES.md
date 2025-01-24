@@ -33,6 +33,7 @@
 ## Recipes
 
 * Added handwheel
+* Fixed saline (issue [#3586](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3586))
 
 ## Outside
 
