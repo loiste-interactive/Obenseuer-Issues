@@ -8,14 +8,19 @@
 * Fixed vsync setting being limited to 55
 * Fixed already learned recipes not working without the recipe when the recipe is required (issue [#3591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3591))
 * Removed camera rotation when entering/exiting the minitrain
+* Removed TAA
 * Increased pickaxe hit range
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
 
 ## Tasks
 
+- Added ability to asks about the permission again from Toivo
+- Added ability asks about the blonde haired woman from Laura Markkanen
+- Lowered the miner's tax price
 * Fixed Orange Heaven not progressing when asking about Malone (issue [#3512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3512))
 * Fixed Seamus not giving potatoes
+* Fixed giving the photo not being removed when given to Pia
 
 ## Items
 
