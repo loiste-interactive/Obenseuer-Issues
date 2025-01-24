@@ -12,6 +12,7 @@
 * Increased pickaxe hit range
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
+* Fixed "Eat only familiar shrooms" achievement
 
 ## Tasks
 
