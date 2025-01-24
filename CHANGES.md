@@ -29,6 +29,7 @@
 * Added gas mask filter
 * Fixed receipts showing OC value with RM currency
 * Fixed watermelon alcohols destroying bottle
+* Fixed unpickupable taters (issue [#3578](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3578))
 
 ## Recipes
 
