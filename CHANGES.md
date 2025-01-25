@@ -24,6 +24,10 @@
 * Fixed Seamus not giving potatoes
 * Fixed giving the photo not being removed when given to Pia
 
+## Tenement System
+
+* Fixed being unable to grow stuff on T3 and T4 extensions.
+
 ## Items
 
 * Added gas mask
