@@ -27,6 +27,8 @@
 ## Tenement System
 
 * Fixed being unable to grow stuff on T3 and T4 extensions.
+* Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
+* Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
 
 ## Items
 
@@ -60,11 +62,6 @@
 ## Potato Mine
 
 * Fixed background sounds not working
-
-## Tenement System
-
-* Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
-* Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
 
 # January 22nd 2025 (Version 0.4.01) 
 
