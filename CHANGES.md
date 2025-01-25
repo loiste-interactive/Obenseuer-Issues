@@ -13,6 +13,7 @@
 * Being high on orange shrooms now speed up manual crafting
 * Winning in slots machines gives a dopamine spike.
 * Fixed "Eat only familiar shrooms" achievement
+* Small and medium distillerys now have better equipment quality
 
 ## Tasks
 
