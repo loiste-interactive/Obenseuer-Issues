@@ -17,9 +17,9 @@
 
 ## Tasks
 
-- Added ability to asks about the permission again from Toivo
-- Added ability asks about the blonde haired woman from Laura Markkanen
-- Lowered the miner's tax price
+* Added ability to asks about the permission again from Toivo
+* Added ability asks about the blonde haired woman from Laura Markkanen
+* Lowered the miner's tax price
 * Fixed Orange Heaven not progressing when asking about Malone (issue [#3512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3512))
 * Fixed Seamus not giving potatoes
 * Fixed giving the photo not being removed when given to Pia
