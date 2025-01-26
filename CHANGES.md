@@ -43,6 +43,7 @@
 * Fixed unpickupable taters (issue [#3578](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3578))
 * Fixed ratcat
 * Increased ore prices
+* Improved pickaxe durability
 
 ## Recipes
 
