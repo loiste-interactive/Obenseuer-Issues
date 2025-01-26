@@ -69,6 +69,10 @@
 
 * Fixed background sounds not working
 
+## Gatehouse
+
+* Fixed prison trying to make prisoners fat
+
 # January 22nd 2025 (Version 0.4.01) 
 
 * Added dynamite to mine steel cabinet loot pool
