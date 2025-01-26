@@ -30,6 +30,10 @@
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
 * Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
 
+## Console
+
+* Fixed list blueprints command not listing all blueprints.
+
 ## Items
 
 * Added gas mask
