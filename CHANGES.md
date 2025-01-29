@@ -29,6 +29,7 @@
 * Fixed being unable to grow stuff on T3 and T4 extensions.
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
 * Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
+* Fixed free gold (issue [#3626](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3626))
 
 ## Console
 
