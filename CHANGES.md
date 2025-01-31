@@ -46,6 +46,7 @@
 * Fixed ratcat
 * Increased ore prices
 * Improved pickaxe durability
+* Fixed pack of cigars
 
 ## Recipes
 
