@@ -56,6 +56,10 @@
 * Fixed not being able to bage dough (issue [#3581](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3581))
 * Fixed potatoes with meat sauce (issue [#3646](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3646))
 
+## Furniture
+
+* Fixed Fancy Wooden Desk (issue [#3629](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3629))
+
 ## Outside
 
 * Fixed pine tree throwing players into the sky (issue [#3531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3531))
