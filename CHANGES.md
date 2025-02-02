@@ -10,6 +10,7 @@
 * Fixed some interactables getting stuck in interacted state (issue [#3609](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3609))
 * Fixed items dropped on train becoming gigantic
 * Fixed stuff left on trains, elevators and doors not staying on the train/door/elevator when loading a save
+* Fixed minitrain coupling weirdness with multiple locomotives (issue [#3571](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3571)) 
 * Removed camera rotation when entering/exiting the minitrain
 * Removed TAA
 * Increased pickaxe hit range
