@@ -9,6 +9,7 @@
 * Fixed already learned recipes not working without the recipe when the recipe is required (issue [#3591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3591))
 * Fixed some interactables getting stuck in interacted state (issue [#3609](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3609))
 * Fixed items dropped on train becoming gigantic
+* Fixed stuff left on trains, elevators and doors not staying on the train/door/elevator when loading a save
 * Removed camera rotation when entering/exiting the minitrain
 * Removed TAA
 * Increased pickaxe hit range
