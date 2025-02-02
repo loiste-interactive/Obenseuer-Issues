@@ -12,6 +12,7 @@
 * Fixed stuff left on trains, elevators and doors not staying on the train/door/elevator when loading a save
 * Fixed minitrain coupling weirdness with multiple locomotives (issue [#3571](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3571))
 * Fixed stuff cart lantern (issue [#3560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3560))
+* Fixed bank ignoring compound interest (issue [#3622](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3622))
 * Removed camera rotation when entering/exiting the minitrain
 * Removed TAA
 * Increased pickaxe hit range
