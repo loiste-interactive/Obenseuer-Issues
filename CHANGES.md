@@ -7,6 +7,7 @@
 * Added controls to the minitrain (issue [#3506](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3506))
 * Fixed vsync setting being limited to 55
 * Fixed already learned recipes not working without the recipe when the recipe is required (issue [#3591](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3591))
+* Fixed some interactables getting stuck in interacted state (issue [#3609](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3609))
 * Removed camera rotation when entering/exiting the minitrain
 * Removed TAA
 * Increased pickaxe hit range
