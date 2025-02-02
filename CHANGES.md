@@ -56,6 +56,7 @@
 * Fixed saline, also uses pure water now (issue [#3586](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3586))
 * Fixed not being able to bage dough (issue [#3581](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3581))
 * Fixed potatoes with meat sauce (issue [#3646](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3646))
+* Fixed gold extraction duplication loop (issue [#3648](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3648))
 
 ## Furniture
 
