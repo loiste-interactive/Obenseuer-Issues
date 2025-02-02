@@ -20,6 +20,7 @@
 * Winning in slots machines gives a dopamine spike.
 * Fixed "Eat only familiar shrooms" achievement
 * Small and medium distillerys now have better equipment quality
+* Telemarketing now yields more xp
 
 ## Tasks
 
