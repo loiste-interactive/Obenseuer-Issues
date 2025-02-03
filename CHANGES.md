@@ -38,6 +38,7 @@
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
 * Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
 * Fixed free gold (issue [#3626](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3626))
+* Fixed item placement being mirrored in the tenement stairwell (issue [#3637](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3637))
 
 ## Console
 
