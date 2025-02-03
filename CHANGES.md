@@ -30,6 +30,7 @@
 * Fixed Orange Heaven not progressing when asking about Malone (issue [#3512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3512))
 * Fixed Seamus not giving potatoes
 * Fixed giving the photo not being removed when given to Pia
+* Fixed apartments showing "not fully examined" text when the walls are upgraded (issue [#3642](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3642))
 
 ## Tenement System
 
