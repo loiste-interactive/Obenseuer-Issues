@@ -39,6 +39,7 @@
 * Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
 * Fixed free gold (issue [#3626](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3626))
 * Fixed item placement being mirrored in the tenement stairwell (issue [#3637](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3637))
+* Fixed resident list board being in the apartment
 
 ## Console
 
