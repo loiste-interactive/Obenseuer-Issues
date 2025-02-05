@@ -60,6 +60,7 @@
 
 ## Recipes
 
+* Pickaxe and axe are now made on anvil
 * Added pickaxe
 * Added handwheel
 * Cable and copper wire can now be recycled
