@@ -60,6 +60,7 @@
 
 ## Recipes
 
+* Added pickaxe
 * Added handwheel
 * Cable and copper wire can now be recycled
 * Fixed saline, also uses pure water now (issue [#3586](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3586))
