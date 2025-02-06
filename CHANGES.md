@@ -5,6 +5,12 @@
 * Fixed some chairs snaping camera to wrong positio (issue [#2338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2338))
 * Fixed the camera being in wrong position when entering/leaving minitrains (issue [#3669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3669)) (Playtest)
 
+## Console
+
+* Added furniture add command
+* Added furniture add all command
+* Added furniture find command
+
 ## Furniture
 
 * Fixed Wardrobe issues (issue [#3670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3670)) (Playtest)
