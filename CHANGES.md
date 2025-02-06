@@ -35,6 +35,7 @@
 
 ## Tenement System
 
+* Changed location of the mail to be outside the player apartment when the player apartment is under renovation
 * Fixed being unable to grow stuff on T3 and T4 extensions.
 * Fixed clipping furnitre related to fine tier heating uprade (issue [#3533](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3533))
 * Fixed Amanda's ghastly table (issue [#3532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3532))
