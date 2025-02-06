@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added screen overlay when gas mask is equipped (Playtest)
+* Added gas mask audio (Playtest)
 * Fixed some chairs snaping camera to wrong positio (issue [#2338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2338))
 * Fixed the camera being in wrong position when entering/leaving minitrains (issue [#3669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3669)) (Playtest)
 
