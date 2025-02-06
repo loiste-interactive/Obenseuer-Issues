@@ -72,6 +72,7 @@
 
 ## Furniture
 
+* Fixed several furniture not being sold by vendors
 * Fixed Fancy Wooden Desk (issue [#3629](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3629))
 
 ## Outside
