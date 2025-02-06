@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed the camera being in wrong position when entering/leaving minitrains (issue [#3669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3669)) (Playtest)
+
 # February 6th 2025 (Version 0.4.02) - Public Playtest
 
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
