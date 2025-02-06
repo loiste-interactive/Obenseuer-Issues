@@ -1,5 +1,7 @@
 # Upcoming
 
+# February 6th 2025 (Version 0.4.02) - Public Playtest
+
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
 * Added mining skill effects to mining
 * Added fallback fonts for some characters
