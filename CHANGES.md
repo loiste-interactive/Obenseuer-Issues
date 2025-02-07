@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed miners paying 4% instead of 20%.
+
 ## Console
 
 * Removed trains from furniture commands
