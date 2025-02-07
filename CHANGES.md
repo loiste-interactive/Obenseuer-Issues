@@ -7,6 +7,10 @@
 
 * Fixed Fish 'n' Chips recipe taking 2 plates (issue [#3677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3677)) (Playtest)
 
+## Furniture
+
+* Reduced the Small Wood Shelf price (issue [#3676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3676)) (Playtest)
+
 # February 6th 2025 (Version 0.4.02 V2) - Public Playtest
 
 * Added screen overlay when gas mask is equipped (Playtest)
