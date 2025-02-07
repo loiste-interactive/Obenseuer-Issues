@@ -3,6 +3,10 @@
 * Fixed vertical sync (issue [#3673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3673)) (Playtest)
 * Fixed glowing sewer fish giving normal sewer fish eggs (issue [#3682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3682)) (Playtest)
 
+## Recipes
+
+* Fixed Fish 'n' Chips recipe taking 2 plates (issue [#3677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3677)) (Playtest)
+
 # February 6th 2025 (Version 0.4.02 V2) - Public Playtest
 
 * Added screen overlay when gas mask is equipped (Playtest)
