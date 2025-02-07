@@ -1,5 +1,9 @@
 # Upcoming
 
+## Console
+
+* Removed trains from furniture commands
+
 # February 7th 2025 (Version 0.4.02 V3) - Public Playtest
 
 * Fixed vertical sync (issue [#3673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3673)) (Playtest)
