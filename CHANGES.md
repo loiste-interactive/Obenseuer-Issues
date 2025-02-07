@@ -4,37 +4,7 @@
 
 * Removed trains from furniture commands
 
-# February 7th 2025 (Version 0.4.02 V3) - Public Playtest
-
-* Fixed vertical sync (issue [#3673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3673)) (Playtest)
-* Fixed glowing sewer fish giving normal sewer fish eggs (issue [#3682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3682))
-
-## Recipes
-
-* Fixed Fish 'n' Chips recipe taking 2 plates (issue [#3677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3677))
-
-## Furniture
-
-* Reduced the Small Wood Shelf price (issue [#3676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3676))
-
-# February 6th 2025 (Version 0.4.02 V2) - Public Playtest
-
-* Added screen overlay when gas mask is equipped (Playtest)
-* Added gas mask audio (Playtest)
-* Fixed some chairs snaping camera to wrong position (issue [#2338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2338))
-* Fixed the camera being in wrong position when entering/leaving minitrains (issue [#3669](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3669)) (Playtest)
-
-## Console
-
-* Added furniture add command
-* Added furniture add all command
-* Added furniture find command
-
-## Furniture
-
-* Fixed Wardrobe issues (issue [#3670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3670)) (Playtest)
-
-# February 6th 2025 (Version 0.4.02) - Public Playtest
+# February 7th 2025 (Version 0.4.02)
 
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
 * Added mining skill effects to mining
@@ -50,6 +20,8 @@
 * Fixed stuff cart lantern (issue [#3560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3560))
 * Fixed bank ignoring compound interest (issue [#3622](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3622))
 * Fixed police footstep sfx being tied to player (issue [#3523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3523))
+* Fixed some chairs snaping camera to wrong position (issue [#2338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2338))
+* Fixed glowing sewer fish giving normal sewer fish eggs (issue [#3682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3682))
 * Removed camera rotation when entering/exiting the minitrain
 * Removed TAA
 * Increased pickaxe hit range
@@ -81,6 +53,9 @@
 
 ## Console
 
+* Added furniture add command
+* Added furniture add all command
+* Added furniture find command
 * Fixed list blueprints command not listing all blueprints.
 
 ## Items
@@ -107,11 +82,13 @@
 * Fixed potatoes with meat sauce (issue [#3646](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3646))
 * Fixed gold extraction duplication loop (issue [#3648](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3648))
 * Fixed sawdust doughs being uneconomical to make
+* Fixed Fish 'n' Chips recipe taking 2 plates (issue [#3677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3677))
 
 ## Furniture
 
 * Fixed several furniture not being sold by vendors
 * Fixed Fancy Wooden Desk (issue [#3629](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3629))
+* Reduced the Small Wood Shelf price (issue [#3676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3676))
 
 ## Outside
 
