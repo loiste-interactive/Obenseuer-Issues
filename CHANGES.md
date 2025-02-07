@@ -1,5 +1,7 @@
 # Upcoming
 
+# February 7th 2025 (Version 0.4.02 V3) - Public Playtest
+
 * Fixed vertical sync (issue [#3673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3673)) (Playtest)
 * Fixed glowing sewer fish giving normal sewer fish eggs (issue [#3682](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3682)) (Playtest)
 
