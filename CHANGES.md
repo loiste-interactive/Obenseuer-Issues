@@ -2,6 +2,7 @@
 
 * Fixed miners paying 4% instead of 20%.
 * Fixed uprooting plants getting extra properties (issue [#3644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3644))
+* Fixed insta growing orange shrooms (issue [#3554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3554))
 
 ## Console
 
