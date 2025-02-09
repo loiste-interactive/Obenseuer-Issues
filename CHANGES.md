@@ -16,6 +16,7 @@
 ## Items
 
 * Added red hot brass bar
+* Added steel/brass/silver/gold duck
 
 ## Recipes
 
