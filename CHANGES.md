@@ -4,6 +4,7 @@
 
 ## Console
 
+* Added break trains command
 * Removed trains from furniture commands
 
 ## Furniture
