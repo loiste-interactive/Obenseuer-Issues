@@ -13,6 +13,14 @@
 
 * Fixed kettle becoming a grater (issue [#3695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3695))
 
+## Items
+
+* Added red hot brass bar
+
+## Recipes
+
+* Added brass vase/urn/tray/pot/teapot
+
 ## Mines
 
 * Fixed traintrack ([#3663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3663))
