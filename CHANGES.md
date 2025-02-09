@@ -12,7 +12,7 @@
 
 ## Mines
 
-* Fixed traintrack [#3663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3663))
+* Fixed traintrack ([#3663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3663))
 
 # February 7th 2025 (Version 0.4.02)
 
