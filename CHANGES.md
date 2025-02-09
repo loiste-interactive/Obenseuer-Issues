@@ -10,6 +10,10 @@
 
 * Fixed kettle becoming a grater (issue [#3695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3695))
 
+## Mines
+
+* Fixed traintrack [#3663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3663))
+
 # February 7th 2025 (Version 0.4.02)
 
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
