@@ -20,6 +20,8 @@
 ## Recipes
 
 * Added brass vase/urn/tray/pot/teapot
+* Added silver vase/urn/tray/pot/teapot
+* Added gold vase/urn/tray/pot/teapot
 
 ## Mines
 
