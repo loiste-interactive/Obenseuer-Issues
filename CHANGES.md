@@ -21,6 +21,7 @@
 * Added steel/brass/silver/gold duck
 * Added toilet paper
 * Added toilet paper 6 pack
+* Fixed orange shroompowder quality not affecting anything (issue [#3715](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3715))
 
 ## Recipes
 
