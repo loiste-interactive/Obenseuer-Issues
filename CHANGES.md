@@ -4,6 +4,7 @@
 * Fixed uprooting plants getting extra properties (issue [#3644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3644))
 * Fixed insta growing orange shrooms (issue [#3554](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3554))
 * Maximum prison sentence gets longer each time player lands in prison.
+* Toilet paper negates hygiene loss of toilet use.
 
 ## Console
 
