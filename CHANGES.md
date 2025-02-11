@@ -14,6 +14,7 @@
 ## Furniture
 
 * Fixed kettle becoming a grater (issue [#3695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3695))
+* Fixed green dumpster (issue [#3714](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3714))
 
 ## Items
 
