@@ -18,6 +18,8 @@
 
 * Added red hot brass bar
 * Added steel/brass/silver/gold duck
+* Added toilet paper
+* Added toilet paper 6 pack
 
 ## Recipes
 
