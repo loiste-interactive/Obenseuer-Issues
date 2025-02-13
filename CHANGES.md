@@ -6,6 +6,10 @@
 * Maximum prison sentence gets longer each time player lands in prison.
 * Toilet paper negates hygiene loss of toilet use.
 
+## Tasks
+
+* Added ability buy Osmo Minitrain Miniature from Adam Holmgren
+
 ## Console
 
 * Added break trains command
