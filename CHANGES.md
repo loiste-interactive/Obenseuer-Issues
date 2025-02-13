@@ -35,6 +35,7 @@
 
 * Fixed traintrack ([#3663](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3663))
 * Fixed mining tax being 500RM instead of 200RM if not paid immediately ([#3707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3707))
+* Fixed Ivar Pihl's merchant inventory ([#3720](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3720))
 
 ## O-Market
 
