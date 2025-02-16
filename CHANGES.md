@@ -23,6 +23,7 @@
 
 ## Items
 
+* Added bacteria colony
 * Added yeast strain
 * Added agar
 * Added empty petridish
