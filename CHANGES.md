@@ -23,6 +23,7 @@
 
 ## Items
 
+* Added agar
 * Added empty petridish
 * Added red hot brass bar
 * Added steel/brass/silver/gold duck
