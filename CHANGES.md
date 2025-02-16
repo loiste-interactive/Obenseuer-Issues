@@ -39,6 +39,7 @@
 * Added gold vase/urn/tray/pot/teapot
 * Added steel/brass/silver/gold duck
 * Yeast extraction now requires agar and petridishes
+* Mashes and doughs can now use yeast strain
 
 ## Mines
 
