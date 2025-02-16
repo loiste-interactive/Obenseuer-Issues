@@ -23,6 +23,7 @@
 
 ## Items
 
+* Added yeast strain
 * Added agar
 * Added empty petridish
 * Added red hot brass bar
