@@ -21,6 +21,10 @@
 * Added break trains command
 * Removed trains from furniture commands
 
+## Tenement system
+
+* Fixed player's apartment shower being labeled as owned (issue [#3733](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3733))
+
 ## Furniture
 
 * Fixed kettle becoming a grater (issue [#3695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3695))
