@@ -7,6 +7,11 @@
 * Maximum prison sentence gets longer each time player lands in prison.
 * Toilet paper negates hygiene loss of toilet use.
 
+## Crafting
+
+* Lowered lathe audio (issue [#3635](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3635))
+* Lowered ore crushers audio
+
 ## Tasks
 
 * Added ability buy Osmo Minitrain Miniature from Adam Holmgren
