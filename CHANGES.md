@@ -26,6 +26,7 @@
 
 * Added some furniture storages to spawn items when placed on the stairwell
 * Fixed player's apartment shower being labeled as owned (issue [#3733](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3733))
+* Fixed player's bed not being safe when entering from extension
 * Removed Guitar furniture
 * Removed White Plate furniture
 
