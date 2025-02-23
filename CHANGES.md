@@ -37,6 +37,7 @@
 * Fixed kettle becoming a grater (issue [#3695](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3695))
 * Fixed green dumpster (issue [#3714](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3714))
 * Fixed mailbox furniture spawning items (issue [#3726](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3726))
+* Fixed dismantling beer crates (issue [#3745](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3745))
 
 ## Items
 
