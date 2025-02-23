@@ -40,6 +40,7 @@
 
 ## Items
 
+* Added notebook
 * Added bacteria colony
 * Added yeast strain
 * Added agar
