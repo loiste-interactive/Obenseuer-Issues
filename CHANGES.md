@@ -73,6 +73,10 @@
 
 * O-Market now sells toilet paper
 
+## Bank
+
+* Fixed tiny sofa
+
 # February 7th 2025 (Version 0.4.02)
 
 * Added mining skill gain when mining (issue [#2760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2760))
