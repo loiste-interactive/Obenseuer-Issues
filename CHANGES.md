@@ -57,6 +57,8 @@
 
 ## Recipes
 
+* Added grape mash
+* Added grape mushroom mash
 * Added yeast multiplication
 * Added brass vase/urn/tray/pot/teapot
 * Added silver vase/urn/tray/pot/teapot
