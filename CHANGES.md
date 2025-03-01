@@ -41,6 +41,7 @@
 
 ## Items
 
+* Added grapes
 * Added notebook
 * Added bacteria colony
 * Added yeast strain
