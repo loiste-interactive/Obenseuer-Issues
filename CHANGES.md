@@ -57,6 +57,8 @@
 
 ## Recipes
 
+* Added wine
+* Added mushroom wine
 * Added grape mash
 * Added grape mushroom mash
 * Added yeast multiplication
