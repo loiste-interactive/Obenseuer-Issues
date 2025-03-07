@@ -1,5 +1,6 @@
 # Upcoming
 
+* Improved loading times
 * Fixed miners paying 4% instead of 20%.
 * Fixed light zones not always working correctly, which caused lag
 * Fixed uprooting plants getting extra properties (issue [#3644](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3644))
