@@ -8,6 +8,7 @@
 * Fixed money from fake invoices not appearing in bank account (issue [#3598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3598))
 * Fixed stats not working when having an item in the face slot (issue [#3731](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3731))
 * Fixed player's music beeing good/shitty regardless of skill (issue [#3734](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3734))
+* Fixed the game freezing when equiping a dosimeter (issue [#3762](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3762))
 * Maximum prison sentence gets longer each time player lands in prison.
 * Toilet paper negates hygiene loss of toilet use.
 * O-Market now sells grapes.
