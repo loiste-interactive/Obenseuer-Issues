@@ -20,6 +20,7 @@
 
 ## Tasks
 
+* Task Deeply Insane is now completable
 * Added ability buy Osmo Minitrain Miniature from Adam Holmgren
 
 ## Console
