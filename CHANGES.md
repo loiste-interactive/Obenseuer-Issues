@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 10th 2025 (Version 0.4.03) - Playtest
+
 * Added NPC reactions to being hit by the player
 * Improved loading times
 * Fixed miners paying 4% instead of 20%.
