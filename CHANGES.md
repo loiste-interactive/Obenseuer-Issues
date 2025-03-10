@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added NPC reactions to being hit by the player
 * Improved loading times
 * Fixed miners paying 4% instead of 20%.
 * Fixed light zones not always working correctly, which caused lag
