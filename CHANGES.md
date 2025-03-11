@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 11th 2025 (Version 0.4.03 V2) - Public Playtest
+
 * Fixed Malone (issue [#3769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3769)) (Playtest)
 * Fixed phone book UI (issue [#3770](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3770)) (Playtest)
 * Fixed toilet paper (issue [#3771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3771)) (Playtest)
