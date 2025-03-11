@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed notes panel being empty (Playtest)
+
 # March 11th 2025 (Version 0.4.03 V2) - Public Playtest
 
 * Fixed Malone (issue [#3769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3769)) (Playtest)
