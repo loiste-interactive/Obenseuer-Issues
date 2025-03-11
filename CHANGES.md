@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Ines not being where she should be (Playtest)
+
 # March 10th 2025 (Version 0.4.03) - Playtest
 
 * Added NPC reactions to being hit by the player
