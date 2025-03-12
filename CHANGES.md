@@ -4,7 +4,7 @@
 * Fixed typo in doctor's addiction status text (issue [#3778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3778))
 
 ## Mines
-* Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643))(issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683))(issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
+* Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
 
 ## Tenement system
 
