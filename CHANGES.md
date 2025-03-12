@@ -3,6 +3,18 @@
 * Fixed notes panel being empty (Playtest)
 * Fixed typo in doctor's addiction status text (issue [#3778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3778))
 
+## Mines
+* Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643))(issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683))(issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
+
+## Tenement system
+
+* Fixed Shabby level walls torn wallpaper collisions making it hard for player to decorate walls (issue [#3614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3614))
+* Fixed Z fighting textures on exterior upgrade tarps (issue [#3756](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3756))
+* Fixed Fine level basement annoying airduct collisions so players no longer their heads on them (issue [#3614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3614))
+* Fixed clipping furniture on Malones apartment (issue [#3755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3755))
+
+
+
 ## Console
 
 * Fixed furniture commands (Playtest)
