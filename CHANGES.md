@@ -3,6 +3,10 @@
 * Fixed notes panel being empty (Playtest)
 * Fixed typo in doctor's addiction status text (issue [#3778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3778))
 
+## Items
+
+* Egg Carton, Syringe Pack, and Facemask Pack now yield a single item when used instead of spawning all items (issue [#2813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2813))
+
 ## Mines
 * Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
 
