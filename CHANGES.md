@@ -30,6 +30,10 @@
 
 * Fixed sorting the yeast (issue [#3782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3782))
 
+## Deekula C
+
+* Fixed light culling in deekula C (issue [#3779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3779)) (Playtest)
+
 # March 11th 2025 (Version 0.4.03 V2) - Public Playtest
 
 * Fixed Malone (issue [#3769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3769)) (Playtest)
