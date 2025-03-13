@@ -7,7 +7,12 @@
 
 * Egg Carton, Syringe Pack, and Facemask Pack now yield a single item when used instead of spawning all items (issue [#2813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2813))
 
+## Crafting
+
+* Fixed time left saying 'soon' instead of 'finished' when mashing/distilling (issue [#3783](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3783))
+
 ## Mines
+
 * Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
 
 ## Tenement system
@@ -16,8 +21,6 @@
 * Fixed Z fighting textures on exterior upgrade tarps (issue [#3756](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3756))
 * Fixed Fine level basement annoying airduct collisions so players no longer their heads on them (issue [#3614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3614))
 * Fixed clipping furniture on Malones apartment (issue [#3755](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3755))
-
-
 
 ## Console
 
