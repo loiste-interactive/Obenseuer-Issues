@@ -25,6 +25,7 @@
 ## Mines
 
 * Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
+* Fixed mineshaft light culling (issue [#3775](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3775)) (Playtest)
 
 ## O Market
 
