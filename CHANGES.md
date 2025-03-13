@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 13th 2025 (Version 0.4.03 V3) - Public Playtest
+
 * Fixed notes panel being empty (Playtest)
 * Fixed typo in doctor's addiction status text (issue [#3778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3778))
 
