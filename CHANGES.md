@@ -11,10 +11,6 @@
 
 * Fixed time left saying 'soon' instead of 'finished' when mashing/distilling (issue [#3783](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3783))
 
-## Mines
-
-* Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
-
 ## Tenement system
 
 * Fixed Shabby level walls torn wallpaper collisions making it hard for player to decorate walls (issue [#3614](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3614))
@@ -25,6 +21,14 @@
 ## Console
 
 * Fixed furniture commands (Playtest)
+
+## Mines
+
+* Fixed small issues and collision issues (issue [#3643](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3643)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3683)) (issue [#3683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3753))
+
+## O Market
+
+* Fixed sorting the yeast (issue [#3782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3782))
 
 # March 11th 2025 (Version 0.4.03 V2) - Public Playtest
 
