@@ -1,5 +1,9 @@
 # Upcoming
 
+## Mines
+
+* Fixed invisible object blocking minitrain ore-drop-off access
+
 # March 13th 2025 (Version 0.4.03 V4) - Public Playtest
 
 * Fixed notes displaying lorem ipsum text (issue [#3784](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3784)) (Playtest)
