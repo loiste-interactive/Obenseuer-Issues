@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Added Green Orbs
+
 ## Mines
 
 * Fixed invisible object blocking minitrain ore-drop-off access
