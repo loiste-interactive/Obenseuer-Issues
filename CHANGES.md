@@ -4,6 +4,7 @@
 
 * Added Green Orbs
 * Added Green Orb mash
+* Added Glowing Green Orb mash
 
 ## Mines
 
