@@ -10,6 +10,11 @@
 * Added Orbsinthe
 * Added Mushroom Orbsinthe
 
+## Recipes
+
+* Added Green Orb mash
+* Added Glowing Green Orb mash
+
 ## Mines
 
 * Fixed invisible object blocking minitrain ore-drop-off access
