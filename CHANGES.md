@@ -3,6 +3,7 @@
 ## Items
 
 * Added Green Orbs
+* Added Green Orb mash
 
 ## Mines
 
