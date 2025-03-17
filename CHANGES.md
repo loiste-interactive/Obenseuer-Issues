@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed mashing tuns and etc not counting multipiles from items with charges (issue [#3774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3774)) 
+
 ## Items
 
 * Added Green Orbs
