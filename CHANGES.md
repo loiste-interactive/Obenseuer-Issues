@@ -9,6 +9,8 @@
 * Added Green Orb Mushroom Brew
 * Added Orbsinthe
 * Added Mushroom Orbsinthe
+* Increased Sahti value
+* Increased Väkisahti value
 
 ## Recipes
 
