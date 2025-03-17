@@ -14,6 +14,10 @@
 
 * Added Green Orb mash
 * Added Glowing Green Orb mash
+* Added Green Orb Brew
+* Added Green Orb Mushroom Brew
+* Added Orbsinthe
+* Added Mushroom Orbsinthe
 
 ## Mines
 
