@@ -26,7 +26,7 @@
 ## Mines
 
 * Fixed invisible object blocking minitrain ore-drop-off access
-
+* Fixed Tanja not offering to pay miners tax (issue [#3790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3790))
 
 # March 13th 2025 (Version 0.4.03 V4) - Public Playtest
 
