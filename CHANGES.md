@@ -2,6 +2,10 @@
 
 * Fixed mashing tuns and etc not counting multipiles from items with charges (issue [#3774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3774)) 
 
+## Tenement system
+
+* Added ability to mark tenement upgrades, which highlight items in the inventory that are required for an upgrade
+
 ## Items
 
 * Added Green Orbs
