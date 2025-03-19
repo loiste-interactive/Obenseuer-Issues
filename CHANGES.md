@@ -1,5 +1,10 @@
 # Upcoming
 
+Mines
+
+* Added ability to ask for tunnel keys from Antero Erikson
+* Added ability to ask for the electrical room from Emil Kauha
+
 # March 18th 2025 (Version 0.4.04) - Public Playtest
 
 * Fixed mashing tuns and etc not counting multipiles from items with charges (issue [#3774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3774)) 
