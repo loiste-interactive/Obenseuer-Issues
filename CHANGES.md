@@ -16,6 +16,7 @@
 ## Outside
 
 * Fixed Eija not cleaning his refigerator (issue [#3804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3804))
+* Fixed bus having summer and winter tires simultaneously (issue [#3800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3800))
 
 
 # March 18th 2025 (Version 0.4.04) - Public Playtest
