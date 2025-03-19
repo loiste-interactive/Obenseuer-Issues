@@ -5,6 +5,10 @@
 * Added ability to ask for tunnel keys from Antero Erikson
 * Added ability to ask for the electrical room from Emil Kauha
 
+## Recipes
+
+* Fixed learned recipe not working correctly (issue [#3801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3801)) 
+
 ## O-Market
 
 * Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802)) 
