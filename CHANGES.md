@@ -11,7 +11,12 @@
 
 ## O-Market
 
-* Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802)) 
+* Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802))
+
+## Outside
+
+* Fixed Eija not cleaning his refigerator (issue [#3804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3804))
+
 
 # March 18th 2025 (Version 0.4.04) - Public Playtest
 
