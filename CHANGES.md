@@ -1,9 +1,13 @@
 # Upcoming
 
-Mines
+## Mines
 
 * Added ability to ask for tunnel keys from Antero Erikson
 * Added ability to ask for the electrical room from Emil Kauha
+
+## O-Market
+
+* Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802)) 
 
 # March 18th 2025 (Version 0.4.04) - Public Playtest
 
