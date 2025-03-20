@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fredrik now occasionally sells agar
+
 ## Mines
 
 * Added ability to ask for tunnel keys from Antero Erikson
