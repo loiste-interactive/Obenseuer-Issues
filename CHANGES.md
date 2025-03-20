@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 20th 2025 (Version 0.4.04 V2) - Public Playtest
+
 * Fredrik now occasionally sells agar
 
 ## Mines
