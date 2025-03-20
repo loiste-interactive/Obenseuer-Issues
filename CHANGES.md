@@ -2,7 +2,7 @@
 
 ## Kolhola
 
-* Fixed Fenella Hunt shake bug (Playtest)
+* Fixed Fenella Hunt and Taneli Kurju shaking camera bug (Playtest)
 * Fixed Moray Larson dialogue (Playtest)
 
 # March 20th 2025 (Version 0.4.04 V2) - Public Playtest
