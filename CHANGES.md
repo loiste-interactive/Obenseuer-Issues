@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811)) 
+
 ## Kolhola
 
 * Fixed Fenella Hunt and Taneli Kurju shaking camera bug (Playtest)
