@@ -1,6 +1,10 @@
 # Upcoming
 
-* Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811)) 
+* Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811))
+
+## Mines
+
+* Fixed minitrains and minecarts becoming unusable after upgrading tenement mines
 
 ## Kolhola
 
