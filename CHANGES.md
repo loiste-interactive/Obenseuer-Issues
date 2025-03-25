@@ -12,6 +12,10 @@
 
 * Fixed Potato Farm not being marked on the map when Einar Kaivuri tells that he marks it on the map (issue [#3816](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3816))
 
+## Deekula A
+
+* Fixed disappearing Samuel (issue [#3824](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3824))
+
 # March 21st 2025 (Version 0.4.04 V3) - Public Playtest
 
 * Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811))
