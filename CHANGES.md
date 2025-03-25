@@ -2,6 +2,10 @@
 
 * Fixed infinite stolen matches (and other required items)
 
+## Main menu
+
+* Fixed gender selection (issue [#3827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3827)) (Playtest)
+
 # March 21st 2025 (Version 0.4.04 V3) - Public Playtest
 
 * Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811))
