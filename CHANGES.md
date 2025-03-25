@@ -16,6 +16,10 @@
 
 * Fixed disappearing Samuel (issue [#3824](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3824))
 
+## Deekula B
+
+* Fixed Max's apartment light issue (issue [#3825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3825))
+
 # March 21st 2025 (Version 0.4.04 V3) - Public Playtest
 
 * Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811))
