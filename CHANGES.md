@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed infinite stolen matches (and other required items)
+* Fixed rats reporting crimes (issue [#3829](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3829))
 
 ## Main menu
 
