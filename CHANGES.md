@@ -2,6 +2,7 @@
 
 * Fixed infinite stolen matches (and other required items)
 * Fixed rats reporting crimes (issue [#3829](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3829))
+* Changed wine racks to spawn new wine bottles rarely (issue [#3813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3813))
 
 ## Main menu
 
