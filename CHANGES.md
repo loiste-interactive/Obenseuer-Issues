@@ -1,74 +1,18 @@
 # Upcoming
 
-# March 25th 2025 (Version 0.4.04 V4) - Public Playtest
+# March 26th 2025 (Version 0.4.04)
 
+* Changed wine racks to spawn new wine bottles rarely (issue [#3813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3813))
+* Fredrik now occasionally sells agar
 * Fixed infinite stolen matches (and other required items)
 * Fixed rats reporting crimes (issue [#3829](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3829))
-* Changed wine racks to spawn new wine bottles rarely (issue [#3813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3813))
-
-## Tenement system
-
-* Improved furniture snapping (issue [#3818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3818))
-
-## Main menu
-
-* Fixed gender selection (issue [#3827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3827)) (Playtest)
-
-## Mines
-
-* Fixed Potato Farm not being marked on the map when Einar Kaivuri tells that he marks it on the map (issue [#3816](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3816))
-
-## Deekula A
-
-* Fixed disappearing Samuel (issue [#3824](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3824))
-
-## Deekula B
-
-* Fixed Max's apartment light issue (issue [#3825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3825))
-
-# March 21st 2025 (Version 0.4.04 V3) - Public Playtest
-
 * Fixed rye and wheat stalks having collision (issue [#3811](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3811))
-
-## Mines
-
-* Fixed minitrains and minecarts becoming unusable after upgrading tenement mines
-
-## Kolhola
-
-* Fixed Fenella Hunt and Taneli Kurju shaking camera bug (Playtest)
-* Fixed Moray Larson dialogue (Playtest)
-
-# March 20th 2025 (Version 0.4.04 V2) - Public Playtest
-
-* Fredrik now occasionally sells agar
-
-## Mines
-
-* Added ability to ask for tunnel keys from Antero Erikson
-* Added ability to ask for the electrical room from Emil Kauha
-
-## Recipes
-
-* Fixed learned recipe not working correctly (issue [#3801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3801)) 
-
-## O-Market
-
-* Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802))
-
-## Outside
-
-* Fixed Eija not cleaning his refigerator (issue [#3804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3804))
-* Fixed bus having summer and winter tires simultaneously (issue [#3800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3800))
-
-
-# March 18th 2025 (Version 0.4.04) - Public Playtest
-
 * Fixed mashing tuns and etc not counting multipiles from items with charges (issue [#3774](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3774)) 
 
 ## Tenement system
 
 * Added ability to mark tenement upgrades, which highlight items in the inventory that are required for an upgrade
+* Improved furniture snapping (issue [#3818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3818))
 
 ## Items
 
@@ -90,12 +34,34 @@
 * Added Green Orb Mushroom Brew
 * Added Orbsinthe
 * Added Mushroom Orbsinthe
+* Fixed learned recipe not working correctly (issue [#3801](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3801)) 
 
 ## Mines
 
+* Added ability to ask for tunnel keys from Antero Erikson
+* Added ability to ask for the electrical room from Emil Kauha
 * Fixed invisible object blocking minitrain ore-drop-off access
 * Fixed Tanja not offering to pay miners tax (issue [#3790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3790))
+* Fixed minitrains and minecarts becoming unusable after upgrading tenement mines
+* Fixed Potato Farm not being marked on the map when Einar Kaivuri tells that he marks it on the map (issue [#3816](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3816))
 
+## Outside
+
+* Fixed Eija not cleaning his refigerator (issue [#3804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3804))
+* Fixed bus having summer and winter tires simultaneously (issue [#3800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3800))
+
+## Deekula A
+
+* Fixed disappearing Samuel (issue [#3824](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3824))
+
+## Deekula B
+
+* Fixed Max's apartment light issue (issue [#3825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3825))
+
+## O-Market
+
+* Fixed O-Market not selling full packages of toilet paper (issue [#3802](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3802))
+* 
 ## Speakeasy
 
 * Fixed lighting issue (issue [#3798](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3798))
