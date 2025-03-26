@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement A
+
+* Fixed crashing (issue [#2961](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2961))
+
 ## Tenement B
 
 * Fixed under map exit
