@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement system
+
+* Fixed not being able to snap pallets or other furniture together on the ground (issue [#3837](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3837))
+
 ## Tenement A
 
 * Fixed crashing (issue [#2961](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2961))
