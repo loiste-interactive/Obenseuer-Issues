@@ -12,6 +12,10 @@
 
 * Fixed under map exit
 
+## Kolhola
+
+* Fixed standing Hall Kaabus (issue [#3839](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3839))
+
 # March 26th 2025 (Version 0.4.04)
 
 * Changed wine racks to spawn new wine bottles rarely (issue [#3813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3813))
