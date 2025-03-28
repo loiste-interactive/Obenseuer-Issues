@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 28th 2025 (Version 0.4.05) - Hotfix - Public Playtest
+
 ## Tenement system
 
 * Fixed not being able to snap pallets or other furniture together on the ground (issue [#3837](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3837))
