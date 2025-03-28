@@ -1,6 +1,6 @@
 # Upcoming
 
-# March 28th 2025 (Version 0.4.05) - Hotfix - Public Playtest
+# March 28th 2025 (Version 0.4.05) - Hotfix
 
 ## Tenement system
 
