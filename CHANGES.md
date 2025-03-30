@@ -2,6 +2,7 @@
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
 * Fixed vending machine price casino (issue [#3854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3854))
+* Fixed ash explosions on solid fuel stoves and things
 
 ## Items
 
