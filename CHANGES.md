@@ -7,6 +7,10 @@
 
 * Fixed invoices sometimes being called expired invoices (issue [#3828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3828))
 
+## Furniture
+
+* Fixed portable generator not accepting diesel
+
 ## Tenement A
 
 * Fixed elevator light (issue [#3846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3846))
