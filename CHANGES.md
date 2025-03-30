@@ -11,6 +11,10 @@
 * Added biodiesel
 * Fixed invoices sometimes being called expired invoices (issue [#3828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3828))
 
+## Recipes
+
+* Added biodiesel
+
 ## Furniture
 
 * Fixed portable generator not accepting diesel
