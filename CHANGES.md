@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
+* Fixed vending machine price casino (issue [#3854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3854))
 
 ## Items
 
