@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement A
+
+* Fixed elevator light (issue [#3846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3846))
+
 # March 28th 2025 (Version 0.4.05) - Hotfix (Public playtest)
 
 ## Tenement system
