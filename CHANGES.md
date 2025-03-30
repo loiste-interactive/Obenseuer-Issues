@@ -1,8 +1,13 @@
 # Upcoming
 
+## Items
+
+* Fixed invoices sometimes being called expired invoices (issue [#3828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3828))
+
 ## Tenement A
 
 * Fixed elevator light (issue [#3846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3846))
+
 
 # March 28th 2025 (Version 0.4.05) - Hotfix (Public playtest)
 
