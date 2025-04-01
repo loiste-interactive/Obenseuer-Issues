@@ -5,6 +5,7 @@
 * Fixed ash explosions on solid fuel stoves and things
 * Fixed dosimeter blocking standing up
 * Fixed Teuvo and others being cheap when buying multiple batches of alcohol (issue [#3861](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3861))
+* Fixed meter rounding (issue [#3831](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3831))
 
 ## Items
 
