@@ -1,5 +1,10 @@
 # Upcoming
 
+## Items
+
+* Mushrooms now have quality data
+* Adjusted orange shroom price
+
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
