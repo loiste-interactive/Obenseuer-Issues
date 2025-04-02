@@ -1,5 +1,7 @@
 # Upcoming
 
+# April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
+
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
 * Fixed vending machine price casino (issue [#3854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3854))
 * Fixed cats and other items changing skin each time the map is loaded (issue [#3812](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3812))
