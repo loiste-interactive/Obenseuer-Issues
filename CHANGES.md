@@ -2,6 +2,7 @@
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
 * Fixed vending machine price casino (issue [#3854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3854))
+* Fixed cats and other items changing skin each time the map is loaded (issue [#3812](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3812))
 * Fixed ash explosions on solid fuel stoves and things
 * Fixed dosimeter blocking standing up
 * Fixed Teuvo and others being cheap when buying multiple batches of alcohol (issue [#3861](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3861))
