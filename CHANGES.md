@@ -21,10 +21,13 @@
 
 * Fixed portable generator not accepting diesel
 
+## Mines
+
+* Fixed not being able to cross certain intersections with minitrains (issue [#3851](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3851))
+
 ## Tenement A
 
 * Fixed elevator light (issue [#3846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3846))
-
 
 # March 28th 2025 (Version 0.4.05) - Hotfix (Public playtest)
 
