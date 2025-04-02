@@ -23,6 +23,7 @@
 
 ## Mines
 
+* Fixed crashing when entering mines (issue [#3850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3850))
 * Fixed not being able to cross certain intersections with minitrains (issue [#3851](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3851))
 
 ## Tenement A
