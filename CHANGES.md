@@ -17,6 +17,9 @@
 
 * Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
 
+## Outside
+
+* Door phone now unlocks the speakeasy door if it's locked and the player has access there
 
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
