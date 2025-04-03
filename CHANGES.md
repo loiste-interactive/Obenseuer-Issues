@@ -2,6 +2,7 @@
 
 ## Items
 
+* Added growable mussels
 * Mushrooms now have quality data
 * Adjusted orange shroom price
 
