@@ -9,6 +9,10 @@
 
 * Added growable mussels
 
+## Furniture
+
+* Added aquatic farm (aquarium variant)
+
 ## Tenement System
 
 * Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
