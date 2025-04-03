@@ -9,6 +9,7 @@
 
 * Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
 
+
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
