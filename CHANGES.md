@@ -2,6 +2,7 @@
 
 ## Items
 
+* Added Wizard Plush
 * Mushrooms now have quality data
 * Adjusted orange shroom price
 
