@@ -21,6 +21,10 @@
 
 * Door phone now unlocks the speakeasy door if it's locked and the player has access there
 
+## Mines
+
+* Ivar Pihl now buys Mushroom Rollies (issue [#3867](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3867))
+
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
 * Fixed attached furniture duplication (issue [#3723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3723))
