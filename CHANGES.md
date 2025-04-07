@@ -5,6 +5,7 @@
 * Added Wizard Plush
 * Mushrooms now have quality data
 * Adjusted orange shroom price
+* Fixed green orb mushroom brew and distillate not having shroom (issue [#3874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3874))
 
 ## Recipes
 
