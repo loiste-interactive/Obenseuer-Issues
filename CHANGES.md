@@ -6,6 +6,7 @@
 * Mushrooms now have quality data
 * Adjusted orange shroom price
 * Fixed green orb mushroom brew and distillate not having shroom (issue [#3874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3874))
+* Lowered the addiction threshold for Dr. Pena for detecting addictions.
 
 ## Recipes
 
