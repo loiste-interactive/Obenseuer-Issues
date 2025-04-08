@@ -7,6 +7,7 @@
 * Adjusted orange shroom price
 * Fixed green orb mushroom brew and distillate not having shroom (issue [#3874](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3874))
 * Fixed items having wrong meta values (issue [#3826](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3826))
+* Fixed items changing names based on previous items and not being able to use them (issue [#3847](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3847))
 * Lowered the addiction threshold for Dr. Pena for detecting addictions.
 
 ## Recipes
