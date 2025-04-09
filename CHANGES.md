@@ -1,6 +1,7 @@
 # Upcoming
 
 * Lowered the addiction threshold for Dr. Pena for detecting addictions.
+* Skill gain calculation now accounts for time spent on crafting
 
 ## Items
 
