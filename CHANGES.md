@@ -15,6 +15,7 @@
 ## Recipes
 
 * Added growable mussels
+* Some recipes now require minimum skill (notably watches)
 
 ## Furniture
 
