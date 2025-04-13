@@ -19,6 +19,7 @@
 
 * Added growable mussels
 * Some recipes now require minimum skill (notably watches)
+* Fixed Rat Sawdust Wheat Sandwich
 
 ## Furniture
 
