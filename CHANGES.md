@@ -3,7 +3,8 @@
 * Lowered the addiction threshold for Dr. Pena for detecting addictions.
 * Skill gain calculation now accounts for time spent on crafting
 * Fixed crafting UI showing too high expected quality
-* Drinking too much caffeine at once causes now damage.
+* Drinking too much caffeine at once causes now damage
+* Caffeine now accumulates sleepdebt
 
 ## Items
 
