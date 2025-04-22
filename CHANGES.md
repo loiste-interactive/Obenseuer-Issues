@@ -6,6 +6,7 @@
 * Drinking too much caffeine at once causes now damage
 * Caffeine now accumulates sleepdebt
 * Fixed window brightness not updating according to time of day
+* Furniture crafting now increases skill
 
 ## Items
 
