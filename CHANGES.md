@@ -32,6 +32,7 @@
 ## Outside
 
 * Door phone now unlocks the speakeasy door if it's locked and the player has access there
+* Reflection probes now gets updated to match current weather (issue [#3889](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3889))
 
 ## Mines
 
