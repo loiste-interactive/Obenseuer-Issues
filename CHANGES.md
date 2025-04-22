@@ -5,6 +5,7 @@
 * Fixed crafting UI showing too high expected quality
 * Drinking too much caffeine at once causes now damage
 * Caffeine now accumulates sleepdebt
+* Fixed window brightness not updating according to time of day
 
 ## Items
 
