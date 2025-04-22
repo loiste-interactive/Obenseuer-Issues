@@ -28,6 +28,10 @@
 * Added microwave
 * Added oak barrel
 
+## Blueprints
+
+* Added oak barrel
+
 ## Tenement System
 
 * Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
