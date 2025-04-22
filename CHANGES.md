@@ -28,6 +28,7 @@
 * Added filing cabinet
 * Added microwave
 * Added oak barrel
+* Added sample analyzer (lab upgrade)
 
 ## Blueprints
 
