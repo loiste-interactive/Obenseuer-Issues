@@ -24,6 +24,7 @@
 ## Furniture
 
 * Added aquatic farm (aquarium variant)
+* Added filing cabinet
 
 ## Tenement System
 
