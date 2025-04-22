@@ -31,6 +31,7 @@
 ## Blueprints
 
 * Added oak barrel
+* Some blueprints now require minimum skill
 
 ## Tenement System
 
