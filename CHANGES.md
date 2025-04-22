@@ -26,6 +26,7 @@
 * Added aquatic farm (aquarium variant)
 * Added filing cabinet
 * Added microwave
+* Added oak barrel
 
 ## Tenement System
 
