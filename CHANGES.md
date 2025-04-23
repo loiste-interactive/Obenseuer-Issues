@@ -40,6 +40,7 @@
 ## Tenement System
 
 * Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
+* Minor visual fixes (issues [#3858](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3858)[#3830](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3830)[#3760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3760))
 
 ## Outside
 
@@ -50,6 +51,10 @@
 
 * Ivar Pihl now buys Mushroom Rollies (issue [#3867](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3867))
 * Fixed vent pipe missing cap (issue [#3892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3892))
+
+## Kolhola
+
+* Fixed apt. A2 armchair collision issues (issue [#3833](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3833))
 
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
