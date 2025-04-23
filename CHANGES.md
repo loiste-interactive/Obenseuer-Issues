@@ -30,6 +30,7 @@
 * Added microwave
 * Added oak barrel
 * Added sample analyzer (lab upgrade)
+* Fixed collision issues on cleaning cart (issue [#3894](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3894))
 
 ## Blueprints
 
@@ -48,6 +49,7 @@
 ## Mines
 
 * Ivar Pihl now buys Mushroom Rollies (issue [#3867](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3867))
+* Fixed vent pipe missing cap (issue [#3892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3892))
 
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
