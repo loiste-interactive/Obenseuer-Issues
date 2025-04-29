@@ -7,6 +7,7 @@
 * Caffeine now accumulates sleepdebt
 * Fixed window brightness not updating according to time of day
 * Furniture crafting now increases skill
+* Fixed unemployment benefits not being paid
 
 ## Items
 
