@@ -10,6 +10,18 @@
 * Fixed unemployment benefits not being paid
 * Fixed the 'Hide Hud' key binding ignoring reassignment (issue [#3908](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3908))
 
+## NPCs
+
+* Police can now chase the player across scenes, such as when entering interiors
+* Moving NPCs now stop and face the player during conversations
+* Moving NPCs can now navigate around the player when the player blocks their path
+* The Crazy Neighbor now has a weekly schedule, with activities like walking the streets or visiting the Speakeasy
+* The player can now spend time with the crazy neighbor
+* The crazy neighbor may chase the player if the player has not visited him for a while
+* Fixed places where the police could get stuck
+* NPCs can now use the toll bridge (Police and Crazy Neighbor)
+* The police now have patrol routes
+
 ## Items
 
 * Added Wizard Plush
