@@ -12,6 +12,7 @@
 
 ## NPCs
 
+* Changed the police to not to start a chase if the player possesses only a few stolen items or if their total value is low
 * Police can now chase the player across scenes, such as when entering interiors
 * Moving NPCs now stop and face the player during conversations
 * Moving NPCs can now navigate around the player when the player blocks their path
