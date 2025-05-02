@@ -8,6 +8,7 @@
 * Fixed window brightness not updating according to time of day
 * Furniture crafting now increases skill
 * Fixed unemployment benefits not being paid
+* Fixed the 'Hide Hud' key binding ignoring reassignment (issue [#3908](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3908))
 
 ## Items
 
