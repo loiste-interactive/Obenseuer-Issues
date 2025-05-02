@@ -70,6 +70,8 @@
 ## Kolhola
 
 * Fixed apt. A2 armchair collision issues (issue [#3833](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3833))
+* Fixed apt. A2 bathtub collision issues (issue [#3909](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3909))
+
 
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
 
