@@ -49,7 +49,6 @@
 * Fixed collision issues on cleaning cart (issue [#3894](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3894))
 * Fixed collision issues on ore crusher (issue [#3907](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3907))
 
-
 ## Blueprints
 
 * Added oak barrel
