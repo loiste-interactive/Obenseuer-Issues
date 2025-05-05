@@ -10,6 +10,10 @@
 * Fixed unemployment benefits not being paid
 * Fixed the 'Hide Hud' key binding ignoring reassignment (issue [#3908](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3908))
 
+## Tenement System
+
+* Changed general tenement upgrades like the facade, stairwell, and sauna to affect rent
+
 ## NPCs
 
 * Changed the police to not to start a chase if the player possesses only a few stolen items or if their total value is low
