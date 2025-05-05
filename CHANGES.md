@@ -14,6 +14,13 @@
 
 * Changed general tenement upgrades like the facade, stairwell, and sauna to affect rent
 
+## Difficulty settings
+
+* Added required renovation resource settings to difficulty menu
+* Added trader wealth settings to difficulty menu
+* Added SMV progression rate speed to difficulty menu (issue [#2220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2220))
+* Changed selling prices to item prices in difficulty menu
+
 ## NPCs
 
 * Changed the police to not to start a chase if the player possesses only a few stolen items or if their total value is low
