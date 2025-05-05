@@ -16,6 +16,7 @@
 
 ## Difficulty settings
 
+* Added casual difficulty (Less grinding, needs grow slower, daily and higher rent income)
 * Added required renovation resource settings to difficulty menu
 * Added trader wealth settings to difficulty menu
 * Added SMV progression rate speed to difficulty menu (issue [#2220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2220))
