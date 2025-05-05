@@ -23,6 +23,10 @@
 * NPCs can now use the toll bridge (Police and Crazy Neighbor)
 * The police now have patrol routes
 
+## Tasks
+
+* Fixed "Call the police" task in "The Disappearance of Alice" not being registered as complete when reporting via the "I found several bodies" dialogue option (issue [#3905](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3905))
+
 ## Items
 
 * Added Wizard Plush
