@@ -83,7 +83,8 @@
 
 * Ivar Pihl now buys Mushroom Rollies (issue [#3867](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3867))
 * Fixed vent pipe missing cap (issue [#3892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3892))
-
+* Fixed recipe clipping inside the fridge use collider in Kauha claim break room (issue [#3891](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3891))
+ 
 ## Kolhola
 
 * Fixed apt. A2 armchair collision issues (issue [#3833](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3833))
