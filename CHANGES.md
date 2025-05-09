@@ -13,6 +13,9 @@
 ## Tenement System
 
 * Changed general tenement upgrades like the facade, stairwell, and sauna to affect rent
+* Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
+* Minor visual fixes (issues [#3858](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3858) [#3830](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3830) [#3760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3760))
+* Fixed level 2 sauna upgrade collision (issue [#3913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3913))
 
 ## Difficulty settings
 
@@ -69,12 +72,6 @@
 
 * Added oak barrel
 * Some blueprints now require minimum skill
-
-## Tenement System
-
-* Barred Saunaklonkku from stealing stuff you put into IV sauna cabinets (issue [#3836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3836))
-* Minor visual fixes (issues [#3858](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3858) [#3830](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3830) [#3760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3760))
-* Fixed level 2 sauna upgrade collision issue [#3913](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3913))
 
 
 ## Outside
