@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 13th 2025 (Version 0.4.06 V2) - Playtest
+
 * Lowered the addiction threshold for Dr. Pena for detecting addictions.
 * Skill gain calculation now accounts for time spent on crafting
 * Fixed crafting UI showing too high expected quality
