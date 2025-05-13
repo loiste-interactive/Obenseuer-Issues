@@ -61,6 +61,7 @@
 * Changed fried egg recipe to accept fertilized egg (issue [#3921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3921))
 * Some recipes now require minimum skill (notably watches)
 * Fixed Rat Sawdust Wheat Sandwich
+* Fixed the copper wire recipe having copper shavings as its first output (issue [#3922](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3922))
 
 ## Furniture
 
