@@ -78,7 +78,6 @@
 * Added oak barrel
 * Some blueprints now require minimum skill
 
-
 ## Outside
 
 * Door phone now unlocks the speakeasy door if it's locked and the player has access there
@@ -98,6 +97,7 @@
 ## O-Market
 
 * Added parcel locker
+* Fixed not being able to place hot dog wiener packs to the wiener section (issue [#3923](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3923))
 
 
 # April 2nd 2025 (Version 0.4.06) - Hotfix (Public playtest)
