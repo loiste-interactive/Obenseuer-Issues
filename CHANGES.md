@@ -21,10 +21,12 @@
 ## Difficulty settings
 
 * Added casual difficulty (Less grinding, needs grow slower, daily and higher rent income)
+* Added more multiplier options to the custom difficulty menu
 * Added required renovation resource settings to difficulty menu
 * Added trader wealth settings to difficulty menu
 * Added SMV progression rate speed to difficulty menu (issue [#2220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2220))
 * Changed selling prices to item prices in difficulty menu
+* Changed multiplier settings to use numeric values instead of text
 
 ## NPCs
 
@@ -56,6 +58,7 @@
 ## Recipes
 
 * Added growable mussels
+* Changed fried egg recipe to accept fertilized egg (issue [#3921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3921))
 * Some recipes now require minimum skill (notably watches)
 * Fixed Rat Sawdust Wheat Sandwich
 
