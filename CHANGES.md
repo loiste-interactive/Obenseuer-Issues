@@ -4,7 +4,7 @@
 
 ## Kolhola
 
-* Fixed missing spawnpoint (issue [#38926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926))
+* Fixed missing spawnpoint (issue [#3926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926))
 
 # May 13th 2025 (Version 0.4.06 V2) - Playtest
 
