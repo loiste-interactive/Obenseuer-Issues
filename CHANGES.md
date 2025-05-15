@@ -5,6 +5,10 @@
 * Fixed the Character menu's keybind resetting to default (issue [#3914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3914))
 * Fixed the messed up movement keybinding menu (issue [#3924](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3924))
 
+## Items
+
+* The gas mask now protects against gas (issue [#3942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3942))
+
 ## NPCs
 
 * Fixed backyard police not being able to transition between scenes (issue [#3933](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3933)) (Playtest)
