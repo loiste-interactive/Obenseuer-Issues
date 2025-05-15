@@ -8,6 +8,7 @@
 ## NPCs
 
 * Fixed backyard police not being able to transition between scenes (issue [#3933](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3933)) (Playtest)
+* Fixed floating NPCs (issue [#3925](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3925)) (Playtest)
 
 ## Console
 
