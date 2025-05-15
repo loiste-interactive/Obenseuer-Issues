@@ -21,6 +21,7 @@
 ## Tenement System
 
 * Fixed several upgrade requirement bugs (issue [#3939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3939)) (Playtest)
+* Fixed Crazy neighbors apartment not showing up outside the tenement at the start (issue [#3934](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3934))
 
 ## Main Menu
 
