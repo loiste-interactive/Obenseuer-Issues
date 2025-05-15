@@ -8,6 +8,7 @@
 
 ## Items
 
+* Added homemade malts
 * The gas mask now protects against gas (issue [#3942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3942))
 
 ## NPCs
