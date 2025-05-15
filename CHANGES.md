@@ -1,10 +1,14 @@
 # Upcoming
 
-* Fixed all item prices being reduced to zero
+* Fixed all item prices being reduced to zero (Playtest)
+
+## Tenement System
+
+* Fixed several upgrade requirement bugs (issue [#3939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3939)) (Playtest)
 
 ## Kolhola
 
-* Fixed missing spawnpoint (issue [#3926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926))
+* Fixed missing spawnpoint (issue [#3926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926)) (Playtest)
 
 # May 13th 2025 (Version 0.4.06 V2) - Playtest
 
