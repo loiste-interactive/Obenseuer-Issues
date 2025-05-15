@@ -2,6 +2,10 @@
 
 * Fixed all item prices being reduced to zero (Playtest)
 
+## Console
+
+* Fixed give all furniture command (issue [#3937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3937)) (Playtest)
+
 ## Tenement System
 
 * Fixed several upgrade requirement bugs (issue [#3939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3939)) (Playtest)
