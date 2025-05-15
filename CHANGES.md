@@ -3,6 +3,7 @@
 * Fixed all item prices being reduced to zero (Playtest)
 * Fixed merchant wealth not being raised when buying furniture (issue [#3935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3935))
 * Fixed the Character menu's keybind resetting to default (issue [#3914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3914))
+* Fixed the messed up movement keybinding menu (issue [#3924](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3924))
 
 ## NPCs
 
