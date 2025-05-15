@@ -3,6 +3,10 @@
 * Fixed all item prices being reduced to zero (Playtest)
 * Fixed merchant wealth not being raised when buying furniture (issue [#3935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3935))
 
+## NPCs
+
+* Fixed backyard police not being able to transition between scenes (issue [#3933](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3933)) (Playtest)
+
 ## Console
 
 * Fixed give all furniture command (issue [#3937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3937)) (Playtest)
