@@ -5,6 +5,7 @@
 * Fixed the Character menu's keybind resetting to default (issue [#3914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3914))
 * Fixed the messed up movement keybinding menu (issue [#3924](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3924))
 * Fixed mini generator noise playing everywhere (issue [#3928](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3928)) (Playtest)
+* Fixed hanging out with crazy neighbor showing only black screen (issue [#3929](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3929)) (Playtest)
 
 ## Items
 
