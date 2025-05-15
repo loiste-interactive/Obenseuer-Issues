@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed all item prices being reduced to zero (Playtest)
+* Fixed merchant wealth not being raised when buying furniture (issue [#3935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3935))
 
 ## Console
 
