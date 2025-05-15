@@ -15,6 +15,14 @@
 
 * Fixed several upgrade requirement bugs (issue [#3939](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3939)) (Playtest)
 
+## Main Menu
+
+* Fixed difficulty selection arrows (issue [#3940](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3940)) (Playtest)
+
+## Intro
+
+* Fixed never ending unskippable intro (issue [#3941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3941)) (Playtest)
+
 ## Kolhola
 
 * Fixed missing spawnpoint (issue [#3926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926)) (Playtest)
