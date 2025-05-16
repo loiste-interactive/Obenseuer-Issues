@@ -1,5 +1,9 @@
 # Upcoming
 
+## Main Menu
+
+* Fixed the missing arrows in the custom difficulty tab (issue [#3948](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3948)) (Playtest)
+
 # May 16th 2025 (Version 0.4.06 V3) - Playtest
 
 * Fixed all item prices being reduced to zero (Playtest)
