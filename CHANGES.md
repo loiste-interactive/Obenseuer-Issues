@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 16th 2025 (Version 0.4.06 V3) - Playtest
+
 * Fixed all item prices being reduced to zero (Playtest)
 * Fixed merchant wealth not being raised when buying furniture (issue [#3935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3935))
 * Fixed the Character menu's keybind resetting to default (issue [#3914](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3914))
