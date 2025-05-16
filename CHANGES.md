@@ -12,6 +12,11 @@
 * Added homemade malts
 * The gas mask now protects against gas (issue [#3942](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3942))
 
+## Furniture
+
+* Added printer
+* Added copy machine
+
 ## NPCs
 
 * Fixed backyard police not being able to transition between scenes (issue [#3933](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3933)) (Playtest)
