@@ -1,5 +1,9 @@
 # Upcoming
 
+## NPCs
+
+* Fixed some NPCs still floating off their seats (issue [#3949](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3949)) (Playtest)
+
 ## Main Menu
 
 * Fixed the missing arrows in the custom difficulty tab (issue [#3948](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3948)) (Playtest)
