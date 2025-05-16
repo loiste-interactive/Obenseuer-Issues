@@ -45,6 +45,10 @@
 
 * Fixed missing spawnpoint (issue [#3926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3926)) (Playtest)
 
+## Tenement A
+
+* Added more items for Fredrik to sell (issue [#3943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3943))
+
 # May 13th 2025 (Version 0.4.06 V2) - Playtest
 
 * Lowered the addiction threshold for Dr. Pena for detecting addictions.
