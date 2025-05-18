@@ -7,6 +7,7 @@
 ## Items
 
 * Added rollie
+* Added tobacco leaves
 
 ## Main Menu
 
