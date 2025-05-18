@@ -24,6 +24,8 @@
 * Added grape vine seeds
 * Added white wine
 * Added mushroom white wine
+* Added white grape mash
+* Added mushroom white grape mash
 
 ## Recipes
 
