@@ -22,6 +22,8 @@
 * Added apple seeds
 * Added blackcurrant seeds
 * Added grape vine seeds
+* Added white wine
+* Added mushroom white wine
 
 ## Recipes
 
