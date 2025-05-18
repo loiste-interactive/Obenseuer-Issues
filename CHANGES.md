@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added growable yucca plant
+
 ## NPCs
 
 * Fixed some NPCs still floating off their seats (issue [#3949](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3949)) (Playtest)
