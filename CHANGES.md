@@ -10,6 +10,10 @@
 * Added tobacco leaves
 * Added cured tobacco leaves
 
+## Recipes
+
+* Added rollie
+
 ## Main Menu
 
 * Fixed the missing arrows in the custom difficulty tab (issue [#3948](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3948)) (Playtest)
