@@ -10,6 +10,7 @@
 * Added tobacco leaves
 * Added cured tobacco leaves
 * Added blackcurrant berries
+* Added grapes (non-boxed)
 
 ## Recipes
 
