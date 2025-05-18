@@ -35,6 +35,10 @@
 * Added blackcurrant mash (alternative recipe)
 * Added mushroom blackcurrant mash (alternative recipe)
 * Added blackcurrant juice concentrate
+* Added white wine
+* Added mushroom white wine
+* Added white grape mash
+* Added mushroom white grape mash
 
 ## Main Menu
 
