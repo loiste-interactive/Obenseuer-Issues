@@ -11,6 +11,7 @@
 * Added cured tobacco leaves
 * Added blackcurrant berries
 * Added grapes (non-boxed)
+* Added yucca seeds
 
 ## Recipes
 
