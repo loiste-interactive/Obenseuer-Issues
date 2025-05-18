@@ -13,6 +13,7 @@
 * Added grapes (non-boxed)
 * Added yucca seeds
 * Added tobacco seeds
+* Added apple seeds
 
 ## Recipes
 
