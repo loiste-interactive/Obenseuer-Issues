@@ -14,6 +14,7 @@
 
 * Added rollie
 * Added cured tobacco leaves
+* Added cigar
 
 ## Main Menu
 
