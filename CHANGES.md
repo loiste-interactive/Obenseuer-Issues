@@ -9,6 +9,7 @@
 * Added rollie
 * Added tobacco leaves
 * Added cured tobacco leaves
+* Added blackcurrant berries
 
 ## Recipes
 
