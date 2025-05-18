@@ -14,6 +14,7 @@
 * Added yucca seeds
 * Added tobacco seeds
 * Added apple seeds
+* Added blackcurrant seeds
 
 ## Recipes
 
