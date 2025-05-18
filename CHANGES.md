@@ -15,6 +15,7 @@
 * Added tobacco seeds
 * Added apple seeds
 * Added blackcurrant seeds
+* Added grape wine seeds
 
 ## Recipes
 
