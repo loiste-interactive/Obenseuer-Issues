@@ -12,6 +12,7 @@
 * Added blackcurrant berries
 * Added grapes (non-boxed)
 * Added yucca seeds
+* Added tobacco seeds
 
 ## Recipes
 
