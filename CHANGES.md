@@ -8,6 +8,7 @@
 
 * Added rollie
 * Added tobacco leaves
+* Added cured tobacco leaves
 
 ## Main Menu
 
