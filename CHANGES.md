@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added growable yucca plant
+* Added growable tobacco plant
 
 ## NPCs
 
