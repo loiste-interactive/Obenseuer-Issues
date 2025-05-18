@@ -3,6 +3,7 @@
 * Added growable yucca plant
 * Added growable tobacco plant
 * Added growable apple tree
+* Added growable blackcurrant bush
 
 ## NPCs
 
