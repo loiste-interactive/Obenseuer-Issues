@@ -16,6 +16,8 @@
 * Added rollie
 * Added cured tobacco leaves
 * Added cigar
+* Added blackcurrant mash (alternative recipe)
+* Added mushroom blackcurrant mash (alternative recipe) 
 
 ## Main Menu
 
