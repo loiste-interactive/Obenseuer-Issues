@@ -13,6 +13,7 @@
 ## Recipes
 
 * Added rollie
+* Added cured tobacco leaves
 
 ## Main Menu
 
