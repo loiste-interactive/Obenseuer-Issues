@@ -34,6 +34,7 @@
 * Added mushroom white wine
 * Added white grape mash
 * Added mushroom white grape mash
+* Fixed toilet paper 6 pack being stackable (issue [#3944](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3944))
 
 ## Recipes
 
