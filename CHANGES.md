@@ -16,6 +16,7 @@
 * Fixed some NPCs still floating off their seats (issue [#3949](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3949)) (Playtest)
 * Fixed some NPCs turning towards player when they shouldn't (issue [#3952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3952)) (Playtest)
 * Crazy Neighbor now allows the player to upgrade his apartment after a few visits, which improves the stats gained from visiting (issue [#3960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3960))
+* Crazy Neighbor now gives snacks and bathroom breaks (issue [#3955](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3955))
 
 ## Items
 
