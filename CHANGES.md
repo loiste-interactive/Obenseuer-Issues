@@ -6,11 +6,13 @@
 * Added growable blackcurrant bush
 * Added growable grape vine
 * Fixed ratfarms (and other animal farms) draining fps when they're not rendered.
+* Fixed tilted player camera (issue [#3918](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3918))
 * Reduced fps overhead caused by physics and animations
 
 ## NPCs
 
 * Fixed some NPCs still floating off their seats (issue [#3949](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3949)) (Playtest)
+* Fixed some NPCs turning towards player when they shouldn't (issue [#3952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3952)) (Playtest)
 
 ## Items
 
