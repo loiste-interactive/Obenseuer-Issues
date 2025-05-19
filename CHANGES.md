@@ -1,5 +1,11 @@
 # Upcoming
 
+## Mines
+* Fixed collision on airducts (issue [#3947](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3947))
+
+## Deekula
+* Fixed collision issues (issue [#3953](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3953))
+
 # May 19th 2025 (Version 0.4.07) - Playtest
 
 * Added growable yucca plant
