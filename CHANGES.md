@@ -7,6 +7,8 @@
 * Added growable grape vine
 * Fixed ratfarms (and other animal farms) draining fps when they're not rendered.
 * Fixed tilted player camera (issue [#3918](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3918))
+* Fixed renovation speed difficulty setting not affecting ongoing upgrades (issue [#3958](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3958)) (Playtest)
+* Fixed renovation speed difficulty setting being inverted
 * Reduced fps overhead caused by physics and animations
 
 ## NPCs
