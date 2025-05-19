@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 19th 2025 (Version 0.4.07) - Playtest
+
 * Added growable yucca plant
 * Added growable tobacco plant
 * Added growable apple tree
