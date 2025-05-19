@@ -6,6 +6,7 @@
 * Added growable blackcurrant bush
 * Added growable grape vine
 * Fixed ratfarms (and other animal farms) draining fps when they're not rendered.
+* Reduced fps overhead caused by physics
 
 ## NPCs
 
