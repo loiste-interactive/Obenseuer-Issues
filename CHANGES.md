@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Fixed mushroom sugarbeer juice mash (issue [#3978](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3978))
+
 ## Mines
 * Fixed collision on airducts (issue [#3947](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3947))
 
