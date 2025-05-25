@@ -1,5 +1,7 @@
 # Upcoming
 
+* Removed "going to outside" social security bonus (issue [#3973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3973))
+
 ## Recipes
 
 * Fixed mushroom sugarbeer juice mash (issue [#3978](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3978))
