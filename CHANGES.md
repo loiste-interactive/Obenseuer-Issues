@@ -9,6 +9,11 @@
 ## Furniture
 
 * Added distillation kit (lab upgrade)
+* Added mushroom growing rack
+
+## Blueprints
+
+* Added mushroom growing rack
 
 ## Mines
 
