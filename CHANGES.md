@@ -1,5 +1,6 @@
 # Upcoming
 
+* Selecting "Very good friend" now has an effect
 * Removed "going to outside" social security bonus (issue [#3973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3973))
 
 ## Recipes
