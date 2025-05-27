@@ -7,6 +7,7 @@
 ## Items
 
 * Added Hard Hat with Headlamp
+* Fixed some items having placeholder icon
 
 ## Recipes
 
