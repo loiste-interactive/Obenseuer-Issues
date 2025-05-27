@@ -3,6 +3,10 @@
 * Selecting "Very good friend" now has an effect
 * Removed "going to outside" social security bonus (issue [#3973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3973))
 
+## Items
+
+* Added Hard Hat with Headlamp
+
 ## Recipes
 
 * Fixed mushroom sugarbeer juice mash (issue [#3978](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3978))
