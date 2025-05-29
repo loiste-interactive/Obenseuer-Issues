@@ -24,6 +24,10 @@
 * Added mushroom growing rack
 * Added makeshift shower
 
+## Tenement System
+
+* Replaced player makeshift WC shower with the new makeshift shower
+
 ## Mines
 
 * Fixed collision on airducts (issue [#3947](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3947))
