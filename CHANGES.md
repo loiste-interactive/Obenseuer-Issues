@@ -22,6 +22,7 @@
 ## Blueprints
 
 * Added mushroom growing rack
+* Added makeshift shower
 
 ## Mines
 
