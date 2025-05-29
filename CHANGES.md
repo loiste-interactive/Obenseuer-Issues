@@ -17,6 +17,7 @@
 
 * Added distillation kit (lab upgrade)
 * Added mushroom growing rack
+* Added makeshift shower
 
 ## Blueprints
 
