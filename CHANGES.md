@@ -28,6 +28,7 @@
 ## Tenement System
 
 * Replaced player makeshift WC shower with the new makeshift shower
+* Fixed Crazy Neighbor not letting to upgrade his apartment (issue [#3980](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3980)) (Playtest)
 
 ## Mines
 
