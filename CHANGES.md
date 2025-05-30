@@ -33,6 +33,10 @@
 
 * Fixed collision on airducts (issue [#3947](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3947))
 
+## Kolhola
+
+* Fixed misplaced bathroom door (issue [#3967](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3967)) (Playtest)
+
 ## Deekula
 
 * Fixed collision issues (issue [#3953](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3953))
