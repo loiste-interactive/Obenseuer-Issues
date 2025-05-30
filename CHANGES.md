@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 30th 2025 (Version 0.4.08) - Private Playtest
+
 * Selecting "Very good friend" now has an effect
 * Removed "going to outside" social security bonus (issue [#3973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3973))
 * Adjusted caffeine
@@ -47,7 +49,7 @@
 
 * Fixed collision issues (issue [#3953](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3953))
 
-# May 19th 2025 (Version 0.4.07) - Playtest
+# May 19th 2025 (Version 0.4.07) - Private Playtest
 
 * Added growable yucca plant
 * Added growable tobacco plant
