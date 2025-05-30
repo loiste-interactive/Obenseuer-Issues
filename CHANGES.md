@@ -5,6 +5,10 @@
 * Adjusted caffeine
 * Adjusted flashlight lights and battery drain rates
 
+## NPCs
+
+* Fixed Lizzy Mopper standing outside the stand (issue [#3968](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3968)) (Playtest)
+
 ## Items
 
 * Added Hard Hat with Headlamp
