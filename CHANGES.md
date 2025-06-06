@@ -4,7 +4,7 @@
 
 * Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
 * Fixed items always showing reload action button (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995))
-* Fixed items always wrong usable text (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995))
+* Fixed items showing wrong usable text (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995))
 * Fixed liquid containers being undrinkable (issue [#3994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3994))
 
 # May 30th 2025 (Version 0.4.08) - Private Playtest
