@@ -2,7 +2,7 @@
 
 ## Items
 
-* Fixed cashboxs and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
+* Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
 
 
 # May 30th 2025 (Version 0.4.08) - Private Playtest
