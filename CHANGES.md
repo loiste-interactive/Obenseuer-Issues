@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed random banking (issue [#3882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3882))
+
 ## Items
 
 * Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
