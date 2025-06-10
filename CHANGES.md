@@ -17,6 +17,10 @@
 
 * Removed ghost tracks on mine lvl3 and lvl4 breaking trains (issue [#3895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3895))
 
+## Furniture
+
+* Makeshift shower now has a hand pump
+
 # May 30th 2025 (Version 0.4.08) - Private Playtest
 
 * Selecting "Very good friend" now has an effect
