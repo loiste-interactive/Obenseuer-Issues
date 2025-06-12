@@ -19,6 +19,7 @@
 
 ## Furniture
 
+* Added small clutter and household items
 * Makeshift shower now has a hand pump
 
 # May 30th 2025 (Version 0.4.08) - Private Playtest
