@@ -22,6 +22,10 @@
 * Added small clutter and household items
 * Makeshift shower now has a hand pump
 
+## Console
+
+* Added gambling addiction commands
+
 # May 30th 2025 (Version 0.4.08) - Private Playtest
 
 * Selecting "Very good friend" now has an effect
