@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added gambling addiction
 * Fixed random banking (issue [#3882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3882))
 * Fixed someone being succesful at ramming 10L bottles into wineracks (issue [#3884](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3884))
 * ATM now displays out of order message when out of funds
