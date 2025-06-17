@@ -17,6 +17,10 @@
 * Fixed gasmasks and other masks (issue [#4005](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4005))
 * Fixed selling items with quickmove action not giving the item (issue [#3887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3887))
 
+## Recipes
+
+* Fixed biogas from sewage recipe (issue [#4014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4014))
+
 ## Tenement System
 
 * Removed ghost tracks on mine lvl3 and lvl4 breaking trains (issue [#3895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3895))
