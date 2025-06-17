@@ -8,6 +8,8 @@
 
 ## Items
 
+* Added Spade of Aces scratchcard
+* Added revealed Spade of Aces scratchcard
 * Added OC Pot scratchcard
 * Added revealed OC Pot scratchcard
 * Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
