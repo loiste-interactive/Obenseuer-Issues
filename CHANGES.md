@@ -21,6 +21,7 @@
 
 ## Recipes
 
+* Different materials of mechanical watches now have different skill level requirement
 * Fixed biogas from sewage recipe (issue [#4014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4014))
 
 ## Tenement System
