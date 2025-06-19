@@ -21,6 +21,7 @@
 
 ## Recipes
 
+* Recipe skill requirement is now 'flexible', each missing level now scales up difficulty value and processing time
 * Different materials of mechanical watches now have different skill level requirement
 * Fixed biogas from sewage recipe (issue [#4014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4014))
 
