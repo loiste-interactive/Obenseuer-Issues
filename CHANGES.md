@@ -45,6 +45,10 @@
 
 * O-Market now sells scratchcards
 
+## Mines
+
+* Gas station now sells scratchcards
+
 # May 30th 2025 (Version 0.4.08) - Private Playtest
 
 * Selecting "Very good friend" now has an effect
