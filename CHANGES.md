@@ -44,6 +44,7 @@
 ## O-Market
 
 * O-Market now sells scratchcards
+* Scratchcards can now be redeemed at O-Market
 
 ## Mines
 
