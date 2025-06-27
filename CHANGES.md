@@ -23,6 +23,7 @@
 
 ## Recipes
 
+* Added 50L Stainless Steel Can
 * Added junkwood recipe
 * Boiling water now doesn't make you distillerymaster nor chemist
 * Recipe skill requirement is now 'flexible', each missing level now scales up difficulty value and processing time
