@@ -9,6 +9,7 @@
 
 ## Items
 
+* Added red algae
 * Added 50L Stainless Steel Can
 * Added Spade of Aces scratchcard
 * Added revealed Spade of Aces scratchcard
