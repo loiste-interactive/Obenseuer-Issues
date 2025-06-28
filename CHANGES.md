@@ -24,6 +24,7 @@
 
 ## Recipes
 
+* Added agar
 * Added 50L Stainless Steel Can
 * Added junkwood recipe
 * Boiling water now doesn't make you distillerymaster nor chemist
