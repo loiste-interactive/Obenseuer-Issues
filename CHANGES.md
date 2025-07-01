@@ -5,6 +5,7 @@
 * Fixed random banking (issue [#3882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3882))
 * Fixed someone being succesful at ramming 10L bottles into wineracks (issue [#3884](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3884))
 * Fixed incorrect recipe time and growtime estimations
+* Fixed new characters referred to as Esko Virtanen (issue [#4010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4010)) (Playtest)
 * ATM now displays out of order message when out of funds
 
 ## Items
@@ -15,10 +16,10 @@
 * Added revealed Spade of Aces scratchcard
 * Added OC Pot scratchcard
 * Added revealed OC Pot scratchcard
-* Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997))
-* Fixed items always showing reload action button (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995))
-* Fixed items showing wrong usable text (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995))
-* Fixed liquid containers being undrinkable (issue [#3994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3994))
+* Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997)) (Playtest)
+* Fixed items always showing reload action button (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995)) (Playtest)
+* Fixed items showing wrong usable text (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995)) (Playtest)
+* Fixed liquid containers being undrinkable (issue [#3994](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3994)) (Playtest)
 * Fixed gasmasks and other masks (issue [#4005](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4005))
 * Fixed selling items with quickmove action not giving the item (issue [#3887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3887))
 
