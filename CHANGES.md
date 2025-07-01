@@ -21,6 +21,7 @@
 * Added revealed Spade of Aces scratchcard
 * Added OC Pot scratchcard
 * Added revealed OC Pot scratchcard
+* Added hotkey to turn off/on Hard Hat with Headlamp (issue [#4003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4003)) (Playtest)
 * Fixed cashboxes and piggybanks not breaking (issue [#3997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3997)) (Playtest)
 * Fixed items always showing reload action button (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995)) (Playtest)
 * Fixed items showing wrong usable text (issue [#3995](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3995)) (Playtest)
