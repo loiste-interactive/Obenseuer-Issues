@@ -8,6 +8,10 @@
 * Fixed new characters referred to as Esko Virtanen (issue [#4010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4010)) (Playtest)
 * ATM now displays out of order message when out of funds
 
+## NPCs
+
+* Fixed Crazy Neighbor sitting in his apartment when he should be elsewhere (issue [#3930](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3930)) (Playtest)
+
 ## Tasks
 
 * Fixed the game getting soft-locked when blowing up the tenement tunnel rocks before talking to Ken (issue [#4022](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4022))
