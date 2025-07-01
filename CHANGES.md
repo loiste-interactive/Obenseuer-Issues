@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 1st 2025 (Version 0.4.09) - Private Playtest
+
 * Added gambling addiction
 * Added gambling addiction achievements
 * Fixed random banking (issue [#3882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3882))
