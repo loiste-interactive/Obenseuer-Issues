@@ -8,6 +8,10 @@
 * Fixed new characters referred to as Esko Virtanen (issue [#4010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4010)) (Playtest)
 * ATM now displays out of order message when out of funds
 
+## Tasks
+
+* Fixed the game getting soft-locked when blowing up the tenement tunnel rocks before talking to Ken (issue [#4022](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4022))
+
 ## Items
 
 * Added red algae
