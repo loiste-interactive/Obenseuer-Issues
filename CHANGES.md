@@ -41,6 +41,7 @@
 
 ## Tenement System
 
+* Fixed Moray Larson using old model after moving in (issue [#3998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3998)) (Playtest)
 * Removed ghost tracks on mine lvl3 and lvl4 breaking trains (issue [#3895](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3895))
 
 ## Furniture
