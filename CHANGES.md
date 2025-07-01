@@ -12,6 +12,7 @@
 
 * Fixed the game getting soft-locked when blowing up the tenement tunnel rocks before talking to Ken (issue [#4022](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4022))
 * Fixed Crazy Neighbor not spawning (issue [#4020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4020)) (Playtest)
+* Fixed not being able to complete the Orange Heaven task (issue [#3985](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3985))
 
 ## Items
 
