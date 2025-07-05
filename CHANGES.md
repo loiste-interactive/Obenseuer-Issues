@@ -1,5 +1,9 @@
 # Upcoming
 
+## Mines
+
+* Added radiation dose chart
+
 # July 1st 2025 (Version 0.4.09) - Private Playtest
 
 * Added gambling addiction
