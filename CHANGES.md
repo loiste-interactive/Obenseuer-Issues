@@ -3,6 +3,7 @@
 ## Furniture
 
 * Added modern refrigerator
+* Added sterilizer (lab upgrade)
 
 ## Mines
 
