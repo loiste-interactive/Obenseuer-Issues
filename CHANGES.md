@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Added modern refrigerator
+
 ## Mines
 
 * Added radiation dose chart
