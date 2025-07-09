@@ -10,6 +10,10 @@
 
 * Added radiation dose chart
 
+## O-Market
+
+* Fixed scratchards not respawning
+
 # July 1st 2025 (Version 0.4.09) - Private Playtest
 
 * Added gambling addiction
