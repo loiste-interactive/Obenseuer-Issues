@@ -5,6 +5,7 @@
 * Added modern refrigerator
 * Added sterilizer (lab upgrade)
 * Fixed coffee maker ownership (issue [#4033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4033))
+* Fixed not being able to harvest the mushroom growing rack (issue [#4034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4034)) (Playtest)
 
 ## Blueprints
 
