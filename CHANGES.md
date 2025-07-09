@@ -6,6 +6,10 @@
 * Added sterilizer (lab upgrade)
 * Fixed coffee maker ownership (issue [#4033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4033))
 
+## Blueprints
+
+* Fixed blueprint item (Crude, Improved, Detailed) giving no feedback when there are no blueprints left to learn (issue [#3653](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3653))
+
 ## Mines
 
 * Added radiation dose chart
