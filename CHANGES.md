@@ -7,6 +7,10 @@
 * Fixed coffee maker ownership (issue [#4033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4033))
 * Fixed not being able to harvest the mushroom growing rack (issue [#4034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4034)) (Playtest)
 
+## Recipes
+
+* Fixed the Steel Wire recipe item output order (issue [#4032](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4032))
+
 ## Blueprints
 
 * Fixed blueprint item (Crude, Improved, Detailed) giving no feedback when there are no blueprints left to learn (issue [#3653](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3653))
