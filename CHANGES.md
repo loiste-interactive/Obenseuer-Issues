@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed player being too prone for gambling addiciton (issue [#4037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4037))
+
 ## Furniture
 
 * Added modern refrigerator
