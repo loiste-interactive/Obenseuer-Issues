@@ -8,6 +8,8 @@
 * Added sterilizer (lab upgrade)
 * Fixed coffee maker ownership (issue [#4033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4033))
 * Fixed not being able to harvest the mushroom growing rack (issue [#4034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4034)) (Playtest)
+* The player can now use the paper from the toilet paper holder next to the toilet (issue [#4031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4031))
+* The player can now use the alarm clock next to the bed
 
 ## Recipes
 
