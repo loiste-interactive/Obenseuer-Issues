@@ -3,6 +3,7 @@
 * Changed urinal to empty the bladder only (issue [#3806](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3806))
 * Changed urinal to give a hygiene penalty if the player is female (issue [#3806](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3806))
 * Fixed player being too prone for gambling addiciton (issue [#4037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4037))
+* Fixed Hard Hat with Headlamp light state not being saved (issue [#4037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4037)) (Playtest)
 
 ## Furniture
 
