@@ -5,6 +5,7 @@
 * Changed urinal to give a hygiene penalty if the player is female (issue [#3806](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3806))
 * Fixed player being too prone for gambling addiciton (issue [#4037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4037))
 * Fixed Hard Hat with Headlamp light state not being saved (issue [#4038](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4038)) (Playtest)
+* Fixed rapid stepping sounds (issue [#4026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4026)) (Playtest)
 
 ## Furniture
 
@@ -30,6 +31,10 @@
 ## O-Market
 
 * Fixed scratchards not respawning
+
+## Kolhola
+
+* Fixed someone ramming 10L bottles into wine racks (issue [#4025](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4025))
 
 # July 1st 2025 (Version 0.4.09) - Private Playtest
 
