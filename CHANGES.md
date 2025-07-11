@@ -6,6 +6,7 @@
 * Fixed player being too prone for gambling addiciton (issue [#4037](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4037))
 * Fixed Hard Hat with Headlamp light state not being saved (issue [#4038](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4038)) (Playtest)
 * Fixed rapid stepping sounds (issue [#4026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4026)) (Playtest)
+* Fixed lights not updating automatically the moment player loads a scene (issue [#4036](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4036)) (Playtest)
 
 ## Furniture
 
