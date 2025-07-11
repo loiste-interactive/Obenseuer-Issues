@@ -8,6 +8,10 @@
 * Fixed rapid stepping sounds (issue [#4026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4026)) (Playtest)
 * Fixed lights not updating automatically the moment player loads a scene (issue [#4036](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4036)) (Playtest)
 
+## NPCs
+
+* Fixed Lönkka Kurahaara missing from stand (issue [#4027](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4027)) (Playtest)
+
 ## Furniture
 
 * Added modern refrigerator
