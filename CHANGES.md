@@ -5,6 +5,7 @@
 ## NPCs
 
 * Fixed some npcs not making eye contact (issue [#4043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4043)) (Playtest)
+* Fixed Kurahaara Brothers' Stall not opening trade (issue [#4045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4045)) (Playtest)
 
 ## Items
 
