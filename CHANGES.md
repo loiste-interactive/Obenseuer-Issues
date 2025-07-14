@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed saline recipe skill being none (issue [#4048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4048))
+
 ## Items
 
 * Added animal blood
