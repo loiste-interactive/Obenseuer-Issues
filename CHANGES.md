@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Added animal blood
+
 # July 11th 2025 (Version 0.4.10) - Private Playtest
 
 * Added headlamp key binding to the options menu (Playtest)
