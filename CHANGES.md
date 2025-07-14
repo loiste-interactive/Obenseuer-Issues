@@ -3,6 +3,8 @@
 ## Items
 
 * Added animal blood
+* Added genuine leather
+* Added animal skin
 
 # July 11th 2025 (Version 0.4.10) - Private Playtest
 
