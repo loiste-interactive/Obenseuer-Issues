@@ -7,6 +7,7 @@
 * Added animal blood
 * Added genuine leather
 * Added animal skin
+* Fixed 50L stainless steel can having sometimes plastic container icon (issue [#4047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4047))
 
 ## Recipes
 
