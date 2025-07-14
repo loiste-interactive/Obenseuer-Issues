@@ -2,6 +2,10 @@
 
 * Fixed saline recipe skill being none (issue [#4048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4048))
 
+## NPCs
+
+* Fixed some npcs not making eye contact (issue [#4043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4043)) (Playtest)
+
 ## Items
 
 * Added animal blood
