@@ -11,6 +11,7 @@
 ## Items
 
 * Added pig
+* Added glowing cat
 * Added animal blood
 * Added genuine leather
 * Added animal skin
