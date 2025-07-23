@@ -16,6 +16,8 @@
 * Added animal blood
 * Added genuine leather
 * Added animal skin
+* Added edible mushrooms mycelium bag
+* Added orange mushrooms mycelium bag
 * Fixed 50L stainless steel can having sometimes plastic container icon (issue [#4047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4047))
 
 ## Recipes
