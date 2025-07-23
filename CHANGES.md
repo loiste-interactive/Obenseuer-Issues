@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added growable clean green mushrooms
 * Fixed saline recipe skill being none (issue [#4048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4048))
 * Fixed toilet paper consumed in both inventory and holder (issue [#4049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4049)) (Playtest)
 * Fixed some showers having their sound stuck
