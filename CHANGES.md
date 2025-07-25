@@ -28,6 +28,7 @@
 ## Recipes
 
 * Added genuine leather
+* Added diesel batch
 
 ## Building System
 
