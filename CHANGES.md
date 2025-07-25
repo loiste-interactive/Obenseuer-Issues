@@ -35,6 +35,10 @@
 * Fixed furniture variants vanishing (issue [#4042](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4042))
 * Fixed lab upgrades not connecting correctly after loading a save (issue [#4044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4044))
 
+## Blueprints
+
+* Added fermenting bucket
+
 # July 11th 2025 (Version 0.4.10) - Private Playtest
 
 * Added headlamp key binding to the options menu (Playtest)
