@@ -7,6 +7,10 @@
 * Fixed some showers having their sound stuck
 * Fixed canal water being too damn bright (issue [#4075](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4075)) (Playtest)
 
+## Player Tenement
+
+* Apartment 2 can now be examined
+
 ## NPCs
 
 * Fixed some npcs not making eye contact (issue [#4043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4043)) (Playtest)
