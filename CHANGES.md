@@ -30,6 +30,11 @@
 * Added waste oil
 * Fixed 50L stainless steel can having sometimes plastic container icon (issue [#4047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4047))
 
+## Furniture
+
+* Added curtains that can be opened and closed
+* Removed old curtains
+
 ## Recipes
 
 * Added genuine leather
