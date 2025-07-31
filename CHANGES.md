@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 31th 2025 (Version 0.4.10 V2) - Private Playtest
+
 * Added growable clean green mushrooms
 * Added ability to close item list categories
 * Fixed saline recipe skill being none (issue [#4048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4048))
