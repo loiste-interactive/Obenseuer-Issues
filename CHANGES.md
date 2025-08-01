@@ -9,6 +9,10 @@
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
 * Fixed issue where Moray Larson would reappear in the telemarketing office after being rented (issue [#4079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4079)) (Playtest)
 
+## Furniture
+
+* Fixed hydroponic farm disappearing when placed (issue [#4070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4070)) (Playtest)
+
 # July 31th 2025 (Version 0.4.10 V2) - Private Playtest
 
 * Added growable clean green mushrooms
