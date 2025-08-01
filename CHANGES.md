@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
+* Fixed spam in console in the main menu (issue [#4074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4074))
 
 ## Tenement System
 
