@@ -3,6 +3,7 @@
 * Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
 * Fixed spam in console in the main menu (issue [#4074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4074))
 * Fixed issue where all food would suddenly perish (issue [#4061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4061))
+* Fixed broken fridges and freezers (Playtest)
 
 ## Tenement System
 
