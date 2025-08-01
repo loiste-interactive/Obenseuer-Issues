@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
+
 ## Tenement System
 
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
