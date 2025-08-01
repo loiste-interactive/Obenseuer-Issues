@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
+
 # July 31th 2025 (Version 0.4.10 V2) - Private Playtest
 
 * Added growable clean green mushrooms
