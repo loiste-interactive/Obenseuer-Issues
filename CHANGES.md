@@ -6,6 +6,7 @@
 
 * Fixed missing collission in decent basement sauna wall (issue [#4085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4085))
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
+* Fixed issue where Moray Larson would reappear in the telemarketing office after being rented (issue [#4079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4079)) (Playtest)
 
 # July 31th 2025 (Version 0.4.10 V2) - Private Playtest
 
