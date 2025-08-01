@@ -9,6 +9,10 @@
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
 * Fixed issue where Moray Larson would reappear in the telemarketing office after being rented (issue [#4079](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4079)) (Playtest)
 
+## Items
+
+* Fixed Hard Hat with Headlamp battery draining too fast (issue [#4063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4063)) (Playtest)
+
 ## Furniture
 
 * Fixed hydroponic farm disappearing when placed (issue [#4070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4070)) (Playtest)
