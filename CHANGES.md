@@ -6,6 +6,7 @@
 
 ## Tenement System
 
+* Added ability to view marked upgrades through the tenement menu
 * Fixed missing wall at apartment 2 door when stairwell is upgraded (Playtest)
 * Fixed missing collission in decent basement sauna wall (issue [#4085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4085))
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
