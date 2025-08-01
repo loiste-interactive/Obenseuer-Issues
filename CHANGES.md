@@ -4,6 +4,7 @@
 
 ## Tenement System
 
+* Fixed missing collission in decent basement sauna wall (issue [#4085](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4085))
 * Fixed blank renovation pages (issue [#4086](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4086)) (Playtest)
 
 # July 31th 2025 (Version 0.4.10 V2) - Private Playtest
