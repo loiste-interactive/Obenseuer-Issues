@@ -2,6 +2,7 @@
 
 ## Items
 
+* Added fatberg piece
 * Osmo-Olut is now more addictive
 
 # August 2nd 2025 (Version 0.4.10 V3) - Private Playtest
