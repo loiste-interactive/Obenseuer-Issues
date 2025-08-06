@@ -1,6 +1,7 @@
 # Upcoming
 
 * Player status indicators will now remain visible while the menu is open even if stat is in a satisfied range
+* Optimized UI (issue [#4095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4095))
 
 ## Items
 
