@@ -3,6 +3,7 @@
 * Player status indicators will now remain visible while the menu is open even if stat is in a satisfied range
 * Optimized UI (issue [#4095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4095))
 * Fixed old tvs' having image being burned on screen (issue [#4107](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4107))
+* Fixed red shroom achievement not triggering (issue [#4103](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4103))
 
 ## Items
 
