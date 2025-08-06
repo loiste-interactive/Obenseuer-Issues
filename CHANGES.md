@@ -1,5 +1,7 @@
 # Upcoming
 
+* Player status indicators will now remain visible while the menu is open even if stat is in a satisfied range
+
 ## Items
 
 * Added fatberg piece
