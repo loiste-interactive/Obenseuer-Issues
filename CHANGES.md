@@ -10,6 +10,10 @@
 * Added fatberg piece
 * Osmo-Olut is now more addictive
 
+ ## Tenement System
+
+ * Basement upgrades now have toggleable lights
+
 # August 2nd 2025 (Version 0.4.10 V3) - Private Playtest
 
 * Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
