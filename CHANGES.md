@@ -14,6 +14,10 @@
 * Added Mushroom tea
 * Osmo-Olut is now more addictive
 
+## Recipes
+
+* Added Mushroom tea
+
  ## Tenement System
 
  * Basement upgrades now have toggleable lights
