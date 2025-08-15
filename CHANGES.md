@@ -11,6 +11,7 @@
 
 * Added fatberg piece
 * Added Mushroom Gummies Candy Bag
+* Added Mushroom tea
 * Osmo-Olut is now more addictive
 
  ## Tenement System
