@@ -16,6 +16,7 @@
 * Added Electronic Cigarette
 * Added Electronic Cigarette (Mushroom)
 * Added Electronic Cigarette (Pure Mushroom)
+* Added Pure Green Mushroom Extract
 * Osmo-Olut is now more addictive
 
 ## Recipes
