@@ -22,6 +22,9 @@
 ## Recipes
 
 * Added Mushroom tea
+* Added Refill electronic cigarette
+* Added Refill electronic cigarette (mushroom)
+* Added Refill electronic cigarette (pure mushroom)
 
  ## Tenement System
 
