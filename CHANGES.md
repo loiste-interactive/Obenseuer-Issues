@@ -12,6 +12,8 @@
 * Added fatberg piece
 * Added Mushroom Gummies Candy Bag
 * Added Mushroom tea
+* Added Empty Electronic Cigarette
+* Added Electronic Cigarette
 * Osmo-Olut is now more addictive
 
 ## Recipes
