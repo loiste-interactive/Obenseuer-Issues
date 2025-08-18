@@ -25,6 +25,7 @@
 * Added Refill electronic cigarette
 * Added Refill electronic cigarette (mushroom)
 * Added Refill electronic cigarette (pure mushroom)
+* Added Pure Green Mushroom Extract
 
  ## Tenement System
 
