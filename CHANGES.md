@@ -6,6 +6,7 @@
 * Fixed red shroom achievement not triggering (issue [#4103](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4103))
 * Fixed gambling addiction causing smoking need instead of gambling need
 * Fixed janitor not offering services (issue [#3590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3590))
+* Fixed owned packages with permission displaying "steal" text
 
 ## Items
 
