@@ -17,6 +17,9 @@
 * Added Electronic Cigarette (Mushroom)
 * Added Electronic Cigarette (Pure Mushroom)
 * Added Pure Green Mushroom Extract
+* Added Vape Liquid
+* Added Vape Liquid (Mushroom)
+* Added Vape Liquid (Pure Mushroom)
 * Osmo-Olut is now more addictive
 
 ## Recipes
@@ -25,6 +28,9 @@
 * Added Refill electronic cigarette
 * Added Refill electronic cigarette (mushroom)
 * Added Refill electronic cigarette (pure mushroom)
+* Added Vape Liquid
+* Added Vape Liquid (Mushroom)
+* Added Vape Liquid (Pure Mushroom)
 * Added Pure Green Mushroom Extract
 
  ## Tenement System
