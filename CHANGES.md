@@ -37,6 +37,7 @@
 * Added Glass Bottles
 * Added Wine Bottles
 * Added Fancy Glass Bottles
+* Added Glass Flasks
 
  ## Tenement System
 
