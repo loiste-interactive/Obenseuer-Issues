@@ -23,6 +23,7 @@
 * Added Vape Liquid (Mushroom)
 * Added Vape Liquid (Pure Mushroom)
 * Added Fancy Glass Bottle
+* Added Cheap Watch
 * Osmo-Olut is now more addictive
 
 ## Recipes
@@ -43,6 +44,7 @@
 * Added Petridishes
 * Added Pints
 * Added Mason jars
+* Added Cheap Watch
 
  ## Tenement System
 
