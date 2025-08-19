@@ -39,6 +39,7 @@
 * Added Fancy Glass Bottles
 * Added Glass Flasks
 * Added Small Glass Bottles
+* Added Petridishes
 
  ## Tenement System
 
