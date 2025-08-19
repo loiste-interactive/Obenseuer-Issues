@@ -34,6 +34,8 @@
 * Added Vape Liquid (Mushroom)
 * Added Vape Liquid (Pure Mushroom)
 * Added Pure Green Mushroom Extract
+* Added Glass Bottles
+* Added Wine Bottles
 
  ## Tenement System
 
