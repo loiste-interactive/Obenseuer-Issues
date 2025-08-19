@@ -36,6 +36,7 @@
 * Added Pure Green Mushroom Extract
 * Added Glass Bottles
 * Added Wine Bottles
+* Added Fancy Glass Bottles
 
  ## Tenement System
 
