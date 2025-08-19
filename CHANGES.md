@@ -21,6 +21,7 @@
 * Added Vape Liquid
 * Added Vape Liquid (Mushroom)
 * Added Vape Liquid (Pure Mushroom)
+* Added Fancy Glass Bottle
 * Osmo-Olut is now more addictive
 
 ## Recipes
