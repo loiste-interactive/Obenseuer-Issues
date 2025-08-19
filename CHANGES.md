@@ -40,6 +40,7 @@
 * Added Glass Flasks
 * Added Small Glass Bottles
 * Added Petridishes
+* Added Pints
 
  ## Tenement System
 
