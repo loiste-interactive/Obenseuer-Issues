@@ -24,6 +24,7 @@
 * Added Vape Liquid (Pure Mushroom)
 * Added Fancy Glass Bottle
 * Added Cheap Watch
+* Added Cinnamon Roll
 * Added red algae to loot pool
 * Osmo-Olut is now more addictive
 
