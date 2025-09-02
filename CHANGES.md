@@ -48,7 +48,11 @@
 * Added Mason jars
 * Added Cheap Watch
 
- ## Tenement System
+## Furniture
+
+* Added Power Hammer
+
+## Tenement System
 
  * Basement upgrades now have toggleable lights
  * Player aparment upgrades now have toggleable lights
