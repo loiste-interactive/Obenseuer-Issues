@@ -27,6 +27,7 @@
 * Added Cinnamon Roll
 * Added Mushroom Cinnamon Roll
 * Added red algae to loot pool
+* Added fragrance
 * Osmo-Olut is now more addictive
 
 ## Recipes
