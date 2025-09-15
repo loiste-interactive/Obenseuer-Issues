@@ -1,5 +1,7 @@
 # Upcoming
 
+* Immersing in water cools player instantly
+* Immersing in water affects hygiene (depending on how dirty/clean the water is)
 * Player status indicators will now remain visible while the menu is open even if stat is in a satisfied range
 * Growing cabinet can now grow clean shrooms from spores
 * Optimized UI (issue [#4095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4095))
