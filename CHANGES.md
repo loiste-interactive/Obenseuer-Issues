@@ -51,6 +51,7 @@
 * Added Pints
 * Added Mason jars
 * Added Cheap Watch
+* Added Gutter Oil Batch
 
 ## Furniture
 
