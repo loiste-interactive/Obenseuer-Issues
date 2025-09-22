@@ -61,6 +61,7 @@
 
 ## Tenement System
 
+* High tier saunas, shroom cave, staircase and greenhouse now needs tiles.
 * High tier bahtrooms doesn't require plywood anymore
 * High tier bathroom and kitchen upgrades now requires tiles
 * Basement upgrades now have toggleable lights
