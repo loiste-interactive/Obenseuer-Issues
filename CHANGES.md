@@ -54,6 +54,7 @@
 * Added Cheap Watch
 * Added Gutter Oil
 * Added Gutter Oil Batch
+* Added Tiles
 
 ## Furniture
 
