@@ -61,8 +61,10 @@
 
 ## Tenement System
 
- * Basement upgrades now have toggleable lights
- * Player aparment upgrades now have toggleable lights
+* High tier bahtrooms doesn't require plywood anymore
+* High tier bathroom and kitchen upgrades now requires tiles
+* Basement upgrades now have toggleable lights
+* Player aparment upgrades now have toggleable lights
 
 # August 2nd 2025 (Version 0.4.10 V3) - Private Playtest
 
