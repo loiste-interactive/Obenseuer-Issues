@@ -61,6 +61,9 @@
 * Added Gutter Oil
 * Added Gutter Oil Batch
 * Added Tiles
+* Added blueberry jam
+* Added raspberry jam
+* Added strawberry jam
 
 ## Furniture
 
