@@ -74,6 +74,10 @@
 * Basement upgrades now have toggleable lights
 * Player aparment upgrades now have toggleable lights
 
+## Outside
+
+* Canned food stall now buys and sells jams
+
 # August 2nd 2025 (Version 0.4.10 V3) - Private Playtest
 
 * Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
