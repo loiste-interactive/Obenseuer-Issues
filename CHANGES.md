@@ -34,7 +34,7 @@
 * Added strawberries
 * Added raspberries
 * Added blueberries
-* * Osmo-Olut is now more addictive
+* Osmo-Olut is now more addictive
 
 ## Recipes
 
