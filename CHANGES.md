@@ -31,6 +31,7 @@
 * Added red algae to loot pool
 * Added fragrance
 * Added tiles
+* Added strawberries
 * Osmo-Olut is now more addictive
 
 ## Recipes
