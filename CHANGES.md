@@ -32,6 +32,7 @@
 * Added fragrance
 * Added tiles
 * Added strawberries
+* Added raspberries
 * Osmo-Olut is now more addictive
 
 ## Recipes
