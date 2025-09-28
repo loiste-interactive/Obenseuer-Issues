@@ -37,6 +37,9 @@
 * Added blueberry jam
 * Added raspberry jam
 * Added strawberry jam
+* Added blueberry mash
+* Added raspberry mash
+* Added strawberry mash
 * Osmo-Olut is now more addictive
 
 ## Recipes
