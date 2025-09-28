@@ -79,6 +79,9 @@
 * Added blueberry wine (+shroom)
 * Added raspberry wine (+shroom)
 * Added strawberry wine (+shroom)
+* Added blueberry liqueur (+shroom)
+* Added raspberry liqueur (+shroom)
+* Added strawberry liqueur (+shroom)
 
 ## Furniture
 
