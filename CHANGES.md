@@ -10,6 +10,7 @@
 * Fixed gambling addiction causing smoking need instead of gambling need
 * Fixed janitor not offering services (issue [#3590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3590))
 * Fixed owned packages with permission displaying "steal" text
+* Fixed Ivar not buying mushroom orbsinte and brew
 
 ## Items
 
