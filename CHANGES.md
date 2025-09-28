@@ -40,6 +40,9 @@
 * Added blueberry mash (+shroom)
 * Added raspberry mash (+shroom)
 * Added strawberry mash (+shroom)
+* Added blueberry wine (+shroom)
+* Added raspberry wine (+shroom)
+* Added strawberry wine (+shroom)
 * Osmo-Olut is now more addictive
 
 ## Recipes
