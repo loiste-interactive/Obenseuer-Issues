@@ -73,6 +73,9 @@
 * Added blueberry jam
 * Added raspberry jam
 * Added strawberry jam
+* Added blueberry mash (+shroom)
+* Added raspberry mash (+shroom)
+* Added strawberry mash (+shroom)
 
 ## Furniture
 
