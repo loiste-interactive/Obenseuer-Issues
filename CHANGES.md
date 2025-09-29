@@ -11,6 +11,7 @@
 * Fixed janitor not offering services (issue [#3590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3590))
 * Fixed owned packages with permission displaying "steal" text
 * Fixed Ivar not buying mushroom orbsinte and brew
+* Fixed liquid destruction on right-click move (issue [#3863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3863))
 * Player can now claim to be innocent (without landing to prison) if already sorted out their crimes or stashed the stolen goods (issue [#3879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3879))
 
 ## Items
