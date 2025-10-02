@@ -93,6 +93,10 @@
 
 * Added Power Hammer
 
+## Blueprints
+
+* Added Shabby Bed Frame Blueprint
+
 ## Tenement System
 
 * High tier saunas, shroom cave, staircase and greenhouse now needs tiles.
