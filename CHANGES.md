@@ -15,6 +15,7 @@
 * Fixed liquid storages overwriting liquids (issue [#3674](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3674))
 * Fixed liquid sorting spilling a lot of liquid (issue [#3541](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3541))
 * Fixed plastic canisters tuning into buckets
+* Fixed minitrains not accepting biodiesel (issue [#4144](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4144))
 * Player can now claim to be innocent (without landing to prison) if already sorted out their crimes or stashed the stolen goods (issue [#3879](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3879))
 
 ## Items
