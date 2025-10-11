@@ -110,6 +110,10 @@
 
 * Canned food stall now buys and sells jams
 
+## O-Market
+
+* Fixed grapes and hotdog wieners not being stocked (issue [#4150](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4150))
+
 # August 2nd 2025 (Version 0.4.10 V3) - Private Playtest
 
 * Fixed non-functioning sell/buy button (issue [#4087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4087)) (Playtest)
