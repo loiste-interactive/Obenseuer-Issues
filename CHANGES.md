@@ -52,6 +52,7 @@
 * Added blueberry liqueur (+shroom)
 * Added raspberry liqueur (+shroom)
 * Added strawberry liqueur (+shroom)
+* Added Bazaar Sauna&Spa Ticket
 * Osmo-Olut is now more addictive
 
 ## Recipes
