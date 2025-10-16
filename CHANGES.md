@@ -59,6 +59,7 @@
 * Added Chocolate Ice Cream Cone
 * Added Doughnut
 * Added Berliner
+* Added pre-packaged sandwiches (pork,beef,chicken)
 * Osmo-Olut is now more addictive
 
 ## Recipes
