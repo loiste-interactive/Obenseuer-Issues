@@ -96,6 +96,7 @@
 * Added blueberry liqueur (+shroom)
 * Added raspberry liqueur (+shroom)
 * Added strawberry liqueur (+shroom)
+* Doughnut
 
 ## Furniture
 
