@@ -57,6 +57,7 @@
 * Added Bazaar Sauna&Spa Ticket
 * Added OS Coin Wallet
 * Added Chocolate Ice Cream Cone
+* Added Doughnut
 * Osmo-Olut is now more addictive
 
 ## Recipes
