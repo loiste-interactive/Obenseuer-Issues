@@ -56,6 +56,7 @@
 * Added strawberry liqueur (+shroom)
 * Added Bazaar Sauna&Spa Ticket
 * Added OS Coin Wallet
+* Added Chocolate Ice Cream Cone
 * Osmo-Olut is now more addictive
 
 ## Recipes
