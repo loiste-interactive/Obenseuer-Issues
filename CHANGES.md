@@ -58,6 +58,7 @@
 * Added OS Coin Wallet
 * Added Chocolate Ice Cream Cone
 * Added Doughnut
+* Added Berliner
 * Osmo-Olut is now more addictive
 
 ## Recipes
