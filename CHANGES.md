@@ -58,6 +58,7 @@
 * Added OS Coin Wallet
 * Added Chocolate Ice Cream Cone
 * Added Doughnut
+* Added Sawdust Doughnut
 * Added Berliner
 * Added pre-packaged sandwiches (pork,beef,chicken)
 * Osmo-Olut is now more addictive
