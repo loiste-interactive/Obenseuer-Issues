@@ -1,7 +1,9 @@
 # Upcoming
 
 ## Iterior Bazaar Rob-In
+
 * Added safe combination hint
+* Fixed missing textures
 
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
