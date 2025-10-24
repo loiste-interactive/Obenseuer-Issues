@@ -1,5 +1,8 @@
 # Upcoming
 
+## Iterior Bazaar Rob-In
+* Added safe combination hint
+
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
 * Immersing in water cools player instantly
