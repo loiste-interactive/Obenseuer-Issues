@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 24th 2025 (Version 0.4.11) - Private Playtest
+
 * Immersing in water cools player instantly
 * Immersing in water affects hygiene (depending on how dirty/clean the water is)
 * Player status indicators will now remain visible while the menu is open even if stat is in a satisfied range
