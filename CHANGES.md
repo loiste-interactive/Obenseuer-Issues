@@ -5,9 +5,12 @@
 * Added safe combination hint
 * Fixed missing textures
 
-# Interior Tenement B
+## Interior Tenement B
 
 * Fixed missing geometry (issue [#4159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4159))
+
+## Kolhola
+* Fixed katana textures (issue [#4164](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4164))
 
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
