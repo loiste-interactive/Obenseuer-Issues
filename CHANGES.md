@@ -2,7 +2,6 @@
 
 * Some shops now give purchased items in a shopping bag.
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
-* Added cached shadowmaps (issue [#4178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4178))
 
 ## Items
 
