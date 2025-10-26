@@ -19,7 +19,12 @@
 * Fixed missing geometry (issue [#4159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4159))
 
 ## Kolhola
+
 * Fixed katana textures (issue [#4164](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4164))
+
+## O-Market
+
+* O market sells packaged frozen doughs and peas instead of loose peas/doughs
 
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
