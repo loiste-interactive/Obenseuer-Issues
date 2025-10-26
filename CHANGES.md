@@ -2,6 +2,10 @@
 
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
 
+## Items
+
+* Added Polystyrene Package
+
 ## Iterior Bazaar Rob-In
 
 * Added safe combination hint
