@@ -1,5 +1,6 @@
 # Upcoming
 
+* Some shops now give purchased items in a shopping bag.
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
 
 ## Items
