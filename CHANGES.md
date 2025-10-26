@@ -8,6 +8,7 @@
 * Added Frozen Peas
 * Added Frozen Wheat Dough
 * Added Frozen Rye Dough
+* Added Paper Bag
 
 ## Iterior Bazaar Rob-In
 
