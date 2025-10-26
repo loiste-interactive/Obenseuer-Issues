@@ -24,7 +24,7 @@
 
 ## O-Market
 
-* O market sells packaged frozen doughs and peas instead of loose peas/doughs
+* O market now sells packaged frozen doughs and peas instead of loose peas/doughs
 
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
