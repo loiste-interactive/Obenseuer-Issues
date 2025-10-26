@@ -5,6 +5,7 @@
 ## Items
 
 * Added Polystyrene Package
+* Added Frozen Peas
 
 ## Iterior Bazaar Rob-In
 
