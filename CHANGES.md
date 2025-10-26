@@ -6,6 +6,7 @@
 
 * Added Polystyrene Package
 * Added Frozen Peas
+* Added Frozen Wheat Dough
 
 ## Iterior Bazaar Rob-In
 
