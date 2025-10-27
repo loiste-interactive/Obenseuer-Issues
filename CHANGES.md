@@ -14,6 +14,7 @@
 * Added Paper Bag
 * Added Pizza Box
 * Added Empty Plastic Bag
+* Added Plastic Bag
 
 ## Iterior Bazaar Rob-In
 
