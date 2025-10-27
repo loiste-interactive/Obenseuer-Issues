@@ -32,6 +32,7 @@
 ## O-Market
 
 * O market now sells packaged frozen doughs and peas instead of loose peas/doughs
+* It is now possible to purchase plastic bags. (Items on conveyor belt will be placed in the bag upon payment)
 
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
