@@ -3,6 +3,7 @@
 * Some shops now give purchased items in a shopping bag.
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
 * Fixed merging owned liquids
+* Fixed quality being overwritten when moving liquids between canisters (issue [#3721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3721))
 
 ## Items
 
