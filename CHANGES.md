@@ -13,6 +13,7 @@
 * Added Frozen Rye Dough
 * Added Paper Bag
 * Added Pizza Box
+* Added Empty Shopping Bag
 
 ## Iterior Bazaar Rob-In
 
