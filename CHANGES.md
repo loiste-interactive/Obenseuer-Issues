@@ -35,6 +35,10 @@
 * It is now possible to purchase plastic bags. (Items on conveyor belt will be placed in the bag upon payment)
 * Fixed varying cooking oil quality
 
+## Deekula C
+
+* Optimized lights (issue [#4178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4178))
+
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
 * Immersing in water cools player instantly
