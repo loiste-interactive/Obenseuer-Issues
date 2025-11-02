@@ -32,6 +32,7 @@
 * Forge Certificate of Authenticity for Gold Bar
 * Forge Certificate of Authenticity for Silver Bar
 * Forge Certificate of Authenticity for Gold/Silver Watch
+* Forge Certificate of Authenticity for Gold/Silver Duck
 * Counterfeit money now uses fancy paper and ink
 
 ## Iterior Bazaar Rob-In
