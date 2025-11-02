@@ -31,6 +31,7 @@
 * Added Blank Certificate of Authenticity
 * Forge Certificate of Authenticity for Gold Bar
 * Forge Certificate of Authenticity for Silver Bar
+* Forge Certificate of Authenticity for Gold/Silver Watch
 * Counterfeit money now uses fancy paper and ink
 
 ## Iterior Bazaar Rob-In
