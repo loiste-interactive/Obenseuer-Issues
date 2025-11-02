@@ -28,6 +28,7 @@
 ## Recipes
 
 * Added Pea alcohols
+* Added Blank Certificate of Authenticity
 * Counterfeit money now uses fancy paper and ink
 
 ## Iterior Bazaar Rob-In
