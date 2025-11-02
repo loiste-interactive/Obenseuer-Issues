@@ -29,6 +29,7 @@
 
 * Added Pea alcohols
 * Added Blank Certificate of Authenticity
+* Forge Certificate of Authenticity for Gold Bar
 * Counterfeit money now uses fancy paper and ink
 
 ## Iterior Bazaar Rob-In
