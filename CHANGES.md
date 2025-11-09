@@ -40,6 +40,10 @@
 * Forge Certificate of Authenticity for Gold Nugget / High Purity Gold Bar
 * Counterfeit money now uses fancy paper and ink
 
+## Furniture
+
+* Fixed inplacable fancy bench (issue [#4189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4189))
+
 ## Iterior Bazaar Rob-In
 
 * Added safe combination hint
