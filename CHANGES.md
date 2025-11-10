@@ -7,6 +7,7 @@
 * Fixed quality being overwritten when moving liquids between canisters (issue [#3721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3721))
 * Fixed minitrain refueling (issue [#4181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4181))
 * Fixed Buy/Sell button
+* Fixed lights sometimes (often) being rendered in unseen areas.
 * Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179))
 
 ## Items
