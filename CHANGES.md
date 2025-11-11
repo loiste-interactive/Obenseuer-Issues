@@ -26,6 +26,7 @@
 * Added Fancy paper
 * Added Bottle of Ink
 * Added Urn
+* Added Popcorn
 * Fixed gold ore dropping as iron ore (issue [#4185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4185))
 * Socca Junior, Merde Vita, Stollandia Vodka now have multiple uses
 
