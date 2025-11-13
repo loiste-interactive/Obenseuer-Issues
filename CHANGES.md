@@ -1,14 +1,14 @@
 # Upcoming
 
-* Some shops now give purchased items in a shopping bag.
+* Some shops now give purchased items in a shopping bag
 * Player now receives pension if age is sufficiently high
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
 * Fixed merging owned liquids
 * Fixed quality being overwritten when moving liquids between canisters (issue [#3721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3721))
-* Fixed minitrain refueling (issue [#4181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4181))
-* Fixed Buy/Sell button
+* Fixed minitrain refueling (issue [#4181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4181)) (Playertest)
+* Fixed Buy/Sell button (Playertest)
 * Fixed lights sometimes (often) being rendered in unseen areas.
-* Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179))
+* Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179)) (Playertest)
 * Optimized audio handling to reduce lag
 
 ## Items
@@ -46,11 +46,6 @@
 ## Furniture
 
 * Fixed inplacable fancy bench (issue [#4189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4189))
-
-## Iterior Bazaar Rob-In
-
-* Added safe combination hint
-* Fixed missing textures
 
 ## Interior Tenement B
 
