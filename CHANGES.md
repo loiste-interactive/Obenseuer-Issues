@@ -30,6 +30,7 @@
 * Added Popcorn
 * Fixed gold ore dropping as iron ore (issue [#4185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4185))
 * Socca Junior, Merde Vita, Stollandia Vodka now have multiple uses
+* Fixed shroomified tea (issue [#4221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4221))
 
 ## Recipes
 
