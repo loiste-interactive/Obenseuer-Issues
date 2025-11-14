@@ -70,6 +70,10 @@
 
 * Fixed missing textures (issue [#4202](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4202))
 
+## Canteen
+
+* Stopped Anna from serving yesterday's coffee (issue [#4202](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4217))
+
 # October 24th 2025 (Version 0.4.11) - Private Playtest
 
 * Immersing in water cools player instantly
