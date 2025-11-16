@@ -10,6 +10,7 @@
 * Fixed lights sometimes (often) being rendered in unseen areas.
 * Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179)) (Playertest)
 * Optimized audio handling to reduce lag
+* Analog clocks now show more accurate time
 
 ## Items
 
