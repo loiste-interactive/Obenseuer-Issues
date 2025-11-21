@@ -47,6 +47,7 @@
 
 ## Furniture
 
+* Added autographed The Engineer poster
 * Fixed inplacable fancy bench (issue [#4189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4189))
 * Fixed tenement gnomes from filling watercoolers (issue [#4228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4228))
 
