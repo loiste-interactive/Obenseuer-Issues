@@ -48,6 +48,7 @@
 * Added disassemble mobile phone
 * Added disassemble tablet
 * Counterfeit money now uses fancy paper and ink
+* Updated orange shroom powder recipes (issue [#4234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4234))
 
 ## Furniture
 
