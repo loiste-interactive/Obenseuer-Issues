@@ -12,6 +12,10 @@
 * Optimized audio handling to reduce lag
 * Analog clocks now show more accurate time
 
+## Crafting
+
+* Crafting stations that require the player now speed up the in-game time scale, so crafting takes about 10 seconds in real time (issue [#4121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4121))
+
 ## Items
 
 * Added Polystyrene Package
