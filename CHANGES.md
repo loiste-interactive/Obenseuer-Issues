@@ -11,7 +11,6 @@
 * Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179)) (Playertest)
 * Optimized audio handling to reduce lag
 * Analog clocks now show more accurate time
-* Fixed collision issues at the bottom of the lake in Mines that prevented certain items from being picked up (issue [#4237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4237))
 
 ## Crafting
 
@@ -89,6 +88,10 @@
 ## Tenement A
 
 * Fixed missing textures (issue [#4202](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4202))
+
+## Mines
+
+* Fixed collision issues at the bottom of the lake that prevented certain items from being picked up (issue [#4237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4237))
 
 ## Canteen
 
