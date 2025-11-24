@@ -54,6 +54,7 @@
 * Added autographed The Engineer poster
 * Fixed inplacable fancy bench (issue [#4189](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4189))
 * Fixed tenement gnomes from filling watercoolers (issue [#4228](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4228))
+* Fixed being able to place cat cages inside walls (issue [#4239](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4239))
 
 ## Interior Tenement B
 
