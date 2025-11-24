@@ -68,6 +68,10 @@
 * Crafting furniture now speeds up the in-game time scale so it takes about 10 seconds in real time (issue [#4121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4121))
 * Fixed broken UI (issue [#4161](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4161)) (Playtest)
 
+## UI
+
+* Fixed item description popup flashing (issue [#4160](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4160)) (Playtest)
+
 ## Kolhola
 
 * Fixed katana textures (issue [#4164](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4164))
