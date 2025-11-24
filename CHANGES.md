@@ -5,10 +5,10 @@
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
 * Fixed merging owned liquids
 * Fixed quality being overwritten when moving liquids between canisters (issue [#3721](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3721))
-* Fixed minitrain refueling (issue [#4181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4181)) (Playertest)
+* Fixed minitrain refueling (issue [#4181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4181)) (Playtest)
 * Fixed Buy/Sell button (Playertest)
 * Fixed lights sometimes (often) being rendered in unseen areas.
-* Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179)) (Playertest)
+* Reduced gambling need rate (issue [#4179](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4179)) (Playtest)
 * Optimized audio handling to reduce lag
 * Analog clocks now show more accurate time
 
@@ -66,6 +66,7 @@
 
 * Added player stats display to the furniture crafting menu
 * Crafting furniture now speeds up the in-game time scale so it takes about 10 seconds in real time (issue [#4121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4121))
+* Fixed broken UI (issue [#4161](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4161)) (Playtest)
 
 ## Kolhola
 
