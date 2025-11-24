@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Fixed pea alcohols
+
 # November 24th 2025 (Version 0.4.12) - Private Playtest
 
 * Some shops now give purchased items in a shopping bag
