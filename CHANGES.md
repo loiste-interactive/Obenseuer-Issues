@@ -3,6 +3,7 @@
 ## Recipes
 
 * Fixed pea alcohols
+* Fixed plörö being very watered down (issue [#4247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4247))
 
 # November 24th 2025 (Version 0.4.12) - Private Playtest
 
