@@ -45,6 +45,8 @@
 * Forge Certificate of Authenticity for Gold/Silver Duck
 * Forge Certificate of Authenticity for Gold/Silver vase/tray/urn/teapot/pot
 * Forge Certificate of Authenticity for Gold Nugget / High Purity Gold Bar
+* Added disassemble mobile phone
+* Added disassemble tablet
 * Counterfeit money now uses fancy paper and ink
 
 ## Furniture
