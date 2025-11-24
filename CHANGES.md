@@ -67,10 +67,6 @@
 * Added player stats display to the furniture crafting menu
 * Crafting furniture now speeds up the in-game time scale so it takes about 10 seconds in real time (issue [#4121](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4121))
 
-## Interior Tenement B
-
-* Fixed missing geometry (issue [#4159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4159))
-
 ## Kolhola
 
 * Fixed katana textures (issue [#4164](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4164))
@@ -89,9 +85,19 @@
 
 * Fixed missing textures (issue [#4202](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4202))
 
+## Tenement B
+
+* Fixed missing geometry (issue [#4159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4159))
+* Fixed incorrect barrel meshes (issue [#4212](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4212))
+
+## Deekula
+
+* Fixed floating props and other minor detail issues with the exterior facade  (issue [#4206](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4206))
+
 ## Mines
 
 * Fixed collision issues at the bottom of the lake that prevented certain items from being picked up (issue [#4237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4237))
+* Fixed collision issues with rope railing (issue [#4199](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4199))
 
 ## Canteen
 
