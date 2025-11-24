@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 24th 2025 (Version 0.4.12) - Private Playtest
+
 * Some shops now give purchased items in a shopping bag
 * Player now receives pension if age is sufficiently high
 * Fixed stolen item crime calculation (issue [#4147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4147))
