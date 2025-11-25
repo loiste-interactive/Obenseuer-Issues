@@ -3,6 +3,7 @@
 ## UI
 
 * Fixed recipe scrollbar resetting upon expanding or collapsing recipe categories (issue [#4257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4257)) (Playtest)
+* Fixed resident requirements tooltips not showing (issue [#4244](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4244)) (Playtest)
 
 ## Recipes
 
