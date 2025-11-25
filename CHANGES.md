@@ -13,6 +13,10 @@
 
 * Fixed a gap in the floor of Apartment 2 (issue [#4256](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4256)) (Playtest)
 
+## Kolhola
+
+* Fixed Rauha taisto asks for zebra cigs (issue [#4248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4248)) (Playtest)
+
 # November 24th 2025 (Version 0.4.12) - Private Playtest
 
 * Some shops now give purchased items in a shopping bag
