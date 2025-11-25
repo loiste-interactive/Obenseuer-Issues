@@ -1,5 +1,9 @@
 # Upcoming
 
+## UI
+
+* Fixed recipe scrollbar resetting upon expanding or collapsing recipe categories (issue [#4257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4257)) (Playtest)
+
 ## Recipes
 
 * Fixed pea alcohols (Playtest)
