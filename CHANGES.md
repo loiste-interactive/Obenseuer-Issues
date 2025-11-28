@@ -4,6 +4,10 @@
 
 * Fixed being able to craft stuff when having missing ingredients (issue [#4246](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4246)) (Playtest)
 
+## Items
+
+* Fixed eternal macaroni casserole (issue [#4265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4265)) (Playtest)
+
 ## UI
 
 * Fixed recipe scrollbar resetting upon expanding or collapsing recipe categories (issue [#4257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4257)) (Playtest)
