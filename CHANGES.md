@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed plastic bags destroying item sprites (issue [#4255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4255)) (Playtest)
+* Fixed events happening when watching TV/reading or waiting in general (issue [#4223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4223)) (Playtest)
 
 ## Crafting
 
