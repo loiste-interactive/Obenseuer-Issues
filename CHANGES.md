@@ -7,6 +7,7 @@
 ## Items
 
 * Fixed eternal macaroni casserole (issue [#4265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4265)) (Playtest)
+* Fixed super dry alcohols (issue [#4271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4271)) (Playtest)
 
 ## UI
 
