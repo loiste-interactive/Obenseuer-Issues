@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed plastic bags destroying item sprites (issue [#4255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4255)) (Playtest)
+
 ## Crafting
 
 * Fixed being able to craft stuff when having missing ingredients (issue [#4246](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4246)) (Playtest)
