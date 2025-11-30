@@ -5,10 +5,11 @@
 * Fixed self-cleaning asbestos filters (issue [#4229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4229)) (Playtest)
 * Fixed rob-in and the engineer not using resources from their boxes
 * Fixed dishwasher generating more items if original item was a stack with charges (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
+* Fixed giant rats and shooms with negative age (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
 
 ## Crafting
 
-* Fixed being able to craft stuff when having missing ingredients (issue [#4246](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4246)) (Playtest)
+* Fixed being able to craft stuff when having missing ingredients (issue [#4275](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4275)) (Playtest)
 
 ## Items
 
