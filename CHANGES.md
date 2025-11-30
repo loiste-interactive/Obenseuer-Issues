@@ -4,6 +4,7 @@
 * Fixed events happening when watching TV/reading or waiting in general (issue [#4223](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4223)) (Playtest)
 * Fixed self-cleaning asbestos filters (issue [#4229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4229)) (Playtest)
 * Fixed rob-in and the engineer not using resources from their boxes
+* Fixed dishwasher generating more items if original item was a stack with charges (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
 
 ## Crafting
 
