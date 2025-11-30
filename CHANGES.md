@@ -33,6 +33,10 @@
 
 * Fixed Rauha taisto asks for zebra cigs (issue [#4248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4248)) (Playtest)
 
+## Mines
+
+* Fixed broken lighting (issue [#4174](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4174)) (Playtest)
+
 # November 24th 2025 (Version 0.4.12) - Private Playtest
 
 * Some shops now give purchased items in a shopping bag
