@@ -7,6 +7,10 @@
 * Fixed dishwasher generating more items if original item was a stack with charges (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
 * Fixed giant rats and shooms with negative age (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
 
+## Main Menu
+
+* Added a popup warning that starting a new game with an existing name will delete that character’s saves
+
 ## Crafting
 
 * Fixed being able to craft stuff when having missing ingredients (issue [#4275](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4275)) (Playtest)
