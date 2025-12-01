@@ -28,6 +28,7 @@
 
 ## Recipes
 
+* Added wineglasses
 * Fixed pea alcohols (Playtest)
 * Fixed plörö being very watered down (issue [#4247](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4247)) (Playtest)
 
