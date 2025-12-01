@@ -17,6 +17,7 @@
 * Bleach now has multiple uses
 * Fixed eternal macaroni casserole (issue [#4265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4265)) (Playtest)
 * Fixed super dry alcohols (issue [#4271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4271)) (Playtest)
+* Pints are now more valuable
 
 ## UI
 
@@ -32,6 +33,10 @@
 ## Player Tenement
 
 * Fixed a gap in the floor of Apartment 2 (issue [#4256](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4256)) (Playtest)
+
+## Speakeasy
+
+* Pentti now retains ownership of the pints
 
 ## Kolhola
 
