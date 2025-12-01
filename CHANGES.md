@@ -6,6 +6,7 @@
 * Fixed rob-in and the engineer not using resources from their boxes
 * Fixed dishwasher generating more items if original item was a stack with charges (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
 * Fixed giant rats and shooms with negative age (issue [#4269](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4269)) (Playtest)
+* Fixed player being Esko Virtanen when not skipping the intro (issue [#4168](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4168)) (Playtest)
 
 ## Main Menu
 
