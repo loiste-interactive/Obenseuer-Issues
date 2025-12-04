@@ -13,6 +13,7 @@
 * Fixed the player shop exterior being in the wrong location (issue [#4162](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4162)) (Playtest)
 * Fixed several player shop issues (issue [#4266](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4266)) (Playtest)
 * Fixed front door gap when the tenement facade has the Tier 2 shabby upgrade (issue [#4182](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4182))
+* Fixed balcony windows breaking during upgrades (issue [#4183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4183))
 
 # December 1st 2025 (Version 0.4.13) - Private Playtest
 
