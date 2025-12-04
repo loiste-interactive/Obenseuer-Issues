@@ -4,6 +4,10 @@
 
 * Fixed insta drinking some bottled alcohols (Playtest)
 
+## Tenement System
+
+* Fixed some tenement upgrades requiring 0 of certain items when renovation resource costs were lowered (issue [#4294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4294))
+
 ## Player Tenement
 
 * Fixed the player shop exterior being in the wrong location (issue [#4162](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4162)) (Playtest)
