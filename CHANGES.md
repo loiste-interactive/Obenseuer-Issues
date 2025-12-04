@@ -2,7 +2,11 @@
 
 ## Items
 
-* Fixed insta drinking some bottled alcohols
+* Fixed insta drinking some bottled alcohols (Playtest)
+
+## Player Tenement
+
+* Fixed the player shop exterior being in the wrong location (issue [#4162](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4162)) (Playtest)
 
 # December 1st 2025 (Version 0.4.13) - Private Playtest
 
