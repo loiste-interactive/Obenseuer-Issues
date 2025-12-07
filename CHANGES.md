@@ -20,6 +20,10 @@
 
 * Fixed some map markers not getting saved (issue [#4276](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4276))
 
+## Noodle Shop
+
+* Minh now retains ownership of bowls
+
 # December 1st 2025 (Version 0.4.13) - Private Playtest
 
 * Fixed plastic bags destroying item sprites (issue [#4255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4255)) (Playtest)
