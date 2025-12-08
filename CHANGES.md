@@ -2,7 +2,9 @@
 
 ## NPCs
 
-* Fixed Crazy Neighbor not starting the right conversation when he is in stalking mode (issue [#4226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4226))
+* Fixed Crazy Neighbor not starting the right conversation when he is in stalking mode (issue [#4226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4226)) (Playtest)
+* Fixed Crazy Neighbor getting stuck near basement's exit door (issue [#4279](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4279)) (Playtest)
+* Fixed Crazy Neighbor never being present in his apartment (issue [#4101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4101)) (Playtest)
 
 ## Items
 
