@@ -1,5 +1,9 @@
 # Upcoming
 
+## NPCs
+
+* Fixed Crazy Neighbor not starting the right conversation when he is in stalking mode (issue [#4226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4226))
+
 ## Items
 
 * Fixed insta drinking some bottled alcohols (Playtest)
