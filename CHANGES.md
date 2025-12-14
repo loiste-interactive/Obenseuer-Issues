@@ -8,6 +8,7 @@
 
 ## Items
 
+* Added Garlic Bread
 * Fixed insta drinking some bottled alcohols (Playtest)
 
 ## Tenement System
