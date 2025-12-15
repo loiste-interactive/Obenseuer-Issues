@@ -42,6 +42,7 @@
 ## Kolhola
 
 * Fixed missing painting texture (issue [#4311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4311)) (Playtest)
+* Fixed tripwire state not being saved (issue [#4208](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4208)) (Playtest)
 
 # December 1st 2025 (Version 0.4.13) - Private Playtest
 
