@@ -17,6 +17,7 @@
 ## Tenement System
 
 * Fixed some tenement upgrades requiring 0 of certain items when renovation resource costs were lowered (issue [#4294](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4294))
+* Fixed some tenants moving to wrong places in player tenement (issue [#4273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4273))
 
 ## Player Tenement
 
@@ -37,6 +38,10 @@
 ## Mine Canteen
 
 * Anna now retains ownership of pints and plates
+
+## Kolhola
+
+* Fixed missing painting texture (issue [#4311](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4311)) (Playtest)
 
 # December 1st 2025 (Version 0.4.13) - Private Playtest
 
