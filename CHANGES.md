@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed crafting clock appearing when buying furniture (issue [#4286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4286)) (Playtest)
+
 ## NPCs
 
 * Fixed Crazy Neighbor not starting the right conversation when he is in stalking mode (issue [#4226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4226)) (Playtest)
