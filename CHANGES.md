@@ -12,6 +12,7 @@
 
 ## Crafting
 
+* Fixed bugged time acceleration on manual crafting stations (issue [#4290](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4290)) (Playtest)
 * Fixed farm slots being visible outside the scroll area (issue [#4173](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4173)) (Playtest)
 
 ## Items
