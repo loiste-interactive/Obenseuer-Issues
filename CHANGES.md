@@ -9,6 +9,10 @@
 * Fixed Crazy Neighbor getting stuck near basement's exit door (issue [#4279](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4279)) (Playtest)
 * Fixed Crazy Neighbor never being present in his apartment (issue [#4101](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4101)) (Playtest)
 
+## Crafting
+
+* Fixed farm slots being visible outside the scroll area (issue [#4173](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4173)) (Playtest)
+
 ## Items
 
 * Added Garlic Bread
