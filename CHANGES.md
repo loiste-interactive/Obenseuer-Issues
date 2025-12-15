@@ -34,6 +34,10 @@
 * Fixed balcony windows breaking during upgrades (issue [#4183](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4183))
 * Fixed half log in first floor room missing highlighted texture (issue [#4166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4166)) (Playtest)
 
+## Tasks
+
+* Fixed "Pay miner's tax" objective not being marked as finished (issue [#4154](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4154))
+
 ## Mines
 
 * Fixed some map markers not getting saved (issue [#4276](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4276))
