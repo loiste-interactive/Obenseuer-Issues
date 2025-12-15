@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed "Fill Item" button is not updating in liquid panel (issue [#4301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4301))
 * Fixed crafting clock appearing when buying furniture (issue [#4286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4286)) (Playtest)
 * Fixed furniture crafting menu required skill text (issue [#4301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4301)) (Playtest)
 
