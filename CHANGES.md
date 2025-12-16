@@ -1,5 +1,9 @@
 # Upcoming
 
+## Player Tenement
+
+* Fixed shop upgrade doors having gaps on the outside (issue [#4323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4323)) (Playtest)
+
 # December 15th 2025 (Version 0.4.13 V2) - Public Playtest
 
 * Made save migration faster
