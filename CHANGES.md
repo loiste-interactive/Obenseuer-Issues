@@ -6,6 +6,8 @@
 
 * Added clear needs command (issue [#4176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4176))
 * Added reset stats command
+* Added ignore tenement upgrade prices and items command
+* Added complete upgrades instantly command
 
 ## Tasks
 
