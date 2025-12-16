@@ -2,6 +2,11 @@
 
 * Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
 
+## Console
+
+* Added clear needs command (issue [#4176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4176))
+* Added reset stats command
+
 ## Tasks
 
 * Added indicators to objectives that cannot be completed in current version (issue [#4320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4320))
