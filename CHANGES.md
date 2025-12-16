@@ -25,6 +25,10 @@
 
 * Fixed lamp state not getting saved correctly (issue [#4297](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4297))
 
+## Deekula B
+
+* Fixed Max Masher sliding around (issue [#4149](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4149)) (Playtest)
+
 # December 15th 2025 (Version 0.4.13 V2) - Public Playtest
 
 * Made save migration faster
