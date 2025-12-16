@@ -29,6 +29,7 @@
 
 * Fixed lamp state not getting saved correctly (issue [#4297](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4297))
 * Fixed being able to snap everything to beer and vegetable crates (issue [#4125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4125))
+* Fixed harvesting crops from bathtubs being difficult (issue [#2337](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2337))
 
 ## Deekula B
 
