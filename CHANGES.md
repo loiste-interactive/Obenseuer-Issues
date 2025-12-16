@@ -28,7 +28,7 @@
 ## Deekula B
 
 * Fixed Max Masher sliding around (issue [#4149](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4149)) (Playtest)
-* Fixed Adam Holmgren’s missing dialogue options (issue [#4149](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4149))
+* Fixed Adam Holmgren’s missing dialogue options (issue [#4141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4141))
 
 # December 15th 2025 (Version 0.4.13 V2) - Public Playtest
 
