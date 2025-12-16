@@ -42,6 +42,10 @@
 * Fixed Adam Holmgren’s missing dialogue options (issue [#4141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4141))
 * Fixed Jim Nilsen not sitting on his chair (issue [#4120](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4120)) (Playtest)
 
+## Mines
+
+* Fixed locker not being oriented properly in the radioactive area’s office (issue [#4324](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4324)) (Playtest)
+
 # December 15th 2025 (Version 0.4.13 V2) - Public Playtest
 
 * Made save migration faster
