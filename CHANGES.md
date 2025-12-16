@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
+
 ## Tasks
 
 * Added indicators to objectives that cannot be completed in current version (issue [#4320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4320))
