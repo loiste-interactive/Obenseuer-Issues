@@ -4,6 +4,10 @@
 
 * Added indicators to objectives that cannot be completed in current version (issue [#4320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4320))
 
+## NPCs
+
+* Fixed Aleksi Kivi spawn bug (issue [#4319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4319)) (Playtest)
+
 ## Player Tenement
 
 * Fixed shop upgrade doors having gaps on the outside (issue [#4323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4323)) (Playtest)
