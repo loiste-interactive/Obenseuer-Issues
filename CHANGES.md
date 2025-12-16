@@ -23,6 +23,7 @@
 
 ## Player Tenement
 
+* Changed basement hallways and utility room to building areas
 * Fixed shop upgrade doors having gaps on the outside (issue [#4323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4323)) (Playtest)
 
 ## Furniture
