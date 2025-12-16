@@ -9,6 +9,10 @@
 * Added ignore tenement upgrade prices and items command
 * Added complete upgrades instantly command
 
+## UI
+
+* Added required skill information to furniture blueprints (issue [#4058](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4058)) 
+
 ## Tasks
 
 * Added indicators to objectives that cannot be completed in current version (issue [#4320](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4320))
