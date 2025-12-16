@@ -8,6 +8,7 @@
 * Added reset stats command
 * Added ignore tenement upgrade prices and items command
 * Added complete upgrades instantly command
+* Added stats progress disable command (issue [#1544](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1544))
 
 ## UI
 
