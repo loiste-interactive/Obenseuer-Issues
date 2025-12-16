@@ -1,6 +1,6 @@
 # Upcoming
 
-# December 15th 2025 (Version 0.4.13 V2) - Private Playtest
+# December 15th 2025 (Version 0.4.13 V2) - Public Playtest
 
 * Made save migration faster
 * Fixed "Fill Item" button is not updating in liquid panel (issue [#4301](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4301))
