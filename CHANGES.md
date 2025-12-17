@@ -2,6 +2,10 @@
 
 * Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
 
+## NPCs
+
+* Fixed Crazy Neighbor kidnapping the player inside menus (issue [#4327](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4327)) (Playtest)
+
 ## Console
 
 * Added clear needs command (issue [#4176](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4176))
