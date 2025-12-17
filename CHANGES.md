@@ -6,6 +6,7 @@
 ## Tenement System
 
 * Doors now automatically open when you’re near them while the building menu is open (issue [#3754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3754))
+* Fixed an issue where entering the tenement from the player’s apartment extension could trigger the Orange Heaven task event while the extension was under construction (issue [#3546](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3546))
 
 ## NPCs
 
