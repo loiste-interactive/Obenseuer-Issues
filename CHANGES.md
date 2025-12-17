@@ -60,6 +60,10 @@
 * Fixed Adam Holmgren’s missing dialogue options (issue [#4141](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4141))
 * Fixed Jim Nilsen not sitting on his chair (issue [#4120](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4120)) (Playtest)
 
+## Tenement B
+
+* Fixed under map exit door spawning player to wrong location (issue [#3568](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3568)) (Playtest)
+
 ## Mines
 
 * Fixed locker not being oriented properly in the radioactive area’s office (issue [#4324](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4324)) (Playtest)
