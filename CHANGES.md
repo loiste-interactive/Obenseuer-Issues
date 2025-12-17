@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 17th 2025 (Version 0.4.14) - Public Playtest
+
 * Reverted Samuel Jonasson's upgrade skills (Playtest)
 * Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
 * Fixed hardlock when using an item at the moment of death (issue [#4316](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4316))
