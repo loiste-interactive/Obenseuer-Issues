@@ -42,6 +42,10 @@
 * Changed basement hallways and utility room to building areas
 * Fixed shop upgrade doors having gaps on the outside (issue [#4323](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4323)) (Playtest)
 
+## Gatehouse
+
+* Fixed not being able to ask for stuff in jail (issue [#4259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4259)) (Playtest)
+
 ## Furniture
 
 * Fixed lamp state not getting saved correctly (issue [#4297](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4297))
