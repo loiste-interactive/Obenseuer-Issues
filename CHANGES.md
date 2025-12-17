@@ -18,7 +18,11 @@
 
 ## UI
 
-* Added required skill information to furniture blueprints (issue [#4058](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4058)) 
+* Added required skill information to furniture blueprints (issue [#4058](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4058))
+
+## Items
+
+* Fixed some items not getting stacked if they had been stolen (issue [#4328](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4328))
 
 ## Tasks
 
