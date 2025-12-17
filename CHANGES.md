@@ -2,6 +2,10 @@
 
 * Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
 
+## Tenement System
+
+* Doors now automatically open when you’re near them while the building menu is open (issue [#3754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/3754))
+
 ## NPCs
 
 * Fixed Crazy Neighbor kidnapping the player inside menus (issue [#4327](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4327)) (Playtest)
