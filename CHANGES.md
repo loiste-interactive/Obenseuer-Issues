@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed chickens making cat sounds (issue [#4288](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4288))
+* Fixed hardlock when using an item at the moment of death (issue [#4316](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4316))
 
 ## Tenement System
 
