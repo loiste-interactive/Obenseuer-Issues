@@ -21,6 +21,7 @@
 * Added stats progress disable command (issue [#1544](https://github.com/loiste-interactive/Obenseuer-Issues/issues/1544))
 * Added weather commands (issue [#2973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2973))
 * Added new scene command (issue [#2973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2973))
+* Fixed 'Click to copy line' in the console copying content three lines below (issue [#2081](https://github.com/loiste-interactive/Obenseuer-Issues/issues/2081))
 
 ## UI
 
