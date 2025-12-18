@@ -1,7 +1,5 @@
 # Upcoming
 
-# December 18th 2025 (Version 0.4.14 V2) - Public Playtest
-
 * Fixed unable to select saves though main menu (issue [#4334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4334)) (Playtest)
 * Fixed items not resetting/respawning (issue [#4335](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4335)) (Playtest)
 
