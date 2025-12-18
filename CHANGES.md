@@ -1,5 +1,8 @@
 # Upcoming
 
+# December 18th 2025 (Version 0.4.14 V3) - Public Playtest
+
+* Fixed items not respawning on some old saves (Playtest)
 * Fixed being unable to make calls (issue [#4338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4338)) (Playtest)
 
 # December 18th 2025 (Version 0.4.14 V2) - Public Playtest
