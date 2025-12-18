@@ -7,6 +7,10 @@
 
 * Fixed utility room garbage (issue [#4332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4332)) (Playtest)
 
+## Console
+
+* Added change_time command (issue [#4330](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4330))
+
 # December 17th 2025 (Version 0.4.14) - Public Playtest
 
 * Reverted Samuel Jonasson's upgrade skills (Playtest)
