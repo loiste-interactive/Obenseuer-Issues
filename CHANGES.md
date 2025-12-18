@@ -3,6 +3,10 @@
 * Fixed unable to select saves though main menu (issue [#4334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4334)) (Playtest)
 * Fixed items not resetting/respawning (issue [#4335](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4335)) (Playtest)
 
+## Player Tenement
+
+* Fixed utility room garbage (issue [#4332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4332)) (Playtest)
+
 # December 17th 2025 (Version 0.4.14) - Public Playtest
 
 * Reverted Samuel Jonasson's upgrade skills (Playtest)
