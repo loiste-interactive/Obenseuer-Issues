@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed being unable to make calls (issue [#4338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4338)) (Playtest)
+
 # December 18th 2025 (Version 0.4.14 V2) - Public Playtest
 
 * Fixed unable to select saves though main menu (issue [#4334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4334)) (Playtest)
