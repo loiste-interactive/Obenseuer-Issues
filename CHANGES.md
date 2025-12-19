@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed storage and trader spawn settings not working (issue [#4346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4346))
+* Increased the maximum burn time of the greenhouse's barrel stove
 
 # December 18th 2025 (Version 0.4.14)
 
