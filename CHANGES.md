@@ -5,6 +5,7 @@
 * Fixed utility room broken pipe models being visible despite water utility level (issue [#4344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4344))
 * Fixed not being able to place power hammer anywhere (issue [#4343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4343))
 * Fixed locker model orientation in the mines rescue barrack (issue [#4339](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4339))
+* Fixed Erikson Claim discovered message repeating (issue [#4341](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4341))
 * Increased the maximum burn time of the greenhouse's barrel stove
 * Adjusted power hammer size (issue [#4343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4343))
 
