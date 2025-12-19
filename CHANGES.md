@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 19th 2025 (Version 0.4.15) - Hotfix
+
 * Fixed storage and trader spawn settings not working (issue [#4346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4346))
 * Fixed the greenhouse's barrel stove not combusting items and ash spawning on the cursor (issue [#4342](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4342))
 * Fixed utility room broken pipe models being visible despite water utility level (issue [#4344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4344))
