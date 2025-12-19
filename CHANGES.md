@@ -6,6 +6,7 @@
 * Fixed not being able to place power hammer anywhere (issue [#4343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4343))
 * Fixed locker model orientation in the mines rescue barrack (issue [#4339](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4339))
 * Fixed Erikson Claim discovered message repeating (issue [#4341](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4341))
+* Fixed gas masks from old saves not working (issue [#4336](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4336))
 * Increased the maximum burn time of the greenhouse's barrel stove
 * Adjusted power hammer size (issue [#4343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4343))
 
