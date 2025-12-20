@@ -1,5 +1,9 @@
 # Upcoming
 
+## O-Market
+
+* Fixed O-Market selling half-filled items (issue [#4361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4361))
+
 # December 19th 2025 (Version 0.4.15) - Hotfix
 
 * Fixed storage and trader spawn settings not working (issue [#4346](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4346))
