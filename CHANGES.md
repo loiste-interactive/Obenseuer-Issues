@@ -13,6 +13,7 @@
 ## Player Tenement
 
 * Fixed respawning graffiti (issue [#4359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4359))
+* Fixed tenement sauna missing a wall (issue [#4354](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4354))
 
 ## O-Market
 
