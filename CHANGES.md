@@ -6,6 +6,10 @@
 
 * Ash now stacks to 99
 
+## Furniture
+
+* Fixed misaligned glass coffee table (issue [#4363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4363))
+
 ## O-Market
 
 * Fixed O-Market selling half-filled items (issue [#4361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4361))
