@@ -2,6 +2,11 @@
 
 * Burning sawdust and plant matter now produce less ash
 
+## NPCs
+
+* Fixed the police not arresting the player while having a bounty (issue [#4362](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4362)
+* Fixed not being able interact with the police (issue [#4362](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4362))
+
 ## Tasks
 
 * Fixed not being able to do anything after talking to Max Masher (issue [#4356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4356))
