@@ -2,6 +2,10 @@
 
 * Burning sawdust and plant matter now produce less ash
 
+## Tasks
+
+* Fixed not being able to do anything after talking to Max Masher (issue [#4356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4356))
+
 ## Items
 
 * Ash now stacks to 99
