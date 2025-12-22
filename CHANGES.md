@@ -10,6 +10,10 @@
 
 * Fixed misaligned glass coffee table (issue [#4363](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4363))
 
+## Player Tenement
+
+* Fixed respawning graffiti (issue [#4359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4359))
+
 ## O-Market
 
 * Fixed O-Market selling half-filled items (issue [#4361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4361))
