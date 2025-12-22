@@ -1,5 +1,7 @@
 # Upcoming
 
+* Burning sawdust and plant matter now produce less ash
+
 ## Items
 
 * Ash now stacks to 99
