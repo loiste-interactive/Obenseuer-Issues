@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Ash now stacks to 99
+
 ## O-Market
 
 * Fixed O-Market selling half-filled items (issue [#4361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4361))
