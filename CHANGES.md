@@ -28,6 +28,10 @@
 * Fixed respawning graffiti (issue [#4359](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4359))
 * Fixed tenement sauna missing a wall (issue [#4354](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4354))
 
+## Mines
+
+* Fixed minitrains being sideways after migration (issue [#4351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4351))
+
 ## O-Market
 
 * Fixed O-Market selling half-filled items (issue [#4361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4361))
