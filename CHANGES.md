@@ -1,6 +1,8 @@
 # Upcoming
 
+* Added fuel efficiency icons to stoves (issue [#4369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4369))
 * Burning sawdust and plant matter now produce less ash
+* Fixed player backpack having a despawn timer in prison
 
 ## NPCs
 
@@ -31,6 +33,10 @@
 ## Mines
 
 * Fixed minitrains being sideways after migration (issue [#4351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4351))
+
+## Greenhouse
+
+* Changed stove fuel efficiency to 100%
 
 ## O-Market
 
