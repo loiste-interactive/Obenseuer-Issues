@@ -7,7 +7,7 @@
 ## Console
 
 * Added reset all trains positions command
-* Added reset trai position command
+* Added reset train position command
 * Fixed break trains command not completely uncoupling the wagons
 
 ## NPCs
