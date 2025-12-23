@@ -39,6 +39,7 @@
 ## Mines
 
 * Fixed minitrains being sideways after migration (issue [#4351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4351))
+* Fixed wagons being coupled even when they're too far apart (issue [#4345](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4345))
 
 ## Greenhouse
 
