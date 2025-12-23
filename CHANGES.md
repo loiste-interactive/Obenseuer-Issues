@@ -4,6 +4,12 @@
 * Burning sawdust and plant matter now produce less ash
 * Fixed player backpack having a despawn timer in prison
 
+## Console
+
+* Added reset all trains positions command
+* Added reset trai position command
+* Fixed break trains command not completely uncoupling the wagons
+
 ## NPCs
 
 * Fixed invisible Crazy Neighbor stalking the player when he wasn’t selected at the start (issue [#4364](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4364))
