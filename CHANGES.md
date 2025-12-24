@@ -1,10 +1,12 @@
 # Upcoming
 
-# December 23rd 2025 (Version 0.4.16) - Hotfix - Public Playtest
+# December 23rd 2025 (Version 0.4.16 V2) - Hotfix - Public Playtest
 
 * Added fuel efficiency icons to stoves (issue [#4369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4369))
 * Burning sawdust and plant matter now produce less ash
 * Fixed player backpack having a despawn timer in prison
+* Fixed the guard not giving a can opener (issue [#4381](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4381))
+* Fixed missing Samuel Jonasson (issue [#4384](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4384))
 
 ## Console
 
