@@ -1,6 +1,6 @@
 # Upcoming
 
-# December 23rd 2025 (Version 0.4.16 V2) - Hotfix - Public Playtest
+# December 23rd 2025 (Version 0.4.16) - Hotfix
 
 * Added fuel efficiency icons to stoves (issue [#4369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4369))
 * Burning sawdust and plant matter now produce less ash
