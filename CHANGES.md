@@ -1,5 +1,7 @@
 # Upcoming
 
+# December 29th 2025 (Version 0.4.17) - Hotfix - Public Playtest
+
 ## NPCs
 
 * Fixed missing Fidan Tanner (issue [#4387](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4387))
