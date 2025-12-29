@@ -5,6 +5,10 @@
 * Fixed missing Fidan Tanner (issue [#4387](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4387))
 * Fixed missing David Lund (issue [#4399](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4399))
 
+## Mines
+
+* Fixed softlock in the mines after the gates cutscene (issue [#4402](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4402))
+
 ## Furniture
 
 * Added spices (kitchen equipment upgrade)
