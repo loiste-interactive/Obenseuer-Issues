@@ -5,6 +5,14 @@
 * Fixed missing Fidan Tanner (issue [#4387](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4387))
 * Fixed missing David Lund (issue [#4399](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4399))
 
+## Tasks
+
+* Fixed bank waiting song playing after the call (issue [#4390](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4390))
+
+## Items
+
+Fixed gas masks from old saves not working
+
 ## Mines
 
 * Fixed softlock in the mines after the gates cutscene (issue [#4402](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4402))
@@ -12,6 +20,7 @@
 ## Furniture
 
 * Added spices (kitchen equipment upgrade)
+* Fixed commercial refrigerators not displaying bottles correctly (issue [#4401](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4401))
 
 # December 23rd 2025 (Version 0.4.16) - Hotfix
 
