@@ -1,5 +1,10 @@
 # Upcoming
 
+## NPCs
+
+* Fixed missing Fidan Tanner (issue [#4387](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4387))
+* Fixed missing David Lund (issue [#4399](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4399))
+
 ## Furniture
 
 * Added spices (kitchen equipment upgrade)
