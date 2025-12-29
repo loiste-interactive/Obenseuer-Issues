@@ -11,7 +11,7 @@
 
 ## Items
 
-Fixed gas masks from old saves not working
+* Fixed gas masks from old saves not working
 
 ## Mines
 
