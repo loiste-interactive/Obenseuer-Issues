@@ -1,5 +1,13 @@
 # Upcoming
 
+## NPCs
+
+* Fixed Ville Sköldgangster typo (issue [#4410](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4410))
+
+## Greenhouse
+
+* Fixed Jomppe Kurahaara not accepting apples (issue [#4407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4407))
+
 # December 29th 2025 (Version 0.4.17) - Hotfix - Public Playtest
 
 ## NPCs
