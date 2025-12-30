@@ -1,24 +1,15 @@
 # Upcoming
 
-# December 30th 2025 (Version 0.4.17 V2) - Hotfix - Public Playtest
+# December 29th 2025 (Version 0.4.17) - Hotfix - Public Playtest
 
 * Fixed janitor services not offering water tank refills (issue [#4408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4408))
 * Fixed not being able to complete some upgrades after migration (issue [#4385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4385))
 
 ## NPCs
 
-* Fixed Ville Sköldgangster typo (issue [#4410](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4410))
-
-## Greenhouse
-
-* Fixed Jomppe Kurahaara not accepting apples (issue [#4407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4407))
-
-# December 29th 2025 (Version 0.4.17) - Hotfix - Public Playtest
-
-## NPCs
-
 * Fixed missing Fidan Tanner (issue [#4387](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4387))
 * Fixed missing David Lund (issue [#4399](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4399))
+* Fixed Ville Sköldgangster typo (issue [#4410](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4410))
 
 ## Tasks
 
@@ -31,6 +22,10 @@
 ## Mines
 
 * Fixed softlock in the mines after the gates cutscene (issue [#4402](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4402))
+
+## Greenhouse
+
+* Fixed Jomppe Kurahaara not accepting apples (issue [#4407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4407))
 
 ## Furniture
 
