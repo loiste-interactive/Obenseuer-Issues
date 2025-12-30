@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed janitor services not offering water tank refills (issue [#4408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4408))
+
 ## NPCs
 
 * Fixed Ville Sköldgangster typo (issue [#4410](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4410))
