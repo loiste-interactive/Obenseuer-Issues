@@ -1,5 +1,9 @@
 # Upcoming
 
+## NPCs
+
+* Fixed upgrading crazy neighbor's bathroom not stopping max filth during visits (issue [#4413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4413))
+
 # December 30th 2025 (Version 0.4.17) - Hotfix - Public Playtest
 
 * Fixed janitor services not offering water tank refills (issue [#4408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4408))
