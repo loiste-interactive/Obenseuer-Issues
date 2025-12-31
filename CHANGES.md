@@ -1,6 +1,6 @@
 # Upcoming
 
-# December 30th 2025 (Version 0.4.17) - Hotfix - Public Playtest
+# December 31st 2025 (Version 0.4.17) - Hotfix
 
 * Fixed janitor services not offering water tank refills (issue [#4408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4408))
 * Fixed not being able to complete some upgrades after migration (issue [#4385](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4385))
