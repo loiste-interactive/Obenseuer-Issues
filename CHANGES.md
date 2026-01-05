@@ -2,6 +2,7 @@
 
 ## Recipes
 
+* Added thread
 * Fixed tablet and mobile phone disassembly
 
 # December 31st 2025 (Version 0.4.17) - Hotfix
