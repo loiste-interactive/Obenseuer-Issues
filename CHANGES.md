@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added legal aid services
+* Sending fake invoices now have a small chance of getting bank account frozen
 
 ## Recipes
 
