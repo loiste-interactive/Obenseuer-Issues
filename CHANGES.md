@@ -1,5 +1,7 @@
 # Upcoming
 
+* Added legal aid services
+
 ## Recipes
 
 * Added thread
