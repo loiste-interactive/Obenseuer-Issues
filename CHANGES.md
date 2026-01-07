@@ -3,6 +3,10 @@
 * Added legal aid services
 * Sending fake invoices now have a small chance of getting bank account frozen
 
+# Items
+
+* Mushroom substitute pills are now less addictive
+
 ## Recipes
 
 * Added thread
