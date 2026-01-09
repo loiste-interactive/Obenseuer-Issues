@@ -10,7 +10,9 @@
 ## Recipes
 
 * Added thread
+* Added rings
 * Fixed tablet and mobile phone disassembly
+* Fixed metal transmutation when failing smithing
 
 # December 31st 2025 (Version 0.4.17) - Hotfix
 
