@@ -5,6 +5,7 @@
 
 # Items
 
+* Added ball bearing
 * Mushroom substitute pills are now less addictive
 
 ## Recipes
