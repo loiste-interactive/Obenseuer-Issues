@@ -11,6 +11,7 @@
 
 ## Recipes
 
+* Added Electric Motor
 * Added thread
 * Added rings
 * Fixed tablet and mobile phone disassembly
