@@ -6,6 +6,7 @@
 # Items
 
 * Added ball bearing
+* Added electric motor
 * Mushroom substitute pills are now less addictive
 
 ## Recipes
