@@ -5,6 +5,7 @@
 
 # Items
 
+* Added old mobile phone
 * Added ball bearing
 * Added electric motor
 * fixed missing icon and model for garlic bread
