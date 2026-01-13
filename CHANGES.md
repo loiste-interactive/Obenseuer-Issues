@@ -13,6 +13,7 @@
 
 ## Recipes
 
+* Added Disassemble Old Mobile Phone
 * Added Electric Motor
 * Added thread
 * Added rings
