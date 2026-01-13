@@ -7,6 +7,7 @@
 
 * Added ball bearing
 * Added electric motor
+* fixed missing icon and model for garlic bread
 * Mushroom substitute pills are now less addictive
 
 ## Recipes
