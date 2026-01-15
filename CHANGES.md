@@ -22,6 +22,7 @@
 
 ## Recipes
 
+* Added Disassemble Camera
 * Added Disassemble Old Mobile Phone
 * Added Electric Motor
 * Added thread
