@@ -4,6 +4,10 @@
 * Added ability to call Mark's boss Paul Lauwens
 * Sending fake invoices now have a small chance of getting bank account frozen
 
+# Tasks
+
+* Fixed getting Me mash! when entering Deekula B (issue [#4420](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4420))
+
 # Items
 
 * Added old mobile phone
