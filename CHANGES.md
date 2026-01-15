@@ -3,6 +3,7 @@
 * Added legal aid services
 * Added ability to call Mark's boss Paul Lauwens
 * Sending fake invoices now have a small chance of getting bank account frozen
+* Fixed being able to pick up the starting package infinitely (issue [#4434](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4434))
 
 # Tasks
 
