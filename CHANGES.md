@@ -16,7 +16,8 @@
 * Added Camera
 * Added Strawberry Cake
 * Added Mushroom Strawberry Cake
-* fixed missing icon and model for garlic bread
+* Fixed missing icon and model for garlic bread
+* Fixed LMAO-Tables not giving some recipes (issue [#4474](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4474))
 * Mushroom substitute pills are now less addictive
 
 ## Recipes
