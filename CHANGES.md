@@ -1,6 +1,7 @@
 # Upcoming
 
 * Added legal aid services
+* Added ability to call Mark's boss Paul Lauwens
 * Sending fake invoices now have a small chance of getting bank account frozen
 
 # Items
@@ -8,6 +9,9 @@
 * Added old mobile phone
 * Added ball bearing
 * Added electric motor
+* Added Camera
+* Added Strawberry Cake
+* Added Mushroom Strawberry Cake
 * fixed missing icon and model for garlic bread
 * Mushroom substitute pills are now less addictive
 
@@ -17,6 +21,8 @@
 * Added Electric Motor
 * Added thread
 * Added rings
+* Added Strawberry Cake Recipe
+* Added Mushroom Strawberry Cake Recipe
 * Fixed tablet and mobile phone disassembly
 * Fixed metal transmutation when failing smithing
 
