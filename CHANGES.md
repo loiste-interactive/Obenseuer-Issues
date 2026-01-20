@@ -37,6 +37,10 @@
 
 * Fixed Lizzy stashing her coins into firewood piles
 
+## Outside
+
+* Fixed Crazy Neighbour permanently closing O-Market and other places
+
 # December 31st 2025 (Version 0.4.17) - Hotfix
 
 * Fixed janitor services not offering water tank refills (issue [#4408](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4408))
