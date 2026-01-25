@@ -37,6 +37,10 @@
 
 * Fixed Lizzy stashing her coins into firewood piles
 
+## Furniture
+
+* Fixed equipment upgrades stacking
+
 ## Outside
 
 * Fixed Crazy Neighbour permanently closing O-Market and other places
