@@ -11,6 +11,7 @@
 
 # Items
 
+* Added geostash
 * Added old mobile phone
 * Added ball bearing
 * Added electric motor
