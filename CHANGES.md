@@ -10,7 +10,7 @@
 * Fixed getting Me mash! when entering Deekula B (issue [#4420](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4420))
 
 # Items
-
+* Added Jubilee Mocca Coffee
 * Added geostash
 * Added old mobile phone
 * Added ball bearing
