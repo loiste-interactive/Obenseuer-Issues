@@ -40,6 +40,7 @@
 
 ## Furniture
 
+* Added body pillow
 * Fixed equipment upgrades stacking
 
 ## Outside
