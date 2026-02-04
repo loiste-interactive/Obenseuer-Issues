@@ -11,6 +11,7 @@
 
 # Items
 
+* Added Bowl of Beer Cereal
 * Added Stale Coffee
 * Added Jubilee Mocca Coffee
 * Added geostash
@@ -26,6 +27,7 @@
 
 ## Recipes
 
+* Added Bowl of Beer Cereal
 * Added Disassemble Camera
 * Added Disassemble Old Mobile Phone
 * Added Electric Motor
