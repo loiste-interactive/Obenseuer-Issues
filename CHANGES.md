@@ -12,6 +12,10 @@
 * Fixed beds being owned
 * Fixed unclimbable stairs
 
+## O-Iron
+
+* Fixed furniture display prices (issue [#4531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4531))
+
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
 * Added legal aid services
