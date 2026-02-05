@@ -1,5 +1,7 @@
 # Upcoming
 
+# February 5th 2026 (Version 0.4.18) - Private Playtest
+
 * Added legal aid services
 * Added ability to call Mark's boss Paul Lauwens
 * Sending fake invoices now have a small chance of getting bank account frozen
