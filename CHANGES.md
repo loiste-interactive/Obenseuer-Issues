@@ -5,6 +5,7 @@
 ## Bazaar
 
 * Fixed dancing tree (issue [#4535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4535))
+* Fixed trash trader not restocking
 
 ## Bakery
 
