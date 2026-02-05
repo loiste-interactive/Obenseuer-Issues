@@ -2,6 +2,10 @@
 
 * Fixed Hugo Björnson having incorrect model
 
+## Bazaar
+
+* Fixed dancing tree (issue [#4535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4535))
+
 ## Bakery
 
 * Fixed bakery not stocking correctly (issue [#4534](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4534))
