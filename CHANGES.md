@@ -15,6 +15,7 @@
 ## O-Iron
 
 * Fixed furniture display prices (issue [#4531](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4531))
+* Fixed backdoor (issue [#4555](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4555))
 
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
