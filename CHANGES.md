@@ -27,6 +27,10 @@
 
 * Fixed item ownership (issue [#4550](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4550))
 
+## Tenement House 3
+
+* Fixed door being open to bazaar  (issue [#4530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4530))
+
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
 * Added legal aid services
