@@ -10,6 +10,7 @@
 
 * Fixed beds not being safe
 * Fixed beds being owned
+* Fixed unclimbable stairs
 
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
