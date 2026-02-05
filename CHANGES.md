@@ -2,6 +2,10 @@
 
 * Fixed Hugo Björnson having incorrect model
 
+## Bakery
+
+* Fixed bakery not stocking correctly (issue [#4534](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4534))
+
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
 * Added legal aid services
