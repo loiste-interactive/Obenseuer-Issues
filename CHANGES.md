@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed Hugo Björnson having incorrect model
+* Fixed traders sometimes thinking its a crime to consume purchased goods
 
 ## Bazaar
 
