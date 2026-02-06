@@ -7,6 +7,7 @@
 * Fixed dancing tree (issue [#4535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4535))
 * Fixed trash trader not restocking
 * Fixed Jens Brom claiming to be Ivan
+* Improved collision when entering public toilets (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
 
 ## Bakery
 
@@ -30,6 +31,14 @@
 ## Tenement House 3
 
 * Fixed door being open to bazaar  (issue [#4530](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4530))
+
+## Prison
+
+* Improved the collision near the exit when escaping from the prison cell (issue [#4523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4523))
+
+## Tenement System
+
+* Improved collision in the players basement workshop (huge) (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
 
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
