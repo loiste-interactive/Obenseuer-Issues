@@ -38,6 +38,10 @@
 
 * Improved the collision near the exit when escaping from the prison cell (issue [#4523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4523))
 
+## Fungi Boutique
+
+* Fixed display items turning into mold (issue [#4580](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4580))
+
 ## Tenement System
 
 * Improved collision in the players basement workshop (huge) (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
