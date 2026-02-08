@@ -4,6 +4,10 @@
 * Fixed traders sometimes thinking its a crime to consume purchased goods
 * Fixed player thinking that trader personal items are for sale (issue [#4572](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4572))
 
+## Items
+
+* Fixed bottled alcohols not being able to be picked up (issue [#4573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4573))
+
 ## Bazaar
 
 * Fixed dancing tree (issue [#4535](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4535))
