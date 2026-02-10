@@ -11,6 +11,7 @@
 ## Tenement System
 
 * Improved collision in the players basement workshop (huge) (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
+* Fixed Basement water / electrical visual issues with the new opened up workshop floor (issue [#4596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4596))
 
 ## Bazaar
 
