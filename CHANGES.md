@@ -12,6 +12,7 @@
 
 * Improved collision in the players basement workshop (huge) (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
 * Fixed Basement water / electrical visual issues with the new opened up workshop floor (issue [#4596](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4596))
+* Blocked Bare level basement 2nd entrance with mud (issue [#4583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4583))
 
 ## Bazaar
 
