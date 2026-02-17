@@ -5,6 +5,7 @@
 * Fixed player thinking that trader personal items are for sale (issue [#4572](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4572))
 * Fixed some doors opening the wrong way in old saves
 * Fixed doctor not detecting gambling addiction
+* Fixed fatbergs being iron (issue [#4631](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4631))
 
 ## Items
 
