@@ -60,6 +60,10 @@
 
 * Fixed light colored blockers appearing in tunnels (issue [#4598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4598))
 
+## Shack 5
+
+* Added model for Ms. Lotina
+
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
 * Added legal aid services
