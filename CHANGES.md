@@ -14,6 +14,10 @@
 * Fixed bottled alcohols not being able to be picked up (issue [#4573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4573))
 * Fixed news being depressive (issue [#4627](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4627))
 
+## Recipes
+
+* Added Salmon soup
+
 ## Tenement System
 
 * Improved collision in the players basement workshop (huge) (issue [#4540](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4540))
