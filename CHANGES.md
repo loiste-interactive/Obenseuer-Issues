@@ -71,6 +71,10 @@
 
 * Added model for Ms. Lotina
 
+## Outside
+
+* Fixed being able to return to immigration shack
+
 # February 5th 2026 (Version 0.4.18) - Private Playtest
 
 * Added legal aid services
