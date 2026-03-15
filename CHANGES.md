@@ -1,5 +1,6 @@
 # Upcoming
 
+* Noodle shop now swiches between street bar and indoor depending on time of day.
 * Fixed Hugo Björnson having incorrect model
 * Fixed traders sometimes thinking its a crime to consume purchased goods
 * Fixed player thinking that trader personal items are for sale (issue [#4572](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4572))
