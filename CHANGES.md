@@ -58,6 +58,7 @@
 ## Prison
 
 * Improved the collision near the exit when escaping from the prison cell (issue [#4523](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4523))
+* Axel now opens the door if player has passport
 
 ## Fungi Boutique
 
