@@ -10,6 +10,7 @@
 
 ## Items
 
+* Added Movie Ticket
 * Added Fancy Drinking Glass
 * Added Cream
 * Added Salmon soup
