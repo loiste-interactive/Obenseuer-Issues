@@ -9,6 +9,7 @@
 
 ## Items
 
+* Added Fancy Drinking Glass
 * Added Cream
 * Added Salmon soup
 * Fixed bottled alcohols not being able to be picked up (issue [#4573](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4573))
