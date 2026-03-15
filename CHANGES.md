@@ -18,6 +18,7 @@
 
 ## Recipes
 
+* Added Fancy Drinking Glass
 * Added Salmon soup
 
 ## Tenement System
