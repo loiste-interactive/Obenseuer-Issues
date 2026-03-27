@@ -1,5 +1,7 @@
 # Upcoming
 
+# March 27th 2026 (Version 0.4.19) - Private Playtest
+
 * Noodle shop now swiches between street bar and indoor depending on time of day.
 * Fixed Hugo Björnson having incorrect model
 * Fixed traders sometimes thinking its a crime to consume purchased goods
