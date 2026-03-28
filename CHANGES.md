@@ -10,7 +10,7 @@
 
 ## Gatehouse
 
-* Fixed savegames setting bazaar doors as locked
+* Fixed savegames setting bazaar doors as locked (issue [#4690](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4690))
 
 # March 27th 2026 (Version 0.4.19) - Private Playtest
 
