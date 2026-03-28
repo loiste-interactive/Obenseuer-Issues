@@ -18,6 +18,10 @@
 * Fixed winning ratfights with 0 OC bet preventing from betting again
 * Fixed stacking rats getting stuck (issue [#4713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4713))
 
+## Gym
+
+* Fixed player not taking damage when boxing (issue [#4705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4705))
+
 ## Gatehouse
 
 * Fixed savegames setting bazaar doors as locked (issue [#4690](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4690))
