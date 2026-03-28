@@ -5,6 +5,7 @@
 ## Electronics Store
 
 * Fixed door linking
+* Fixed item charges being random (issue [#4707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4707))
 
 ## Bazaar Bar
 
