@@ -1,5 +1,9 @@
 # Upcoming
 
+## Ratfights
+
+* Fixed stacking rats getting stuck (issue [#4713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4713))
+
 # March 27th 2026 (Version 0.4.19) - Private Playtest
 
 * Noodle shop now swiches between street bar and indoor depending on time of day.
