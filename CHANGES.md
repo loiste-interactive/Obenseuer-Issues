@@ -22,6 +22,10 @@
 
 * Fixed player not taking damage when boxing (issue [#4705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4705))
 
+## Mentti B
+
+* Fixed broken culling at sauna doors
+
 ## Gatehouse
 
 * Fixed savegames setting bazaar doors as locked (issue [#4690](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4690))
