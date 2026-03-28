@@ -2,6 +2,10 @@
 
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
 
+## Items
+
+* Fixed indestructible moile phone being destructive (issue [#4687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4687))
+
 ## Electronics Store
 
 * Fixed door linking
