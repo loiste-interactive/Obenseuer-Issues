@@ -5,6 +5,7 @@
 ## Bazaar Bar
 
 * Fixed upstairs door linking (issue [#4710](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4710))
+* Fixed ordering beer causing game crash (issue [#4689](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4689))
 
 ## Ratfights
 
