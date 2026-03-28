@@ -8,6 +8,10 @@
 * Fixed winning ratfights with 0 OC bet preventing from betting again
 * Fixed stacking rats getting stuck (issue [#4713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4713))
 
+## Gatehouse
+
+* Fixed savegames setting bazaar doors as locked
+
 # March 27th 2026 (Version 0.4.19) - Private Playtest
 
 * Noodle shop now swiches between street bar and indoor depending on time of day.
