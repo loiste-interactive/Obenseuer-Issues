@@ -2,6 +2,10 @@
 
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
 
+## Bazaar Bar
+
+* Fixed upstairs door linking
+
 ## Ratfights
 
 * Fixed door not linking correctly
