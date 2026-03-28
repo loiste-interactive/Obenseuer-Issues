@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
+
 ## Ratfights
 
 * Fixed door not linking correctly
