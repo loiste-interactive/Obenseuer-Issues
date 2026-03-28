@@ -3,6 +3,7 @@
 ## Ratfights
 
 * Fixed door not linking correctly
+* Fixed winning ratfights with 0 OC bet preventing from betting again
 * Fixed stacking rats getting stuck (issue [#4713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4713))
 
 # March 27th 2026 (Version 0.4.19) - Private Playtest
