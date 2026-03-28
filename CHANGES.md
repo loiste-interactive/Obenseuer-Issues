@@ -22,6 +22,10 @@
 
 * Fixed player not taking damage when boxing (issue [#4705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4705))
 
+## Butcher
+
+* Fixed Irma not selling sausage soup (issue [#4724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4724))
+
 ## Mentti B
 
 * Fixed broken culling at sauna doors
