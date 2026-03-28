@@ -4,7 +4,7 @@
 
 ## Bazaar Bar
 
-* Fixed upstairs door linking
+* Fixed upstairs door linking (issue [#4710](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4710))
 
 ## Ratfights
 
