@@ -18,6 +18,10 @@
 * Fixed winning ratfights with 0 OC bet preventing from betting again
 * Fixed stacking rats getting stuck (issue [#4713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4713))
 
+## Kino
+
+* Fixed ticket validator not taking tickets and not resetting it's state
+
 ## Gym
 
 * Fixed player not taking damage when boxing (issue [#4705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4705))
