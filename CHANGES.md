@@ -11,6 +11,7 @@
 
 * Fixed door linking
 * Fixed item charges being random (issue [#4707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4707))
+* Fixed not being able to purchase a phone plan (issue [#4686](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4686))
 
 ## Bazaar Bar
 
