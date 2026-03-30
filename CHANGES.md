@@ -6,6 +6,7 @@
 ## Items
 
 * Fixed indestructible moile phone being destructive (issue [#4687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4687))
+* Fixed calling on mobile phone doing nothing (issue [#4688](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4688))
 
 ## Electronics Store
 
