@@ -42,6 +42,7 @@
 ## Mentti B
 
 * Fixed broken culling at sauna doors
+* Fixed door linking
 
 ## Gatehouse
 
