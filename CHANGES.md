@@ -3,6 +3,7 @@
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
 * Fixed bazaar shop receipts
 * Fixed item dispensers giving unusable owned items
+* Fixed OverflowException when saving (issue [#4741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4741))
 
 ## Items
 
