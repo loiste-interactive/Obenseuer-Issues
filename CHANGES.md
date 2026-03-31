@@ -4,6 +4,7 @@
 * Fixed bazaar shop receipts
 * Fixed item dispensers giving unusable owned items
 * Fixed OverflowException when saving (issue [#4741](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4741))
+* Fixed printers missing action names (issue [#4748](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4748))
 
 ## Items
 
