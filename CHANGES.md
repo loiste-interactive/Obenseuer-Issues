@@ -44,6 +44,7 @@
 
 * Fixed broken culling at sauna doors
 * Fixed door linking
+* Fixed elevator physics (issue [#4733](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4733))
 
 ## Gatehouse
 
