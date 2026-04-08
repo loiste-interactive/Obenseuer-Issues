@@ -1,5 +1,7 @@
 # Upcoming
 
+# April 8th 2026 (Version 0.4.20) - Private Playtest
+
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
 * Fixed bazaar shop receipts
 * Fixed item dispensers giving unusable owned items
