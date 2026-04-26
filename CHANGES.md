@@ -12,6 +12,10 @@
 * Fixed Electronics shop door spawnpoint (issue [#4771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4771))
 * Fixed door to the mine not being linked correctly
 
+## Mentti B
+
+* Fixed furniture craftbench not being usable (issue [#4835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4835))
+
 # April 8th 2026 (Version 0.4.20) - Private Playtest
 
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
