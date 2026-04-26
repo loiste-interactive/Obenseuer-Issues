@@ -23,6 +23,7 @@
 
 ## Ankea
 
+* Added return cart (issue [#4777](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4777))
 * Fixed furniture currency not being displayed the same way as at the register (issue [#4776](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4776))
 
 # April 8th 2026 (Version 0.4.20) - Private Playtest
