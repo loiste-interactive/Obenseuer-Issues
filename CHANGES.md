@@ -7,6 +7,7 @@
 
 ## Items
 
+* Added earmuffs
 * Fixed not being able to call from mobile phones (issue [#4779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4779))
 * Charged mobile devices now show time
 * Fixed Jubilee Mocca not being usable in recipes (issue [#4823](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4823))
