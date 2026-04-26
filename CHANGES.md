@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed respawning random recipes not properly randomizing recipes
+
 ## Bazaar
 
 * Fixed Electronics shop door spawnpoint (issue [#4771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4771))
