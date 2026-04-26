@@ -15,6 +15,7 @@
 
 * Fixed Electronics shop door spawnpoint (issue [#4771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4771))
 * Fixed door to the mine not being linked correctly
+* Fixed bar door linking
 
 ## Mentti B
 
