@@ -2,6 +2,7 @@
 
 * Fixed respawning random recipes not properly randomizing recipes
 * Fixed navigation grap being rebuilt every time scene is loaded (issue [#4819](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4819))
+* Fixed showers always showing "turn off" (issue [#4821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4821))
 
 ## Items
 
