@@ -3,6 +3,10 @@
 * Fixed respawning random recipes not properly randomizing recipes
 * Fixed navigation grap being rebuilt every time scene is loaded (issue [#4819](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4819))
 
+## Items
+
+* Fixed Jubilee Mocca not being usable in recipes (issue [#4823](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4823))
+
 ## Bazaar
 
 * Fixed Electronics shop door spawnpoint (issue [#4771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4771))
