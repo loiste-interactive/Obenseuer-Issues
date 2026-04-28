@@ -15,6 +15,10 @@
 * Fixed failing at refilling plastic filament destroying the spool (issue [#4828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4828))
 * Fixed notebook not being burnable (issue [#4814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4814))
 
+## Start
+
+* Fixed starting care packaged not giving everything its supposed to (issue [#4740](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4740))
+
 ## Bazaar
 
 * Fixed Electronics shop door spawnpoint (issue [#4771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4771))
