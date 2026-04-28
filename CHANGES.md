@@ -4,6 +4,7 @@
 * Fixed navigation grap being rebuilt every time scene is loaded (issue [#4819](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4819))
 * Fixed showers always showing "turn off" (issue [#4821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4821))
 * Fixed giving bought drinks and items to NPC being a crime (issue [#4813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4813))
+* Fixed several Elsa Varis bugs (issue [#4650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4650))
 
 ## Items
 
