@@ -5,6 +5,7 @@
 * Fixed showers always showing "turn off" (issue [#4821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4821))
 * Fixed giving bought drinks and items to NPC being a crime (issue [#4813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4813))
 * Fixed several Elsa Varis bugs (issue [#4650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4650))
+* Improved custom image scaling quality
 
 ## Tasks
 
@@ -18,6 +19,10 @@
 * Fixed Jubilee Mocca not being usable in recipes (issue [#4823](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4823))
 * Fixed failing at refilling plastic filament destroying the spool (issue [#4828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4828))
 * Fixed notebook not being burnable (issue [#4814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4814))
+
+## Furniture
+
+* Added custom body pillow
 
 ## Start
 
