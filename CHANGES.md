@@ -23,8 +23,13 @@
 
 ## Furniture
 
+* Added printing press
 * Added custom body pillow
 * Added multiple unspecified furniture
+
+## Blueprints
+
+* Added printing press
 
 ## Start
 
