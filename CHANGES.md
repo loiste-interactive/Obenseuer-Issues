@@ -33,6 +33,7 @@
 * Fixed basement catwalk and railing appearing when they shouldn't (issue [#4842](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4842))
 * Fixed Kattila's renting issues (issue [#4768](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4768))
 * Fixed Zoya Gubenko having wrong model when rented (issue [#4651](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4651))
+* Fixed Elias Karhu and Toini Karhu having wrong models when rented (issue [#4649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4649))
 
 ## Crafting
 
