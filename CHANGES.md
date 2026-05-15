@@ -26,6 +26,10 @@
 
 * Fixed basement catwalk and railing appearing when they shouldn't (issue [#4842](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4842))
 
+## Crafting
+
+* Fixed manual crafting timeskip not triggering when returning to an inprogress craft (issue [#4863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4863))
+
 ## Recipes
 
 * Added Bucket of Paint
