@@ -10,6 +10,7 @@
 * Fixed keypad not accepting some keyboard inputs (issue [#4868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4868))
 * Fixed being able to softlock the game by pressing X on the death screen menu (issue [#4760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4760))
 * Fixed labels' text being in edit mode when they shouldn't (issue [#4661](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4661))
+* Fixed Jappe Järvenpää softlocking the game (issue [#4646](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4646))
 * Fixed not being able to call Open Homes Company
 * Improved custom image scaling quality
 * Improved plastic bags content display in tooltip
