@@ -8,6 +8,7 @@
 * Fixed several Elsa Varis bugs (issue [#4650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4650))
 * Fixed furniture shops sometimes showing the wrong amount of furniture (issue [#4872](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4872))
 * Fixed keypad not accepting some keyboard inputs (issue [#4868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4868))
+* Fixed being able to softlock the game by pressing X on the death screen menu (issue [#4760](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4760))
 * Improved custom image scaling quality
 * Improved plastic bags content display in tooltip
 
