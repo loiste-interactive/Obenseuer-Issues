@@ -50,6 +50,10 @@
 * Fixed door to the mine not being linked correctly
 * Fixed bar door linking
 
+## Tenement B
+
+* Fixed Passmore not buying stolen goods (issue [#4870](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4870))
+
 ## Mentti B
 
 * Fixed furniture craftbench not being usable (issue [#4835](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4835))
