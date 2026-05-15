@@ -6,6 +6,7 @@
 * Fixed giving bought drinks and items to NPC being a crime (issue [#4813](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4813))
 * Fixed several Elsa Varis bugs (issue [#4650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4650))
 * Improved custom image scaling quality
+* Improved plastic bags content display in tooltip
 
 ## Tasks
 
