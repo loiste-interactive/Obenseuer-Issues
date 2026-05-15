@@ -21,6 +21,10 @@
 * Fixed failing at refilling plastic filament destroying the spool (issue [#4828](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4828))
 * Fixed notebook not being burnable (issue [#4814](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4814))
 
+## Tenement System
+
+* Fixed basement catwalk and railing appearing when they shouldn't (issue [#4842](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4842))
+
 ## Recipes
 
 * Added Bucket of Paint
