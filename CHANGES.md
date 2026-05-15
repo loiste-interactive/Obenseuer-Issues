@@ -36,6 +36,7 @@
 * Fixed Kattila's renting issues (issue [#4768](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4768))
 * Fixed Zoya Gubenko having wrong model when rented (issue [#4651](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4651))
 * Fixed Elias Karhu and Toini Karhu having wrong models when rented (issue [#4649](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4649))
+* Fixed starting basement mushrooms spawning with white item boxes (issue [#4570](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4570))
 
 ## Crafting
 
