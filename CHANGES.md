@@ -24,6 +24,7 @@
 
 ## Tenement System
 
+* Changed building mode to display the contents of liquid containers (issue [#4859](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4859))
 * Fixed basement catwalk and railing appearing when they shouldn't (issue [#4842](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4842))
 
 ## Crafting
