@@ -52,6 +52,7 @@
 * Added printing press
 * Added custom body pillow
 * Added multiple unspecified furniture
+* Added Moonshining Diploma
 
 ## Blueprints
 
