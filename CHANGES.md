@@ -68,6 +68,10 @@
 * Fixed door to the mine not being linked correctly
 * Fixed bar door linking
 
+## Alco
+
+* Fixed Astrid having placeholder dialogue
+
 ## Tenement B
 
 * Fixed Passmore not buying stolen goods (issue [#4870](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4870))
