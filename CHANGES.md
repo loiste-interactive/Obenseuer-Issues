@@ -8,6 +8,8 @@
 
 ## Bazaar
 
+* Added pita kebab
+* Added kebab hamburger
 * Fixed missing metro enterance
 * Fixed map border collisions
 
