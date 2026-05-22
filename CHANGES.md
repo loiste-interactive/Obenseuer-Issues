@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed lava lamps (and alike) causing memoryleak
+
 ## Maintenance Tunnels
 
 * Fixed connections to other scenes
