@@ -1,5 +1,7 @@
 # Upcoming
 
+# May 22nd 2026 (Version 0.4.21) - Private Playtest
+
 * Added functionality to the # and * buttons on the keypad
 * Fixed respawning random recipes not properly randomizing recipes
 * Fixed navigation grap being rebuilt every time scene is loaded (issue [#4819](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4819))
