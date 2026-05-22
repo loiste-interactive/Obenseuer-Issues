@@ -1,5 +1,10 @@
 # Upcoming
 
+## Bazaar
+
+* Fixed missing metro enterance
+* Fixed map border collisions
+
 ## Mallment
 
 * Fixed wonky elevators (issue [#4893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4893))
