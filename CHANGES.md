@@ -24,6 +24,7 @@
 
 ## Murju B
 
+* Fixed elevator door not opening
 * Fixed connections to other scenes
 
 ## Mentti A
