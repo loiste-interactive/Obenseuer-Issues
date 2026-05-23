@@ -22,9 +22,13 @@
 * Fixed wonky elevators (issue [#4893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4893))
 * Fixed connections to other scenes
 
-## Mentti B
+## Murju B
 
 * Fixed connections to other scenes
+
+## Mentti A
+
+* Fixed furniture crafting (issue [#4912](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4912))
 
 ## Power Company
 
