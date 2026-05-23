@@ -20,6 +20,11 @@
 ## Mallment
 
 * Fixed wonky elevators (issue [#4893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4893))
+* Fixed linking doors
+
+## Mentti B
+
+* Fixed linking doors
 
 ## Power Company
 
