@@ -13,6 +13,10 @@
 * Fixed missing metro enterance
 * Fixed map border collisions
 
+## Outside
+
+* Added drone patrol
+
 ## Mallment
 
 * Fixed wonky elevators (issue [#4893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4893))
