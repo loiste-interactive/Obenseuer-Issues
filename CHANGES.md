@@ -15,6 +15,8 @@
 
 ## Items
 
+* Added pita kebab
+* Added kebab hamburger
 * Added ammonium nitrate
 
 ## Furniture
@@ -28,8 +30,7 @@
 
 ## Bazaar
 
-* Added pita kebab
-* Added kebab hamburger
+* Added achievement
 * Fixed missing metro enterance
 * Fixed map border collisions
 
