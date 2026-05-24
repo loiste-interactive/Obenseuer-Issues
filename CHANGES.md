@@ -31,6 +31,7 @@
 * Fixed missing occlusion data
 * Fixed elevator door not opening
 * Fixed connections to other scenes
+* Fixed furniture crafting
 
 ## Mentti A
 
