@@ -10,6 +10,7 @@
 
 ## Recipes
 
+* Added dynamite
 * Fixed being able to get Pure Orange Mushroom Poweder recipe from random spawns (issue [#4917](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4917))
 
 ## Items
