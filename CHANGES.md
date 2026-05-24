@@ -5,6 +5,7 @@
 ## Tasks
 
 * Fixed moonshining exam not giving any water
+* Fixed Arvo's dialogue during the exam
 
 ## Items
 
