@@ -2,6 +2,10 @@
 
 * Fixed lava lamps (and alike) causing memoryleak
 
+## Items
+
+* Added ammonium nitrate
+
 ## Maintenance Tunnels
 
 * Fixed connections to other scenes
