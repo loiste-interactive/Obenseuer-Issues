@@ -9,6 +9,7 @@
 ## Furniture
 
 * Fixed electric meat grinder
+* Adjusted anvil price (issue [#4916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4916))
 
 ## Maintenance Tunnels
 
