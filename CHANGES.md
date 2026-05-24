@@ -2,6 +2,10 @@
 
 * Fixed lava lamps (and alike) causing memoryleak
 
+## Tasks
+
+* Fixed moonshining exam not giving any water
+
 ## Items
 
 * Added ammonium nitrate
