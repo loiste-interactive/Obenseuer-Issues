@@ -45,6 +45,10 @@
 
 * Fixed map not being playable (issue [#4885](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4885))
 
+## Pontikka
+
+* Fixed lab water source
+
 # May 22nd 2026 (Version 0.4.21) - Private Playtest
 
 * Added functionality to the # and * buttons on the keypad
