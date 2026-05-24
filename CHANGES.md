@@ -8,6 +8,10 @@
 * Fixed moonshining exam not giving any water
 * Fixed Arvo's dialogue during the exam
 
+## Recipes
+
+* Fixed being able to get Pure Orange Mushroom Poweder recipe from random spawns (issue [#4917](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4917))
+
 ## Items
 
 * Added ammonium nitrate
