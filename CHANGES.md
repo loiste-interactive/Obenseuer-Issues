@@ -6,6 +6,10 @@
 
 * Added ammonium nitrate
 
+## Furniture
+
+* Fixed electric meat grinder
+
 ## Maintenance Tunnels
 
 * Fixed connections to other scenes
