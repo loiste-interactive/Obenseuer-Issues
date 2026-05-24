@@ -36,6 +36,7 @@
 
 * Fixed wonky elevators (issue [#4893](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4893))
 * Fixed connections to other scenes
+* Fixed furniture crafting
 
 ## Murju B
 
