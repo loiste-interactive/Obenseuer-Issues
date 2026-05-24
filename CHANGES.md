@@ -49,6 +49,7 @@
 ## Pontikka
 
 * Fixed lab water source
+* Fixed occlusion
 
 # May 22nd 2026 (Version 0.4.21) - Private Playtest
 
