@@ -60,6 +60,10 @@
 * Fixed connections to other scenes
 * Fixed furniture crafting
 
+## Rob-In
+
+* Fixed chest ownership (issue [#4945](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4945))
+
 ## Mentti A
 
 * Fixed furniture crafting (issue [#4912](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4912))
