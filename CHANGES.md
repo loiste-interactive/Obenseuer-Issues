@@ -72,6 +72,7 @@
 
 * Fixed lab water source
 * Fixed occlusion
+* Fixed Keke scamming player (issue [#4943](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4943))
 
 # May 22nd 2026 (Version 0.4.21) - Private Playtest
 
