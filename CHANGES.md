@@ -171,6 +171,10 @@
 
 * Fixed missing cashier (issue [#4599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4599))
 
+## Gatehouse
+
+* Player will occasionally get searched for stolen good when leaving Bazaar
+
 # April 8th 2026 (Version 0.4.20) - Private Playtest
 
 * Fixed traders sometimes claiming unstolen items as stolen (issue [#4718](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4718))
