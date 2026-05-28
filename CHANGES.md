@@ -5,6 +5,7 @@
 * Fixed not being able to use hammer and axe on migrated saves (issue [#4901](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4901))
 * Fixed muffle effect getting stuck (issue [#4911](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4911))
 * Changed phone message when the line is busy (issue [#4560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4560))
+* Fixed flickering volumetric lights (issue [#4955](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4955))
 
 ## Tenement System
 
