@@ -171,6 +171,7 @@
 
 ## O-iron 
 
+* Added security to make robbing the whole place bit harder (issue [#4950](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4950))
 * Fixed missing cashier (issue [#4599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4599))
 
 ## Gatehouse
