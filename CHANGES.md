@@ -19,6 +19,7 @@
 ## Recipes
 
 * Added dynamite
+* Fixed forgery recipes not actually giving forgery recipes (issue [#4962](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4962))
 * Failing at some recipes can now damage player
 * Fixed being able to get Pure Orange Mushroom Poweder recipe from random spawns (issue [#4917](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4917))
 
