@@ -31,6 +31,7 @@
 
 ## Furniture
 
+* Added block of graphite
 * Dismantling gaming PC now gives stuff
 * Fixed electric meat grinder
 * Adjusted anvil price (issue [#4916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4916))
