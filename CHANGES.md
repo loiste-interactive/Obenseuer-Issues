@@ -39,6 +39,7 @@
 ## Maintenance Tunnels
 
 * Fixed connections to other scenes
+* Fixed shroomtunnel dealing too much damage (issue [#4956](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4956))
 
 ## Bazaar
 
