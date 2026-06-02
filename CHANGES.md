@@ -19,6 +19,9 @@
 
 ## Recipes
 
+* Added Paper
+* Added Fancy Paper
+* Added Wallpaper
 * Added Wood Pulp
 * Added Wood Panels
 * Added dynamite
