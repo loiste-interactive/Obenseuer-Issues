@@ -22,6 +22,7 @@
 * Added Paper
 * Added Fancy Paper
 * Added Wallpaper
+* Added Toilet Paper
 * Added Wood Pulp
 * Added Wood Panels
 * Added dynamite
