@@ -19,6 +19,7 @@
 
 ## Recipes
 
+* Added Wood Panels
 * Added dynamite
 * Fixed forgery recipes not actually giving forgery recipes (issue [#4962](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4962))
 * Failing at some recipes can now damage player
