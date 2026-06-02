@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added scraper
 * Added pita kebab
 * Added kebab hamburger
 * Added ammonium nitrate
