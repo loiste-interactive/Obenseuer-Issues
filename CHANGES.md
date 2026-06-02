@@ -26,6 +26,7 @@
 
 ## Items
 
+* Added Wood Panels
 * Added scraper
 * Added pita kebab
 * Added kebab hamburger
