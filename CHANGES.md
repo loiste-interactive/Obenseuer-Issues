@@ -7,6 +7,7 @@
 * Changed phone message when the line is busy (issue [#4560](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4560))
 * Fixed flickering volumetric lights (issue [#4955](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4955))
 * Furniture traders will now only buy furniture from trader specific categories
+* Fixed washing packages destroying their content issue [#4987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4987))
 
 ## Tenement System
 
