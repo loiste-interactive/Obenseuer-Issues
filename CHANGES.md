@@ -33,6 +33,12 @@
 
 ## Items
 
+* Added Moca-Cola Soda
+* Added Moca-cola Light Soda
+* Added Fail Soda
+* Added Splurt Soda
+* Added Ice Tea
+* Added Septi-Max Soda
 * Added Wood Pulp
 * Added Wood Panels
 * Added scraper
