@@ -14,6 +14,7 @@
 
 ## Tenement System
 
+* Added ability to remove placed wallpaper (issue [#4899](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4899))
 * Added wall upgrade levels to affect placeable wallpaper appearance
 
 ## Tasks
