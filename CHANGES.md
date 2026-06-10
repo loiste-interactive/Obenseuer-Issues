@@ -8,6 +8,8 @@
 * Fixed flickering volumetric lights (issue [#4955](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4955))
 * Furniture traders will now only buy furniture from trader specific categories
 * Fixed washing packages destroying their content (issue [#4987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4987))
+* Fixed player moving extremly slowly underwatert (issue [#4888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4888))
+* Fixed player being extremely jumpy when emerging from the water (issue [#4888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4888))
 
 ## Tenement System
 
