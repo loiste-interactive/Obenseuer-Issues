@@ -37,6 +37,7 @@
 
 ## Items
 
+* Added Rubber Roll
 * Added Speed Yeast
 * Added Moca-Cola Soda
 * Added Moca-cola Light Soda
