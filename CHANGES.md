@@ -37,6 +37,7 @@
 
 ## Items
 
+* Added Crowbar
 * Added Rubber Roll
 * Added Speed Yeast
 * Added Moca-Cola Soda
