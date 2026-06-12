@@ -62,6 +62,7 @@
 * Fixed electric meat grinder
 * Adjusted anvil price (issue [#4916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4916))
 * Adjusted fridge freezer storage space (issue [#4973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4973))
+* Improved furniture snap point detection
 
 ## Maintenance Tunnels
 
