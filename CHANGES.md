@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added sauna skill
 * Upgraded to Unity 6
 * Fixed lava lamps (and alike) causing memoryleak
 * Fixed Rob giving wrong keys (issue [#4924](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4924))
