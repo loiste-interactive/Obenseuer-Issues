@@ -14,6 +14,7 @@
 * Fixed player being extremely jumpy when emerging from the water (issue [#4888](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4888))
 * Fixed corrupted settings files resetting other settings (issue [#4936](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4936))
 * Fixed ores and woodpiles respawn timers not counting time spent outside map
+* Fixed player getting Guild of Master Negotiators flag when surviving a year.
 
 ## Tenement System
 
