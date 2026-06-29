@@ -16,6 +16,7 @@
 * Fixed ores and woodpiles respawn timers not counting time spent outside map
 * Fixed player getting Guild of Master Negotiators flag when surviving a year.
 * Fixed lights not always turning off when they should
+* Fixed hydraulic press missing icon
 
 ## Tenement System
 
