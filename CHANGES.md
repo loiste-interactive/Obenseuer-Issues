@@ -1,5 +1,7 @@
 # Upcoming
 
+# June 30th 2026 (Version 0.4.22) - Private Playtest
+
 * Added sauna skill
 * Upgraded to Unity 6
 * Fixed lava lamps (and alike) causing memoryleak
