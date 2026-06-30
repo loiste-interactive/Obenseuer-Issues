@@ -63,6 +63,9 @@
 * Fixed respawning items not missing content (issue [#4990](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4990))
 * Adjusted soft drinks stats
 
+## Blueprints
+* Added makeshift chemical reactor
+
 ## Furniture
 
 * Added chemical reactor
