@@ -43,6 +43,8 @@
 
 ## Items
 
+* Added Modern Axe
+* Added Modern Pickaxe
 * Added Crowbar
 * Added Rubber Roll
 * Added Speed Yeast
