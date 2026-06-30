@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Johanna Faust stealing Dolores' identity (issue [#5003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5003))
+
 # June 30th 2026 (Version 0.4.22) - Private Playtest
 
 * Added sauna skill
