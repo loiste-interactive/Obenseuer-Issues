@@ -2,6 +2,9 @@
 
 * Fixed Johanna Faust stealing Dolores' identity (issue [#5003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5003))
 
+## Console
+* Fixed noclip warning spam (issue [#5011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5011))
+
 ## Sauna
 * Fixed Timo being too easy to beat
 
