@@ -7,6 +7,7 @@
 
 ## Mallment
 
+* Added some color and constrast to lighting
 * Fixed Tax-Free door locking when carrying stolen goods (issue [#5008](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5008))
 * Expired Olle Skatt's invisibility potion (issue [#5002](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5002))
 
