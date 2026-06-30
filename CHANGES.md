@@ -65,6 +65,9 @@
 
 ## Furniture
 
+* Added chemical reactor
+* Added makeshift chemical reactor
+* Added rolling machine
 * Added block of graphite
 * Dismantling gaming PC now gives stuff
 * Fixed electric meat grinder
