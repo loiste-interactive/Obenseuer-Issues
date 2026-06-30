@@ -1,7 +1,9 @@
 # Upcoming
 
 * Fixed Johanna Faust stealing Dolores' identity (issue [#5003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5003))
-* Fixed player not taking enough overheat damage (Timo being too easy to beat)
+
+## Sauna
+* Fixed Timo being too easy to beat
 
 ## Mallment
 
