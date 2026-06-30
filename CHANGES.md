@@ -5,6 +5,7 @@
 ## Mallment
 
 * Fixed Tax-Free door locking when carrying stolen goods (issue [#5008](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5008))
+* Expired Olle Skatt's invisibility potion (issue [#5002](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5002))
 
 # June 30th 2026 (Version 0.4.22) - Private Playtest
 
