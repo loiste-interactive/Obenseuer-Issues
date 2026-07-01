@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 1st 2026 (Version 0.4.23) - Private Playtest
+
 * Fixed items, icons, furniture etc (issue [#5007](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5007))
 * Fixed certain keys not working as keybindings (issue [#5004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5004))
 * Fixed furniture having durability (issue [#5016](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5016))
