@@ -19,6 +19,10 @@
 
 * Fixed noclip warning spam (issue [#5011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5011))
 
+## Bazaar
+
+* Fixed a graphical glitch at the metro entrance (issue [#5026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5026))
+
 ## Player Tenement
 
 * Fixed apartments missing windows and balcony coverings (issue [#5020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5020))
