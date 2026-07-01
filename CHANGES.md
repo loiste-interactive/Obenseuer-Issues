@@ -44,6 +44,7 @@
 * Added some color and constrast to lighting
 * Fixed Tax-Free door locking when carrying stolen goods (issue [#5008](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5008))
 * Expired Olle Skatt's invisibility potion (issue [#5002](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5002))
+* Fixed Eva Smörbulle larping as Aune Korsborg (issue [#5034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5034))
 
 # June 30th 2026 (Version 0.4.22) - Private Playtest
 
