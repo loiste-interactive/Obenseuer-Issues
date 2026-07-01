@@ -1,11 +1,19 @@
 # Upcoming
 
+* Fixed furniture having durability (issue [#5016](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5016))
 * Fixed Johanna Faust stealing Dolores' identity (issue [#5003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5003))
+* Fixed Urpo Murhapuro eyes (issue [#5006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5006))
 
 ## Console
+
 * Fixed noclip warning spam (issue [#5011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5011))
 
+## Inn
+
+* Fixed flying eyeballs (issue [#5031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5031))
+
 ## Sauna
+
 * Fixed Timo being too easy to beat
 
 ## Mallment
