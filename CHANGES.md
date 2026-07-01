@@ -17,6 +17,10 @@
 
 * Fixed noclip warning spam (issue [#5011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5011))
 
+## Player Tenement
+
+* Fixed apartments missing windows and balcony coverings (issue [#5020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5020))
+
 ## Inn
 
 * Fixed flying eyeballs (issue [#5031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5031))
