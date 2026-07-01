@@ -26,6 +26,7 @@
 ## Player Tenement
 
 * Fixed apartments missing windows and balcony coverings (issue [#5020](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5020))
+* Fixed the player tenement elevator being pre-installed (issue [#5018](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5018))
 
 ## Inn
 
