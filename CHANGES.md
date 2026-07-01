@@ -23,6 +23,7 @@
 ## Bazaar
 
 * Fixed a graphical glitch at the metro entrance (issue [#5026](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5026))
+* Fixed hotdog vendor (issue [#5029](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5029))
 
 ## Player Tenement
 
