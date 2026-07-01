@@ -8,6 +8,10 @@
 
 * Fixed player placed fridge freezers slot amount (issue [#5021](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5021))
 
+## Items
+
+* Fixed scraper having equip button (issue [#5013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5013))
+
 ## Console
 
 * Fixed noclip warning spam (issue [#5011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5011))
