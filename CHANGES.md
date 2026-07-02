@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed gray looking lightning (missing cubemaps) (issue [#5040](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5040))
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
