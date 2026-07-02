@@ -15,6 +15,7 @@
 ## Player Tenement
 
 * Fixed maintenance tunnel enterance transisions (issue [#5041](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5041))
+* Fixed not being able to place furniture in the basement sauna (issue [#5039](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5039))
 * Fixed missing balcony walls (issue [#5044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5044))
 
 ## Ankea
