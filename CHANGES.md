@@ -8,6 +8,7 @@
 ## Tasks
 
 * Fixed being unable to interact after having passport photo taken (issue [#5052](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5052))
+* Fixed the passport photo event background audio not playing
 * Fixed Fredrik's experiment not firing correctly (issue [#5047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5047))
 * Fixed telling welhö about the 9 pages locking up the dialogue (issue [#5036](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5036))
 
