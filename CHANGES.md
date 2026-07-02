@@ -8,6 +8,10 @@
 
 * Fixed Fredrik's experiment not firing correctly (issue [#5047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5047))
 
+## Bazaar
+
+* Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
