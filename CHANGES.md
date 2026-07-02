@@ -19,6 +19,10 @@
 * Fixed not being able to place furniture in the basement sauna (issue [#5039](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5039))
 * Fixed missing balcony walls (issue [#5044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5044))
 
+## Gatehouse
+
+* Stopped Axel from planting stolen goods in your backpack to meet his daily arrest quota (issue [#5038](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5038))
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
