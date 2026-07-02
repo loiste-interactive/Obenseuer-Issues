@@ -12,6 +12,10 @@
 
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
 
+## Player Tenement
+
+* Fixed missing balcony walls (issue [#5044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5044))
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
