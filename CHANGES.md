@@ -27,6 +27,10 @@
 
 * Stopped Axel from planting stolen goods in your backpack to meet his daily arrest quota (issue [#5038](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5038))
 
+## O-Iron
+
+* O-Iron now sells modern variant of tools
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
