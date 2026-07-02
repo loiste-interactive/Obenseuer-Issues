@@ -8,6 +8,10 @@
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
 
+## Recipes
+
+* Fixed the recipe for the electric motor requiring the "None" skill (issue [#5048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5048))
+
 # July 1st 2026 (Version 0.4.23) - Private Playtest
 
 * Fixed items, icons, furniture etc (issue [#5007](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5007))
