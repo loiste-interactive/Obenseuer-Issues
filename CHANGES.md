@@ -13,6 +13,10 @@
 
 * Fixed the recipe for the electric motor requiring the "None" skill (issue [#5048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5048))
 
+## Furniture
+
+* Added deactivated assault rifle
+
 ## Bazaar
 
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
