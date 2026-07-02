@@ -9,6 +9,10 @@
 * Fixed Fredrik's experiment not firing correctly (issue [#5047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5047))
 * Fixed telling welhö about the 9 pages locking up the dialogue (issue [#5036](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5036))
 
+## Recipes
+
+* Fixed the recipe for the electric motor requiring the "None" skill (issue [#5048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5048))
+
 ## Bazaar
 
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
@@ -27,9 +31,9 @@
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
 
-## Recipes
+## Mines Shroom Farm
 
-* Fixed the recipe for the electric motor requiring the "None" skill (issue [#5048](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5048))
+* Fixed Mines Shroom Farm not retaining Discovered status(issue [#4998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4998))
 
 # July 1st 2026 (Version 0.4.23) - Private Playtest
 
