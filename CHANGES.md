@@ -36,6 +36,10 @@
 
 * O-Iron now sells modern variant of tools
 
+## J-Kiosk
+
+* Fixed J-Kiosk being too cheap (issue [#5055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5055))
+
 ## Ankea
 
 * Fixed items displaying prices in wrong currency (issue [#5033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5033))
