@@ -31,6 +31,7 @@
 * Fixed not being able to place furniture in the basement sauna (issue [#5039](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5039))
 * Fixed missing balcony walls (issue [#5044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5044))
 * Fixed facade upgrades not requiring electricity (issue [#5064](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5064))
+* Fixed courtyard upgrades not requiring electricity (issue [#5067](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5067))
 * Huge workshop now requires atleast shabby basement walls
 
 ## Gatehouse
