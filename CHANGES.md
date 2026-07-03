@@ -1,6 +1,7 @@
 # Upcoming
 
 * Changed the Tunnel of Water Trees pages to function like a book (issue [#5024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5024))
+* Fixed UI alerts are not showing (issue [#5070](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5070))
 * Fixed gray looking lightning (missing cubemaps) (issue [#5040](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5040))
 * Fixed the Bazaar Home bed being marked as unsafe (issue [#5049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5049))
 * Fixed an issue where the first encounter with the Crazy Neighbor outside the tenement could occur even after already meeting him at the tenement (issue [#5050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5050))
