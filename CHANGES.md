@@ -22,7 +22,7 @@
 
 ## Bazaar
 
-* Added map markers
+* Added map markers with placeholder icons
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
 
 ## Player Tenement
