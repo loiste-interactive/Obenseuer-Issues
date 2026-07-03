@@ -43,6 +43,7 @@
 
 ## Gatehouse
 
+* Fixed Axel's beard (issue [#5054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5054))
 * Stopped Axel from planting stolen goods in your backpack to meet his daily arrest quota (issue [#5038](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5038))
 
 ## O-Iron
