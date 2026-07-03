@@ -5,6 +5,7 @@
 * Fixed the Bazaar Home bed being marked as unsafe (issue [#5049](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5049))
 * Fixed an issue where the first encounter with the Crazy Neighbor outside the tenement could occur even after already meeting him at the tenement (issue [#5050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5050))
 * Fixed some character animations not working (Samuel Jonasson)
+* Fixed not being able to break planks with crowbar (issue [#5057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5057))
 
 ## Tasks
 
@@ -23,7 +24,7 @@
 
 ## Bazaar
 
-* Added map markers with placeholder icons
+* Added map markers
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
 
 ## Player Tenement
