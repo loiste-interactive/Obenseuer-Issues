@@ -24,6 +24,7 @@
 ## Furniture
 
 * Added deactivated assault rifle
+* Add a flipped handle variant to the fridges (issue [#4992](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4992))
 * Fixed again player placed fridge freezers slot amount (issue [#5061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5061))
 
 ## Bazaar
