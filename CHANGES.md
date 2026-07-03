@@ -7,7 +7,8 @@
 * Fixed an issue where the first encounter with the Crazy Neighbor outside the tenement could occur even after already meeting him at the tenement (issue [#5050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5050))
 * Fixed some character animations not working (Samuel Jonasson)
 * Fixed not being able to break planks with crowbar (issue [#5057](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5057))
-* Fixed issue with key bindings on AZERTY keyboards (issue [#5063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5063))
+* Fixed issue with key bindings on AZERTY keyboards (issue [#5063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5063
+* Fixed not being able to load a save from the pause menu while in game (issue [#5059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5059))
 
 ## Tasks
 
