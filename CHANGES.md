@@ -22,6 +22,7 @@
 ## Furniture
 
 * Added deactivated assault rifle
+* Fixed again player placed fridge freezers slot amount (issue [#5061](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5061))
 
 ## Bazaar
 
