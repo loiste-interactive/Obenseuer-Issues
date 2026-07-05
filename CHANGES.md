@@ -33,6 +33,7 @@
 * Fixed spa building culling (issue [#5045](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5045))
 * Fixed Bazaar's Sauna & Spa Staff exit (issue [#5062](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5062))
 * Fixed rain getting blocked (issue [#5102](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5102))
+* Removed invisible wall (issue [#5074](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5074))
 
 ## Player Tenement
 
