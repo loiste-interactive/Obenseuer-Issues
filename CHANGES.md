@@ -58,6 +58,10 @@
 * Fixed Svana's dialogue (issue [#5098](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5098))
 * Fixed missing window
 
+## Butcher
+
+* Fixed Irma not buying pigs (issue [#5080](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5080))
+
 ## O-Iron
 
 * O-Iron now sells modern variant of tools
