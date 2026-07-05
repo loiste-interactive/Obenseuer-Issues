@@ -48,6 +48,10 @@
 * Fixed player apartment window opening to the void with tier 2 walls (issue [#5066](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5066))
 * Huge workshop now requires atleast shabby basement walls
 
+## Bazaar Jail
+
+* Fixed wardrobe ownership (issue [#5087](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5087))
+
 ## Gatehouse
 
 * Fixed Axel's beard (issue [#5054](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5054))
