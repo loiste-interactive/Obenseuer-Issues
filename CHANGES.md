@@ -52,6 +52,7 @@
 
 ## Sauna
 
+* Fixed Svana's dialogue (issue [#5098](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5098))
 * Fixed missing window
 
 ## O-Iron
