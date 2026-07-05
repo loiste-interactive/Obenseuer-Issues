@@ -90,6 +90,7 @@
 
 ## Items
 
+* Ficed being able to use handheld gaming console while empty (issue [#5088](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5088))
 * Fixed modern pickaxe animations (issue [#5010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5010))
 * Fixed Crowbar hitting sound (issue [#5012](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5012))
 * Fixed scraper having equip button (issue [#5013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5013))
