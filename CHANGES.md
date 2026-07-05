@@ -12,6 +12,7 @@
 * Fixed error lighting related error spam sometimes causing lagspikes (issue [#5084](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5084))
 * Fixed dishwasher topping of items with charges when failing (issue [#5106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5106))
 * Fixed Viljo Kattila softblock (issue [#4981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4981))
+* Fixed shop doors opening into void
 
 ## Tasks
 
