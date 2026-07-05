@@ -47,6 +47,7 @@
 * Fixed courtyard upgrades not requiring electricity (issue [#5067](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5067))
 * Fixed player apartment window opening to the void with tier 2 walls (issue [#5066](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5066))
 * Huge workshop now requires atleast shabby basement walls
+* Planter sunlight check now ignores collision of many objects
 
 ## Bazaar Jail
 
