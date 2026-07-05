@@ -93,6 +93,7 @@
 * Fixed modern pickaxe animations (issue [#5010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5010))
 * Fixed Crowbar hitting sound (issue [#5012](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5012))
 * Fixed scraper having equip button (issue [#5013](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5013))
+* Fixed handheld gaming console giving recipes (issue [#5081](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5081))
 
 ## Console
 
