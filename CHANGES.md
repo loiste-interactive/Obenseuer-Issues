@@ -48,6 +48,7 @@
 * Fixed player apartment window opening to the void with tier 2 walls (issue [#5066](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5066))
 * Huge workshop now requires atleast shabby basement walls
 * Planter sunlight check now ignores collision of many objects
+* Fixed basement grate position & removing lamps (issue [#5065](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5065))
 
 ## Bazaar Jail
 
