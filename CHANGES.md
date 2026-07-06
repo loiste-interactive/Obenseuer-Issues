@@ -51,6 +51,7 @@
 * Planter sunlight check now ignores collision of many objects
 * Fixed basement grate position & removing lamps (issue [#5065](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5065))
 * Fixed extra doorframe being visible when should not be (issue [#5072](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5072))
+* Fixed huge workshop lights (issue [#5116](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5116))
 
 ## Bazaar Jail
 
