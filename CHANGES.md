@@ -93,6 +93,7 @@
 
 ## Murju A
 
+* Fixed occlusion
 * Fixed elevator
 
 ## Murju B
