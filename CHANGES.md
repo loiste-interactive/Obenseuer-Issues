@@ -104,6 +104,7 @@
 ## Murju B
 
 * Fixed occlusion (issue [#5118](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5118))
+* Fixed Alfred's eyes
 
 # July 1st 2026 (Version 0.4.23) - Private Playtest
 
