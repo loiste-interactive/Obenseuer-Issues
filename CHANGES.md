@@ -117,6 +117,7 @@
 
 * Fixed player placed fridge freezers slot amount (issue [#5021](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5021))
 * Fixed Moonshining diploma orientation (issue [#5014](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5014))
+* Fixed industrial smoker not having storage (issue [#5128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5128))
 
 ## Items
 
