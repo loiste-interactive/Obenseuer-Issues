@@ -15,6 +15,7 @@
 * Fixed dishwasher topping of items with charges when failing (issue [#5106](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5106))
 * Fixed Viljo Kattila softblock (issue [#4981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4981))
 * Fixed equiped item shaking (issue [#5113](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5113))
+* Fixed some sounds ignoring master volume setting (issue [#4683](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4683))
 * Fixed shop doors opening into void
 * Fixed notification queues sometimes getting stuck and then causing massive notification bursts at some point
 * Fixed multiple polices using same character data (causing a lot weird issues)
