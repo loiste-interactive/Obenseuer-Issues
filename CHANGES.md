@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 10th 2026 (Version 0.4.24) - Private Playtest
+
 * Changed the Tunnel of Water Trees pages to function like a book (issue [#5024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5024))
 * Fixed items spawning with incorrect meta values
 * Fixed misaligned map positions in some scenes (issue [#5075](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5075))
