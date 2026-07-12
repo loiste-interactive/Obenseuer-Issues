@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Special delivery task (issue [#5142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5142))
+
 # July 10th 2026 (Version 0.4.24) - Private Playtest
 
 * Changed the Tunnel of Water Trees pages to function like a book (issue [#5024](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5024))
