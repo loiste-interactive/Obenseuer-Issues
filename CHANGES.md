@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed modern axe not counting as axe (issue [#5125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5125))
+
 ## Tasks
 
 * Fixed Special delivery task (issue [#5142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5142))
