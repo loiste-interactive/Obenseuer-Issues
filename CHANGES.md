@@ -9,6 +9,7 @@
 ## Mallment
 
 * Akim now tells that drinks are included
+* Pizza is now sold in pizzaboxes
 
 # July 10th 2026 (Version 0.4.24) - Private Playtest
 
