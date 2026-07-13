@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 13th 2026 (Version 0.4.25) - Private Playtest
+
 * Added radiation effect
 * Added a watch slot
 * Changed inventory items that display the time to show it only while the inventory is open, unless they are equipped in the watch slot
