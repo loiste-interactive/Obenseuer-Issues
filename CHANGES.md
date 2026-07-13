@@ -14,6 +14,10 @@
 * Fixed Erto Lagerfeld's legs (issue [#5138](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5138))
 * Fixed Matti Kiehinen getting cloned (issue [#5099](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5099))
 
+## Tenement System
+
+* Fixed not being able to exit chair after loading game (issue [#5129](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5129))
+
 ## Player Tenement
 
 * Fixed yellow hue on everything in playerment (issue [#5147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5147))
