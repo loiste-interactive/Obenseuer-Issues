@@ -5,6 +5,7 @@
 * Changed inventory items that display the time to show it only while the inventory is open, unless they are equipped in the watch slot
 * Changed some watches to display only the time and not the current weekday
 * Fixed modern axe not counting as axe (issue [#5125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5125))
+* Fixed ladders causing the player to fly to a random ladder when changing scenes (issue [#5078](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5078))
 
 ## Tasks
 
