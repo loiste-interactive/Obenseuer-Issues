@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added radiation effect
 * Fixed modern axe not counting as axe (issue [#5125](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5125))
 
 ## Tasks
