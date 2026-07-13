@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
@@ -16,7 +20,6 @@
 * Fixed being unable to enter Murju B despite Lagerfeld buzzing the player in (issue [#5148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5148))
 * Fixed Erto Lagerfeld's legs (issue [#5138](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5138))
 * Fixed Matti Kiehinen getting cloned (issue [#5099](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5099))
-* Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
 
 ## Tenement System
 
