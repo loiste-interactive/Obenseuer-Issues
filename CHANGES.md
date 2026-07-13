@@ -4,6 +4,10 @@
 
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
 
+## Recipes
+
+* Fixed woodpulp recipe not accepting water (issue [#5161](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5161))
+
 ## Pontikka
 
 * Fixed Garden bar stock (issue [#5156](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5156))
