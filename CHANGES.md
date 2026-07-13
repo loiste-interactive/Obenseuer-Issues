@@ -16,7 +16,11 @@
 
 ## Player Tenement
 
-Fixed yellow hue on everything in playerment (issue [#5147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5147))
+* Fixed yellow hue on everything in playerment (issue [#5147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5147))
+
+## Sauna
+
+* Fixed Timo Löyly reconstructing himself (issue [#5100](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5100))
 
 ## Mallment
 
