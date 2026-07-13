@@ -8,9 +8,11 @@
 
 ## Tasks
 
+* Added an alternative way to deal with Matti Kiehinen (issue [#5131](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5131))
 * Fixed Special delivery task (issue [#5142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5142))
 * Fixed being unable to enter Murju B despite Lagerfeld buzzing the player in (issue [#5148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5148))
 * Fixed Erto Lagerfeld's legs (issue [#5138](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5138))
+* Fixed Matti Kiehinen getting cloned (issue [#5099](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5099))
 
 ## Player Tenement
 
