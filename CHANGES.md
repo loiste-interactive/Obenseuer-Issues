@@ -9,6 +9,12 @@
 ## Tasks
 
 * Fixed Special delivery task (issue [#5142](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5142))
+* Fixed being unable to enter Murju B despite Lagerfeld buzzing the player in (issue [#5148](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5148))
+* Fixed Erto Lagerfeld's legs (issue [#5138](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5138))
+
+## Player Tenement
+
+Fixed yellow hue on everything in playerment (issue [#5147](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5147))
 
 ## Mallment
 
