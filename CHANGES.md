@@ -4,6 +4,10 @@
 
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
 
+## Pontikka
+
+* Fixed Garden bar stock (issue [#5156](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5156))
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
