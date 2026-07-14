@@ -18,6 +18,14 @@
 
 * Fixed Garden bar stock (issue [#5156](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5156))
 
+## Mallment
+
+* Minor geometry fixes
+
+## Bazaar
+
+* Minor geometry fixes
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
