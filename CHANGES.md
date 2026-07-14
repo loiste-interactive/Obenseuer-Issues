@@ -30,6 +30,10 @@
 
 * Minor geometry fixes
 
+## Sauna
+
+* Minor geometry fixes
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
