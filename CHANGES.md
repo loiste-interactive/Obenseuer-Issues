@@ -42,6 +42,10 @@
 
 * Minor geometry fixes
 
+## Rosso's
+
+* Minor geometry fixes
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
