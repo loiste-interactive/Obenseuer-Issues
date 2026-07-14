@@ -5,6 +5,11 @@
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
 * Fixed drone launch pad never appearing (issue [#5160](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5160))
 
+## Items
+
+* Added Myconomicon
+* Added Welho's hat
+
 ## Recipes
 
 * Fixed woodpulp recipe not accepting water (issue [#5161](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5161))
