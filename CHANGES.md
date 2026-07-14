@@ -54,6 +54,10 @@
 
 * Minor geometry fixes
 
+## Mentti A
+
+* Fixed lag
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
