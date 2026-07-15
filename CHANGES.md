@@ -9,6 +9,7 @@
 
 * Added Myconomicon
 * Added Welho's hat
+* Added cat ears
 
 ## Recipes
 
