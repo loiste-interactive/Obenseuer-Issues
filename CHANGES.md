@@ -58,6 +58,10 @@
 
 * Fixed lag
 
+## Books
+
+* Fixed Aune not letting player in after showing the seal (issue [#5188](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5188))
+
 # July 13th 2026 (Version 0.4.25) - Private Playtest
 
 * Added radiation effect
