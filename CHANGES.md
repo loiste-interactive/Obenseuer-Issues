@@ -11,6 +11,7 @@
 * Added Myconomicon
 * Added Welho's hat
 * Added cat ears
+* Reduced animal skin price
 
 ## Recipes
 
