@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed shops not preserving shopping bag skins
+
 ## Tasks
 
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
