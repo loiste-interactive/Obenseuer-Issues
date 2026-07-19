@@ -59,6 +59,7 @@
 
 * Minor geometry fixes
 * Fixed J-kiosk giving O-market bags (issue [#5190](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5190))
+* Fixed newspapers ownership (issue [#5209](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5209))
 
 ## Mentti A
 
