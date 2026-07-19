@@ -30,6 +30,7 @@
 ## Bazaar
 
 * Minor geometry fixes
+* Fixed slum grill not selling anything (issue [#5210](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5210))
 
 ## Warehouse
 
