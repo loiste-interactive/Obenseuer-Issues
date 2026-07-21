@@ -16,6 +16,7 @@
 * Added Welho's hat
 * Added cat ears
 * Reduced animal skin price
+* Fixed not being able to use secondary use if primary use is disabled
 
 ## Recipes
 
