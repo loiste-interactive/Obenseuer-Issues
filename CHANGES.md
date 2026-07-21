@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed shops not preserving shopping bag skins
+* Fixed an error when trying to sell furniture (issue [#5215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5215))
 
 ## Tasks
 
