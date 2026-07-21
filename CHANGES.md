@@ -6,6 +6,7 @@
 
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
 * Fixed drone launch pad never appearing (issue [#5160](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5160))
+* Fixed the True Welho quest issues (issue [#5200](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5200))
 * Added possibility to report Jane to the authorities (issue [#5193](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5193))
 
 ## Items
