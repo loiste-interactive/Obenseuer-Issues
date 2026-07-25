@@ -12,6 +12,7 @@
 
 ## Items
 
+* Added Ignition Liquid
 * Added Myconomicon
 * Added Welho's hat
 * Added cat ears
