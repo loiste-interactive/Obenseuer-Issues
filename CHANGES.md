@@ -3,6 +3,10 @@
 * Fixed shops not preserving shopping bag skins
 * Fixed an error when trying to sell furniture (issue [#5215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5215))
 
+## NPC
+
+* Fixed Crazy Neighbor getting stuck in the void (issue [#4672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4672))
+
 ## Tasks
 
 * Fixed Moonshine Club members not offering dialogue options (issue [#5159](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5159))
