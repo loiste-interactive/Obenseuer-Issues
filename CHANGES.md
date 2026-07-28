@@ -6,6 +6,7 @@
 ## NPC
 
 * Fixed Crazy Neighbor getting stuck in the void (issue [#4672](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4672))
+* Fixed Crazy Neighbor being able to move while leaning (issue [#4393](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4393))
 
 ## Tasks
 
