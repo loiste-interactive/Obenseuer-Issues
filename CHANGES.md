@@ -1,5 +1,7 @@
 # Upcoming
 
+# July 29th 2026 (Version 0.4.26) - Private Playtest
+
 * Fixed shops not preserving shopping bag skins
 * Fixed an error when trying to sell furniture (issue [#5215](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5215))
 
