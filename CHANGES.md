@@ -17,6 +17,7 @@
 
 ## Items
 
+* Added Paper Flag
 * Added Ignition Liquid
 * Added Myconomicon
 * Added Welho's hat
