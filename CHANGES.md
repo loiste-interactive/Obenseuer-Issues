@@ -2,7 +2,7 @@
 
 ## Recipes
 
-** Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
+* Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
 
 # July 29th 2026 (Version 0.4.26) - Private Playtest
 
