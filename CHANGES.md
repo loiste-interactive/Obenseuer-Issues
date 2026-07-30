@@ -13,6 +13,7 @@
 * Fixed softlock after playing the cardgame with Welhö (issue [#5239](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5239))
 * Fixed Lagerfeld not unlocking  the door to murju B (issue [#5236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5236))
 * Fixed Akim's dialogue
+* Fixed Pentti not counting trade balance
 
 ## Recipes
 
