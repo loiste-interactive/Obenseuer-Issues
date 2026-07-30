@@ -5,11 +5,16 @@
 ## Tasks
 
 * Fixed infinite loop (crash/hang) when returning to bakery after launching the drone (issue [#5242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5242))
+* Fixed softlock after playing the cardgame with Welhö (issue [#5239](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5239))
 * Fixed Akim's dialogue
 
 ## Recipes
 
 * Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
+
+## Tenement System
+
+* Fixed facade lvl 1 requiring electricity  (issue [#5248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5248))
 
 ## Bazaar
 
