@@ -1,5 +1,7 @@
 # Upcoming
 
+* Olle's glasses aren't so cool anymore (issue [#5234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5234))
+
 ## Tasks
 
 * Fixed infinite loop (crash/hang) when returning to bakery after launching the drone (issue [#5242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5242))
