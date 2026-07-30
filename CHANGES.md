@@ -25,6 +25,10 @@
 
 * Fixed Broms not having stuff (issue [#5243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5243))
 
+## Pontikka
+
+* Fixed map position misaligned in Pontikka levels (issue [#5231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5231))
+
 ## Welhö
 
 * Fixed Welhö not selling special stuff (issue [#5240](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5240))
