@@ -5,6 +5,7 @@
 ## Tasks
 
 * Fixed infinite loop (crash/hang) when returning to bakery after launching the drone (issue [#5242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5242))
+* Fixed Akim's dialogue
 
 ## Recipes
 
