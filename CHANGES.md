@@ -1,5 +1,9 @@
 # Upcoming
 
+* Fixed being arrested results in trapped dialogue softlock (issue [#5250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5250))
+
+## NPCs
+
 * Olle's glasses aren't so cool anymore (issue [#5234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5234))
 
 ## Tasks
