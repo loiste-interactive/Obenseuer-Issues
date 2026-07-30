@@ -10,6 +10,10 @@
 
 * Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
 
+## Bazaar
+
+* Fixed Broms not having stuff (issue [#5243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5243))
+
 ## Welhö
 
 * Fixed Welhö not selling special stuff (issue [#5240](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5240))
