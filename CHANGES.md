@@ -39,7 +39,8 @@
 
 ## Tenement System
 
-* Fixed facade lvl 1 requiring electricity  (issue [#5248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5248))
+* Fixed facade lvl 1 requiring electricity (issue [#5248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5248))
+* Fixed basement sauna respawning items after load (issue [#5225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5225))
 
 ## Bazaar
 
