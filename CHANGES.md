@@ -11,6 +11,7 @@
 
 ## Tasks
 
+* Added ability to hire Seamus Liepa to take care of Casper Colikke
 * Fixed infinite loop (crash/hang) when returning to bakery after launching the drone (issue [#5242](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5242))
 * Fixed softlock after playing the cardgame with Welhö (issue [#5239](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5239))
 * Fixed Lagerfeld not unlocking  the door to murju B (issue [#5236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5236))
