@@ -19,6 +19,7 @@
 * Fixed a softlock by sitting in Casper's chair while waiting for him to return (issue [#5255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5255))
 * Fixed trespassing in casino backroom during casino coup mission (issue [#5253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5253))
 * Fixed being able to ask Max for another recommendation for the Moonshiners Guild (issue [#5144](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5144))
+* Fixed Max Masher having Arvo Kirkastaja's voice (issue [#5143](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5143))
 
 ## Furniture
 
