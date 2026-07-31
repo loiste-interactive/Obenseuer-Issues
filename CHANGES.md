@@ -16,6 +16,10 @@
 * Fixed Akim's dialogue
 * Fixed Pentti not counting trade balance
 
+## Furniture
+
+* Fixed being unable to place the Coinman on the wall (issue [#5259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5259))
+
 ## Recipes
 
 * Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
