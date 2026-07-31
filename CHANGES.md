@@ -23,6 +23,10 @@
 
 * Fixed being unable to place the Coinman on the wall (issue [#5259](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5259))
 
+## Items
+
+* Fixed Alarm Clock visual bug (issue [#5163](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5163))
+
 ## Recipes
 
 * Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
