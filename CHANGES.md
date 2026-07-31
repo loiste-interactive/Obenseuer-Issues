@@ -16,6 +16,7 @@
 * Fixed Lagerfeld not unlocking  the door to murju B (issue [#5236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5236))
 * Fixed Akim's dialogue
 * Fixed Pentti not counting trade balance
+* Fixed a softlock by sitting in Casper's chair while waiting for him to return (issue [#5255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5255))
 
 ## Furniture
 
