@@ -31,6 +31,10 @@
 
 * Removed withdrawn Welho's submission from Lifehack-Pekka (issue [#5241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5241))
 
+## Tenement Outside
+
+* Fixed yellow hue on some reflections (issue [#5178](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5178))
+
 ## Tenement System
 
 * Fixed facade lvl 1 requiring electricity  (issue [#5248](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5248))
