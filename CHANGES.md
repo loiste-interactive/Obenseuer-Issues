@@ -28,6 +28,10 @@
 
 * Fixed Broms not having stuff (issue [#5243](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5243))
 
+## Casino
+
+* Reduced the crowd ambience in the casino (issue [#5260](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5260))
+
 ## Pontikka
 
 * Fixed map position misaligned in Pontikka levels (issue [#5231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5231))
