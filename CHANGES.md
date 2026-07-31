@@ -17,6 +17,7 @@
 * Fixed Akim's dialogue
 * Fixed Pentti not counting trade balance
 * Fixed a softlock by sitting in Casper's chair while waiting for him to return (issue [#5255](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5255))
+* Fixed trespassing in casino backroom during casino coup mission (issue [#5253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5253))
 
 ## Furniture
 
