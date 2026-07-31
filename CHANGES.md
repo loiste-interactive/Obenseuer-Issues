@@ -4,6 +4,7 @@
 
 ## NPCs
 
+* Fixed mouths not moving while talking (issue [#5257](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5257))
 * Fixed Sirkku sitting improperly (issue [#5233](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5233))
 * Olle's glasses aren't so cool anymore (issue [#5234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5234))
 
