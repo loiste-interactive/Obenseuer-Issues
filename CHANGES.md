@@ -6,6 +6,10 @@
 
 * Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
 
+## Tasks
+
+* Pentti hired better bookeeper (issue [#5273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5273))
+
 # July 31th 2026 (Version 0.4.27) - Private Playtest
 
 * Fixed being arrested results in trapped dialogue softlock (issue [#5250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5250))
