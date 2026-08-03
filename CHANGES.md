@@ -5,6 +5,7 @@
 ## Bazaar
 
 * Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
+* Broke Murju A doorphone (issue [#5265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5265))
 
 ## Tasks
 
