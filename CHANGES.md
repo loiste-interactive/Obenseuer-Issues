@@ -15,6 +15,10 @@
 
 * Fixed Welhö selling mining school of welhous hats (issue [#5264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5264))
 
+## Recipes
+
+* Fixed Pork steak with vegetables turning into beef with fries (issue [#5280](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5280))
+
 # July 31th 2026 (Version 0.4.27) - Private Playtest
 
 * Fixed being arrested results in trapped dialogue softlock (issue [#5250](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5250))
