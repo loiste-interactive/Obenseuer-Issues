@@ -2,11 +2,6 @@
 
 * Fixed administration rationing care packages (issue [#5270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5270))
 
-## Bazaar
-
-* Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
-* Broke Murju A doorphone (issue [#5265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5265))
-
 ## Tasks
 
 * Pentti hired better bookeeper (issue [#5273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5273))
@@ -18,6 +13,15 @@
 ## Recipes
 
 * Fixed Pork steak with vegetables turning into beef with fries (issue [#5280](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5280))
+
+## Bazaar
+
+* Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
+* Broke Murju A doorphone (issue [#5265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5265))
+
+## Sauna
+
+* Fixed Matti out-saunaing Timo (issue [#5286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5286))
 
 # July 31th 2026 (Version 0.4.27) - Private Playtest
 
