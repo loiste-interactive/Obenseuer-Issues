@@ -1,7 +1,7 @@
 # Upcoming
 
 * Fixed administration rationing care packages (issue [#5270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5270))
-* Tons of minor fixed, no one bothered to list here
+* Tons of minor fixes, no one bothered to list here
 
 ## Tasks
 
