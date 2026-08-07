@@ -15,6 +15,10 @@
 
 * Fixed Pork steak with vegetables turning into beef with fries (issue [#5280](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5280))
 
+## Furniture
+
+* Fixed colored plastic chairs being nameless (issue [#5224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5224))
+
 ## Bazaar
 
 * Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
