@@ -18,6 +18,7 @@
 ## Furniture
 
 * Fixed colored plastic chairs being nameless (issue [#5224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5224))
+* Fixed block of burnt concrete (issue [#5310](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5310))
 
 ## Bazaar
 
