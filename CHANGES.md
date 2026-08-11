@@ -10,6 +10,7 @@
 ## Items
 
 * Fixed Welhö selling mining school of welhous hats (issue [#5264](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5264))
+* Fixed plastic parts not showing as tenement resource (issue [#5326](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5326))
 
 ## Recipes
 
