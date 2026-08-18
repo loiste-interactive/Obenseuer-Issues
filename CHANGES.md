@@ -8,6 +8,7 @@
 
 * Pentti hired better bookeeper (issue [#5273](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5273))
 * Fixed Pontikka Quest infinite phone slamming sound (issue [#5334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5334))
+* Fixed blue duck evaporating when hitting with axe (issue [#5292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5292))
 
 ## Items
 
