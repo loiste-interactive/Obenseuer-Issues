@@ -17,6 +17,7 @@
 
 ## Recipes
 
+* Added Fake patchwork leather roll
 * Fixed Pork steak with vegetables turning into beef with fries (issue [#5280](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5280))
 
 ## Furniture
