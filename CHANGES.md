@@ -27,6 +27,7 @@
 ## Tenement System
 
 * Fixed shabby extension not giving light for plants (issue [#5343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5343))
+* Shabby extension now requires electricity
 
 ## Bazaar
 
