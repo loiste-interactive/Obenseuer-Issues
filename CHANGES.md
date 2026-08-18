@@ -24,6 +24,10 @@
 * Fixed block of burnt concrete (issue [#5310](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5310))
 * Fixed being able to spice up anything (issue [#5348](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5348))
 
+## Tenement System
+
+* Fixed shabby extension not giving light for plants (issue [#5343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5343))
+
 ## Bazaar
 
 * Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
