@@ -3,6 +3,7 @@
 * Fixed administration rationing care packages (issue [#5270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5270))
 * Tons of minor fixes, no one bothered to list here
 * Fixed card games not affecting gambling addiction
+* Nerfed sauna skill gain
 
 ## Tasks
 
