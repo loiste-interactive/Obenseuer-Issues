@@ -41,6 +41,10 @@
 * Fixed mine roll-up door (issue [#5262](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5262))
 * Broke Murju A doorphone (issue [#5265](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5265))
 
+## Kino
+
+* Enhanced the Kino sequence (issue [#4693](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4693))
+
 ## Sauna
 
 * Fixed Matti out-saunaing Timo (issue [#5286](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5286))
