@@ -11,6 +11,7 @@
 * Fixed Pontikka Quest infinite phone slamming sound (issue [#5334](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5334))
 * Fixed blue duck evaporating when hitting with axe (issue [#5292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5292))
 * Fixed being able to look at the well again (issue [#5300](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5300))
+* Fixed Welhö not accepting mushroom moonshine (issue [#5338](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5338))
 
 ## Items
 
