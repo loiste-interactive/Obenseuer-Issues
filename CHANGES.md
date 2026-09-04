@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
+
 ## Tasks
 
 * Fixed Akim not giving Raimo's meal (issue [#5376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5376))
