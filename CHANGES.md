@@ -10,6 +10,7 @@
 
 * Fixed playerment sauna being stuck in cleaning mode (issue [#5372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5372))
 * Basement Heating lvl 1 is now attached to the log-refill system (also fixed owners)
+* Fixed elevator upgrade being free
 
 ## Bazaar
 
