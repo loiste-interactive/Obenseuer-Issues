@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Akim not giving Raimo's meal (issue [#5376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5376))
+
 ## Player Tenement
 
 * Fixed playerment sauna being stuck in cleaning mode (issue [#5372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5372))
