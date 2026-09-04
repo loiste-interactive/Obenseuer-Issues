@@ -1,5 +1,7 @@
 # Upcoming
 
+# September 4th 2026 (Version 0.4.27 V2) - Private Playtest
+
 * Fixed administration rationing care packages (issue [#5270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5270))
 * Tons of minor fixes, no one bothered to list here
 * Fixed card games not affecting gambling addiction
