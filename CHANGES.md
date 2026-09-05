@@ -5,6 +5,7 @@
 ## Tasks
 
 * Fixed Akim not giving Raimo's meal (issue [#5376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5376))
+* Fixed not being able to give recommendations for Arvo (issue [#5388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5388))
 
 ## Player Tenement
 
