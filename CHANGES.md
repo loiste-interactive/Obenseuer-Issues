@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
+* Sirpa Kvenlayson now offers a job
 
 ## Tasks
 
