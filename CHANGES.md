@@ -8,6 +8,10 @@
 * Fixed Akim not giving Raimo's meal (issue [#5376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5376))
 * Fixed not being able to give recommendations for Arvo (issue [#5388](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5388))
 
+## Blueprints
+
+* Fixed some new furniture blueprints appearing in wrong category and without icon (issue [#5409](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5409))
+
 ## Player Tenement
 
 * Fixed playerment sauna being stuck in cleaning mode (issue [#5372](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5372))
