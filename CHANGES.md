@@ -4,6 +4,10 @@
 * Sirpa Kvenlayson now offers a job
 * Trash collection silos now give less good stuff.
 
+## Items
+
+* Added Rob-In flyer
+
 ## Tasks
 
 * Fixed Akim not giving Raimo's meal (issue [#5376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5376))
