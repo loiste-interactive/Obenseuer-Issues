@@ -32,6 +32,10 @@
 
 * Fixed Bazaar Prison missing an entrypoint (issue [#5378](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5378))
 
+## Bazaar House 1
+
+* Fixed player home issues (issue [#5092](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5092))
+
 ## Ratfights
 
 * Fixed rats getting stuck
