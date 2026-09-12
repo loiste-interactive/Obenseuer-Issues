@@ -4,6 +4,10 @@
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
 
+## Mallment
+
+* Fixed a door (issue [#5418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5418))
+
 # September 12th 2026 (Version 0.4.28) - Private Playtest
 
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
