@@ -1,5 +1,7 @@
 # Upcoming
 
+# September 12th 2026 (Version 0.4.28) - Private Playtest
+
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
 * Sirpa Kvenlayson now offers a job
 * Trash collection silos now give less good stuff.
