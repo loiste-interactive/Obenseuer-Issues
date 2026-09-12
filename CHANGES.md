@@ -3,6 +3,7 @@
 ## Chamber of Commerce
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
+* Fixed all members in the meeting room claiming to be Pöhinä
 
 ## Mallment
 
