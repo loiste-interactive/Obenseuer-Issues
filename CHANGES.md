@@ -8,6 +8,10 @@
 
 * Fixed a door (issue [#5418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5418))
 
+## Alco
+
+* Fixed Astrid not having space for new items (issue [#5419](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5419))
+
 # September 12th 2026 (Version 0.4.28) - Private Playtest
 
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
