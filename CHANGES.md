@@ -1,5 +1,9 @@
 # Upcoming
 
+## Chamber of Commerce
+
+* Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
+
 # September 12th 2026 (Version 0.4.28) - Private Playtest
 
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
