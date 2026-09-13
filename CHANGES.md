@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Akim not giving last objective
+
 ## Tenement System
 
 * Fixed elevator buttons
