@@ -7,6 +7,7 @@
 ## Tenement System
 
 * Fixed elevator buttons
+* Fixed shop fake toilet
 
 ## Bazaar Bar
 
