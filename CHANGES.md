@@ -5,6 +5,11 @@
 * Fixed Akim not giving last objective
 * Fixed being able to ask Jooseppi before the task is even active (issue [#5436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5436))
 
+## NPCs
+
+* Fixed a floating hat on a Slum police officer (issue [#5390](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5390))
+* Fixed some NPCs having big hands (issue [#5437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5437))
+
 ## Tenement System
 
 * Fixed elevator buttons
