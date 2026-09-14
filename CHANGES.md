@@ -17,6 +17,7 @@
 
 * Fixed elevator buttons
 * Fixed shop fake toilet
+* Fixed not being able to attach basement grates
 
 ## Bazaar Bar
 
