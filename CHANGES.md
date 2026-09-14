@@ -14,6 +14,11 @@
 
 * Fixed weird way of drinking beer (issue [#5425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5425))
 
+## Bazaar Sauna
+
+* Fixed Matti and Timo appearing black when starting the sauna contest
+* Fixed Matti's music not playing during the sauna contest
+
 ## Chamber of Commerce
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
