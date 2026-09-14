@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed only being able to talk with people sitting on sofas by staring their crotch (issue [#5379](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5379))
+* Fixed minitrain softlock (issue [#5354](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5354))
 
 ## Tasks
 
