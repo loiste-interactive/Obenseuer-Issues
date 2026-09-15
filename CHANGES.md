@@ -8,6 +8,7 @@
 
 * Fixed Akim not giving last objective
 * Fixed being able to ask Jooseppi before the task is even active (issue [#5436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5436))
+* Fixed completing only one upgrade finishing the new business task (issue [#5421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5421))
 
 ## NPCs
 
