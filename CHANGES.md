@@ -13,6 +13,10 @@
 * Fixed a floating hat on a Slum police officer (issue [#5390](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5390))
 * Fixed some NPCs having big hands (issue [#5437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5437))
 
+## Furniture
+
+* Fixed meat ginder ownership (issue [#5441](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5441))
+
 ## Tenement System
 
 * Fixed elevator buttons
