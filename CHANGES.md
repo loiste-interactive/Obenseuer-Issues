@@ -18,6 +18,7 @@
 ## Furniture
 
 * Fixed meat ginder ownership (issue [#5441](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5441))
+* Fixed vat (issue [#5444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5444))
 
 ## Tenement System
 
