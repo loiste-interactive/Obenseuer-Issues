@@ -75,6 +75,7 @@
 ## Mentti A
 
 * Ari Pulsunmäki now sells stuff
+* Fixed window materials not updating at time of day
 
 ## Alco
 
