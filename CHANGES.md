@@ -7,6 +7,8 @@
 * Fixed mobile phone calls being instantly ended
 * Fixed not being able to enter Murju A
 * Fixed vitrines not spawning items (issue [#5298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5298))
+* Fixed the UI not showing all stats when an item has more than 5 stats (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
+* Fixed the bottom dialogue option being partially cut off when there are more than four options (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
 
 ## Tasks
 
