@@ -17,6 +17,7 @@
 
 * Fixed a floating hat on a Slum police officer (issue [#5390](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5390))
 * Fixed some NPCs having big hands (issue [#5437](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5437))
+* Fixed Urpo not having dialogue
 
 ## Furniture
 
