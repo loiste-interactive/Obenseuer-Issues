@@ -5,6 +5,7 @@
 * Fixed the moon illuminating the scene (issue [#5345](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5345))
 * Fixed device plan not persisting (issue [#5443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5443))
 * Fixed mobile phone calls being instantly ended
+* Fixed not being able to enter Murju A
 
 ## Tasks
 
