@@ -32,6 +32,7 @@
 * Fixed not being able to attach basement grates
 * Fixed decontamination invoice not getting picked up (issue [#5438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5438))
 * Fixed being able to enter Apartment 2 while it's being renovated (issue [#5432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5432))
+* Fixed marked upgrades not counting items in contractor storage in other scenes (issue [#5344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5344))
 
 ## Items
 
@@ -51,6 +52,7 @@
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
 * Fixed all members in the meeting room claiming to be Pöhinä
+* Fixed crackling in the ambience (issue [#5415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5415))
 
 ## Mallment
 
