@@ -31,6 +31,7 @@
 * Fixed shop fake toilet
 * Fixed not being able to attach basement grates
 * Fixed decontamination invoice not getting picked up (issue [#5438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5438))
+* Fixed being able to enter Apartment 2 while it's being renovated (issue [#5432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5432))
 
 ## Items
 
