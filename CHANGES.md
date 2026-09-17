@@ -44,6 +44,7 @@
 * Fixed marked upgrades not counting items in contractor storage in other scenes (issue [#5344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5344))
 * Fixed the player facing the wrong way when sitting on chairs on the balconies of small apartments (issue [#5313](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5313))
 * Fixed bookmarked upgrades showing up as blank when the contractor's skill is too low to perform them (issue [#5329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5329))
+* Fixed large elevator upgrade not being available (issue [#5453](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5453))
 
 ## Items
 
