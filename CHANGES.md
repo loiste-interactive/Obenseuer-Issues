@@ -29,6 +29,10 @@
 * Fixed not being able to attach basement grates
 * Fixed decontamination invoice not getting picked up (issue [#5438](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5438))
 
+## Items
+
+* Added thermo bottle
+
 ## Bazaar Bar
 
 * Fixed weird way of drinking beer (issue [#5425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5425))
