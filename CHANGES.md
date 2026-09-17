@@ -6,6 +6,7 @@
 * Fixed device plan not persisting (issue [#5443](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5443))
 * Fixed mobile phone calls being instantly ended
 * Fixed not being able to enter Murju A
+* Fixed vitrines not spawning items (issue [#5298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5298))
 
 ## Tasks
 
