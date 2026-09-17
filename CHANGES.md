@@ -59,6 +59,10 @@
 
 * Fixed Astrid not having space for new items (issue [#5419](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5419))
 
+## Mines
+
+* Fixed Mikkel Purola reporting player when giving stolen Osmo Olut train (issue [#5442](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5442))
+
 # September 12th 2026 (Version 0.4.28) - Private Playtest
 
 * Fixed Lurjus (issue [#5380](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5380))
