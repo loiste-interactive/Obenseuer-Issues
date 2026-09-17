@@ -48,6 +48,10 @@
 
 * Added thermo bottle
 
+## Bazaar Player Home
+
+* Added light switches and made other minor adjustments (issue [#5093](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5093))
+
 ## Bazaar Bar
 
 * Fixed weird way of drinking beer (issue [#5425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5425))
