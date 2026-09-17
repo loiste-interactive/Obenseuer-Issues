@@ -72,6 +72,10 @@
 
 * Fixed a door (issue [#5418](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5418))
 
+## Mentti A
+
+* Ari Pulsunmäki now sells stuff
+
 ## Alco
 
 * Fixed Astrid not having space for new items (issue [#5419](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5419))
