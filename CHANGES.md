@@ -10,6 +10,10 @@
 * Fixed the UI not showing all stats when an item has more than 5 stats (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
 * Fixed the bottom dialogue option being partially cut off when there are more than four options (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
 
+## Crafting
+
+* Fixed UI not showing correct crafting time (issue [#5306](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5306))
+
 ## Tasks
 
 * Fixed Akim not giving last objective
