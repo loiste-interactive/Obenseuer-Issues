@@ -16,6 +16,7 @@
 
 ## Tasks
 
+* Added the ability to get OS Mining Services upgrades later if the player lied about the tenement (issue [#5213](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5213))
 * Fixed Akim not giving last objective
 * Fixed being able to ask Jooseppi before the task is even active (issue [#5436](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5436))
 * Fixed completing only one upgrade finishing the new business task (issue [#5421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5421))
