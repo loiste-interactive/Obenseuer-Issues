@@ -14,6 +14,10 @@
 
 * Fixed janky bazaar metro station elevators
 
+## Murju A
+
+* Fixed Anatoli's story not triggering
+
 ## Alco
 
 * Fixed Alco buying everything (issue [#5456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5456))
