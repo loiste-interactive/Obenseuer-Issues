@@ -13,6 +13,7 @@
 * Fixed rain sounds being too loud indoors (issue [#4691](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4691))
 * Fixed need names appearing after a loading screen (issue [#4754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4754))
 * Fixed notebook reverting text (issue [#4678](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4678))
+* Fixed liquid storages respawning after loading the game (issue [#4670](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4670))
 
 ## Crafting
 
