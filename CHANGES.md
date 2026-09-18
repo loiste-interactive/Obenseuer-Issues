@@ -13,6 +13,7 @@
 ## Crafting
 
 * Fixed UI not showing correct crafting time (issue [#5306](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5306))
+* Fixed recipes with more than one liquid output only producing the first liquid output (e.g. Gutter Oil) (issue [#5351](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5351))
 
 ## Tasks
 
