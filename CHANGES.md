@@ -9,6 +9,7 @@
 * Fixed vitrines not spawning items (issue [#5298](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5298))
 * Fixed the UI not showing all stats when an item has more than 5 stats (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
 * Fixed the bottom dialogue option being partially cut off when there are more than four options (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
+* Fixed being abble to open the inventory during loading (issue [#4977](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4977))
 
 ## Crafting
 
