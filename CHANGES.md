@@ -82,6 +82,10 @@
 
 * Added ability to ask from Jasper what what SMV means (issue [#4559](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4559))
 
+## Bazaar Jail
+
+* Added possibility of escape
+
 ## Chamber of Commerce
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
