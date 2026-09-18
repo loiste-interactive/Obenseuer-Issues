@@ -3,6 +3,7 @@
 ## Tenement System
 
 * Fixed picking up item in build mode automatically using the item (issue [#5458](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5458))
+* Fixed not being able to clean up debris
 
 ## Bazaar
 
