@@ -41,6 +41,7 @@
 
 ## Tenement System
 
+* Added a green line to indicate when an upgrade (e.g. Sample Analyzer) is connected to a crafting station while placing upgrade or crafting station
 * Fixed elevator buttons
 * Fixed shop fake toilet
 * Fixed not being able to attach basement grates
