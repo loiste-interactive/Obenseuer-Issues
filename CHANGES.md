@@ -70,6 +70,10 @@
 * Fixed Matti and Timo appearing black when starting the sauna contest
 * Fixed Matti's music not playing during the sauna contest
 
+## Bazaar Fungi
+
+* Added ability to ask from Jasper what what SMV means (issue [#4559](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4559))
+
 ## Chamber of Commerce
 
 * Fixed main door being always locked (issue [#5414](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5414))
