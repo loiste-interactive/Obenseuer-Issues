@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed failing to merge item stacks causing other stack to become hidden (issue [#5480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5480))
+
 # September 18th 2026 (Version 0.4.30) - Public Playtest
 
 ## Tenement System
