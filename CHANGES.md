@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed failing to merge item stacks causing other stack to become hidden (issue [#5480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5480))
+* Fixed forged certificates of authenticity always capping to 10K OC
 * Omar now tells if all the rooms are booked out.
 
 ## Tasks
