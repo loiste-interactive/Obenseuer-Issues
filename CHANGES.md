@@ -53,6 +53,7 @@
 ## Items
 
 * Added thermo bottle
+* Improved sorting of similar items (issue [#4525](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4525))
 
 ## Bazaar Player Home
 
