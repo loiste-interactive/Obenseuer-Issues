@@ -37,6 +37,7 @@
 * Fixed meat ginder ownership (issue [#5441](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5441))
 * Fixed vat (issue [#5444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5444))
 * Fixed some small issues with furniture (issue [#4501](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4501))
+* Fixed Chemical Table add-ons always being enabled after reloading the location (issue [#4515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4515))
 
 ## Tenement System
 
