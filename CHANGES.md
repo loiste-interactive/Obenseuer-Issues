@@ -11,6 +11,7 @@
 * Fixed the bottom dialogue option being partially cut off when there are more than four options (issue [#5302](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5302))
 * Fixed being abble to open the inventory during loading (issue [#4977](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4977))
 * Fixed rain sounds being too loud indoors (issue [#4691](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4691))
+* Fixed need names appearing after a loading screen (issue [#4754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4754))
 
 ## Crafting
 
