@@ -1,6 +1,6 @@
 # Upcoming
 
-# September 18th 2026 (Version 0.4.30) - Private Playtest
+# September 18th 2026 (Version 0.4.30) - Public Playtest
 
 ## Tenement System
 
