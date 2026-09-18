@@ -1,5 +1,10 @@
 # Upcoming
 
+## Bazaar
+
+* Fixed Kalle Ketku occlusions
+* Fixed Pizza Hatch not having a voice
+
 ## Alco
 
 * Fixed Alco buying everything (issue [#5456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5456))
