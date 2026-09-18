@@ -1,5 +1,9 @@
 # Upcoming
 
+## Alco
+
+* Fixed Alco buying everything (issue [#5456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5456))
+
 # September 18th 2026 (Version 0.4.29) - Private Playtest
 
 * Added the ability to use items in the environment (issue [#4845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4845))
