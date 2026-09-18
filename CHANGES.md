@@ -43,6 +43,7 @@
 ## Tenement System
 
 * Added a green line to indicate when an upgrade (e.g. Sample Analyzer) is connected to a crafting station while placing upgrade or crafting station
+* Added the ability to stop furniture rotation in the furniture preview (issue [#4615](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4615))
 * Fixed elevator buttons
 * Fixed shop fake toilet
 * Fixed not being able to attach basement grates
