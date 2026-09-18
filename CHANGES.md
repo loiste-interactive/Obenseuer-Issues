@@ -12,6 +12,7 @@
 * Fixed being abble to open the inventory during loading (issue [#4977](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4977))
 * Fixed rain sounds being too loud indoors (issue [#4691](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4691))
 * Fixed need names appearing after a loading screen (issue [#4754](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4754))
+* Fixed notebook reverting text (issue [#4678](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4678))
 
 ## Crafting
 
