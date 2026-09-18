@@ -10,6 +10,10 @@
 * Fixed Kalle Ketku occlusions
 * Fixed Pizza Hatch not having a voice
 
+## Metro
+
+* Fixed janky bazaar metro station elevators
+
 ## Alco
 
 * Fixed Alco buying everything (issue [#5456](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5456))
