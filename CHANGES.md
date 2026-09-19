@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed teleporting to Bazaar Jail getting stuck (issue [#5510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5510))
+
 ## Tenement System
 
 * Small elevator now only requires decent staircase (issue [#5502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5502))
