@@ -7,6 +7,10 @@
 * Small elevator now only requires decent staircase (issue [#5502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5502))
 * Fixed stuck cables (issue [#5503](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5503))
 
+## Tasks
+
+* Fixed Aziz's task related pizza boxes being already active in restaurant, allowing to bypass the task.
+
 ## Items
 
 * Fixed items with charges being stackable (issue [#5505](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5505))
