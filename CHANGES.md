@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Small elevator now only requires decent staircase (issue [#5502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5502))
+
 # September 19th 2026 (Version 0.4.31) - Hotfix (Public Playtest)
 
 * Fixed failing to merge item stacks causing other stack to become hidden (issue [#5480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5480))
