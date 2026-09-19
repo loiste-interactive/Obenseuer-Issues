@@ -5,6 +5,7 @@
 ## Tenement System
 
 * Small elevator now only requires decent staircase (issue [#5502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5502))
+* Fixed stuck cables (issue [#5503](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5503))
 
 ## Items
 
