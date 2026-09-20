@@ -11,6 +11,7 @@
 * Small elevator now only requires decent staircase (issue [#5502](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5502))
 * Fixed stuck cables (issue [#5503](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5503))
 * Fixed elevator button position
+* Fixed unlock door in basement leading to nowhere (issue [#5512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5512))
 
 ## Tasks
 
