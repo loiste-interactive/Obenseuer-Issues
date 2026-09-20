@@ -5,6 +5,7 @@
 * Fixed traders sometimes not having stuff to sell after loading a save (issue [#5459](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5459))
 * Fixed mobile phones not saving their SIMs (issue [#5487](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5487))
 * Fixed being able to eat owned stuff from markets in the world (issue [#5518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5518))
+* It is now possible to order high tier hydroponic equipment.
 
 ## Tenement System
 
