@@ -4,6 +4,7 @@
 * Fixed item worlduse behaving weirdly with different item types (issue [#4845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4845))
 * Fixed traders sometimes not having stuff to sell after loading a save (issue [#5459](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5459))
 * Fixed mobile phones not saving their SIMs (issue [#5487](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5487))
+* Fixed being able to eat owned stuff from markets in the world (issue [#5518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5518))
 
 ## Tenement System
 
