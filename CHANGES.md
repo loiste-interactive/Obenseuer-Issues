@@ -17,6 +17,7 @@
 
 * Fixed items with charges being stackable (issue [#5505](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5505))
 * Fixed infinite piggybanks (issue [#5507](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5507))
+* Fixed fish not having eating sounds
 
 # September 19th 2026 (Version 0.4.31) - Hotfix (Public Playtest)
 
