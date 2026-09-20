@@ -26,6 +26,10 @@
 
 * Fixed canal wall missing collision behind bar
 
+## Kino
+
+* Fixed Denis storing Kino's daily revenue in the lobby floor (issue [#5517](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5517))
+
 # September 19th 2026 (Version 0.4.31) - Hotfix (Public Playtest)
 
 * Fixed failing to merge item stacks causing other stack to become hidden (issue [#5480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5480))
