@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed teleporting to Bazaar Jail getting stuck (issue [#5510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5510))
+* Fixed item worlduse behaving weirdly with different item types (issue [#4845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4845))
 
 ## Tenement System
 
