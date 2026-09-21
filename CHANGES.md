@@ -13,6 +13,7 @@
 * Fixed stuck cables (issue [#5503](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5503))
 * Fixed elevator button position
 * Fixed unlock door in basement leading to nowhere (issue [#5512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5512))
+* Fixed black wall in basement service tunnel staircase
 
 ## Tasks
 
