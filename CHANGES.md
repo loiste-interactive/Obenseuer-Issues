@@ -7,6 +7,10 @@
 
 * (Loose) Salt can now be eaten
 
+## Recipes
+
+* Added saline (from loose salt)
+
 # September 21st 2026 (Version 0.4.32) - Public Playtest
 
 * Added the ability to pet cats
