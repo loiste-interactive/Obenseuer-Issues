@@ -5,7 +5,7 @@
 
 ## Items
 
-* (Loose)Salt can now be eaten
+* (Loose) Salt can now be eaten
 
 # September 21st 2026 (Version 0.4.32) - Public Playtest
 
