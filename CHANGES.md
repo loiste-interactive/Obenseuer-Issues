@@ -66,6 +66,10 @@
 * Fixed call button not working
 * Fixed Axel Norberg's beard clipping into his face (issue [#5542](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5542))
 
+## Pontikka
+
+* Fixed garden bar selling expired products (issue [#5549](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5549))
+
 # September 19th 2026 (Version 0.4.31) - Hotfix (Public Playtest)
 
 * Fixed failing to merge item stacks causing other stack to become hidden (issue [#5480](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5480))
