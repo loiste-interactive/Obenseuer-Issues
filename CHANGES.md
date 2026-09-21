@@ -1,5 +1,7 @@
 # Upcoming
 
+# September 21st 2026 (Version 0.4.321) - Public Playtest
+
 * Added the ability to pet cats
 * Fixed teleporting to Bazaar Jail getting stuck (issue [#5510](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5510))
 * Fixed item worlduse behaving weirdly with different item types (issue [#4845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4845))
