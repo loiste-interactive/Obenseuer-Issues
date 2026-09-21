@@ -16,6 +16,7 @@
 * Fixed elevator button position
 * Fixed unlock door in basement leading to nowhere (issue [#5512](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5512))
 * Fixed black wall in basement service tunnel staircase
+* Fixed the apartment 2 blueprint not matching the actual building (issue [#5489](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5489))
 
 ## Tasks
 
