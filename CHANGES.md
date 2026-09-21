@@ -26,6 +26,7 @@
 ## NPCs
 
 * Fixed Crazy Neighbor being able to leave the map mid conversation (issue [#5506](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5506))
+* Fixed Kössi Kelmi being left behind (issue [#5526](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5526))
 
 ## Items
 
