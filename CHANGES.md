@@ -23,6 +23,10 @@
 * Fixed Aziz's task thid last objective having wrong ID, causing the objective to not appearing
 * Fixed Seamus Liepa not taking the money (issue [#5524](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5524))
 
+## NPCs
+
+* Fixed Crazy Neighbor being able to leave the map mid conversation (issue [#5506](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5506))
+
 ## Items
 
 * Fixed items with charges being stackable (issue [#5505](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5505))
