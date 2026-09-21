@@ -8,6 +8,7 @@
 * Fixed being able to eat owned stuff from markets in the world (issue [#5518](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5518))
 * It is now possible to order high tier hydroponic equipment.
 * Fixed sped up crafting stopping when first craft in queue finishes (issue [#5521](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5521))
+* Fixed blurry text (issue [#5516](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5516))
 
 ## Tenement System
 
