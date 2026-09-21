@@ -23,6 +23,7 @@
 * Fixed Aziz's task related pizza boxes being already active in restaurant, allowing to bypass the task.
 * Fixed Aziz's task thid last objective having wrong ID, causing the objective to not appearing
 * Fixed Seamus Liepa not taking the money (issue [#5524](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5524))
+* Fixed all meeting room members claiming to be Pöhinä during the meeting (issue [#5468](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5468))
 
 ## NPCs
 
