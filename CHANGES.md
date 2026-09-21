@@ -14,6 +14,7 @@
 ## Furniture
 
 * Eesti can into nordic (added Estonian flag)
+* Added flag of Poland
 
 # September 21st 2026 (Version 0.4.32) - Public Playtest
 
