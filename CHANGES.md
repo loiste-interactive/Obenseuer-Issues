@@ -12,6 +12,7 @@
 ## Items
 
 * (Loose) Salt can now be eaten
+* Fixed earmuffs not working in some scenes (issue [#5561](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5561))
 
 ## Recipes
 
