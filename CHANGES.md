@@ -29,6 +29,10 @@
 
 * Fixed Aziz's drinks never being allowed to take.
 
+## Maintenance Tunnels
+
+* Fixed connection to metro
+
 # September 21st 2026 (Version 0.4.32) - Public Playtest
 
 * Added the ability to pet cats
