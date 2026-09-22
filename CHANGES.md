@@ -2,6 +2,7 @@
 
 * Fixed Arvo's dialogue getting stuck (issue [#5552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5552))
 * Fixed spawners generating empty recipes (issue [#5557](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5557))
+* Added ability to Ask rob about financing upgrades
 
 ## Items
 
