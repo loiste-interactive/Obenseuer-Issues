@@ -4,6 +4,7 @@
 * Fixed spawners generating empty recipes (issue [#5557](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5557))
 * Added ability to Ask rob about financing upgrades
 * Fixed chicks and eggs using cat noises (issue [#5556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5556))
+* Fixed player putting random items into Scatola's boxes instead of 'pizzas'
 
 ## Tenement System
 
