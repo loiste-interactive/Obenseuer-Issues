@@ -14,6 +14,7 @@
 
 * (Loose) Salt can now be eaten
 * Fixed earmuffs not working in some scenes (issue [#5561](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5561))
+* Fixed equipping another backpack deleting the contents of the already-equipped backpack (issue [#4520](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4520))
 
 ## Recipes
 
