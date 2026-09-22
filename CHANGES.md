@@ -23,6 +23,10 @@
 * Eesti can into nordic (added Estonian flag)
 * Added flag of Poland
 
+## Mallment
+
+* Fixed Aziz's drinks never being allowed to take.
+
 # September 21st 2026 (Version 0.4.32) - Public Playtest
 
 * Added the ability to pet cats
