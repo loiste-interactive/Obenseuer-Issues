@@ -14,6 +14,7 @@
 ## Tasks
 
 * Fixed the Elevator to Surface quest not being completed (issue [#5582](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5582))
+* Fixed missing Aziz task descriptions (issue [#5581](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5581))
 
 ## Items
 
