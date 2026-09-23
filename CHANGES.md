@@ -5,6 +5,7 @@
 * Added ability to Ask rob about financing upgrades
 * Fixed chicks and eggs using cat noises (issue [#5556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5556))
 * Fixed player putting random items into Scatola's boxes instead of 'pizzas'
+* Fixed interface bug when buying anything at Speakeasy Bar (issue [#5532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5532))
 * Fixed several spelling issues
 
 ## Tenement System
