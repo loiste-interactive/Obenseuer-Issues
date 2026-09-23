@@ -28,8 +28,9 @@
 
 ## Furniture
 
-* Eesti can into nordic (added Estonian flag)
 * Added flag of Poland
+* Eesti can into nordic (added Estonian flag)
+* Fixed some paintings becoming different paintings when placed (issue [#5583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5583))
 
 ## Mallment
 
