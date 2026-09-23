@@ -33,6 +33,11 @@
 * Eesti can into nordic (added Estonian flag)
 * Fixed some paintings becoming different paintings when placed (issue [#5583](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5583))
 
+## Bar Bizarre
+
+* Fixed player walking backwards at Sonic speed after the crinking contest (issue [#5574](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5574))
+* Fixed Jooseppi having a beer stuck in his hand (issue [#5553](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5553))
+
 ## Mallment
 
 * Fixed Aziz's drinks never being allowed to take.
