@@ -6,6 +6,7 @@
 * Fixed chicks and eggs using cat noises (issue [#5556](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5556))
 * Fixed player putting random items into Scatola's boxes instead of 'pizzas'
 * Fixed interface bug when buying anything at Speakeasy Bar (issue [#5532](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5532))
+* Fixed being able to move trader items into the backpack without paying for them (issue [#5515](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5515))
 * Fixed several spelling issues
 
 ## Tenement System
