@@ -1,5 +1,7 @@
 # Upcoming
 
+* Slowed down speedy delivery (issue [#5601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5601))
+
 ## Tenement System
 
 * Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
