@@ -11,6 +11,10 @@
 
 * Fixed Raimo having memory of a goldfish (issue [#5567](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5567))
 
+## Mentti B
+
+* Fixed minitrain puzzle wonkyness
+
 ## Tenement A
 
 * Fixed Fredrik's lab (issue [#5590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5590))
