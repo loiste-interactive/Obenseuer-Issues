@@ -1,6 +1,7 @@
 # Upcoming
 
 * Slowed down speedy delivery (issue [#5601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5601))
+* Fixed door name labels being black
 
 ## Tenement System
 
