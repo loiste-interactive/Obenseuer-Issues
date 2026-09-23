@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
+
 # September 23th 2026 (Version 0.4.33) - Public Playtest
 
 * Fixed Arvo's dialogue getting stuck (issue [#5552](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5552))
