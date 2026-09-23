@@ -10,6 +10,10 @@
 
 * Fixed sauna being stuck in cleanup mode (issue [#5551](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5551))
 
+## Tasks
+
+* Fixed the Elevator to Surface quest not being completed (issue [#5582](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5582))
+
 ## Items
 
 * (Loose) Salt can now be eaten
