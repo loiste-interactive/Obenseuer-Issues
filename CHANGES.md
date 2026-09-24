@@ -9,6 +9,7 @@
 ## Tasks
 
 * Fixed once again issues with the kebab task (issue [#5604](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5604))
+* Fixed not being able to replace pizzas in rival restaurant with gross pizzas (issue [#5613](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5613))
 
 ## NPCs
 
