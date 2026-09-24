@@ -3,6 +3,7 @@
 * Slowed down speedy delivery (issue [#5601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5601))
 * Fixed door name labels being black
 * Fixed some errors being trhown by train system
+* Fixed backpack duplication glitch (issue [#5605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5605))
 
 ## Tasks
 
