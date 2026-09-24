@@ -4,6 +4,7 @@
 * Fixed door name labels being black
 * Fixed some errors being trhown by train system
 * Fixed backpack duplication glitch (issue [#5605](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5605))
+* Fixed not being able to use vending machines (issue [#5603](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5603))
 
 ## Tasks
 
