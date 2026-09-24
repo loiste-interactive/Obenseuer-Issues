@@ -9,6 +9,10 @@
 
 * Fixed once again issues with the kebab task (issue [#5604](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5604))
 
+## NPCs
+
+* Fixed a bug where NPCs were standing on chairs (issue [#5599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5599))
+
 ## Tenement System
 
 * Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
