@@ -32,6 +32,10 @@
 
 * Fixed Fredrik's lab (issue [#5590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5590))
 
+## Bazaar Gym
+
+* Added customers
+
 ## Bazaar Restaurant
 
 * Added customers
