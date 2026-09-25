@@ -13,6 +13,7 @@
 
 ## NPCs
 
+* Fixed a bug where the police would not give chase (issue [#5598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5598))
 * Fixed a bug where NPCs were standing on chairs (issue [#5599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5599))
 
 ## Tenement System
