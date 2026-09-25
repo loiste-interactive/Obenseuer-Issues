@@ -21,6 +21,10 @@
 
 * Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
 
+## Bazaar
+
+* Fixed invisible water at mine ramp
+
 ## Casino
 
 * Fixed Raimo having memory of a goldfish (issue [#5567](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5567))
