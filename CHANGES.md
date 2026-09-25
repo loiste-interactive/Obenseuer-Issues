@@ -31,6 +31,10 @@
 
 * Fixed Fredrik's lab (issue [#5590](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5590))
 
+## Bazaar Restaurant
+
+* Added customers
+
 ## Intro
 
 * Fixed flashing text (issue [#5536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5536))
