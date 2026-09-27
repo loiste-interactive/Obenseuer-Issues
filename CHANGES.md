@@ -7,6 +7,7 @@
 * Fixed not being able to use vending machines (issue [#5603](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5603))
 * Fixed sauna achievement being impossible to get (issue [#5629](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5629))
 * Fixed welho achievement not triggering (issue [#5652](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5652))
+* Fixed some recipes being empty
 
 ## Tasks
 
