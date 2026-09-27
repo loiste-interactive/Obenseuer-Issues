@@ -33,6 +33,7 @@
 ## Recipes
 
 * Added Empty Wallet
+* Added Salted pork
 
 ## Bazaar
 
