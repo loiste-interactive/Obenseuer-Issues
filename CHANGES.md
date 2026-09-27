@@ -27,6 +27,8 @@
 
 * Added wallet
 * Added empty wallet
+* Added Salted Pork
+* Added Uncured Salted Pork
 
 ## Recipes
 
