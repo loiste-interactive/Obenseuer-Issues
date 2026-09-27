@@ -60,6 +60,10 @@
 
 * Added customers
 
+## Bazaar Bar
+
+* Added customers
+
 ## Intro
 
 * Fixed flashing text (issue [#5536](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5536))
