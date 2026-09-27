@@ -22,6 +22,11 @@
 
 * Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
 
+## Items
+
+* Added wallet
+* Added empty wallet
+
 ## Bazaar
 
 * Fixed invisible water at mine ramp
