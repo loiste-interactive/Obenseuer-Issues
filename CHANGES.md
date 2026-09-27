@@ -27,6 +27,10 @@
 * Added wallet
 * Added empty wallet
 
+## Recipes
+
+* Added Empty Wallet
+
 ## Bazaar
 
 * Fixed invisible water at mine ramp
