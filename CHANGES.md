@@ -10,6 +10,7 @@
 * Fixed some recipes being empty
 * Fixed several spelling issues
 * Fixed scene migration failing (issue [#5659](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5659))
+* Fixed some doors opening in the wrong direction
 
 ## Tasks
 
@@ -21,6 +22,9 @@
 * Fixed a bug where the police would not give chase (issue [#5598](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5598))
 * Fixed a bug where the police would be stuck chasing player, despite the player not doing any criminal activities (issue [#5592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5592))
 * Fixed a bug where NPCs were standing on chairs (issue [#5599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5599))
+* Fixed police following the player to prison after arresting them
+* Fixed police not reacting when the player hurts other NPCs
+* Fixed police still being able to arrest the player during scene transitions
 
 ## Console
 
@@ -47,6 +51,10 @@
 * Added Empty Wallet
 * Added Salted pork
 * Added Knife
+
+## Bazaar Jail
+
+* Fixed being unable to wait in prison when stats are too low
 
 ## Bazaar
 
