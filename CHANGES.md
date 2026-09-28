@@ -1,5 +1,7 @@
 # Upcoming
 
+* fixed some shops not opening correctly (issue [#5675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5675))
+
 # September 28th 2026 (Version 0.4.33 V2) - Public Playtest
 
 * Slowed down speedy delivery (issue [#5601](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5601))
