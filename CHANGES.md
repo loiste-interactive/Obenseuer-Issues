@@ -36,6 +36,7 @@
 
 * Added Empty Wallet
 * Added Salted pork
+* Added Knife
 
 ## Bazaar
 
