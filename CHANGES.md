@@ -59,6 +59,8 @@
 ## Bazaar
 
 * Fixed invisible water at mine ramp
+* Fixed invisible bench (issue [#5658](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5658))
+* Fixed Viljo's animation not being in sync (issue [#4537](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4537))
 
 ## Casino
 
