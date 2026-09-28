@@ -20,6 +20,13 @@
 * Fixed a bug where the police would be stuck chasing player, despite the player not doing any criminal activities (issue [#5592](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5592))
 * Fixed a bug where NPCs were standing on chairs (issue [#5599](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5599))
 
+## Console
+
+* Added list_tracked_tasks command
+* Added list_task_objectives command
+* Added set_task_status command
+* Added set_objective_status command
+
 ## Tenement System
 
 * Removed extra elevator (issue [#5594](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5594))
