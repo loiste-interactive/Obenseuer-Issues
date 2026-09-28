@@ -30,6 +30,7 @@
 * Added Salted Pork
 * Added Uncured Salted Pork
 * Added Gold Minitrain Miniature
+* Added Knife
 
 ## Recipes
 
