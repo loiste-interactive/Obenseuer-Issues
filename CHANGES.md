@@ -9,6 +9,7 @@
 * Fixed welho achievement not triggering (issue [#5652](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5652))
 * Fixed some recipes being empty
 * Fixed several spelling issues
+* Fixed scene migration failing (issue [#5659](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5659))
 
 ## Tasks
 
