@@ -6,6 +6,7 @@
 ## Tenement Area
 
 * Fixed canal not dirtifying player (issue [#5681](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5681))
+* Added ramps and adjusted ladder dismount position on under-bridge-hobo-area (issue [#5679](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5679))
 
 # September 28th 2026 (Version 0.4.33 V2) - Public Playtest
 
