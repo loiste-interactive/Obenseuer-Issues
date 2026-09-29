@@ -18,6 +18,8 @@
 ## Furniture
 
 * Added custom poster
+* Fixed the Shroomekko Wall Cloth origin
+* Updated the Shroomekko Wall Cloth display model
 
 # September 28th 2026 (Version 0.4.33 V2) - Public Playtest
 
