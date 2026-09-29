@@ -3,6 +3,10 @@
 * Fixed some shops not opening correctly (issue [#5675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5675))
 * Fixed some lights spamming erros (issue [#5677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5677))
 
+## Tenement System
+
+* Fixed huge workshop missing construction blocker (issue [#5572](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5572))
+
 ## Tenement Area
 
 * Fixed canal not dirtifying player (issue [#5681](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5681))
