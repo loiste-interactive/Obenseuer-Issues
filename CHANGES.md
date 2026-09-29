@@ -1,5 +1,7 @@
 # Upcoming
 
+# September 29th 2026 (Version 0.5.0) - Public Playtest
+
 * Fixed some shops not opening correctly (issue [#5675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5675))
 * Fixed some lights spamming erros (issue [#5677](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5677))
 * Fixed shop doors vanishing when opening (issue [#5673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5673))
