@@ -7,6 +7,8 @@
 ## Tenement System
 
 * Fixed huge workshop missing construction blocker (issue [#5572](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5572))
+* Fixed planters inside player apartment changing states (issue [#5676](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5676))
+* Fixed some residents remaining in their default spots after moving (issue [#5688](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5688))
 
 ## Tenement Area
 
