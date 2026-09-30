@@ -6,6 +6,7 @@
 ## Tasks
 
 * Fixed Vocational Education ending too soon (issue [#5699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5699))
+* Fixed showing the Welho seal to the bookstore owner during The True Welho duplicating it (issue [#5709](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5709))
 
 ## Recipes
 
@@ -19,6 +20,11 @@
 ## Bazaar
 
 * Fixed Jens hoarding stuff (issue [#5689](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5689))
+* Fixed glitchy entrance doors (issue [#5698](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5698))
+
+## Mines
+
+* Fixed being able to open the build menu in the mines entrance (issue [#5705](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5705))
 
 ## Pontikka
 
