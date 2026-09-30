@@ -9,6 +9,7 @@
 ## Pontikka
 
 * Fixed water source owenership
+* Fixed refigerator being full of Osmo Olut, not yeast
 
 # September 29th 2026 (Version 0.5.0) - Public Playtest
 
