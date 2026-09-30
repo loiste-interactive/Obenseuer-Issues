@@ -10,6 +10,7 @@
 ## Recipes
 
 * Fixed diesel recipes using whole bottle of bleach  (issue [#5687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5687))
+* Fixed recipe null error spam (issue [#5707](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5707))
 
 ## Furniture
 
