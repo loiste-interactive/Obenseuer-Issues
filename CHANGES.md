@@ -6,6 +6,10 @@
 
 * Fixed diesel recipes using whole bottle of bleach  (issue [#5687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5687))
 
+## Pontikka
+
+* Fixed water source owenership
+
 # September 29th 2026 (Version 0.5.0) - Public Playtest
 
 * Fixed some shops not opening correctly (issue [#5675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5675))
