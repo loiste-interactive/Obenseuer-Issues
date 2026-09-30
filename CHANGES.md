@@ -3,6 +3,10 @@
 * Fixed industrial mashing tuns having only 5 slots (issue [#5692](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5692))
 * Fixed Keski Uusimaa guys not having rent details (issue [#5702](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5702))
 
+## Tasks
+
+* Fixed Vocational Education ending too soon (issue [#5699](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5699))
+
 ## Recipes
 
 * Fixed diesel recipes using whole bottle of bleach  (issue [#5687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5687))
