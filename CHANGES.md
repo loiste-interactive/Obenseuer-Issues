@@ -6,6 +6,10 @@
 
 * Fixed diesel recipes using whole bottle of bleach  (issue [#5687](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5687))
 
+## Furniture
+
+* Fixed modern armchair missing collision
+
 ## Bazaar
 
 * Fixed Jens hoarding stuff (issue [#5689](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5689))
