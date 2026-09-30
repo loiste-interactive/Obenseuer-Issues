@@ -24,6 +24,10 @@
 
 * Fixer Larry being bit too chill (issue [#5700](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5700))
 
+## J-Kiosk
+
+* Fixed micro duct tape (issue [#5710](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5710))
+
 # September 29th 2026 (Version 0.5.0) - Public Playtest
 
 * Fixed some shops not opening correctly (issue [#5675](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5675))
