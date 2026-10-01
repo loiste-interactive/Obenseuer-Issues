@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Added more guild flags
+
 ## Metal Shop
 
 * Fixed a duplicated Larry Goatbridge (issue [#5725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5725))
