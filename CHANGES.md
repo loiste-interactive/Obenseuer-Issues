@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed being able to buy the house multiple times (issue [#5736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5736))
+
 ## Furniture
 
 * Added more guild flags
