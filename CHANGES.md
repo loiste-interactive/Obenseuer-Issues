@@ -12,6 +12,10 @@
 * Added more guild flags
 * Added some gaming and hi-fi furniture
 
+## Recipes
+
+* Added clear glass bottles
+
 ## Metal Shop
 
 * Fixed a duplicated Larry Goatbridge (issue [#5725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5725))
