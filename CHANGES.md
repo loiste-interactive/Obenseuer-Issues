@@ -10,6 +10,7 @@
 ## Furniture
 
 * Added more guild flags
+* Added some gaming and hi-fi furniture
 
 ## Metal Shop
 
