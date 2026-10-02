@@ -5,6 +5,7 @@
 * Fixed sittign on closing toilets breaking neck (issue [#5724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5724))
 * Fixed npc getting stuck during the card game (issue [#5746](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5746))
 * Fixed the camera snapping to the side after sitting down
+* Fixed cats resetting to static default pose upon loading (issue [#5723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5723))
 
 ## NPCs
 
