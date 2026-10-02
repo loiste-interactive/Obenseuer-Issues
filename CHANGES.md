@@ -51,6 +51,10 @@
 
 * Fixed a duplicated Larry Goatbridge (issue [#5725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5725))
 
+## Bazaar Jail
+
+* Fixed Lätty not liking cellmates (issue [#5731](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5731))
+
 # September 30th 2026 (Version 0.5.0)
 
 * Fixed industrial mashing tuns having only 5 slots (issue [#5692](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5692))
