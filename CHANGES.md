@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed Special Delivery being incorrectly marked as un-completeable.
+
 ## NPCs
 
 * Fixed Jesper Kumpula using a shovel to eat pea soup
