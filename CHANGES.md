@@ -11,6 +11,7 @@
 ## Tasks
 
 * Fixed being able to buy the house multiple times (issue [#5736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5736))
+* Fixed Welhö getting stuck during the card game (issue [#5743](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5743))
 
 ## Furniture
 
