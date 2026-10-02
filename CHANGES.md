@@ -6,6 +6,7 @@
 * Fixed npc getting stuck during the card game (issue [#5746](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5746))
 * Fixed the camera snapping to the side after sitting down
 * Fixed cats resetting to static default pose upon loading (issue [#5723](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5723))
+* Fixed portable phone SIM card getting removed after calling (issue [#5729](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5729))
 
 ## NPCs
 
