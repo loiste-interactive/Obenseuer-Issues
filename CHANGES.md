@@ -31,6 +31,8 @@
 ## Player Tenement
 
 * Fixed apartments being marked as not cleaned after being upgraded
+* Fixed lower contractor upgrade reminders not getting removed after a better upgrade is installed (issue [#5716](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5716))
+* Fixed not being able to remove contractor upgrade marks (issue [#5714](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5714))
 * Fixed cats occupying nearby chairs (issue [#5706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5706))
 * Removed a light source from Apartment 5 (issue [#5747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5747))
 
