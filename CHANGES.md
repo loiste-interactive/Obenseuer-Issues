@@ -3,6 +3,10 @@
 * Fixed sittign on closing toilets breaking neck. (issue [#5724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5724))
 * Updated some old character models
 
+## NPCs
+
+* Fixed the Crazy Neighbor not answering the doorbell even when he's at home (issue [#5728](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5728))
+
 ## Tasks
 
 * Fixed being able to buy the house multiple times (issue [#5736](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5736))
