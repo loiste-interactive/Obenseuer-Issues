@@ -1,6 +1,7 @@
 # Upcoming
 
-* Fixed sittign on closing toilets breaking neck. (issue [#5724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5724))
+* Fixed sittign on closing toilets breaking neck (issue [#5724](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5724))
+* Fixed npc getting stuck during the card game (issue [#5746](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5746))
 * Updated some old character models
 
 ## NPCs
