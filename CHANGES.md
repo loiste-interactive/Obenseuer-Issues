@@ -27,6 +27,10 @@
 
 * Removed a light source from Apartment 5 (issue [#5747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5747))
 
+## Murju A
+
+* Fixed a flea market door opening in the wrong direction (issue [#5744](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5744))
+
 ## Metal Shop
 
 * Fixed a duplicated Larry Goatbridge (issue [#5725](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5725))
