@@ -1,5 +1,9 @@
 # Upcoming
 
+## NPCs
+
+* Fixed Jesper Kumpula using a shovel to eat pea soup
+
 # October 2nd 2026 (Version 0.5.01) - Hotfix - Public Playtest
 
 * Added dynamic adjustment of shadow resolution based on distance. (Should help with frames!)
