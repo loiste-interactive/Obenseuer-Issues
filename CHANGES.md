@@ -24,6 +24,10 @@
 
 * Added clear glass bottles
 
+## Bazaar
+
+* Optimized lights
+
 ## Player Tenement
 
 * Fixed cats occupying nearby chairs (issue [#5706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5706))
