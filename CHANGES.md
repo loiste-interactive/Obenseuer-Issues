@@ -30,6 +30,7 @@
 
 ## Player Tenement
 
+* Fixed apartments being marked as not cleaned after being upgraded
 * Fixed cats occupying nearby chairs (issue [#5706](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5706))
 * Removed a light source from Apartment 5 (issue [#5747](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5747))
 
