@@ -22,6 +22,10 @@
 * Added more guild flags
 * Added some gaming and hi-fi furniture
 
+## Items
+
+* Updated some liquid container world models so that the visible liquid level matches the amount of liquid inside
+
 ## Recipes
 
 * Added clear glass bottles
