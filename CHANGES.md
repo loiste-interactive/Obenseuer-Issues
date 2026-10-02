@@ -35,6 +35,10 @@
 
 * Optimized lights
 
+## Mines
+
+* Fixed a bug causing low FPS in mines (issue [#5752](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5752))
+
 ## Player Tenement
 
 * Fixed apartments being marked as not cleaned after being upgraded
