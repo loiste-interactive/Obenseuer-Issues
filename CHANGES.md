@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed Welho's place being marked as Karl's place (issue [#5796](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5796))
+* Fixed lights flickering
 
 ## Tasks
 
