@@ -10,6 +10,7 @@
 ## NPCs
 
 * Fixed Jesper Kumpula using a shovel to eat pea soup
+* Fixed Kari Hämäläinen alias Toivo Malmijoki
 
 ## Items
 
