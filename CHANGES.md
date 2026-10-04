@@ -11,6 +11,10 @@
 
 * Fixed Jesper Kumpula using a shovel to eat pea soup
 
+## Items
+
+* Fixed being able to recharge cleaning spray with trash (issue [#5777](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5777))
+
 ## Tenement area
 
 * Fixed flickering searchlights
