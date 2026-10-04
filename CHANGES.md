@@ -26,6 +26,7 @@
 * Fixed some furniture missing from console
 * Fixed fancy wooden desk spawning items
 * Fixed rolling machine not being usable
+* Fixed stoves missing 'clean modifer'
 
 ## Tenement area
 
