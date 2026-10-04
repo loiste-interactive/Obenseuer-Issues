@@ -9,6 +9,7 @@
 
 ## NPCs
 
+* Added tip about using mine loaders
 * Fixed Jesper Kumpula using a shovel to eat pea soup
 * Fixed Kari Hämäläinen alias Toivo Malmijoki
 
