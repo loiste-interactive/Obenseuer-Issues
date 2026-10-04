@@ -1,6 +1,7 @@
 # Upcoming
 
 * New skill achievements are now triggered for old saves, if skill is already maxed
+* Optimized light optimization system
 * Fixed Welho's place being marked as Karl's place (issue [#5796](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5796))
 * Fixed lights flickering
 * Fixed doors opening in wrong direction
