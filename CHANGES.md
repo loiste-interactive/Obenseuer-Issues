@@ -19,6 +19,10 @@
 
 * Optimized lights
 
+## Slumshack 3
+
+* Fixed Mikeal selling but not selling (issue [#5786](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5786))
+
 # October 2nd 2026 (Version 0.5.01) - Hotfix - Public Playtest
 
 * Added dynamic adjustment of shadow resolution based on distance. (Should help with frames!)
