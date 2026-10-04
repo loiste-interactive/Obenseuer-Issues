@@ -21,6 +21,11 @@
 * Lighter can now be filled with ignition fluid
 * Fixed being able to recharge cleaning spray with trash (issue [#5777](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5777))
 
+## Furniture
+
+* Fixed some furniture missing from console
+* Fixed fancy wooden desk spawning items
+
 ## Tenement area
 
 * Fixed flickering searchlights
