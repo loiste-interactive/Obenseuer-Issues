@@ -47,6 +47,10 @@
 
 * Fixed Alex requiring passport in jail (issue [#5713](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5713))
 
+## Bazaar Restaurant
+
+* Fixed Tonie Savisaar not having enough money to buy candy (issue [#5816](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5816))
+
 # October 2nd 2026 (Version 0.5.01) - Hotfix - Public Playtest
 
 * Added dynamic adjustment of shadow resolution based on distance. (Should help with frames!)
