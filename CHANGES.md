@@ -13,6 +13,7 @@
 * Fixed washing stolen container changing the liquid quality (issue [#5787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5787))
 * Fixed a bug where bottles needed to be clicked several times to be filled at sinks (issue [#5778](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5778))
 * Fixed free backpack exploit (issue [#5769](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5769))
+* Fixed pop-up hints being able to appear during dialogues (issue [#5821](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5821))
 
 ## Tasks
 
