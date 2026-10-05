@@ -10,6 +10,7 @@
 * Fixed passing out while crafting not speeding up time (issue [#5800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5800))
 * Fixed unsuccessfully dragging an item(flashlight) out of a wearable slot making the item unusable (issue [#5803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5803))
 * Fixed refresh rate display options setting (issue [#5779](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5779))
+* Fixed washing stolen container changing the liquid quality (issue [#5787](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5787))
 
 ## Tasks
 
