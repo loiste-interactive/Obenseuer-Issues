@@ -46,6 +46,11 @@
 * Fixed rolling machine not being usable
 * Fixed stoves missing 'clean modifer'
 
+## Mines
+
+* Fixed driving the minitrain sometimes causing the game to glitch (issue [#5766](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5766))
+* Fixed the lights sometimes not working while driving the minitrain (issue [#5766](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5766))
+
 ## Tenement area
 
 * Fixed flickering searchlights
