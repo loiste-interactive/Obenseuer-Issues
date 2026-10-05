@@ -30,6 +30,10 @@
 * Fixed Rob Madsen not giving the player the key to the toilet
 * Fixed Raimo Stalreg not wearing his bandana in spa
 
+## Crafting
+
+* Changed furniture crafting to show the required skill when there aren't enough resources and the player's skill isn't high enough (issue [#5825](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5825))
+
 ## Items
 
 * Lighter can now be filled with ignition fluid
