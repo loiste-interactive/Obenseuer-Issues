@@ -8,7 +8,8 @@
 
 ## Tasks
 
-* Fixed Special Delivery being incorrectly marked as un-completeable.
+* Fixed Special Delivery being incorrectly marked as un-completeable
+* Fixed Heikki Mailanen not giving the player his fingers
 
 ## NPCs
 
