@@ -6,6 +6,8 @@
 * Fixed lights flickering
 * Fixed doors opening in wrong direction
 * Fixed the custom difficulty "Prices" modifier not affecting furniture prices (issue [#5807](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5807))
+* Fixed not being able to swap flashlight (issue [#5804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5804))
+* Fixed passing out while crafting not speeding up time (issue [#5800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5800))
 
 ## Tasks
 
