@@ -20,6 +20,7 @@
 * Fixed Heikki Mailanen not giving the player his fingers
 * Fixed Casino Coup not getting completed (issue [#5784](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5784))
 * Fixed Ines Hietala not spawning during quest (issue [#5771](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5771))
+* Fixed screen shake when talking to Kaisa Wirta (issue [#5764](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5764))
 
 ## NPCs
 
