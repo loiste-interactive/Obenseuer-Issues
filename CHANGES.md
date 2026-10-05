@@ -47,6 +47,10 @@
 * Fixed rolling machine not being usable
 * Fixed stoves missing 'clean modifer'
 
+## Bazaar
+
+* Fixed the mailbox not becoming the player's property after purchasing the Bazaar house (issue [#5818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5818))
+
 ## Mines
 
 * Fixed driving the minitrain sometimes causing the game to glitch (issue [#5766](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5766))
