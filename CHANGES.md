@@ -51,6 +51,7 @@
 
 * Fixed driving the minitrain sometimes causing the game to glitch (issue [#5766](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5766))
 * Fixed the lights sometimes not working while driving the minitrain (issue [#5766](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5766))
+* Fixed Kalle Suutari not marking the potato mine on the map (issue [#5791](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5791))
 
 ## Tenement area
 
