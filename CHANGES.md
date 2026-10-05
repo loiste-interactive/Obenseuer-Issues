@@ -14,6 +14,7 @@
 
 * Fixed Special Delivery being incorrectly marked as un-completeable
 * Fixed Heikki Mailanen not giving the player his fingers
+* Fixed Casino Coup not getting completed (issue [#5784](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5784))
 
 ## NPCs
 
