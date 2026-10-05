@@ -14,5 +14,6 @@ If you'd like to discuss the game with fellow players, you can join the Obenseue
 * For non trivial bugs it's good to provide logs and a save file found from "C:\Users\ [username] \AppData\LocalLow\Loiste Interactive\Obenseuer"
 * Please include the version of the game into the report (can be seen in the bottom of pausemenu)
 * Please also state if the save originates from current version or previous ones.
+* Please state if the game is modded, and what mods are used.
 * Please make individual issues for separate bugs, do not list separate issues together
 * For performance related issues and crashes, also include your computer specs
