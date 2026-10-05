@@ -8,6 +8,7 @@
 * Fixed the custom difficulty "Prices" modifier not affecting furniture prices (issue [#5807](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5807))
 * Fixed not being able to swap flashlight (issue [#5804](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5804))
 * Fixed passing out while crafting not speeding up time (issue [#5800](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5800))
+* Fixed unsuccessfully dragging an item(flashlight) out of a wearable slot making the item unusable (issue [#5803](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5803))
 
 ## Tasks
 
