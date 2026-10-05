@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 5th 2026 (Version 0.5.02) - Hotfix - Public Playtest
+
 * New skill achievements are now triggered for old saves, if skill is already maxed
 * Optimized light optimization system
 * Fixed Welho's place being marked as Karl's place (issue [#5796](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5796))
@@ -78,7 +80,7 @@
 
 * Fixed Tonie Savisaar not having enough money to buy candy (issue [#5816](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5816))
 
-# October 2nd 2026 (Version 0.5.01) - Hotfix - Public Playtest
+# October 2nd 2026 (Version 0.5.01) - Hotfix
 
 * Added dynamic adjustment of shadow resolution based on distance. (Should help with frames!)
 * Updated some old character models
