@@ -16,6 +16,7 @@
 * Fixed Jesper Kumpula using a shovel to eat pea soup
 * Fixed Kari Hämäläinen alias Toivo Malmijoki
 * Fixed Rob Madsen not giving the player the key to the toilet
+* Fixed Raimo Stalreg not wearing his bandana in spa
 
 ## Items
 
