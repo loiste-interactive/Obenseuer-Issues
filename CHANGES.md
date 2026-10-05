@@ -50,6 +50,7 @@
 ## Bazaar
 
 * Fixed the mailbox not becoming the player's property after purchasing the Bazaar house (issue [#5818](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5818))
+* Fixed climbing the stairs to Scatola making the world disappear (issue [#5805](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5805))
 
 ## Mines
 
