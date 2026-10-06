@@ -10,7 +10,7 @@
 
 * Fixed not always stocking (issue [#5868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5868))
 
-# October 6th 2026 (Version 0.5.03) - Public Playtest
+# October 6th 2026 (Version 0.5.03)
 
 * Updated some old character models
 * Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834))
