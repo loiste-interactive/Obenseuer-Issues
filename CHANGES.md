@@ -1,3 +1,9 @@
+# Upcoming Next
+
+## Gold Shop
+
+* Added security guard
+
 # Upcoming
 
 * Updated some old character models
