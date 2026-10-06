@@ -12,6 +12,10 @@
 
 * Fixed 'Wineglasses Copy' (issue [#5854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5854)
 
+## Furniture
+
+* Added Styrofoam Cooler
+
 ## Bazaar Bar
 
 * Fixed Anneli not always having stock (issue [#5843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5843)
