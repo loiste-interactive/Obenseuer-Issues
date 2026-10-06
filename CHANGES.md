@@ -4,6 +4,10 @@
 
 * Added security guard
 
+## Butcher Shop
+
+* Fixed not always stocking (issue [#5868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5868))
+
 # Upcoming
 
 * Updated some old character models
