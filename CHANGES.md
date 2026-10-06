@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834)
+
 # October 5th 2026 (Version 0.5.02) - Hotfix - Public Playtest
 
 * New skill achievements are now triggered for old saves, if skill is already maxed
