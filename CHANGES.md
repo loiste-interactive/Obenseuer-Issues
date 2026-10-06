@@ -16,6 +16,10 @@
 
 * Added Styrofoam Cooler
 
+## Bazaar 
+
+* Fixed nav mesh not covering whole map
+
 ## Bazaar Bar
 
 * Fixed Anneli not always having stock (issue [#5843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5843)
