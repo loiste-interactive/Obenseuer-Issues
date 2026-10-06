@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834)
+* Fixed Ines being capable of reporting crimes (issue [#5852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5852)
 
 ## Bazaar Bar
 
