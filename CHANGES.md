@@ -15,6 +15,10 @@
 
 * Fixed betting menu
 
+## Metro
+
+* Fixed lights not updating (issue [#5836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5836)
+
 # October 5th 2026 (Version 0.5.02) - Hotfix - Public Playtest
 
 * New skill achievements are now triggered for old saves, if skill is already maxed
