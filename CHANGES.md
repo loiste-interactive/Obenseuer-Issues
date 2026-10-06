@@ -4,6 +4,10 @@
 * Fixed Ines being capable of reporting crimes (issue [#5852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5852)
 * Fixed elevator cabins becoming out of sync of their position when seve is loaded.
 
+## Tenement System
+
+* Fixed lvl2 elevator light (issue [#5850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5850)
+
 ## Recipes
 
 * Fixed 'Wineglasses Copy' (issue [#5854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5854)
