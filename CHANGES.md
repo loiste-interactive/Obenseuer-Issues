@@ -1,17 +1,17 @@
 # Upcoming
 
 * Updated some old character models
-* Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834)
-* Fixed Ines being capable of reporting crimes (issue [#5852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5852)
+* Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834))
+* Fixed Ines being capable of reporting crimes (issue [#5852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5852))
 * Fixed elevator cabins becoming out of sync of their position when seve is loaded.
 
 ## Tenement System
 
-* Fixed lvl2 elevator light (issue [#5850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5850)
+* Fixed lvl2 elevator light (issue [#5850](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5850))
 
 ## Recipes
 
-* Fixed 'Wineglasses Copy' (issue [#5854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5854)
+* Fixed 'Wineglasses Copy' (issue [#5854](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5854))
 
 ## Furniture
 
@@ -23,7 +23,7 @@
 
 ## Bazaar Bar
 
-* Fixed Anneli not always having stock (issue [#5843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5843)
+* Fixed Anneli not always having stock (issue [#5843](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5843))
 
 ## Ratfights
 
@@ -31,7 +31,7 @@
 
 ## Metro
 
-* Fixed lights not updating (issue [#5836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5836)
+* Fixed lights not updating (issue [#5836](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5836))
 
 # October 5th 2026 (Version 0.5.02) - Hotfix - Public Playtest
 
