@@ -2,6 +2,10 @@
 
 * Fixed police and CN not being able to enter some interiors
 
+## Main Menu
+
+* Fixed null error spam
+
 ## Gold Shop
 
 * Added security guard
