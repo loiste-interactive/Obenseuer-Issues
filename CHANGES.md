@@ -1,6 +1,4 @@
-# Upcoming Next
-
-# October 6th 2026 (Version 0.5.03) - Public Playtest
+# Upcoming
 
 ## Gold Shop
 
@@ -10,7 +8,7 @@
 
 * Fixed not always stocking (issue [#5868](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5868))
 
-# Upcoming
+# October 6th 2026 (Version 0.5.03) - Public Playtest
 
 * Updated some old character models
 * Fixed error spam in main menu (issue [#5834](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5834))
