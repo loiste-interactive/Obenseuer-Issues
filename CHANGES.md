@@ -1,5 +1,7 @@
 # Upcoming
 
+' Fixed police and CN not being able to enter some interiors
+
 ## Gold Shop
 
 * Added security guard
