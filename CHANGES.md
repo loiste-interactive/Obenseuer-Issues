@@ -1,6 +1,6 @@
 # Upcoming
 
-' Fixed police and CN not being able to enter some interiors
+* Fixed police and CN not being able to enter some interiors
 
 ## Gold Shop
 
