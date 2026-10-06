@@ -5,6 +5,7 @@
 * Fixed Ines being capable of reporting crimes (issue [#5852](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5852))
 * Fixed elevator cabins becoming out of sync of their position when seve is loaded.
 * Fixed not being able to pay loans (issue [#5863](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5863))
+* Fixed furniture crafting not detecting some items in backpacks (issue [#5864](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5864))
 
 ## Tenement System
 
