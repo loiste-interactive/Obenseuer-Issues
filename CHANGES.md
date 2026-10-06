@@ -1,5 +1,7 @@
 # Upcoming Next
 
+# October 6th 2026 (Version 0.5.03) - Public Playtest
+
 ## Gold Shop
 
 * Added security guard
