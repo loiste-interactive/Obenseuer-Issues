@@ -3,7 +3,7 @@
 * Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
 * Fixed police and CN not being able to enter some interiors
 
-##  NPCs
+## NPCs
 
 * Improved animal navigation so that they don't get stuck
 
@@ -14,6 +14,10 @@
 * Changed Crossseven to sort by land
 * Changed in-game time to pass slower while playing card games
 * Fixed sorting button text not appearing when it should
+
+## Difficulty Settings
+
+* Added a stack size setting to the difficulty menu
 
 ## Main Menu
 
