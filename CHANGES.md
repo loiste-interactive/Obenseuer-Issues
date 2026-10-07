@@ -2,6 +2,14 @@
 
 * Fixed police and CN not being able to enter some interiors
 
+## Card Games
+
+* Added a hints pop-up window (issue [#5845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5845))
+* Added controller support
+* Changed Crossseven to sort by land
+* Changed in-game time to pass slower while playing card games
+* Fixed sorting button text not appearing when it should
+
 ## Main Menu
 
 * Fixed null error spam
