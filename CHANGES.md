@@ -2,6 +2,7 @@
 
 * Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
 * Fixed police and CN not being able to enter some interiors
+* Fixed toilet paper not being used from backpack (issue [#5865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5865))
 
 ## NPCs
 
