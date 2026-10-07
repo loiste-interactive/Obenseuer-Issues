@@ -3,6 +3,10 @@
 * Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
 * Fixed police and CN not being able to enter some interiors
 
+##  NPCs
+
+* Improved animal navigation so that they don't get stuck
+
 ## Card Games
 
 * Added a hints pop-up window (issue [#5845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5845))
