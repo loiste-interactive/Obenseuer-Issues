@@ -16,6 +16,10 @@
 * Changed in-game time to pass slower while playing card games
 * Fixed sorting button text not appearing when it should
 
+## Tasks
+
+* Fixed being able to finish dialogue too early in the Bank Robber quest (issue [#5869](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5869))
+
 ## Difficulty Settings
 
 * Added a stack size setting to the difficulty menu
