@@ -32,6 +32,10 @@
 
 * Fixed null error spam
 
+## Intro
+
+* Fixed being able to get several instructions appearing at the same time (issue [#5900](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5900))
+
 ## Gold Shop
 
 * Added security guard
