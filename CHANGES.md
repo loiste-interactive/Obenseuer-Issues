@@ -20,6 +20,10 @@
 
 * Added a stack size setting to the difficulty menu
 
+## Items
+
+* Fixed the handheld console showing "No SIM" under its description (issue [#5853](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5853))
+
 ## Main Menu
 
 * Fixed null error spam
