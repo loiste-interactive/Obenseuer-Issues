@@ -1,5 +1,6 @@
 # Upcoming
 
+* Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
 * Fixed police and CN not being able to enter some interiors
 
 ## Card Games
