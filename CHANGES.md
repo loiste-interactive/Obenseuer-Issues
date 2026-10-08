@@ -14,6 +14,10 @@
 * Fixed Henrik always giving pea soup (issue [#5916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5916))
 * Fixed NPCs sometimes being unable to move through doors
 
+## Furniture
+
+* Added Custom Mousepad
+
 ## Tenement System
 
 * Fixed floor grates and some other attachment points not working (issue [#5887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5887))
