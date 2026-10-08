@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Fixed trash bale collision size (issue [#5935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5935))
+
 # October 8th 2026 (Version 0.5.04) - Public Playtest
 
 * Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
