@@ -13,6 +13,7 @@
 * Improved animal navigation so that they don't get stuck
 * Fixed Henrik always giving pea soup (issue [#5916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5916))
 * Fixed NPCs sometimes being unable to move through doors
+* Fixed the guard having the wrong appearance (issue [#5929](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5929))
 
 ## Furniture
 
