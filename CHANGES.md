@@ -5,6 +5,7 @@
 * Fixed toilet paper not being used from backpack (issue [#5865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5865))
 * Changed upgrade types to be grayed out in the tenement blueprint menu if the contractor doesn't do them (issue [#5882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5882))
 * Changed furniture blueprints to show the furniture icon on top of the blueprint icon (issue [#5827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5827))
+* Fixed new stoves lacking clean modifier (issue [#5921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5921))
 
 ## NPCs
 
