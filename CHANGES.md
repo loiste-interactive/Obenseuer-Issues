@@ -22,7 +22,9 @@
 
 ## Tasks
 
+* Added ability to ask from Gustav where Jane is
 * Fixed being able to finish dialogue too early in the Bank Robber quest (issue [#5869](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5869))
+* Fixed Special Delivery not getting completed
 
 ## Difficulty Settings
 
