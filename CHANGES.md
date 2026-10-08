@@ -3,9 +3,10 @@
 * Fixed interaction text hovering above the crosshair (issue [#5892](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5892))
 * Fixed police and CN not being able to enter some interiors
 * Fixed toilet paper not being used from backpack (issue [#5865](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5865))
+* Fixed new stoves lacking clean modifier (issue [#5921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5921))
+* Fixed scenes resetting sometimes if the save folder's capitalization differs from the character's name (issue [#5926](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5926))
 * Changed upgrade types to be grayed out in the tenement blueprint menu if the contractor doesn't do them (issue [#5882](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5882))
 * Changed furniture blueprints to show the furniture icon on top of the blueprint icon (issue [#5827](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5827))
-* Fixed new stoves lacking clean modifier (issue [#5921](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5921))
 
 ## NPCs
 
