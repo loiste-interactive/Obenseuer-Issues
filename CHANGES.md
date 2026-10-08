@@ -12,6 +12,10 @@
 * Improved animal navigation so that they don't get stuck
 * Fixed Henrik always giving pea soup (issue [#5916](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5916))
 
+## Tenement System
+
+* Fixed floor grates and some other attachment points not working (issue [#5887](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5887))
+
 ## Card Games
 
 * Added a hints pop-up window (issue [#5845](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5845))
