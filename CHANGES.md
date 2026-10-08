@@ -1,5 +1,7 @@
 # Upcoming
 
+* Gold shop guard now only cares about crimes being committed in the gold shop.
+
 ## Items
 
 * Fixed trash bale collision size (issue [#5935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5935))
