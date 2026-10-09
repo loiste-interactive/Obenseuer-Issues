@@ -15,6 +15,7 @@
 
 * Added Desk Mat
 * Added Custom Desk Mat
+* Fixed most furniture crafting recipes being set to take 1-5 minutes (issue [#5873](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5873))
 
 ## Items
 
