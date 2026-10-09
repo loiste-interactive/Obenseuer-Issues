@@ -1,6 +1,10 @@
 # Upcoming
 
-* Gold shop guard now only cares about crimes being committed in the gold shop.
+* Gold shop guard now only cares about crimes being committed in the gold shop
+
+## Console
+
+* Fixed new log lines causing the console view to scroll to the bottom
 
 ## Items
 
