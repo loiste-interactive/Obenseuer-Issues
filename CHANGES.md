@@ -13,6 +13,7 @@
 ## Furniture
 
 * Added Desk Mat
+* Added Custom Desk Mat
 
 ## Items
 
