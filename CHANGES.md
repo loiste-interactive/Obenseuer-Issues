@@ -6,6 +6,10 @@
 
 * Fixed new log lines causing the console view to scroll to the bottom
 
+## Tasks
+
+* Fixed the Abandoned Tenement task not getting completed
+
 ## Furniture
 
 * Added Desk Mat
