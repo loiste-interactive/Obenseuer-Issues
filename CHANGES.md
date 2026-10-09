@@ -1,6 +1,7 @@
 # Upcoming
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
+* Fixed the police causing lag (issue [#5937](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5937))
 
 ## Console
 
