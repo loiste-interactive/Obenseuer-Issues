@@ -6,6 +6,10 @@
 
 * Fixed new log lines causing the console view to scroll to the bottom
 
+## Furniture
+
+* Added Desk Mat
+
 ## Items
 
 * Fixed trash bale collision size (issue [#5935](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5935))
