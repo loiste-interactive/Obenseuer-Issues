@@ -12,6 +12,10 @@
 
 * Added candles
 
+## Tenement System
+
+* Fixed makeshift walls windows not windowing (issue [#5954](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5954))
+
 ## Rob-In
 
 * Fixed Trap-In (issue [#5946](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5946))
