@@ -1,5 +1,9 @@
 # Upcoming
 
+## Recipes
+
+* Fixed double layered Plörö bottles (issue [#5941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5941))
+
 ## Furniture
 
 * Added candles
