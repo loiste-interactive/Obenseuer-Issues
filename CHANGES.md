@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Chickens are now more valuable
+
 ## Recipes
 
 * Fixed double layered Plörö bottles (issue [#5941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5941))
