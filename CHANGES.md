@@ -1,5 +1,13 @@
 # Upcoming
 
+## Furniture
+
+* Added candles
+
+## Blueprint
+
+* Added candles
+
 # October 10th 2026 (Version 0.5.05)
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
