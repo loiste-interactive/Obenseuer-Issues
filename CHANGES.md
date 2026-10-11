@@ -1,6 +1,6 @@
 # Upcoming
 
-* Fixed orange mushrooms sometimes causing extreme amount of lag (Especially in the mines and the Shroom Farm Apartment).
+* Fixed being high on orange shrooms causing extreme amount of lag (Especially in the mines and the Shroom Farm Apartment).
 
 ## Tasks
 
