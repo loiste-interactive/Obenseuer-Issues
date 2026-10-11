@@ -16,6 +16,7 @@
 ## Furniture
 
 * Added candles
+* Fixed CN putting stuff into fancy wooden boxes (issue [#5969](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5969))
 
 ## Blueprint
 
