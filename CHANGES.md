@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed orange mushrooms sometimes causing extreme amount of lag (Especially in the mines and the Shroom Farm Apartment).
+
 ## Tasks
 
 * Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
