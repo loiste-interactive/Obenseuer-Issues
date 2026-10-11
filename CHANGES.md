@@ -36,6 +36,10 @@
 
 * Fixed first floor lights (issue [#5952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5952))
 
+## Mentti A
+
+* Fixed door near passmore not being lockpickable.
+
 # October 10th 2026 (Version 0.5.05)
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
