@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tasks
+
+* Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
+
 ## Items
 
 * Chickens are now more valuable
