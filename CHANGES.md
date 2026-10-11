@@ -31,6 +31,10 @@
 
 * Fixed Trap-In (issue [#5946](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5946))
 
+## Murju B
+
+* Fixed first floor lights (issue [#5952](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5952))
+
 # October 10th 2026 (Version 0.5.05)
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
