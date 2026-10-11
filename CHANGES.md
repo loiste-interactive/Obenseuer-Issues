@@ -26,6 +26,7 @@
 ## Tenement System
 
 * Fixed makeshift walls windows not windowing (issue [#5954](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5954))
+* Fixed kitchen stove lacking clean modifier (issue [#5973](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5973))
 
 ## Rob-In
 
