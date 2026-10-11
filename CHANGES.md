@@ -3,6 +3,7 @@
 ## Items
 
 * Chickens are now more valuable
+* Fixed processed perch(es) being stackable
 
 ## Recipes
 
