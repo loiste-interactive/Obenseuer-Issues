@@ -2,6 +2,7 @@
 
 * Fixed being high on orange shrooms and using Osrat causing extreme amount of lag (Especially in the mines and the Shroom Farm Apartment).
 * Fixed the farming skill not affecting some growable products, such as apples (issue [#6003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6003))
+* Fixed liquid storage containers respawning their contents after every load (issue [#5997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5997))
 
 ## Tasks
 
