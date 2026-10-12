@@ -6,6 +6,10 @@
 
 * Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
 
+## NPCs
+
+* Fixed Olle Leino using old character model when becoming tenant (issue [#6004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6004))
+
 ## Items
 
 * Chickens are now more valuable
