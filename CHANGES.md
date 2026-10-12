@@ -4,6 +4,7 @@
 * Fixed the farming skill not affecting some growable products, such as apples (issue [#6003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6003))
 * Fixed liquid storage containers respawning their contents after every load (issue [#5997](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5997))
 * Fixed a bug that could prevent saves from older versions from being migrated/loaded (issue [#5998](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5998))
+* Fixed broken chickens (issue [#5970](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5970))
 * Changed borderless mode so the game no longer get minimized (issue [#5987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5987))
 
 ## Tasks
