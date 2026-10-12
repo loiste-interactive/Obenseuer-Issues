@@ -7,6 +7,7 @@
 * Fixed broken chickens (issue [#5970](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5970))
 * Changed borderless mode so the game no longer get minimized (issue [#5987](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5987))
 * Fixed Anatoli's story not always triggering
+* Fixed amount of light flickering when moving between rooms
 
 ## Tasks
 
