@@ -77,6 +77,7 @@
 ## Jail
 
 * Added ability to ask Warden for supplies, and time to release.
+* Added release announcement with info about stored items.
 
 # October 10th 2026 (Version 0.5.05)
 
