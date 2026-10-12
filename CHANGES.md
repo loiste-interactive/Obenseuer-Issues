@@ -12,6 +12,12 @@
 * Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
 * Fixed the Abandoned Tenement task still not getting completed (issue [#5974](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5974))
 
+## Furniture Crafting
+
+* Adjusted furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+* Skills now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+* Orange mushrooms now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+
 ## Tenement System
 
 * Fixed the apartment cleared not getting updated sometimes (issue [#6006](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6006))
