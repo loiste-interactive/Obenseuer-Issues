@@ -10,6 +10,7 @@
 * Fixed amount of light flickering when moving between rooms
 * Fixed moving between cells in jail leaving items in old cell's locker and unlocking the new empty locker when being released.
 * Fixed the firewood guy restocking tenement firewood even if not agreed to.
+* Fixed toggleable light memory leak (issue [#5991](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5991))
 
 ## Tasks
 
