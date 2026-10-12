@@ -82,6 +82,10 @@
 * Added ability to ask Warden for supplies, and time to release.
 * Added release announcement with info about stored items.
 
+# Bookstore
+
+* Fixed Aune sitting not sitting
+
 # October 10th 2026 (Version 0.5.05)
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
