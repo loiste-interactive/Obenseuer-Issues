@@ -74,6 +74,10 @@
 
 * Fixed door near passmore not being lockpickable.
 
+## Jail
+
+* Added ability to ask Warden for supplies, and time to release.
+
 # October 10th 2026 (Version 0.5.05)
 
 * Gold shop guard now only cares about crimes being committed in the gold shop
