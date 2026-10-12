@@ -41,6 +41,7 @@
 * Fixed processed perch(es) being stackable
 * Fixed Sake Junior (issue [#5983](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5983))
 * Changed new phones to be pre-charged (issue [#5844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5844))
+* Stepping in shit now makes the player dirty
 
 ## Recipes
 
