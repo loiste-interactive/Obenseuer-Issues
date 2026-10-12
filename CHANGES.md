@@ -9,6 +9,7 @@
 * Fixed Anatoli's story not always triggering
 * Fixed amount of light flickering when moving between rooms
 * Fixed moving between cells in jail leaving items in old cell's locker and unlocking the new empty locker when being released.
+* Fixed the firewood guy restocking tenement firewood even if not agreed to.
 
 ## Tasks
 
