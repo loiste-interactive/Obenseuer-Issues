@@ -13,6 +13,11 @@
 * Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
 * Fixed the Abandoned Tenement task still not getting completed (issue [#5974](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5974))
 
+## Difficulty Settings
+
+* Added difficulty setting descriptions
+* Added crafting time difficulty settings (issue [#5980](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5980))
+
 ## Furniture Crafting
 
 * Adjusted furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
