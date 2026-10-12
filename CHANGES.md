@@ -57,6 +57,7 @@
 ## Blueprint
 
 * Added candles
+* Added basement floor
 
 ## Tenement System
 
