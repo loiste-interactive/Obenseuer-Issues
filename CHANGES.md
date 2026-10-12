@@ -50,6 +50,7 @@
 ## Furniture
 
 * Added candles
+* Added basement floor
 * Fixed CN putting stuff into fancy wooden boxes (issue [#5969](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5969))
 * Fixed road sign decorations being backwards (issue [#5967](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5967))
 
