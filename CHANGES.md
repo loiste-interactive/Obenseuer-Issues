@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed being high on orange shrooms and using Osrat causing extreme amount of lag (Especially in the mines and the Shroom Farm Apartment).
+* Fixed the farming skill not affecting some growable products, such as apples (issue [#6003](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6003))
 
 ## Tasks
 
