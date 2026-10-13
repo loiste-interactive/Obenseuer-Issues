@@ -48,6 +48,7 @@
 
 ## Crafting
 
+* Changed results to go into the player's inventory if the player is using the crafting station and the station is full (issue [#5986](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5986))
 * Fixed crafting ignoring minimum skill (issue [#6010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6010))
 
 ## Items
