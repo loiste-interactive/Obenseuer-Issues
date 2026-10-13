@@ -15,6 +15,7 @@
 * Fixed drunk and other blur effects appearing suddenly instead of fading in
 * Fixed vending machines giving items with incorrect quality (issue [#5992](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5992))
 * Fixed lag spike when moving between rooms (issue [#6031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6031))
+* Fixed sitting down causing the console to constantly throw a warning (issue [#6035](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6035))
 
 ## Tasks
 
