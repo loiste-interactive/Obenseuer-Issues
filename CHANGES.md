@@ -69,7 +69,8 @@
 ## Recipes
 
 * Added dry sewage
-* Fixed double layered Plörö bottles (issue [#5941](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5941))
+* Fixed double layered Plörö bottles (issue [#6019](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6019))
+* Fixed wood panels not being craftable 
 
 ## Furniture
 
