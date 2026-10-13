@@ -18,6 +18,7 @@
 
 * Fixed being able to ask Gustav about Jane before the task is even active (issue [#5981](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5981))
 * Fixed the Abandoned Tenement task still not getting completed (issue [#5974](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5974))
+* Fixed Crazy Neighbor not appearing (issue [#6021](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6021))
 
 ## Difficulty Settings
 
