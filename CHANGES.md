@@ -25,6 +25,7 @@
 ## Furniture Crafting
 
 * Adjusted furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+* Changed every furniture blueprint to have a skill assigned (Any furniture crafting now gives skill XP based on crafting time)
 * Skills now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
 * Orange mushrooms now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
 
