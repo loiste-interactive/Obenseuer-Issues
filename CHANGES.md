@@ -46,6 +46,10 @@
 * Fixed Olle Leino using old character model when becoming tenant (issue [#6004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6004))
 * Fixed being able to repeatedly ask Passmore if he sells mushrooms (issue [#5909](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5909))
 
+## Crafting
+
+* Fixed crafting ignoring minimum skill (issue [#6010](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6010))
+
 ## Items
 
 * Chickens are now more valuable
