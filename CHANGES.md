@@ -46,6 +46,7 @@
 
 * Fixed Olle Leino using old character model when becoming tenant (issue [#6004](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6004))
 * Fixed being able to repeatedly ask Passmore if he sells mushrooms (issue [#5909](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5909))
+* Fixed asking Jomppe throwing an error (issue [#6033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6033))
 
 ## Crafting
 
