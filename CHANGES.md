@@ -25,9 +25,12 @@
 ## Furniture Crafting
 
 * Adjusted furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+* Added toggleable automatic item consumption (food and water) (issue [#5975](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5975))
+* Changed furniture crafting to stop if the player's needs are too high (issue [#5975](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5975))
 * Changed every furniture blueprint to have a skill assigned (Any furniture crafting now gives skill XP based on crafting time)
 * Skills now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
 * Orange mushrooms now affect furniture crafting times (issue [#5960](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5960))
+* Notifications are now displayed in the furniture crafting menu
 
 ## Tenement System
 
