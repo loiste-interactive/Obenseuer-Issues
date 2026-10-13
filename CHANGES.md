@@ -50,6 +50,7 @@
 * Fixed asking Jomppe throwing an error (issue [#6033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6033))
 * NPCs now react when the player shits themselves (issue [#4846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4846))
 * Fixed Anneli alias Jooseppi (issue [#6034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6034))
+* Fixed Crazy Neighbor not roaming on the map (issue [#5861](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5861))
 
 ## Crafting
 
