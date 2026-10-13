@@ -2,6 +2,10 @@
 
 * J-Kiosk now redeems scratchcards
 
+## O-Iron
+
+* fixed lights (issue [#6044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6044))
+
 # October 13th 2026 (Version 0.5.06) - Public Playtest
 
 * Adjusted gambling addiction gain and loss rates (issue [#5944](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5944))
