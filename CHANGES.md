@@ -49,9 +49,10 @@
 ## Items
 
 * Chickens are now more valuable
+* Changed new phones to be pre-charged (issue [#5844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5844))
 * Fixed processed perch(es) being stackable
 * Fixed Sake Junior (issue [#5983](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5983))
-* Changed new phones to be pre-charged (issue [#5844](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5844))
+* Fixed double clicking equipped lockpicks not fully unequipping them (issue [#5990](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5990))
 * Stepping in shit now makes the player dirty
 
 ## Recipes
