@@ -103,9 +103,13 @@
 * Added ability to ask Warden for supplies, and time to release.
 * Added release announcement with info about stored items.
 
-# Bookstore
+## Bookstore
 
 * Fixed Aune sitting not sitting
+
+## Pontikka
+
+* Bed in co-op is now safe
 
 # October 10th 2026 (Version 0.5.05)
 
