@@ -14,6 +14,7 @@
 * Fixed toggleable light memory leak (issue [#5991](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5991))
 * Fixed drunk and other blur effects appearing suddenly instead of fading in
 * Fixed vending machines giving items with incorrect quality (issue [#5992](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5992))
+* Fixed lag spike when moving between rooms (issue [#6031](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6031))
 
 ## Tasks
 
