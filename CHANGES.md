@@ -48,6 +48,7 @@
 * Fixed being able to repeatedly ask Passmore if he sells mushrooms (issue [#5909](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5909))
 * Fixed asking Jomppe throwing an error (issue [#6033](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6033))
 * NPCs now react when the player shits themselves (issue [#4846](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4846))
+* Fixed Anneli alias Jooseppi (issue [#6034](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6034))
 
 ## Crafting
 
