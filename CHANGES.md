@@ -13,6 +13,7 @@
 ## Crafting
 
 * Changed plants/animals to go into the player's inventory if the player is using the growing/breeding station and the station is full (issue [#6047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6047))
+* Fixed dishwasher duplicating some items (issue [#5971](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5971))
 
 ## Furniture
 
