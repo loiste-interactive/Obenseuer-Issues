@@ -2,9 +2,13 @@
 
 * J-Kiosk now redeems scratchcards
 
+## Crafting
+
+* Changed plants/animals to go into the player's inventory if the player is using the growing/breeding station and the station is full (issue [#6047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6047))
+
 ## O-Iron
 
-* fixed lights (issue [#6044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6044))
+* Fixed lights (issue [#6044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6044))
 
 # October 13th 2026 (Version 0.5.06) - Public Playtest
 
