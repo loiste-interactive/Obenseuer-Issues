@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 14th 2026 (Version 0.5.07) - Public Playtest
+
 * Updated some old character models
 * J-Kiosk now redeems scratchcards
 * Changed the alarm clock to remember the last set time
