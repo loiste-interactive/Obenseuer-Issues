@@ -9,6 +9,7 @@
 ## NPCs
 
 * Fixed Finlay Bjorkman's cigarette not correctly placed on fingers (issue [#5985](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5985))
+* Fixed broken normals on some character faces (issue [#6009](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6009))
 
 ## Crafting
 
