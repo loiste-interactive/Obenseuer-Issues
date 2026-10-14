@@ -6,6 +6,10 @@
 
 * Changed plants/animals to go into the player's inventory if the player is using the growing/breeding station and the station is full (issue [#6047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6047))
 
+## Furniture
+
+* Fixed unselectable furniture items (issue [#6046](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6046))
+
 ## Ankea
 
 * Fixed some furniture giving wrong skins (issue [#6050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6050))
