@@ -1,5 +1,9 @@
 # Upcoming
 
+## Mines
+
+* Fixed lights unexpectably turning off in some areas (issue [#6051](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6051))
+
 # October 14th 2026 (Version 0.5.07) - Public Playtest
 
 * Updated some old character models
