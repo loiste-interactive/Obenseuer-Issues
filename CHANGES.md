@@ -2,6 +2,7 @@
 
 * J-Kiosk now redeems scratchcards
 * Fixed Borlmaro being misspelled as Bolrmaro or Bolmaro (issue [#6043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6043))
+* Fixed missing textures on grapes and other fruit bearing plants (issue [#6039](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6039))
 * The Redemption Militia can now give the player access to the Bazaar if they own a house there and have volunteered/donated enough (issue [#5976](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5976))
 
 ## NPCs
