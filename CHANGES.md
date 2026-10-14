@@ -22,6 +22,10 @@
 
 * Fixed some furniture giving wrong skins (issue [#6050](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6050))
 
+## Bazaar
+
+* Fixed floating cigarettes after Lasse Lurjus moves in as tenant (issue [#6018](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6018))
+
 ## O-Iron
 
 * Fixed lights (issue [#6044](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6044))
