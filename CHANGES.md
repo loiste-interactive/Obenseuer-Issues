@@ -1,6 +1,7 @@
 # Upcoming
 
 * J-Kiosk now redeems scratchcards
+* Fixed Borlmaro being misspelled as Bolrmaro or Bolmaro (issue [#6043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6043))
 
 ## Crafting
 
