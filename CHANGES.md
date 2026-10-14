@@ -1,5 +1,6 @@
 # Upcoming
 
+* Updated some old character models
 * J-Kiosk now redeems scratchcards
 * Changed the alarm clock to remember the last set time
 * Fixed Borlmaro being misspelled as Bolrmaro or Bolmaro (issue [#6043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6043))
