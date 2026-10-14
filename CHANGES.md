@@ -3,6 +3,10 @@
 * J-Kiosk now redeems scratchcards
 * Fixed Borlmaro being misspelled as Bolrmaro or Bolmaro (issue [#6043](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6043))
 
+## NPCs
+
+* Fixed Finlay Bjorkman's cigarette not correctly placed on fingers (issue [#5985](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5985))
+
 ## Crafting
 
 * Changed plants/animals to go into the player's inventory if the player is using the growing/breeding station and the station is full (issue [#6047](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6047))
