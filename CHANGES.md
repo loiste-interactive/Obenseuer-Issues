@@ -1,6 +1,6 @@
 # Upcoming
 
-# October 15th 2026 (Version 0.5.08) - Public Playtest
+# October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
 
