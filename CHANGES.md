@@ -1,5 +1,13 @@
 # Upcoming
 
+## Crafting
+
+* Fixed re-entering the worktable while crafting is paused causing crafting to slow down (issue [#6063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6063))
+
+## Difficulty Settings
+
+* Fixed difficulty setting description for "Renovation Cost" having the descrition for speed (issue [#6055](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6055))
+
 ## Furniture
 
 * Chemical lab now accepts 3 upgrades
@@ -7,6 +15,8 @@
 ## Tenement System
 
 * Fixed flexi-fuel sauna stoves (issue [#6059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6059))
+* Fixed infinite cat slaughter for meat and skin (issue [#6053](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6053))
+* Fixed renovation sounds in midnight (issue [#6069](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6069))
 
 ## Mines
 
