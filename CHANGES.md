@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Chemical lab now accepts 3 upgrades
+
 ## Tenement System
 
 * Fixed flexi-fuel sauna stoves (issue [#6059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6059))
