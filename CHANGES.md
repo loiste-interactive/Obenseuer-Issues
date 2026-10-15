@@ -1,5 +1,9 @@
 # Upcoming
 
+## Tenement System
+
+* Fixed flexi-fuel sauna stoves (issue [#6059](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6059))
+
 ## Mines
 
 * Fixed lights unexpectably turning off in some areas (issue [#6051](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6051))
