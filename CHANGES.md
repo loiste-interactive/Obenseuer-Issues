@@ -1,5 +1,7 @@
 # Upcoming
 
+* Updated some old character models
+
 ## Crafting
 
 * Fixed re-entering the worktable while crafting is paused causing crafting to slow down (issue [#6063](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6063))
