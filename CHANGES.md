@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Added Sea Water
+
 ## Pontikka
 
 * Fixed floor 4 keypad not unlocking door
