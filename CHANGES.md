@@ -4,6 +4,11 @@
 
 * Added Sea Water
 
+## Recipes
+
+* Added distill sea water
+* Fixed purifying water giving weird water
+
 ## Pontikka
 
 * Fixed floor 4 keypad not unlocking door
