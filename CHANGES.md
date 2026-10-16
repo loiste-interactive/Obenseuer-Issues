@@ -1,8 +1,11 @@
 # Upcoming
 
+* Fixed keypad only accepting keyboard input when shift is pressed (issue [#6097](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6097))
+
 ## Items
 
 * Added Sea Water
+* Added ability to crumple receipts into crumpled paper (issue [#6088](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6088))
 
 ## Recipes
 
