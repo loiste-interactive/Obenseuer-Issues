@@ -18,6 +18,10 @@
 
 * Fixed floor 4 keypad not unlocking door
 
+## Bazaar Jail
+
+* Fixed jail destroying player's items
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
