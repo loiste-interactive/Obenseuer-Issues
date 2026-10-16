@@ -14,6 +14,10 @@
 * Added distill sea water
 * Fixed purifying water giving weird water
 
+## Furniture
+
+* Fixed janitor not filling shower tank (issue [#6095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6095))
+
 ## Pontikka
 
 * Fixed floor 4 keypad not unlocking door
