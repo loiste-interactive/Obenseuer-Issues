@@ -26,6 +26,10 @@
 
 * Fixed jail destroying player's items
 
+## Bookstore
+
+* Fixed private ladders
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
