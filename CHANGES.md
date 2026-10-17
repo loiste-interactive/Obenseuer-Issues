@@ -13,6 +13,7 @@
 ## Recipes
 
 * Added distill sea water
+* Added printed labels
 * Fixed purifying water giving weird water
 
 ## Furniture
