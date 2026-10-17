@@ -4,6 +4,10 @@
 * Fixed keypad only accepting keyboard input when shift is pressed (issue [#6097](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6097))
 * Fixed weird water behaviour when submerged and when on the water surface (issue [#6082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6082))
 
+## NPCs
+
+* Fixed police from Bazaar slums failing to spawn into new scene during chase (issue [#6103](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6103))
+
 ## Items
 
 * Added Sea Water
