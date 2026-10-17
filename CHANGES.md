@@ -1,6 +1,7 @@
 # Upcoming
 
 * Implemented some improvements from ontrigger/FireWarp's FastSaveLoad mod to reduce save and load times (issue [#6030](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6030))
+* Implemented some additional improvements to reduce save and load times
 * Updated some old character models
 * Fixed keypad only accepting keyboard input when shift is pressed (issue [#6097](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6097))
 * Fixed weird water behaviour when submerged and when on the water surface (issue [#6082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6082))
