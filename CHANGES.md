@@ -8,6 +8,7 @@
 
 * Added Sea Water
 * Added ability to crumple receipts into crumpled paper (issue [#6088](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6088))
+* Added printed labels
 
 ## Recipes
 
