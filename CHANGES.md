@@ -26,6 +26,7 @@
 
 ## Furniture
 
+* Added bottle corker
 * Fixed janitor not filling shower tank (issue [#6095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6095))
 
 ## Pontikka
