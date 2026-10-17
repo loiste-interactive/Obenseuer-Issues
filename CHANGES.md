@@ -14,6 +14,7 @@
 
 * Added distill sea water
 * Added printed labels
+* Added bottle of [drink]
 * Fixed purifying water giving weird water
 
 ## Furniture
