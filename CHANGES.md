@@ -10,6 +10,10 @@
 
 * Fixed police from Bazaar slums failing to spawn into new scene during chase (issue [#6103](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6103))
 
+## Tenement System
+
+* Electric stuff now cannot be used without electricity upgrades or generators
+
 ## Items
 
 * Added drinking animations
