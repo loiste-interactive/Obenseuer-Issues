@@ -44,6 +44,7 @@
 ## Bookstore
 
 * Fixed private ladders
+* Fixed missing collisions
 
 ## O-Market
 
