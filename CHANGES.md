@@ -81,6 +81,10 @@
 
 * Fixed not being able to work (issue [#6137](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6137))
 
+## Alco
+
+* Fixed Alco alias O-market
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
