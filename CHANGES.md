@@ -86,6 +86,10 @@
 
 * Fixed Alco alias O-market
 
+## Mentti B
+
+* Fixed permalocked doors in cellar
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
