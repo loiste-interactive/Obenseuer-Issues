@@ -57,6 +57,10 @@
 
 * Fixed Wehlhö selling weird stuff (issue [#6130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6130))
 
+## Textile Mill
+
+* Fixed not being able to work (issue [#6137](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6137))
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
