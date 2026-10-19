@@ -6,6 +6,7 @@
 * Fixed keypad only accepting keyboard input when shift is pressed (issue [#6097](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6097))
 * Fixed weird water behaviour when submerged and when on the water surface (issue [#6082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6082))
 * Dishwashers now clamp fail chance at 99% and max duration to one day
+* Fixed ash not spawning until the fuel runs out
 
 ## NPCs
 
@@ -48,7 +49,12 @@
 * Fixed janitor not filling shower tank (issue [#6095](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6095))
 * Fixed missing descriptions (issue [#6119](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6119))
 * Fixed upside down INFRA desk mat (issue [#6118](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6118))
+* Fixed Mushroom Growing Rack not being centered
 * Beerlamp can now be turned off
+
+## Bazaar
+
+* Fixed upside down INFRA desk mat (issue [#6109](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6109))
 
 ## Pontikka
 
