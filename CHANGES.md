@@ -34,6 +34,7 @@
 * Added Sea Water
 * Added ability to crumple receipts into crumpled paper (issue [#6088](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6088))
 * Added printed labels
+* Nail stacks now show up as boxes
 * Fixed some items changing skins when using them (issue [#6128](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6128))
 
 ## Recipes
