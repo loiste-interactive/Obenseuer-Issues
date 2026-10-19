@@ -17,6 +17,10 @@
 * Electric stuff now cannot be used without electricity upgrades or generators
 * Fixed septic tank never filling up
 
+## Furniture Crafting
+
+* Changed the auto consumption system so the player doesn't shit their pants so easily
+
 ## Growing/Breeding
 
 * Added the ability to quick plant (No need to open the inventory)
