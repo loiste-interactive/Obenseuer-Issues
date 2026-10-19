@@ -16,6 +16,12 @@
 * Electric stuff now cannot be used without electricity upgrades or generators
 * Fixed septic tank never filling up
 
+## Growing/Breeding
+
+* Added the ability to quick plant (No need to open the inventory)
+* Changed growing/breeding to use plantable/breedable items from the inventory without needing to move them manually
+* Changed planting/breeding to prevent taking plantable/breedable items when there are no free inventory slots
+
 ## Items
 
 * Added drinking animations
