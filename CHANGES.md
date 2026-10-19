@@ -51,6 +51,10 @@
 
 * Fixed O-market selling half filled laundry detergent
 
+## Welhö
+
+* Fixed Wehlhö selling weird stuff (issue [#6130](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6130))
+
 # October 15th 2026 (Version 0.5.08)
 
 * Updated some old character models
