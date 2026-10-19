@@ -14,6 +14,7 @@
 ## Tenement System
 
 * Electric stuff now cannot be used without electricity upgrades or generators
+* Fixed septic tank never filling up
 
 ## Items
 
