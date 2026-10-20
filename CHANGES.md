@@ -11,6 +11,7 @@
 ## Tenement System
 
 * Resident power consumption now scales with apartment level
+* Power meters now show used capacity
 * Fixed the good electricity main switch being inside collision box
 * Fixed the best electricity main switch being inside collision box
 * Fixed sauna stoves not consuming power
