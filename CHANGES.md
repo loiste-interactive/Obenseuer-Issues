@@ -8,6 +8,10 @@
 
 * Adjusted commercial dishwasher power consumption
 
+## Tenement System
+
+* Fixed the good electricity main switch being inside collision box
+
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
 * Implemented improvements from ontrigger/FireWarp's FastSaveLoad mod to reduce save and load times (issue [#6030](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6030))
