@@ -11,6 +11,7 @@
 ## Tenement System
 
 * Fixed the good electricity main switch being inside collision box
+* Fixed the best electricity main switch being inside collision box
 
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
