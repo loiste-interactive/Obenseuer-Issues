@@ -10,6 +10,7 @@
 
 ## Tenement System
 
+* Resident power consumption now scales with apartment level
 * Fixed the good electricity main switch being inside collision box
 * Fixed the best electricity main switch being inside collision box
 
