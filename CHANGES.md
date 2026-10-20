@@ -44,6 +44,7 @@
 * Added printed labels
 * Added bottle of [drink]
 * Fixed purifying water giving weird water
+* Fixed dishwashers not using item skin names (issue [#6160](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6160))
 
 ## Furniture
 
