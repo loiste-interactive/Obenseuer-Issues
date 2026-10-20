@@ -4,6 +4,10 @@
 
 * Fixed bottling recipes not recognizing liquids in containers (issue [#6169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6169))
 
+## Furniture
+
+* Adjusted commercial dishwasher power consumption
+
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
 * Implemented improvements from ontrigger/FireWarp's FastSaveLoad mod to reduce save and load times (issue [#6030](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6030))
