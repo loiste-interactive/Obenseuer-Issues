@@ -13,6 +13,7 @@
 * Resident power consumption now scales with apartment level
 * Fixed the good electricity main switch being inside collision box
 * Fixed the best electricity main switch being inside collision box
+* Fixed sauna stoves not consuming power
 
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
