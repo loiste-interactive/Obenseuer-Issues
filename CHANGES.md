@@ -86,6 +86,10 @@
 
 * Fixed Alco alias O-market
 
+## J-Kiosk
+
+* Fixed not being able to redeem scratchcards (issue [#6153](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6153))
+
 ## Mentti B
 
 * Fixed permalocked doors in cellar
