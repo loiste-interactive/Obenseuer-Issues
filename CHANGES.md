@@ -57,7 +57,7 @@
 
 ## Bazaar
 
-* Fixed upside down INFRA desk mat (issue [#6109](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6109))
+* Fixed being able to get closed bank and get trapped inside (issue [#6109](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6109))
 
 ## Pontikka
 
