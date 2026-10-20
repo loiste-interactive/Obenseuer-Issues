@@ -16,6 +16,7 @@
 * Fixed the good electricity main switch being inside collision box
 * Fixed the best electricity main switch being inside collision box
 * Fixed sauna stoves not consuming power
+* Fixed mushrooms, oil lamps and daylight consuming electricity
 
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
