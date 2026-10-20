@@ -8,6 +8,7 @@
 * Fixed weird water behaviour when submerged and when on the water surface (issue [#6082](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6082))
 * Fixed ash not spawning until the fuel runs out
 * Fixed several spelling issues
+* Fixed stuttering outdoors during the daytime (issue [#6152](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6152))
 
 ## NPCs
 
