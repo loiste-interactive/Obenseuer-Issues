@@ -9,6 +9,7 @@
 * Fixed tenement elevators not consuming power nor caring about electricity (issue [#6185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6185)) (Private Playtest)
 * Fixed sauna and pier are missing behind the tenement (issue [#6175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6175)) (Private Playtest)
 * Fixed fridges power consumption missing in UI (issue [#6172](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6172)) (Private Playtest)
+* Fixed item stacks with different models reverting to the single-item model (issue [#6202](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6202))
 
 ## NPCs
 
