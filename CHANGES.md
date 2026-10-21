@@ -10,7 +10,8 @@
 
 ## NPCs
 
-* Fixed Aleksi having old model (issue [#6191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6191)) (Private Playtest)
+* Fixed Aleksi Kivi having old model (issue [#6191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6191)) (Private Playtest)
+* Fixed Aleksi Kivi being moved from his usual spot (issue [#6181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6181)) (Private Playtest)
 
 ## Recipes
 
