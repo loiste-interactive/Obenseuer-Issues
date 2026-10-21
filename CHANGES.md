@@ -5,6 +5,7 @@
 ## Tenement System
 
 * Changed the yard lights
+* Added strawberry/raspberry and blueberry plants
 * Fixed several issues with lights connected to the tenement's electricity system (Private Playtest)
 * Fixed tenement elevators not consuming power nor caring about electricity (issue [#6185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6185)) (Private Playtest)
 * Fixed sauna and pier are missing behind the tenement (issue [#6175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6175)) (Private Playtest)
@@ -35,6 +36,10 @@
 * Fixed the best electricity main switch being inside collision box
 * Fixed sauna stoves not consuming power
 * Fixed mushrooms, oil lamps and daylight consuming electricity
+
+## Items
+
+* Added strawberry/raspberry and blueberry seeds
 
 # October 20th 2026 (Version 0.5.09) - Private Playtest
 
