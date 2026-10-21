@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed keypad not showing the digits sometimes (issue [#6166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6166))
+
 ## Tenement System
 
 * Changed the yard lights
