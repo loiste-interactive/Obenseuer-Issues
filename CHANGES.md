@@ -18,6 +18,7 @@
 ## Recipes
 
 * Fixed bottling recipes not recognizing liquids in containers (issue [#6169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6169))
+* Fixed sawdust multigrain dough recipe giving sawdust rye dough instead (issue [#6201](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6201))
 
 ## Furniture
 
