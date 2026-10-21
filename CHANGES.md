@@ -3,12 +3,13 @@
 ## Tenement System
 
 * Changed the yard lights
-* Fixed several issues with lights connected to the tenement's electricity system
-* Fixed tenement elevators not consuming power nor caring about electricity (issue [#6185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6185))
+* Fixed several issues with lights connected to the tenement's electricity system (Private Playtest)
+* Fixed tenement elevators not consuming power nor caring about electricity (issue [#6185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6185)) (Private Playtest)
+* Fixed sauna and pier are missing behind the tenement (issue [#6175](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6175)) (Private Playtest)
 
 ## NPCs
 
-* Fixed Aleksi having old model (issue [#6191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6191))
+* Fixed Aleksi having old model (issue [#6191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6191)) (Private Playtest)
 
 ## Recipes
 
@@ -16,7 +17,7 @@
 
 ## Furniture
 
-* Adjusted commercial dishwasher power consumption
+* Adjusted commercial dishwasher power consumption (Private Playtest)
 * Fixed Modern Fridge opening animation (issue [#6200](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6200))
 
 ## Tenement System
