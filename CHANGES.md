@@ -1,5 +1,15 @@
 # Upcoming
 
+## Tenement System
+
+* Changed the yard lights
+* Fixed several issues with lights connected to the tenement's electricity system
+* Fixed tenement elevators not consuming power nor caring about electricity (issue [#6185](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6185))
+
+## NPCs
+
+* Fixed Aleksi having old model (issue [#6191](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6191))
+
 ## Recipes
 
 * Fixed bottling recipes not recognizing liquids in containers (issue [#6169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6169))
@@ -7,6 +17,7 @@
 ## Furniture
 
 * Adjusted commercial dishwasher power consumption
+* Fixed Modern Fridge opening animation (issue [#6200](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6200))
 
 ## Tenement System
 
