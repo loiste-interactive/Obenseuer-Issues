@@ -27,6 +27,7 @@
 
 * Adjusted commercial dishwasher power consumption (Private Playtest)
 * Fixed Modern Fridge opening animation (issue [#6200](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6200))
+* Fixed chemical reactors having too low capacity
 
 ## Tenement System
 
