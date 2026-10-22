@@ -22,7 +22,9 @@
 
 ## Growing/Breeding
 
+* Added planting and harvesting animations
 * Added a delay before "planting" UI pops up after player harvests a grown plant (issue [#6186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6186)) (Private Playtest)
+* Improved harvesting and planting sounds
 
 ## Recipes
 
