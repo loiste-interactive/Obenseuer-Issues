@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 22th 2026 (Version 0.5.10) - Private Playtest
+
 * Changed items left at checkout counters to return to storage when leaving the scene
 * Fixed parcel notifications being flooded with vodka (issue [#6195](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6195))
 * Fixed keypad not showing the digits sometimes (issue [#6166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6166))
