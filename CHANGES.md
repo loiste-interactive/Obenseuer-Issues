@@ -42,6 +42,7 @@
 ## Bazaar Player House
 
 * Fixed lack of electricity
+* Fixed lights not reacting to power
 * Added power meter
 
 ## Items
