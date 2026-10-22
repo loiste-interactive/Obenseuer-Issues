@@ -20,6 +20,10 @@
 * Fixed Aleksi Kivi being moved from his usual spot (issue [#6181](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6181)) (Private Playtest)
 * Fixed Jarppi's clothes
 
+## Growing/Breeding
+
+* Added a delay before "planting" UI pops up after player harvests a grown plant (issue [#6186](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6186)) (Private Playtest)
+
 ## Recipes
 
 * Fixed bottling recipes not recognizing liquids in containers (issue [#6169](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6169))
