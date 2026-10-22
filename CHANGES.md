@@ -1,7 +1,9 @@
 # Upcoming
 
-* Fixed keypad not showing the digits sometimes (issue [#6166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6166))
+* Changed items left at checkout counters to return to storage when leaving the scene
 * Fixed parcel notifications being flooded with vodka (issue [#6195](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6195))
+* Fixed keypad not showing the digits sometimes (issue [#6166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6166))
+* Fixed items disappearing from checkout counters (conveyor belts etc) after saving/loading (issue [#4527](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4527))
 
 ## Tenement System
 
