@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed keypad not showing the digits sometimes (issue [#6166](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6166))
+* Fixed parcel notifications being flooded with vodka (issue [#6195](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6195))
 
 ## Tenement System
 
