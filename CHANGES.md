@@ -39,6 +39,11 @@
 * Fixed sauna stoves not consuming power
 * Fixed mushrooms, oil lamps and daylight consuming electricity
 
+## Bazaar Player House
+
+* Fixed lack of electricity
+* Added power meter
+
 ## Items
 
 * Added strawberry/raspberry and blueberry seeds
