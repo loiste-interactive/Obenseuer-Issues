@@ -1,5 +1,6 @@
 # Upcoming
 
+* Items that a trader can buy but cannot afford now show their purchase price with a gray price label
 * Fixed power usage not counting time player is not in map (Public Playtest)
 
 ## Growing/Breeding
