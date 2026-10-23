@@ -1,6 +1,7 @@
 # Upcoming
 
-* Fixed error when loading power grid data.
+* Fixed error when loading power grid data
+* Fixed auto-consume slots showing trade slot prices
 
 # October 23rd 2026 (Version 0.5.11) - Public Playtest
 
