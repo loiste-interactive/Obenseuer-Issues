@@ -21,6 +21,10 @@
 * Bazaar House now requires electricity deal to be supplied with power
 * Fixed old saves still not having electricity (Public Playtest)
 
+## Items
+
+* Fixed crumpling receipt sound (issue [#6245](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6245)) (Public Playtest)
+
 ## Furniture
 
 * Fixed worktable having a floating light power switch (issue [#6237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6237)) (Public Playtest)
