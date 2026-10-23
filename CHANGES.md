@@ -38,6 +38,7 @@
 
 * Fixed decent bed collision
 * Fixed worktable having a floating light power switch (issue [#6237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6237)) (Public Playtest)
+* Fixed several issues with furniture (issue [#6231](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6231)) (Public Playtest)
 
 ## Bazaar Player House
 
