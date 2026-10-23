@@ -28,6 +28,7 @@
 ## Tasks
 
 * Fixed Max Masher not giving recommendation for the moonshiners co-op (issue [#6234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6234))
+* Fixed five lectures not progressing (issue [#6239](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6239)) (Public Playtest)
 
 ## Items
 
