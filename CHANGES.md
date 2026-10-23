@@ -4,6 +4,7 @@
 
 ## Bazaar Player House
 
+* Bazaar House now requires electricity deal to be supplied with power
 * Fixed old saves still not having electricity
 
 # October 22nd 2026 (Version 0.5.10) - Public Playtest
