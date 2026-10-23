@@ -7,6 +7,10 @@
 
 * Fixed Jomppe not taking Jomppe's turnips (issue [#6253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6253))
 
+## Tasks
+
+* Fixed eternal lesson (issue [#6252](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6252))
+
 # October 23rd 2026 (Version 0.5.11) - Public Playtest
 
 * Items that a trader can buy but cannot afford now show their purchase price with a gray price label
