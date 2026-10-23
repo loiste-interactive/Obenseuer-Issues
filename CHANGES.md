@@ -4,6 +4,7 @@
 
 ## Growing/Breeding
 
+* Added a one second delay before the player can use their equipped weapon after planting (issue [#6235](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6235)) (Public Playtest)
 * Fixed planting crops using the new planting mechanics not granting the same amount of XP (issue [#6236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6236)) (Public Playtest)
 
 ## NPCs
