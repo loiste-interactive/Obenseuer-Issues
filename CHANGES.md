@@ -2,6 +2,10 @@
 
 * Fixed power usage not counting time player is not in map (Public Playtest)
 
+## NPCs
+
+* Fixed camera jittering when talking to Aleksi Kivi (issue [#6229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6229)) (Public Playtest)
+
 ## Bazaar Player House
 
 * Bazaar House now requires electricity deal to be supplied with power
