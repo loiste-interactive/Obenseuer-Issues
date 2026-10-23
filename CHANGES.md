@@ -3,6 +3,10 @@
 * Items that a trader can buy but cannot afford now show their purchase price with a gray price label
 * Fixed power usage not counting time player is not in map (Public Playtest)
 
+## Difficulty Settings
+
+* Added an Infinite option to the Trader Wealth difficulty setting (issue [#6219](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6219))
+
 ## Growing/Breeding
 
 * Added a one second delay before the player can use their equipped weapon after planting (issue [#6235](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6235)) (Public Playtest)
