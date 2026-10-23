@@ -1,11 +1,15 @@
 # Upcoming
 
-* Fixed power usage not counting time player is not in map
+* Fixed power usage not counting time player is not in map (Public Playtest)
 
 ## Bazaar Player House
 
 * Bazaar House now requires electricity deal to be supplied with power
-* Fixed old saves still not having electricity
+* Fixed old saves still not having electricity (Public Playtest)
+
+## Furniture
+
+* Fixed worktable having a floating light power switch (issue [#6237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6237)) (Public Playtest)
 
 # October 22nd 2026 (Version 0.5.10) - Public Playtest
 
