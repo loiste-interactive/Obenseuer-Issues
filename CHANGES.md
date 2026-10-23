@@ -1,5 +1,9 @@
 # Upcoming
 
+## Bazaar Player House
+
+* Fixed old saves still not having electricity
+
 # October 22nd 2026 (Version 0.5.10) - Public Playtest
 
 * Changed items left at checkout counters to return to storage when leaving the scene
