@@ -2,6 +2,10 @@
 
 * Fixed power usage not counting time player is not in map (Public Playtest)
 
+## Growing/Breeding
+
+* Fixed planting crops using the new planting mechanics not granting the same amount of XP (issue [#6236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6236)) (Public Playtest)
+
 ## NPCs
 
 * Fixed camera jittering when talking to Aleksi Kivi (issue [#6229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6229)) (Public Playtest)
