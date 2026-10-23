@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed power usage not counting time player is not in map
+
 ## Bazaar Player House
 
 * Fixed old saves still not having electricity
