@@ -20,10 +20,9 @@
 
 * Fixed camera jittering when talking to Aleksi Kivi (issue [#6229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6229)) (Public Playtest)
 
-## Bazaar Player House
+## Tasks
 
-* Bazaar House now requires electricity deal to be supplied with power
-* Fixed old saves still not having electricity (Public Playtest)
+* Fixed Max Masher not giving recommendation for the moonshiners co-op (issue [#6234](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6234))
 
 ## Items
 
@@ -32,6 +31,11 @@
 ## Furniture
 
 * Fixed worktable having a floating light power switch (issue [#6237](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6237)) (Public Playtest)
+
+## Bazaar Player House
+
+* Bazaar House now requires electricity deal to be supplied with power
+* Fixed old saves still not having electricity (Public Playtest)
 
 # October 22nd 2026 (Version 0.5.10) - Public Playtest
 
