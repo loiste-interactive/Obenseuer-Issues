@@ -19,6 +19,7 @@
 
 ## Tenement System
 
+* Fixed scrapping chairs in tenement building making character unable to move or interact with anything (issue [#5782](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5782))
 * Fixed courtyard lights clipping into Fine extension (issue [#6241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6241)) (Public Playtest)
 
 ## NPCs
