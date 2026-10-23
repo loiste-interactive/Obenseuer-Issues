@@ -12,6 +12,10 @@
 * Fixed planting crops using the new planting mechanics not granting the same amount of XP (issue [#6236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6236)) (Public Playtest)
 * Fixed Barrel Planter with Supports not allowing manual harvest (issue [#6217](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6217))
 
+## Tenement System
+
+* Fixed courtyard lights clipping into Fine extension (issue [#6241](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6241)) (Public Playtest)
+
 ## NPCs
 
 * Fixed camera jittering when talking to Aleksi Kivi (issue [#6229](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6229)) (Public Playtest)
