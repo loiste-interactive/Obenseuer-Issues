@@ -7,6 +7,7 @@
 * Added a one second delay before the player can use their equipped weapon after planting (issue [#6235](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6235)) (Public Playtest)
 * Added a planting range for quick planting (issue [#6221](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6221)) (Public Playtest)
 * Added the ability to hold down the planting button to plant multiple plants in succession (issue [#6220](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6220)) (Public Playtest)
+* Added ability to use the quick-plant UI on "enclosed" farm plots (issue [#6226](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6226)) (Public Playtest)
 * Changed uprooting dead and spoiled plants to no longer requiring holding down the planting button (issue [#6224](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6224)) (Public Playtest)
 * Fixed planting crops using the new planting mechanics not granting the same amount of XP (issue [#6236](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6236)) (Public Playtest)
 * Fixed Barrel Planter with Supports not allowing manual harvest (issue [#6217](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6217))
