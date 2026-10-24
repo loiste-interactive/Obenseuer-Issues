@@ -20,6 +20,10 @@
 
 * Added Car battery
 
+## Recipes
+
+* Added Disassemble Car Battery
+
 # October 23rd 2026 (Version 0.5.11) - Public Playtest
 
 * Items that a trader can buy but cannot afford now show their purchase price with a gray price label
