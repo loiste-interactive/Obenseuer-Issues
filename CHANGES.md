@@ -3,6 +3,10 @@
 * Fixed error when loading power grid data
 * Fixed auto-consume slots showing trade slot prices
 
+## Tenement System
+
+* Good and Best tier electricity now requires electricity contract to be effective
+
 ## NPCs
 
 * Fixed Jomppe not taking Jomppe's turnips (issue [#6253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6253))
