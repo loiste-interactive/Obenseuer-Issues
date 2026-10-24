@@ -22,6 +22,7 @@
 
 ## Items
 
+* Added Open Sewer Power Company Flyer
 * Added Car battery
 
 ## Recipes
