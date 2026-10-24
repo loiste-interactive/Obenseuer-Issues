@@ -1,6 +1,6 @@
 # Upcoming
 
-# October 24th 2026 (Version 0.5.13) - Public Playtest
+# October 24th 2026 (Version 0.5.13)
 
 * Fixed being unable to rent a room
 
