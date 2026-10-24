@@ -10,7 +10,11 @@
 ## Tasks
 
 * Fixed eternal lesson (issue [#6252](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6252))
-* Fixed eternal lesson brinking skills to 10
+* Fixed eternal lesson bringing skills to 10
+
+## Blueprints
+
+* Added metal table
 
 # October 23rd 2026 (Version 0.5.11) - Public Playtest
 
