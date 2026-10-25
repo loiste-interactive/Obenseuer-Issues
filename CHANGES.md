@@ -1,5 +1,9 @@
 # Upcoming
 
+## player Bazaar House
+
+* Fixed Power company billing previous owner's electricity.
+
 # October 24th 2026 (Version 0.5.13)
 
 * Fixed being unable to rent a room
