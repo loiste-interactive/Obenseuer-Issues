@@ -1,6 +1,6 @@
 # Upcoming
 
-## player Bazaar House
+## Player Bazaar House
 
 * Fixed Power company billing previous owner's electricity.
 
