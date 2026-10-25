@@ -1,5 +1,7 @@
 # Upcoming
 
+* Some power hungry machines now consume less when idle.
+
 ## Player Bazaar House
 
 * Fixed Power company billing previous owner's electricity.
