@@ -28,7 +28,8 @@
 
 * Added Trailer generator
 * Added Big generator
-* Added boot scraper
+* Added Boot Scraper
+* Fixed small INFRA mousepad flipped upside down (issue [#6291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6291))
 
 ## Player Bazaar House
 
