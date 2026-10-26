@@ -17,6 +17,7 @@
 
 * Added Trailer generator
 * Added Big generator
+* Added boot scraper
 
 ## Player Bazaar House
 
