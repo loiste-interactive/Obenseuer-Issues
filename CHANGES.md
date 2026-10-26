@@ -13,6 +13,10 @@
 * Fixed Malone giving multiple recommendations (issue [#6253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6253))
 * Fixed Jooseppi giving multiple recommendations
 
+## Furniture
+
+* Added Trailer generator
+
 ## Player Bazaar House
 
 * Fixed Power company billing previous owner's electricity.
