@@ -50,6 +50,10 @@
 * Added Boot Scraper
 * Fixed small INFRA mousepad flipped upside down (issue [#6291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6291))
 
+## Bazaar
+
+* Fixed slum grill selling pre-drank bottles (issue [#6335](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6335))
+
 ## Player Bazaar House
 
 * Fixed Power company billing previous owner's electricity.
