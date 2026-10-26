@@ -4,6 +4,10 @@
 * Fixed blueberries and other berries giving weird items and item amounts when uprooted and harvested
 * Fixed hydroponics stuff missing icons
 
+## NPCs
+
+* Fixed Kössi Kelmi's attack not damaging the player
+
 ## Tenement System
 
 * Fixed cumulative power consumption never being saved thus invoices never triggering
