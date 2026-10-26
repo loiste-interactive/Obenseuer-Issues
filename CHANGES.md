@@ -15,6 +15,7 @@
 
 * Added a hint about holding the button to plant or harvest multiple plants
 * The planting UI no longer appears when looking at plants, except freshly planted ones
+* Fixed planting leeks always yielding medicore results (issue [#6299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6299))
 
 ## NPCs
 
