@@ -1,6 +1,7 @@
 # Upcoming
 
 * Some power hungry machines now consume less when idle.
+* Fixed blueberries and other berries giving weird items and item amounts when uprooted and harvested
 
 ## Tasks
 
