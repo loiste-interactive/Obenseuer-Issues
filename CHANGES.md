@@ -11,6 +11,7 @@
 ## Difficulty Settings
 
 * Added electricity price setting (issue [#6295](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6295))
+* Added electricity amount setting (issue [#6295](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6295))
 
 ## Growing/Breeding
 
