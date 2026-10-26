@@ -7,6 +7,11 @@
 * Fixed walking on water (issue [#6283](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6283))
 * Fixed the volume slider not affecting some NPC dialogue
 
+## Growing/Breeding
+
+* Added a hint about holding the button to plant or harvest multiple plants
+* The planting UI no longer appears when looking at plants, except freshly planted ones
+
 ## NPCs
 
 * Fixed Kössi Kelmi's attack not damaging the player
