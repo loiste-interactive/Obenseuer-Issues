@@ -12,6 +12,7 @@
 
 * Fixed Malone giving multiple recommendations (issue [#6253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6253))
 * Fixed Jooseppi giving multiple recommendations
+* Fixed Pia not looking at the player in a certain scene
 
 ## Furniture
 
