@@ -4,6 +4,10 @@
 * Fixed blueberries and other berries giving weird items and item amounts when uprooted and harvested
 * Fixed hydroponics stuff missing icons
 
+## Tenement System
+
+* Fixed cumulative power consumption never being saved thus invoices never triggering
+
 ## Tasks
 
 * Fixed Malone giving multiple recommendations (issue [#6253](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6253))
