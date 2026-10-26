@@ -3,6 +3,7 @@
 * Additional loading time improvements (Thanks to ontrigger)
 * Some power hungry machines now consume less when idle
 * Changed volume sliders to display percentages instead of decibels
+* Fixed the inventory full sound repeatedly playing when moving items
 * Fixed blueberries and other berries giving weird items and item amounts when uprooted and harvested
 * Fixed hydroponics stuff missing icons
 * Fixed walking on water (issue [#6283](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6283))
