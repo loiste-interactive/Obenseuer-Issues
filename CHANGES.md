@@ -7,6 +7,10 @@
 * Fixed walking on water (issue [#6283](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6283))
 * Fixed the volume slider not affecting some NPC dialogue
 
+# Difficulty Settings
+
+* Added electricity price setting (issue [#6295](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6295))
+
 ## Growing/Breeding
 
 * Added a hint about holding the button to plant or harvest multiple plants
