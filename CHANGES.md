@@ -15,6 +15,7 @@
 ## NPCs
 
 * Fixed Kössi Kelmi's attack not damaging the player
+* Fixed firewood guy staying in his store all night (issue [#6293](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6293))
 
 ## Tenement System
 
