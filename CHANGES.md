@@ -16,6 +16,7 @@
 * Fixed cumulative power consumption never being saved thus invoices never triggering
 * Fixed basement sauna upgrade pool waters
 * Fixed strange lighting in the greenhouse upgrades (issue [#6211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6211))
+* Fixed some doors opening in the wrong direction
 
 ## Tasks
 
