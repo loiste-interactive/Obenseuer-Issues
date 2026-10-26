@@ -28,6 +28,7 @@
 * Fixed basement sauna upgrade pool waters
 * Fixed strange lighting in the greenhouse upgrades (issue [#6211](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6211))
 * Fixed some doors opening in the wrong direction
+* Fixed planting mode being visible while building mode is active (issue [#6304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6304))
 
 ## Tasks
 
