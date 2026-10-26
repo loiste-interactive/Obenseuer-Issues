@@ -16,6 +16,7 @@
 ## Furniture
 
 * Added Trailer generator
+* Added Big generator
 
 ## Player Bazaar House
 
