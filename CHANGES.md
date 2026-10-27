@@ -27,6 +27,7 @@
 * Fixed talking to Elias Karhu after renting him an apartment softlocking the game (issue [#6319](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6319))
 * Fixed police being able to arrest the player during scene transitions (issue [#6246](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6246))
 * Fixed the Crazy Neighbor being unable to find his way to the Speakeasy (issue [#6268](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6268))
+* Fixed the Crazy Neighbor's "fun time" getting bugged if he leaves the scene before it starts (issue [#6271](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6271))
 
 ## Tenement System
 
