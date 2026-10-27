@@ -21,6 +21,18 @@
 * The planting UI no longer appears when looking at plants, except freshly planted ones
 * Fixed planting leeks always yielding medicore results (issue [#6299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6299))
 
+## Controller
+
+* Added the ability to use ladders (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Added the ability to open the backpack (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Added a button for opening the backpack (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Added a button to activate the hard hat light (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Fixed being unable to move up or down ladders or get off them (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Fixed a bug where furniture could not be rotated (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Fixed several other controller related issues
+* Improved navigation in the tenement menu (issue [#4791](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4791))
+* Made other improvements to controller navigation
+
 ## NPCs
 
 * Fixed Kössi Kelmi's attack not damaging the player
