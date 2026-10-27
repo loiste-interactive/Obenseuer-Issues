@@ -27,8 +27,11 @@
 * Added the ability to open the backpack (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
 * Added a button for opening the backpack (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
 * Added a button to activate the hard hat light (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Added a secondary item use key
 * Fixed being unable to move up or down ladders or get off them (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
 * Fixed a bug where furniture could not be rotated (issue [#6011](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6011))
+* Fixed Shop "amount to buy" slider issue (issue [#4790](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4790))
+* Fixed money exchange slider issue (issue [#4807](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4807))
 * Fixed several other controller related issues
 * Improved navigation in the tenement menu (issue [#4791](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4791))
 * Made other improvements to controller navigation
