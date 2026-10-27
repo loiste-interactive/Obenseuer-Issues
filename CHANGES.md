@@ -50,6 +50,10 @@
 * Added Boot Scraper
 * Fixed small INFRA mousepad flipped upside down (issue [#6291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6291))
 
+## Items
+
+* Fixed pontikka becoming OS coin (issue [#6343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6343))
+
 ## Bazaar
 
 * Fixed slum grill selling pre-drank bottles (issue [#6335](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6335))
