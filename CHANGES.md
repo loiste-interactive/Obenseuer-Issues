@@ -74,6 +74,7 @@
 ## Items
 
 * Fixed pontikka becoming OS coin (issue [#6343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6343))
+* Fixed coke-coal (issue [#6352](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6352))
 
 ## Bazaar
 
