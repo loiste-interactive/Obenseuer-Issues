@@ -9,6 +9,7 @@
 * Fixed walking on water (issue [#6283](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6283))
 * Fixed the volume slider not affecting some NPC dialogue
 * Fixed console error and noticeable game freeze when sorting inventory (issue [#6344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6344))
+* Fixed not being able to cancel house electricity contract (issue [#6360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6360))
 
 ## Difficulty Settings
 
