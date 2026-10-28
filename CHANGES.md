@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 28th 2026 (Version 0.5.14) - Private Playtest
+
 * Additional loading time improvements (Thanks to ontrigger)
 * Added OS Power Company landmark
 * Some power hungry machines now consume less when idle
