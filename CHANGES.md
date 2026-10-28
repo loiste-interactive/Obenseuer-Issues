@@ -4,6 +4,7 @@
 * Added OS Power Company landmark
 * Some power hungry machines now consume less when idle
 * Changed volume sliders to display percentages instead of decibels
+* Changed owned stuff at Kurahaara Greenhouse and Hostel Wareholm to turn stolen once left premises (issue [#6368](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6368))
 * Fixed the inventory full sound repeatedly playing when moving items
 * Fixed blueberries and other berries giving weird items and item amounts when uprooted and harvested
 * Fixed hydroponics stuff missing icons
