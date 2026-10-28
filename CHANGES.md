@@ -48,6 +48,7 @@
 
 ## Tenement System
 
+* Added dialogue about getting an electricity contract when the player upgrades to Tier 2 electricity (issue [#6275](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6275))
 * Tenants now pay for their electricity usage
 * Fixed cumulative power consumption never being saved thus invoices never triggering
 * Fixed basement sauna upgrade pool waters
