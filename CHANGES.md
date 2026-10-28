@@ -57,6 +57,7 @@
 
 * Added dialogue about getting an electricity contract when the player upgrades to Tier 2 electricity (issue [#6275](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6275))
 * Added the ability to place guitar and moon stickers on walls (issue [#6361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6361))
+* Added light switches to the player's shop
 * Changed furniture from the player's apartment kitchen upgrades to be removable (issue [#6270](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6270))
 * Tenants now pay for their electricity usage
 * Fixed cumulative power consumption never being saved thus invoices never triggering
