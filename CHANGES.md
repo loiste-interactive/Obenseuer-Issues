@@ -90,6 +90,7 @@
 * Added Battery bank
 * Added Makeshift Barrel Sink Blueprint variant
 * Fixed small INFRA mousepad flipped upside down (issue [#6291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6291))
+* Fixed Distillation Kit and some other upgrades not applying bonus when loading back into scene (issue [#6324](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6324))
 
 ## Items
 
