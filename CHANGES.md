@@ -80,6 +80,7 @@
 * Added Big generator
 * Added Boot Scraper
 * Added Battery bank
+* Added Makeshift Barrel Sink Blueprint variant
 * Fixed small INFRA mousepad flipped upside down (issue [#6291](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6291))
 
 ## Items
