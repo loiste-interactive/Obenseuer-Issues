@@ -87,6 +87,7 @@
 ## Crafting
 
 * Fixed Bottled Moonshine having two qualities (issue [#6292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6292))
+* Fixed fullness of water containers affecting item quality when mashings (issue [#6285](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6285))
 
 ## Furniture
 
@@ -102,6 +103,7 @@
 
 * Fixed pontikka becoming OS coin (issue [#6343](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6343))
 * Fixed coke-coal (issue [#6352](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6352))
+* Fixed some empty containers geting liquid tags (issue [#6277](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6277))
 
 ## Bazaar
 
