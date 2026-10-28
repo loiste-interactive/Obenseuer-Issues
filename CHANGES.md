@@ -14,6 +14,7 @@
 * Fixed not being able to cancel house electricity contract (issue [#6360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6360))
 * Fixed guitar not playing riffs/songs on first click after equipped (issue [#6365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6365))
 * Fixed RM receipts have wrong item prices (issue [#6329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6329))
+* Fixed stack size settings affecting the number of items in spawned stacks (issue [#6356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6356))
 
 ## Difficulty Settings
 
