@@ -12,6 +12,7 @@
 * Fixed the volume slider not affecting some NPC dialogue
 * Fixed console error and noticeable game freeze when sorting inventory (issue [#6344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6344))
 * Fixed not being able to cancel house electricity contract (issue [#6360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6360))
+* Fixed guitar not playing riffs/songs on first click after equipped (issue [#6365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6365))
 
 ## Difficulty Settings
 
@@ -51,6 +52,7 @@
 ## Tenement System
 
 * Added dialogue about getting an electricity contract when the player upgrades to Tier 2 electricity (issue [#6275](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6275))
+* Added the ability to place guitar and moon stickers on walls (issue [#6361](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6361))
 * Tenants now pay for their electricity usage
 * Fixed cumulative power consumption never being saved thus invoices never triggering
 * Fixed basement sauna upgrade pool waters
