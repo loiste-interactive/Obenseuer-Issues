@@ -1,6 +1,7 @@
 # Upcoming
 
 * Additional loading time improvements (Thanks to ontrigger)
+* Added OS Power Company landmark
 * Some power hungry machines now consume less when idle
 * Changed volume sliders to display percentages instead of decibels
 * Fixed the inventory full sound repeatedly playing when moving items
