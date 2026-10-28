@@ -15,6 +15,7 @@
 * Fixed guitar not playing riffs/songs on first click after equipped (issue [#6365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6365))
 * Fixed RM receipts have wrong item prices (issue [#6329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6329))
 * Fixed stack size settings affecting the number of items in spawned stacks (issue [#6356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6356))
+* Fixed tilted camera when sitting down (issue [#6376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6376))
 
 ## Difficulty Settings
 
@@ -25,7 +26,7 @@
 
 * Added a hint about holding the button to plant or harvest multiple plants
 * The planting UI no longer appears when looking at plants, except freshly planted ones
-* Fixed planting leeks always yielding medicore results (issue [#6299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6299))
+* Fixed planting leeks always yielding mediocre results (issue [#6299](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6299))
 
 ## Controller
 
