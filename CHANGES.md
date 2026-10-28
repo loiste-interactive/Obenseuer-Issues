@@ -74,6 +74,7 @@
 * Fixed tenement heating tier I sawbuck lacking collisions (issue [#6332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6332))
 * Fixed player not getting electricity contract bills (issue [#6370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6370))
 * Fixed some tenement light switch issues (issue [#6369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6369))
+* Fixed being unable to turn on some devices even when having electricity (issue [#6307](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6307))
 
 ## Tasks
 
