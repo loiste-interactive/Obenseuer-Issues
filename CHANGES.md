@@ -17,6 +17,7 @@
 * Fixed stack size settings affecting the number of items in spawned stacks (issue [#6356](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6356))
 * Fixed tilted camera when sitting down (issue [#6376](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6376))
 * Fixed transparent bottles look filled with white liquid when they're stored in a container (issue [#6251](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6251))
+* Fixed dropping part of an item stack causing items to disappear from the stack (issue [#6108](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6108))
 
 ## Difficulty Settings
 
