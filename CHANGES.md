@@ -65,6 +65,7 @@
 * Fixed planting mode being visible while building mode is active (issue [#6304](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6304))
 * Fixed Crazy Teddy Bear spawn event happening on saves that don't have Crazy Neighbor selected (issue [#6225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6225))
 * Fixed tenement heating tier I sawbuck lacking collisions (issue [#6332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6332))
+* Fixed player not getting electricity contract bills (issue [#6370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6370))
 
 ## Tasks
 
