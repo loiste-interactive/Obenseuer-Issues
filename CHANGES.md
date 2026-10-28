@@ -40,6 +40,10 @@
 * Improved navigation in the tenement menu (issue [#4791](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4791))
 * Made other improvements to controller navigation
 
+## Furniture Crafting
+
+* Fixed crafting auto consume not working sometimes (issue [#6358](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6358))
+
 ## NPCs
 
 * Fixed Kössi Kelmi's attack not damaging the player
