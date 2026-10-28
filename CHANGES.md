@@ -13,6 +13,7 @@
 * Fixed console error and noticeable game freeze when sorting inventory (issue [#6344](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6344))
 * Fixed not being able to cancel house electricity contract (issue [#6360](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6360))
 * Fixed guitar not playing riffs/songs on first click after equipped (issue [#6365](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6365))
+* Fixed RM receipts have wrong item prices (issue [#6329](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6329))
 
 ## Difficulty Settings
 
