@@ -83,6 +83,10 @@
 * Fixed Pia not looking at the player in a certain scene
 * Fixed being able to unlock Pia Horn's balcony door from outside (issue [#6339](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6339))
 
+## Crafting
+
+* Fixed Bottled Moonshine having two qualities (issue [#6292](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6292))
+
 ## Furniture
 
 * Added Trailer generator
