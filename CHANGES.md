@@ -68,6 +68,7 @@
 * Fixed Crazy Teddy Bear spawn event happening on saves that don't have Crazy Neighbor selected (issue [#6225](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6225))
 * Fixed tenement heating tier I sawbuck lacking collisions (issue [#6332](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6332))
 * Fixed player not getting electricity contract bills (issue [#6370](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6370))
+* Fixed some tenement light switch issues (issue [#6369](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6369))
 
 ## Tasks
 
