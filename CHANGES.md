@@ -6,6 +6,7 @@
 ## Tenement System
 
 * Fixed player apartment becoming unexamined (issue [#6391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6391)) (Private Playtest)
+* Optimized the player's tenement when there are doors
 
 ## Recipes
 
