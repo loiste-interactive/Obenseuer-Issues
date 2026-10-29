@@ -5,6 +5,7 @@
 
 ## Tenement System
 
+* Changed furniture and items sometimes to be automatically moved to make way for renovations
 * Fixed player apartment becoming unexamined (issue [#6391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6391)) (Private Playtest)
 * Fixed overlapping text in the furniture purchasing menu (issue [#6395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6395))
 * Fixed the furniture selector disappearing when buying the last item in a category (issue [#4446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4446))
