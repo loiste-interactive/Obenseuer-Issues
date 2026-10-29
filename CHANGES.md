@@ -17,6 +17,7 @@
 ## O-Iron
 
 * O-Iron now sells handwheels
+* O-Iron now has plastic bags
 
 # October 28th 2026 (Version 0.5.14) - Private Playtest
 
