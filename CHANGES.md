@@ -6,6 +6,10 @@
 
 * Added empty petridish
 
+## Furniture
+
+* Added Makeshift Battery Bank
+
 # October 28th 2026 (Version 0.5.14) - Private Playtest
 
 * Additional loading time improvements (Thanks to ontrigger)
