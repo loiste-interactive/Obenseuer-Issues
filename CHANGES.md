@@ -1,5 +1,7 @@
 # Upcoming
 
+# October 29th 2026 (Version 0.5.15) - Private Playtest
+
 * Changed recipes to show the output icon on top of the recipe icon
 * Fixed batterybanks discharging with empty batteries (Private Playtest)
 
