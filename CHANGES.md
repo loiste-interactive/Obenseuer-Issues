@@ -15,6 +15,7 @@
 ## Furniture
 
 * Added Makeshift Battery Bank
+* Added the ability to place cats on the cat tree (issue [#5831](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5831))
 
 ## Blueprints
 
