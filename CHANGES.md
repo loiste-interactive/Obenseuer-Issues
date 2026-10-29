@@ -1,5 +1,6 @@
 # Upcoming
 
+* Changed recipes to show the output icon on top of the recipe icon
 * Fixed batterybanks discharging with empty batteries (Private Playtest)
 
 ## Tenement System
