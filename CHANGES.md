@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed batterybanks discharging with empty batteries 
+
 ## Recipes
 
 * Added empty petridish
