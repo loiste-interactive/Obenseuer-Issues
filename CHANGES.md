@@ -11,6 +11,10 @@
 * Fixed the furniture selector disappearing when buying the last item in a category (issue [#4446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4446))
 * Optimized the player's tenement when there are doors
 
+## Mining
+
+* Added some mining balance adjustments (issue [#5650](https://github.com/loiste-interactive/Obenseuer-Issues/issues/5650))
+
 ## Recipes
 
 * Added empty petridish
