@@ -6,6 +6,7 @@
 ## Tenement System
 
 * Fixed player apartment becoming unexamined (issue [#6391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6391)) (Private Playtest)
+* Fixed overlapping text in the furniture purchasing menu (issue [#6395](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6395))
 * Optimized the player's tenement when there are doors
 
 ## Recipes
