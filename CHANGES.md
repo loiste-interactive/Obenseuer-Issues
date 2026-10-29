@@ -1,6 +1,10 @@
 # Upcoming
 
-* Fixed batterybanks discharging with empty batteries 
+* Fixed batterybanks discharging with empty batteries (Private Playtest)
+
+## Tenement System
+
+* Fixed player apartment becoming unexamined (issue [#6391](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6391)) (Private Playtest)
 
 ## Recipes
 
