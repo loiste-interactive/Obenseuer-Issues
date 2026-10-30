@@ -1,5 +1,11 @@
 # Upcoming
 
+## Furniture
+
+* Fixed charging batteries going into negative (issue [#6417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6417))
+
+# October 30th 2026 (Version 0.5.16) - Public Playtest
+
 * Fixed power indicator bug (issue [#6402](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6402))
 * Fixed Trade Road reflections having the yellow hue again (issue [#6412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6412))
 * Fixed automatic typewriter (issue [#6415](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6415))
@@ -16,7 +22,6 @@
 ## Furniture
 
 * Fixed big generator title
-* Fixed charging batteris going into negative (issue [#6417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6417))
 
 ## Items
 
