@@ -16,6 +16,7 @@
 ## Furniture
 
 * Fixed big generator title
+* Fixed charging batteris going into negative (issue [#6417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6417))
 
 ## Items
 
