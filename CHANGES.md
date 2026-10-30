@@ -6,6 +6,7 @@
 ## Tenement System
 
 * Fixed player apartment extension lights not having power (issue [#6411](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6411))
+* Fixed the elevator light (issue [#6413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6413))
 
 ## Furniture
 
