@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Trade Road reflections having the yellow hue again (issue [#6412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6412))
+
 ## Furniture
 
 * Fixed big generator title
