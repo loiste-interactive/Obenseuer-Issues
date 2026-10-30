@@ -15,6 +15,10 @@
 
 * Fixed big generator title
 
+## Items
+
+* Fixed liquid being able to disappear from any stackable liquid containers (issue [#4628](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4628))
+
 ## Recipes
 
 * Fixed Empty petridish
