@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Fixed big generator title
+
 # October 29th 2026 (Version 0.5.15) - Public Playtest
 
 * Changed recipes to show the output icon on top of the recipe icon
