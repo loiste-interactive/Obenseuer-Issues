@@ -1,5 +1,9 @@
 # Upcoming
 
+# October 30th 2026 (Version 0.5.16 V2) - Public Playtest
+
+* Removed unfinished Open Sewer Quarantine scene
+
 ## Furniture
 
 * Fixed charging batteries going into negative (issue [#6417](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6417))
