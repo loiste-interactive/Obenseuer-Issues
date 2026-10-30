@@ -4,6 +4,10 @@
 
 * Fixed big generator title
 
+## Recipes
+
+* Fixed Empty petridish
+
 # October 29th 2026 (Version 0.5.15) - Public Playtest
 
 * Changed recipes to show the output icon on top of the recipe icon
