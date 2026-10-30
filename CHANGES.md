@@ -2,6 +2,10 @@
 
 * Fixed Trade Road reflections having the yellow hue again (issue [#6412](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6412))
 
+## Tenement System
+
+* Fixed player apartment extension lights not having power (issue [#6411](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6411))
+
 ## Furniture
 
 * Fixed big generator title
