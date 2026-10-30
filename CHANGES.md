@@ -8,6 +8,8 @@
 * Fixed player apartment extension lights not having power (issue [#6411](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6411))
 * Fixed the elevator light (issue [#6413](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6413))
 * Fixed items in Kalle Ketku's vendor inventory being marked as stolen when he's a tenant (issue [#6405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6405))
+* Fixed building placement system showing wrong furniture title sometimes (issue [#6396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6396))
+* Fixed courtyard tier 3-4 lights (issue [#6407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6407))
 
 ## Furniture
 
