@@ -10,6 +10,7 @@
 * Fixed items in Kalle Ketku's vendor inventory being marked as stolen when he's a tenant (issue [#6405](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6405))
 * Fixed building placement system showing wrong furniture title sometimes (issue [#6396](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6396))
 * Fixed courtyard tier 3-4 lights (issue [#6407](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6407))
+* Fixed ghost liquid trait duplication (issue [#4673](https://github.com/loiste-interactive/Obenseuer-Issues/issues/4673))
 
 ## Furniture
 
