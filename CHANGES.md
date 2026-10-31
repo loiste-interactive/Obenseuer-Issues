@@ -4,6 +4,7 @@
 * Fixed interest not compounding (issue [#6425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6425))
 * Fixed distilleries and else sometimes having miniscule amount of leftover liquids (issue [#6430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6430))
 * Fixed a bug in initializing saved time values
+* Fixed odd save related issue where time is not speeding up when trying to sleep (this also seems to affect magazines and etc) (issue [#6431](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6431))
 
 ## Recipes
 
