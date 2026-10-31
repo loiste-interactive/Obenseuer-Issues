@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed Electric Kiln having 9000 slots
+* Fixed interest not compounding (issue [#6425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6425))
 
 # October 30th 2026 (Version 0.5.16)
 
