@@ -6,6 +6,8 @@
 * Fixed a bug in initializing saved time values
 * Fixed odd save related issue where time is not speeding up when trying to sleep (this also seems to affect magazines and etc) (issue [#6431](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6431))
 * Fixed some rotting plants getting stuck to "Growing 0%" (issue [#6421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6421))
+* Fixed jail guard saying RM instead of OC (issue [#6440](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6440))
+* Made some adjustments to bribing (issue [#6440](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6440))
 
 ## Tenement System
 
