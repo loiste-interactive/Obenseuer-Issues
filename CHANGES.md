@@ -19,6 +19,10 @@
 
 * Fixed being able to ask Gustav about Jane after completing the task (issue [#6432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6432))
 
+## Elektroniks
+
+* Fixed electronics store not spawning stuff
+
 # October 30th 2026 (Version 0.5.16)
 
 * Removed unfinished Open Sewer Quarantine scene (Public Playtest)
