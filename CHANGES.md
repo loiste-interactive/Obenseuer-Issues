@@ -3,6 +3,7 @@
 * Fixed Electric Kiln having 9000 slots
 * Fixed interest not compounding (issue [#6425](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6425))
 * Fixed distilleries and else sometimes having miniscule amount of leftover liquids (issue [#6430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6430))
+* Fixed a bug in initializing saved time values
 
 ## Recipes
 
