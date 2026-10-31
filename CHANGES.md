@@ -5,6 +5,12 @@
 * Fixed distilleries and else sometimes having miniscule amount of leftover liquids (issue [#6430](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6430))
 * Fixed a bug in initializing saved time values
 * Fixed odd save related issue where time is not speeding up when trying to sleep (this also seems to affect magazines and etc) (issue [#6431](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6431))
+* Fixed some rotting plants getting stuck to "Growing 0%" (issue [#6421](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6421))
+
+## Tenement System
+
+* Fixed power meter cumulative stat not getting saved (issue [#6419](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6419))
+* Fixed some other issues with saving the tenement's power system
 
 ## Recipes
 
