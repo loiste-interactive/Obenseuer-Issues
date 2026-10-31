@@ -7,6 +7,10 @@
 
 * Reduced ore crushing times
 
+## Furniture
+
+* Fixed distillation kit having 30W of power usage (distillation mode)
+
 ## Tasks
 
 * Fixed being able to ask Gustav about Jane after completing the task (issue [#6432](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6432))
