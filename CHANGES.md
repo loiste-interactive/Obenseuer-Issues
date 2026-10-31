@@ -2,7 +2,7 @@
 
 * Fixed Electric Kiln having 9000 slots
 
-# October 30th 2026 (Version 0.5.16 V2)
+# October 30th 2026 (Version 0.5.16)
 
 * Removed unfinished Open Sewer Quarantine scene (Public Playtest)
 
