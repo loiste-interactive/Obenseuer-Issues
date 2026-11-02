@@ -6,6 +6,10 @@
 * Fixed casino and money exchange showing wrong rates and not refilling their funds properly (issue [#6450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6450))
 * Fixed not being able to rebound mouse keys to other controls in keybinding menu (issue [#6476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6476))
 
+## Tenement System
+
+* Fixed going off grid issues (issue [#6465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6465))
+
 ## Crafring
 
 * Fixed the UI not showing how much power crafting requires (issue [#6444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6444))
