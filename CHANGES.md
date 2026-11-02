@@ -1,5 +1,7 @@
 # Upcoming
 
+# November 2nd 2026 (Version 0.5.18) - Public Playtest
+
 * Added a separate affix for best possible quality (issue [#6471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6471))
 * Changed magazines and books to teach more likely recipes player don't know yet (issue [#6446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6446))
 * Fixed door being able to get locked while being open (issue [#6469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6469))
