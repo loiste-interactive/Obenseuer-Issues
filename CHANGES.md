@@ -12,8 +12,9 @@
 ## Tenement System
 
 * Fixed going off grid issues (issue [#6465](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6465))
+* Fixed duplicated furniture in the basement (issue [#6457](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6457))
 
-## Crafring
+## Crafting
 
 * Fixed the UI not showing how much power crafting requires (issue [#6444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6444))
 * Fixed distilleries and other equipment still sometimes having tiny amounts of leftover liquids
