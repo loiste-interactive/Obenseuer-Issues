@@ -1,5 +1,6 @@
 # Upcoming
 
+* Changed magazines and books to teach more likely recipes player don't know yet (issue [#6446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6446))
 * Fixed door being able to get locked while being open (issue [#6469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6469))
 
 ## Items
