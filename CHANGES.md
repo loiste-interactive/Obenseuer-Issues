@@ -1,5 +1,6 @@
 # Upcoming
 
+* Added a separate affix for best possible quality (issue [#6471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6471))
 * Changed magazines and books to teach more likely recipes player don't know yet (issue [#6446](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6446))
 * Fixed door being able to get locked while being open (issue [#6469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6469))
 * Fixed owned empty syringes without owners (issue [#6424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6424))
