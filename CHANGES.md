@@ -1,5 +1,9 @@
 # Upcoming
 
+## Items
+
+* Fixed stackable items getting better quality that they have (issue [#6470](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6470))
+
 ## Furniture
 
 * Fixed Trailer Generator not getting in the inventory after buying (issue [#6463](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6463))
