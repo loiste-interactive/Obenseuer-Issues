@@ -24,6 +24,7 @@
 ## NPCs
 
 * Fixed Welhö not disappearing when asked for Moonshine Co-op recommendation (issue [#6447](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6447))
+* Fixed NPCs not noticing the player is stealing items right in front of them
 
 ## Items
 
