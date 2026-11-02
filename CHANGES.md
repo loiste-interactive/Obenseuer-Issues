@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed Torsten alies Rosso (issue [#6482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6482))
+
 # November 2nd 2026 (Version 0.5.18) - Public Playtest
 
 * Added a separate affix for best possible quality (issue [#6471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6471))
