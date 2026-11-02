@@ -18,6 +18,7 @@
 * Fixed the UI not showing how much power crafting requires (issue [#6444](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6444))
 * Fixed distilleries and other equipment still sometimes having tiny amounts of leftover liquids
 * Fixed the liquid crafting icon (issue [#6449](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6449))
+* Fixed unused ingredients of the same type (like extra yeast strains) affecting crafting quality/time (issue [#6462](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6462))
 
 ## NPCs
 
