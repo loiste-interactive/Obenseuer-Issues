@@ -6,6 +6,7 @@
 * Fixed owned empty syringes without owners (issue [#6424](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6424))
 * Fixed casino and money exchange showing wrong rates and not refilling their funds properly (issue [#6450](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6450))
 * Fixed not being able to rebound mouse keys to other controls in keybinding menu (issue [#6476](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6476))
+* Fixed curtains turning planters from sun to moist on Load (issue [#6441](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6441))
 
 ## Tenement System
 
