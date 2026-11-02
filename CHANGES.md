@@ -30,6 +30,10 @@
 * Fixed Trailer Generator not getting in the inventory after buying (issue [#6463](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6463))
 * Fixed Big generator preview image showing trailer generator (issue [#6472](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6472))
 
+## Kolhola
+
+* Fixed unable to retrieve swapped item after swapping for guitar in Kolhola A7 (issue [#6196](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6196))
+
 # October 31st  2026 (Version 0.5.17) - Hotfix
 
 * Fixed Electric Kiln having 9000 slots
