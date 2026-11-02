@@ -1,5 +1,7 @@
 # Upcoming
 
+* Fixed door being able to get locked while being open (issue [#6469](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6469))
+
 ## Items
 
 * Fixed stackable items getting better quality that they have (issue [#6470](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6470))
