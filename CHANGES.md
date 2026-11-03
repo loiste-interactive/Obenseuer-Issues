@@ -1,5 +1,9 @@
 # Upcoming
 
+## Kino
+
+* Fixed trashcan ownership
+
 # November 3rd 2026 (Version 0.5.19)
 
 * Fixed Torsten alies Rosso (issue [#6482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6482))
