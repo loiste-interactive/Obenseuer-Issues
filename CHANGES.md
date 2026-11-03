@@ -1,5 +1,9 @@
 # Upcoming
 
+## Furniture
+
+* Adjusted coffee machine price
+
 ## Kino
 
 * Fixed trashcan ownership
