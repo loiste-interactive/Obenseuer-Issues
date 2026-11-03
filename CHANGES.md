@@ -2,6 +2,10 @@
 
 * Fixed Torsten alies Rosso (issue [#6482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6482))
 
+## Crafting
+
+* Fixed splitting ingredients across slots no longer changes crafting quality or time (issue [#6479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6479))
+
 # November 2nd 2026 (Version 0.5.18) - Public Playtest
 
 * Added a separate affix for best possible quality (issue [#6471](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6471))
