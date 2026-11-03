@@ -5,6 +5,7 @@
 ## Crafting
 
 * Fixed splitting ingredients across slots no longer changes crafting quality or time (issue [#6479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6479))
+* Fixed mashing tun/moonshine distillery fire lights staying illuminated after shutting off (issue [#6487](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6487))
 
 # November 2nd 2026 (Version 0.5.18) - Public Playtest
 
