@@ -2,6 +2,10 @@
 
 * Fixed Torsten alies Rosso (issue [#6482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6482))
 
+## NPCs
+
+* Fixed Olle Leino's lines making no sense after renting an apartment (issue [#6486](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6486))
+
 ## Crafting
 
 * Fixed splitting ingredients across slots no longer changes crafting quality or time (issue [#6479](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6479))
