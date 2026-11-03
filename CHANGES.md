@@ -1,6 +1,7 @@
 # Upcoming
 
 * Fixed Torsten alies Rosso (issue [#6482](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6482))
+* Fixed dialogue text, such as the Bazaar jail release announcement, not wrapping onto multiple lines (issue [#6484](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6484))
 
 ## NPCs
 
