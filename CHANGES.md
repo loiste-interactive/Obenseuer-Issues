@@ -1,5 +1,10 @@
 # Upcoming
 
+## Prison
+
+* Fixed the price to get out of prison being incorrectly displayed in OC in dialogue (issue [#6511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6511))
+* Fixed the bribe amount being incorrectly displayed in RM in dialogue
+
 ## Furniture
 
 * Adjusted coffee machine price
