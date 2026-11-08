@@ -9,6 +9,10 @@
 
 * Adjusted coffee machine price
 
+## Items
+
+* Added Chlorine
+
 ## Recipes
 
 * Added Disinfectant
