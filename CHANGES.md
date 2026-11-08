@@ -9,6 +9,10 @@
 
 * Adjusted coffee machine price
 
+## Recipes
+
+* Added Disinfectant
+
 ## Kino
 
 * Fixed trashcan ownership
