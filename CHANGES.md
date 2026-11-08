@@ -16,6 +16,7 @@
 ## Recipes
 
 * Added Disinfectant
+* Added Chlorine
 
 ## Kino
 
