@@ -19,6 +19,7 @@
 
 * Added Disinfectant
 * Added Chlorine
+* Added Stone block
 
 ## Kino
 
