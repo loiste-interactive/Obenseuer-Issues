@@ -13,6 +13,7 @@
 
 * Added Chlorine
 * Added Fuel rod
+* Added Stone block
 
 ## Recipes
 
