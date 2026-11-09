@@ -12,6 +12,7 @@
 ## Items
 
 * Added Chlorine
+* Added Fuel rod
 
 ## Recipes
 
