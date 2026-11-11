@@ -1,5 +1,7 @@
 # Upcoming
 
+* Ore veins now don't give (common) rocks.
+
 ## Prison
 
 * Fixed the price to get out of prison being incorrectly displayed in OC in dialogue (issue [#6511](https://github.com/loiste-interactive/Obenseuer-Issues/issues/6511))
